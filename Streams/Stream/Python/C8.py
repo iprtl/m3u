@@ -9,7 +9,7 @@ if len(sys.argv) == 2:
                 'https' : sys.argv[1]
               }
 
-na = 'https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/Offline.mp4'
+na = 'COLOCAR AQUI O VIDEO MP4'
 def grab(line):
     try:
         _id = line.split('/')[4]
