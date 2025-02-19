@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://bit.ly/InspirationFreetv1,https://bit.ly/EPGthomraider12gz,https://bit.ly/Brazilepg,https://bit.ly/Plutogz,https://bit.ly/Samsunggz" max-conn="150" refresh="24"
+#EXTM3U url-tvg="https://bit.ly/InspirationFreetv1,https://bit.ly/EPGthomraider12gz,https://bit.ly/Brazilepg,https://bit.ly/Plutogz,https://bit.ly/Samsunggz"
 
 
 # (🇬🇧) - It offers an IPTV Free playlist in M3U format, highlighting TV and radio channels essentially in Portuguese, Hispanic, North American and English channels. Also offering a list of channels from free streaming platforms, such as: (Pluto TV, SamsungTVPlus, Stirr, Plex, Roku, Rakuten, etc...)
@@ -133,6 +133,9 @@ https://bit.ly/46RyCcU?profile=inspirationFreetv.m3u8
 
 --- 📺 𝘼𝙇𝙏𝙀𝙍𝙉𝘼𝙏𝙞𝙑𝘼 🇵🇹
 
+#EXTINF:-1 cuid="517" tvg-chno="517" tvg-name="English Club TV 🇬🇧" tvg-id="English.Club.TV.pl" tvg-logo="https://github.com/inspirationlinks/m3u/raw/refs/heads/live/LogosTv/EnglishClubTV.webp" group-title="⬬ Portugal 🇵🇹",English Club TV ᶠᴴᴰ 🇬🇧
+http://iptv.prosto.tv:7000/ch206/video.m3u8
+
 #EXTINF:-1 cuid="72" tvg-chno="72" tvg-name="DarkFlix (cc 🇧🇷)" tvg-logo="https://d14vd6r4ppsx57.cloudfront.net/media/brand/DARK_FLIX_-_logo_-_soul_reduzido_1EoBqbu.png" group-title="⬬ Portugal 🇵🇹",DarkFlix (cc 🇧🇷)
 https://video01.soultv.com.br/darkflix/darkflix/index.m3u8
 
@@ -158,9 +161,6 @@ https://bit.ly/3uQwRzn?5f1ef1a8cec6be00072a7ac9.m3u8
 
 #EXTINF:-1 cuid="42" tvg-chno="42" tvg-name="AviaçãoTV" tvg-id="AviaçãoTV.pt" tvg-logo="https://raw.githubusercontent.com/thomraider12/icones_tv/main/aviaçãotv.png" group-title="⬬ Diversos 💡",AviaçãoTV 🇵🇹 (𝓑𝙮: thomraider12)
 https://ythls-v3.onrender.com/channel/UC0R-K3crhMX9jzswbmfIORw.m3u8
-
-#EXTINF:-1 cuid="39" tvg-chno="39" tvg-id="Record.pt" tvg-id="" group-title="⬬ Diversos 💡" tvg-logo="https://logo.iptveditor.com/record.png",TVRecord Mozambique (vᴘɴ 🇲🇿)
-http://api.new.livestream.com/accounts/21076186/events/6180705/live.m3u8
 
 #EXTINF:-1 cuid="39" tvg-chno="39" tvg-id="" tvg-logo="https://logo.iptveditor.com/canalmacau.png" group-title="⬬ Diversos 💡",Teledifusão de Macau 🇲🇴🇵🇹
 https://live5.tdm.com.mo/ch2/ch2.live/playlist.m3u8
@@ -560,6 +560,8 @@ https://is.gd/KGxtX7?60faf9ddfcc1f200070a5932.m3u8
 
 #EXTINF:-1 cuid="243" tvg-chno="251" tvg-name="Clan 🇪🇸" tvg-id="ESBC4100003WE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Tve_clan.png" group-title="⬬ Kids 🧒",Clan 🇪🇸
 https://d3nnqrdb77sy13.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-eimbp20cszixb/Clan_ES.m3u8
+#EXTINF:-1 cuid="243" tvg-chno="251" tvg-name="Clan 🇪🇸" tvg-id="Clan.TVE.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Tve_clan.png" group-title="⬬ Kids 🧒",Clan 🇪🇸
+https://ztnr.rtve.es/ztnr/5466990.m3u8
 
 #EXTINF:-1 cuid="243" tvg-chno="251" tvg-logo="https://logo.iptveditor.com/punt3.png" group-title="⬬ Kids 🧒",Punt 3 Vall Uxo 🇪🇸
 https://bit.controlstreams.com:5443/LiveApp/streams/punt3.m3u8
@@ -623,7 +625,6 @@ https://bit.ly/48lKogj?profile=6048fc47a44e540007745d2b.m3u8
 
 #EXTINF:-1 cuid="371" tvg-chno="371" tvg-name="" tvg-id="" tvg-logo="https://images.pluto.tv/channels/6048fc47a44e540007745d2b/colorLogoPNG.png" group-title="⬬ Brasil 🇧🇷",Rede Minas 🇧🇷
 http://hzcdn.vood.top/hls/274516_.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzgxOTUxOTksImlhdCI6MTczODEwODgwMCwibmJmIjoxNzM4MTA4ODAwLCJ1c2VyIjoiMjI4NDYzMzA4IiwidXNlckFnZW50IjoiTW96aWxsYS81LjAoWDExO0xpbnV4eDg2XzY0KUFwcGxlV2ViS2l0LzUzNy4zNihLSFRNTCxsaWtlR2Vja28pQ2hyb21lLzU3LjAuMjk4Ny4xMzNTYWZhcmkvNTM3LjM2IiwidXNlcklwIjoiMTg1LjIzNi4xODMuMTA3OjQyODAwIn0.Fa4SSr1H-rpF8RCC6xN57VuxWYm65wXP0xV_G_5gA-U&id=274647&p=m3u8&aid=1738147475
-
 
 #EXTINF:-1 cuid="368" tvg-chno="368" tvg-name="Curta! 🇧🇷" tvg-id="CURTA" tvg-logo="https://canalcurta.tv.br/assets/img/logo_canalcurta.png" group-title="⬬ Brasil 🇧🇷",Curta!ᶠᴴᴰ 🇧🇷
 http://authxplus-2.xyz:2082/Xplus-V3-nUpR0fNZGZ/w8Zqoplj9y/100
@@ -2709,11 +2710,17 @@ https://b9c1982ea06743cca84fc96bd88dad38.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 cuid="1252" tvg-chno="1250" tvg-name="Love Songs" tvg-id="619b80acac5329000740c022" tvg-logo="https://images.pluto.tv/channels/619b80acac5329000740c022/colorLogoPNG.png" group-title="⬬ Music 🎧",Love Songs
 https://bit.ly/3twVIny?profile=inspirationFreetv.m3u8
 
+#EXTINF:-1 cuid="1241" tvg-chno="1239" tvg-id="MELODY.TV.fr" group-title="⬬ Music 🎧" tvg-logo="https://logo.iptveditor.com/melody.png",Melody 🇫🇷
+https://live.creacast.com/telemelody/smil:telemelody-yjvCxE7x.smil/playlist.m3u8
+
 #EXTINF:-1 cuid="1283" tvg-chno="1281" tvg-name="Ocko Star 🇨🇿" tvg-logo="https://pbs.twimg.com/profile_images/3055217408/a5421a501ccfcc705c5ea69ff102b097_400x400.png" group-title="⬬ Music 🎧",Ocko Star 🇨🇿
 http://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_hq.m3u8?wmsAuthSign=Inspirationlivetv
 
 #EXTINF:-1 cuid="1217" tvg-chno="1215" tvg-name="XPTV 1" tvg-logo="https://players.rcast.net/uploads/images/202305/img_x300_646314ac954144-70583156-85346286.png" group-title="⬬ Music 🎧",XPTV 1
 https://janus.xpbroadcasting.com:8443/hls/xptv1.m3u8
+
+#EXTINF:-1 cuid="1282" tvg-chno="1280" tvg-name="Bom Channel" tvg-logo="https://logo.iptveditor.com/bomchannel.png" group-title="⬬ Music 🎧",Bom Channel 🇮🇹
+https://5f22d76e220e1.streamlock.net/canale6/canale6/playlist.m3u8
 
 #EXTINF:-1 cuid="1217" tvg-chno="1215" tvg-name="" tvg-logo="https://i.imgur.com/B8iaejQ.png" group-title="⬬ Music 🎧",Love tv 🇲🇰
 https://stream.nasatv.com.mk/lovetv/hls/lovetv_live.m3u8
@@ -2852,7 +2859,6 @@ https://stitcher.pluto.tv/stitch/hls/channel/623b93628e6ded0007337d4d/master.m3u
 
 #EXTINF:-1 cuid="1278" tvg-chno="1276" tvg-name="Deluxe Music 🇩🇪" tvg-id="DeluxeMusic.de" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/DeluxeMusic.webp" group-title="⬬ Music 🎧",Deluxe Music 🇩🇪
 http://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
-
 #EXTINF:-1 cuid="1279" tvg-chno="1277" tvg-name="Deluxe Winter Time 🇩🇪" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/DeluxeWinterTime.webp" group-title="⬬ Music 🎧",Deluxe Winter Timeᶠᴴᴰ 🇩🇪
 https://d2l1hs6hxlg3df.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-pb0nloqsgtwc2/index.m3u8
 
