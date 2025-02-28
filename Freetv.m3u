@@ -431,6 +431,9 @@ https://w2.manasat.com/kkids/smil:kkids.smil/playlist.m3u8
 #EXTINF:-1 cuid="185" tvg-chno="193" tvg-name="Rakuten Família 🇵🇹" tvg-id="6806" tvg-logo="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/6326899c-25c3-435b-b688-e98f67ab0a08.jpeg" group-title="⬬ Kids 🧒",Rakuten Família 🇵🇹
 https://48faa1daf24549fab34594bc5bdd99f2.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6213/master.m3u8
 
+#EXTINF:-1 cuid="185" tvg-chno="193" tvg-name="" tvg-id="" tvg-logo="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/6326899c-25c3-435b-b688-e98f67ab0a08.jpeg" group-title="⬬ Kids 🧒",KKTV 🇦🇴🇵🇹
+https://w1.manasat.com/ktv-angola/smil:ktv-angola.smil/playlist.m3u8
+
 #EXTINF:-1 cuid="188" tvg-chno="196" tvg-name="Patrulha Canina 🇧🇷" tvg-id="6495c7ad115d060008bf6df0" tvg-logo="https://images.pluto.tv/channels/6495c7ad115d060008bf6df0/colorLogoPNG.png" group-title="⬬ Kids 🧒",Patrulha Canina 🇧🇷
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6495c7ad115d060008bf6df0/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=inspirationiptv&deviceDNT=1
 
@@ -919,9 +922,6 @@ https://bcovlive-a.akamaihd.net/ba853de442c140b7b3dc020001597c0a/us-east-1/62458
 https://bcovlive-a.akamaihd.net/4e7f273ae0a04ad6b7d2e543df61e362/us-west-2/6240731308001/playlist.m3u8
 
 --- 📺 𝙁𝙧𝙖𝙣𝗰𝙚 𝘾𝙝𝙖𝙣𝙣𝙚𝙡𝙨 🇫🇷 
-
-#EXTINF:-1 cuid="548" tvg-chno="548" tvg-name="M6 🇫🇷" tvg-id="M6.fr" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/M%206.webp" group-title="⬬ França 🇫🇷",M6 🇫🇷
-https://live.tntdirect.tv/9CM2pADCxF/w5BA32MP6P/6.m3u8
 
 #EXTINF:-1 cuid="559" tvg-chno="559" tvg-name="Paris Premiere 🇫🇷" tvg-id="Paris Première.fr" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/ParisPremi%C3%A8re.webp" group-title="⬬ França 🇫🇷",Paris Premiere 🇫🇷
 http://gratuittv.free.fr/Files/parispremier/live/playlist.m3u8
@@ -3050,6 +3050,25 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=3023
 https://d2ijgfgrz03rvu.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-l5gypvhxzqytm/manifest/ose-155ads-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/2404b95366187c0bddde1972e40336e6.webp" group-title="Radio 📻",Stingray Hot Country
 https://d33l69tlyxnc6j.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-o1stobjejuzbx/manifest/ose-108ads-montreal/samsungtvplus/master.m3u8
+
+--- 📺 SoniCentric Relax
+
+#EXTINF:-1 cuid="" tvg-chno="0" tvg-name="" tvg-logo="https://a.jsrdn.com/hls/22801/island-escape/logo_20231219_214316_68.png" group-title="🔊 Channels SoniCentric",SoniCentric/Island Escape (Relax)
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/island-escape/master.m3u8
+#EXTINF:-1 cuid="" tvg-chno="0" tvg-name="" tvg-logo="https://a.jsrdn.com/hls/22801/fireplace-lounge/logo_20231219_201641_68.png" group-title="🔊 Channels SoniCentric",SoniCentric/Fireplace Lounge (Relax)
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/fireplace-lounge/master.m3u8
+#EXTINF:-1 cuid="" tvg-chno="0" tvg-name="" tvg-logo="https://a.jsrdn.com/hls/22801/relaxing-rain/logo_20231219_221332_68.png" group-title="🔊 Channels SoniCentric",SoniCentric/Relaxing Rain (Relax)
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/relaxing-rain/master.m3u8
+#EXTINF:-1 cuid="" tvg-chno="0" tvg-name="" tvg-logo="https://a.jsrdn.com/hls/22801/spring-escape/logo_20231219_222130_68.png" group-title="🔊 Channels SoniCentric",SoniCentric/Spring Escape (Relax)
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/spring-escape/master.m3u8
+#EXTINF:-1 cuid="" tvg-chno="0" tvg-name="" tvg-logo="https://a.jsrdn.com/hls/22801/tranquil-thunderstorms/logo_20231219_223555_68.png" group-title="🔊 Channels SoniCentric",SoniCentric/Tranquil Thunderstorms (Relax)
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/tranquil-thunderstorms/master.m3u8
+#EXTINF:-1 cuid="" tvg-chno="0" tvg-name="" tvg-logo="https://a.jsrdn.com/hls/22801/fish-tank/logo_20231219_201710_68.png" group-title="🔊 Channels SoniCentric",SoniCentric/Fish Tank (Relax)
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/fish-tank/master.m3u8
+#EXTINF:-1 cuid="" tvg-chno="0" tvg-name="" tvg-logo="https://a.jsrdn.com/hls/22801/relaxing-winterscapes/logo_20231219_221355_68.png" group-title="🔊 Channels SoniCentric",SoniCentric/Relaxing Winterscapes (Relax)
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/relaxing-winterscapes/master.m3u8
+#EXTINF:-1 cuid="" tvg-chno="0" tvg-name="" tvg-logo="https://a.jsrdn.com/hls/22801/autumn-escape/logo_20231219_184344_68.png" group-title="🔊 Channels SoniCentric",SoniCentric/Autumn Escape (Relax)
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/autumn-escape/master.m3u8
 
 --- 📺 💥 𝙀𝙍𝙊𝙏𝙞𝘾𝙊
 
