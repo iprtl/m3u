@@ -58,9 +58,9 @@ https://bit.ly/InspirationFreetv
 
 [👉 🖧 Download OTT v1.7.2.2](https://www.mediafire.com/file/a8jlok3z2ikep9r/OTT_Navigator_v1.7.2.2_Premium.apk/file)
 
-Depois de instalado, faça este Configuração, para ter a lista Inspiration Freetv no OTTNavigator.
+Depois de instalado, faça esta Configuração, para ter a lista Inspiration Freetv no OTTNavigator.
 
-⚙️ Configurações - Configurações adicionais - Backup e Restauração - Restaurar um backup de configuração feito anteriormente - inserir código: <b></b>xCYaL6</b> - Restaurar posição (Todos) - inserir senha <b> 123</b> - reiniciar aplicação.
+⚙️ Configurações - Configurações adicionais - Backup e Restauração - Restaurar um backup de configuração feito anteriormente - inserir código: <b>xCYaL6</b>  - Restaurar posição (Todos) - inserir senha <b> 123</b> - reiniciar aplicação.
 ---
 
 <a href='https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=B3EDBYK3LXSNS' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi2.png?v=3' border='0' alt='Buy Me a Coffee' /></a>
