@@ -92,15 +92,15 @@ https://production-fast-sic.content.okast.tv/fa2e8c4385712f9aa54bbe52b1bd9b6b/ch
 --- 📺 𝙏𝙑𝙡
 
 #EXTINF:-1 cuid="23" tvg-chno="23" tvg-name="TVI 🇵🇹" tvg-id="TVI.Internacional.pt" tvg-logo="https://logo.iptveditor.com/tviinternacional.png" group-title="⬬ Portugal 🇵🇹",TVI Internacionalᶠᴴᴰ 🇵🇹 
-https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yLzIwMjUgODo0MDoyIFBNJmhhc2hfdmFsdWU9SUFHbTBlalNzRllzcTJ1a1VwV01WZz09JnZhbGlkbWludXRlcz0xNDQwJmlkPTFmNTBmZDA1LTI2NTAtNGU4NC1iZDYzLTcyMjQ4NzEwYmJhNA==/
+https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8zLzIwMjUgMjo5OjI2IEFNJmhhc2hfdmFsdWU9bEg0UDhOY3JrYjNhVWlJZlZvL2loZz09JnZhbGlkbWludXRlcz0xNDQwJmlkPWNlOTNkNDVjLWFjZWYtNGVjZS05YzViLTVjOTRmNmVhMWIzNg==/
 
 #EXTINF:-1 cuid="26" tvg-chno="26" tvg-name="TVI 🇵🇹" tvg-id="TVI HD.pt" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/tvi.webp" group-title="⬬ Portugal 🇵🇹",TVI 🇵🇹
-https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yLzIwMjUgODo0MDowIFBNJmhhc2hfdmFsdWU9ZWdleEtVdmNMN09EUHJ4Mm9HYVZmZz09JnZhbGlkbWludXRlcz0xNDQwJmlkPWE2MWQ1MGQ3LTExMzctNDM1ZC05ZjJlLTZlNzYwOTEyZjY0Ng==/
+https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8zLzIwMjUgMjo5OjI0IEFNJmhhc2hfdmFsdWU9WFcwam5GVE1IKzEwcGZLY2d1Rlh2dz09JnZhbGlkbWludXRlcz0xNDQwJmlkPWIxMzRlYThkLWM2ZDgtNDUyOS1iMzMwLTI0ZWJjYWQ1OGJiOQ==/
 #EXTINF:-1 cuid="25" tvg-chno="25" tvg-name="TVI 🇵🇹" tvg-id="TVI HD.pt" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/tvi.webp" group-title="⬬ Portugal 🇵🇹",TVI 🇵🇹
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tvipt/sh/tvi.m3u8
 
 #EXTINF:-1 cuid="28" tvg-chno="28" tvg-name="CNN Portugal 🇵🇹" tvg-id="CNN Portugal HD.pt" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/CNNPortugal.webp" group-title="⬬ Portugal 🇵🇹",CNN Portugal 🇵🇹
-https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yLzIwMjUgODo0MDoxIFBNJmhhc2hfdmFsdWU9VXEyb1BYRGd6NEFDcEZVZGZQaXE0UT09JnZhbGlkbWludXRlcz0xNDQwJmlkPTJjMzQ4Y2Q4LTIwY2YtNGY2OC1iYjcxLTc3YWIyZWY5NjJlZQ==/
+https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8zLzIwMjUgMjo5OjI1IEFNJmhhc2hfdmFsdWU9ZG9ac3hhUzNISXlWN0ZnSFRVSVduUT09JnZhbGlkbWludXRlcz0xNDQwJmlkPWEzY2ZiNTFlLWNlN2QtNDQyOS1hNmFhLTAzNzY3M2U2MDY0YQ==/
 #EXTINF:-1 cuid="27" tvg-chno="27" tvg-name="CNN Portugal 🇵🇹" tvg-id="CNN Portugal HD.pt" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/CNNPortugal.webp" group-title="⬬ Portugal 🇵🇹",CNN Portugal 🇵🇹
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tvipt/sh/cnnpt.m3u8
 
