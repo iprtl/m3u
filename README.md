@@ -59,7 +59,8 @@ https://bit.ly/InspirationFreetv
 [👉 🖧 Download OTT v1.7.2.2](https://www.mediafire.com/file/a8jlok3z2ikep9r/OTT_Navigator_v1.7.2.2_Premium.apk/file)
 
 Depois de instalado, faça esta Configuração, para ter a lista Inspiration Freetv no OTTNavigator.
-Backup:código xCYaL6 | Password: 654321
+
+Backup: xCYaL6 | Password: 123
 ```bash
 ⚙️ Configurações > Configurações adicionais > Backup e Restauração > Restaurar um backup de configuração feito anteriormente > inserir código xCYaL6 > Restaurar posição (Todos) > inserir senha 123 > reiniciar aplicação.
 ```
