@@ -151,22 +151,29 @@ https://bit.ly/3gejKxf?profile=inspirationFreetv.m3u8
 #EXTINF:-1 cuid="31" tvg-chno="31" tvg-name="TVI África 🇵🇹" tvg-id="tvi.africa.pt" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/tvi%C3%81frica.webp" group-title="🅵 Portugal 🇵🇹|☆ Generalistas 🇵🇹",TVI África 🇵🇹
 https://video-auth4.iol.pt/live_tvi_africa/live_tvi_africa/edge_servers/tviafrica-480p/playlist.m3u8
 
-#EXTINF:-1 cuid="32" tvg-chno="32" tvg-name="TVI Reality 🇵🇹" tvg-id="TVI Reality HD.pt" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/tviReality.webp" group-title="🅵 Portugal 🇵🇹|☆ Secret Story 🇵🇹🇫🇷🇨🇦",TVI Reality 🇵🇹
+#EXTINF:-1 cuid="32" tvg-chno="32" tvg-name="TVI Reality 🇵🇹" tvg-id="TVI Reality HD.pt" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/tviReality.webp" group-title="🅵 Portugal 🇵🇹|☆ Secret Story 👁️",TVI Reality 🇵🇹
 https://video-auth5.iol.pt/live_tvi_reality/live_tvi_reality/edge_servers/tvireality-720_passthrough/playlist.m3u8
 
 --- 📺 𝙊𝙐𝙏𝙍𝙊𝙎 🇵🇹
 
-#EXTINF:-1 cuid="36" tvg-chno="36" tvg-name="Big Brother 🇨🇦" tvg-id="655f30c19d5ac4000816e9b3" tvg-logo="https://images.pluto.tv/channels/655f30c19d5ac4000816e9b3/colorLogoPNG.png" group-title="🅵 Portugal 🇵🇹|☆ Secret Story 🇵🇹🇫🇷🇨🇦",Big Brother 🇨🇦
+#EXTINF:-1 cuid="" tvg-chno="228" tvg-name="RCN La Casa de los Famosos 🇨🇴" tvg-logo="https://imagenes.noticiasrcn.com/cms/2025/02/03145405/cambio-de-horario-de-la-casa-de-los-famosos-colombia-2025-el-martes-4-de-febrero-de-2025.webp" group-title="🅵 Portugal 🇵🇹|☆ Secret Story 👁️",RCN La Casa de los Famosos 🇨🇴
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=9x00jGMEZyAByQSoTbvKFghTycOw1rxBgwdVLZKLHtw6HFn8cU7V5w==
+https://362a33c2a385d7d1e52d89d157b8d9ceaa1a98dd.cdn.broadpeak.io/out/v1/27a009aa04ac46ff9d4dcc1a036b0835/index.mpd
+
+#EXTINF:-1 cuid="36" tvg-chno="36" tvg-name="Big Brother 🇨🇦" tvg-id="655f30c19d5ac4000816e9b3" tvg-logo="https://images.pluto.tv/channels/655f30c19d5ac4000816e9b3/colorLogoPNG.png" group-title="🅵 Portugal 🇵🇹|☆ Secret Story 👁️",Big Brother 🇨🇦
 https://is.gd/cUIhZT?655f30c19d5ac4000816e9b3.m3u8
 
-#EXTINF:-1 cuid="37" tvg-chno="37" tvg-name="Secret Story 🇫🇷" tvg-id="FRBC3300008XK" tvg-logo="https://photos.tf1.fr/0/40/logo-chaine-secret-story-3935ed-01c0f2-0@3x.png" group-title="🅵 Portugal 🇵🇹|☆ Secret Story 🇵🇹🇫🇷🇨🇦",Secret Storyᶠᴴᴰ 🇫🇷
+#EXTINF:-1 cuid="37" tvg-chno="37" tvg-name="Secret Story 🇫🇷" tvg-id="FRBC3300008XK" tvg-logo="https://photos.tf1.fr/0/40/logo-chaine-secret-story-3935ed-01c0f2-0@3x.png" group-title="🅵 Portugal 🇵🇹|☆ Secret Story 👁️",Secret Storyᶠᴴᴰ 🇫🇷
 https://d3c70waf14qui9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-qt977i5mpmr0b-ssai-prd/master.m3u8
-#EXTINF:-1 cuid="38" tvg-chno="38" tvg-name="Secret Story 🇫🇷" tvg-id="FRBC3300008XK" tvg-logo="https://photos.tf1.fr/0/40/logo-chaine-secret-story-3935ed-01c0f2-0@3x.png" group-title="🅵 Portugal 🇵🇹|☆ Secret Story 🇵🇹🇫🇷🇨🇦",Secret Story 🇫🇷
+#EXTINF:-1 cuid="38" tvg-chno="38" tvg-name="Secret Story 🇫🇷" tvg-id="FRBC3300008XK" tvg-logo="https://photos.tf1.fr/0/40/logo-chaine-secret-story-3935ed-01c0f2-0@3x.png" group-title="🅵 Portugal 🇵🇹|☆ Secret Story 👁️",Secret Story 🇫🇷
 https://raw.githubusercontent.com/schumijo/iptv/main/playlists/mytf1/garder-son-secret-a-tout-prix.m3u8
 
 ---
 
-#EXTINF:-1 cuid="39" tvg-chno="39" tvg-name="Porto Canal 🇵🇹" tvg-id="Porto Canal HD.pt" tvg-logo="https://logo.iptveditor.com/portocanal.png" group-title="🅵 Portugal 🇵🇹|☆ Generalistas 🇵🇹",Porto Canal 🇵🇹
+#EXTINF:-1 cuid="39" tvg-chno="39" tvg-name="Porto Canal 🇵🇹" tvg-id="Porto Canal HD.pt" tvg-logo="https://logo.iptveditor.com/portocanal.png" group-title="🅵 Portugal 🇵🇹|☆ Generalistas 🇵🇹",Porto Canal ⚽️ 🇵🇹
 https://pull-live-156-1.global.ssl.fastly.net/pc5865dc25400thmb-ea6bf03b14fa318f7133/smil:pc1-jhrgyuoqe5865db-68tkgb14fa318f7133f03.smil/playlist.m3u8
 
 #EXTINF:-1 cuid="40" tvg-chno="40" tvg-name="Euronews 🇵🇹" tvg-id="Euronews.pt" tvg-logo="https://pt.euronews.com/favicon-192x192.png" group-title="🅵 News 🌍|☆ Canais 🇵🇹🇧🇷",Euronews 🇵🇹
@@ -1329,8 +1336,13 @@ http://wms.shared.streamshow.it/italia2/mp4:italia2/playlist.m3u8
 
 --- 📺 𝙉𝙤𝙫𝗲𝙡𝙖𝙨 𝘾𝙝𝙖𝙣𝙣𝙚𝙡𝙨 🇧🇷🇲🇽
 
+#EXTINF:-1 cuid="" tvg-chno="248" tvg-name="TNT Novelas ᶠᴴᴰ 🇧🇷" tvg-id="TNTNOVELAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/Logo_TNT_Novelas.png" group-title="🅵 Novelas|☆ Canais 🇧🇷",TNT Novelas ᶠᴴᴰ 🇧🇷
+https://lvstr.cfd/tntnovelas/index.m3u8
+
 #EXTINF:-1 cuid="492" tvg-chno="492" tvg-name="TV Novelas 🇧🇷" tvg-id="" tvg-logo="https://cdn-01.watch4.com/01/1720620990_wedo-amor_red_logo.png" group-title="🅵 Novelas|☆ Canais 🇧🇷",Wedo tv Amor 🇧🇷
 https://video-solutions-ag-anacarolina-1-br.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 cuid="492" tvg-chno="492" tvg-name="TV Novelas 🇧🇷" tvg-id="" tvg-logo="https://cdn-01.watch4.com/01/1720620990_wedo-amor_red_logo.png" group-title="🅵 Novelas|☆ Canais 🇧🇷",Wedo tv Amor 🇧🇷
+https://video-solutions-ag-anacarolina-1-br.tcl.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 cuid="392" tvg-chno="392" tvg-name="" tvg-id="BRBD1700009UV" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/BRBD1700009UV_20241211T010004SQUARE.png" group-title="🅵 Novelas|☆ Canais 🇧🇷",Malhação Fast 🇧🇷
 https://cc-b6t4lda8x3u3t.akamaized.net/Globo/Malhacao_Fast_BR/Malhacao_Fast.m3u8
@@ -1342,6 +1354,9 @@ https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f512365abe1f50007d3f
 https://cis-no-samsung.otteravision.com/cis/no/no_h265.m3u8
 #EXTINF:-1 cuid="493" tvg-chno="493" tvg-name="Novelisima 🇧🇷" tvg-id="BRBB4100006E9" tvg-logo="https://play-lh.googleusercontent.com/_UxyN3kvZpoAYKdJqAauf73K4_eShG0gZNT_UHT2E1jkIabNL7x3bv7bEm2tyIQCUVEB=w0" group-title="🅵 Novelas|☆ Canais 🇧🇷",Novelisima 🇧🇷
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2380
+
+#EXTINF:-1 cuid="" tvg-chno="250" tvg-name="Olha TV 🇧🇷" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/691b0f91b686da209bb5b9b1b824ffa8.webp" group-title="🅵 Novelas|☆ Canais 🇧🇷",Olha TV 🇧🇷
+http://24.152.8.38:5001/live/olhatv/index.m3u8
 
 --- 🇲🇽
 
@@ -2715,6 +2730,15 @@ https://ssc-extra3-ak.akamaized.net/out/v1/8f1c6c3f05ef4284a64b342891bd85ae/inde
 
 --- 📺 𝙁𝙧𝙚𝙚 𝙎𝗽𝙤𝗿𝙩𝙨 𝙎𝙩𝙧𝙚𝙖𝙢𝙞𝙣𝙜 
 
+#EXTINF:-1 cuid="" tvg-chno="190" tvg-name="W-Sport 🇺🇸" tvg-id="W-Sport.pt" tvg-logo="https://cm-inter.xyz/Logos/logo2nd.png" group-title="🅵 Desporto|☆ Canais 🇬🇧🇺🇸",W-Sport 🇺🇸
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=706172616d6f756e7430303030303030:da2faf628a7e2bda68d12ae2da12b93c
+https://cdn08jtedge.indihometv.com/dassdvr/133/paramount/manifest.mpd
+#EXTINF:-1 cuid="" tvg-chno="191" tvg-name="W-Sport 🇺🇸" tvg-id="W-Sport.pt" tvg-logo="https://logo.iptveditor.com/wsport.png" group-title="🅵 Desporto|☆ Canais 🇬🇧🇺🇸",W-Sport 🇺🇸
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/98&f=.m3u8
+
 #EXTINF:-1 cuid="971" tvg-chno="971" tvg-name="MUTV 🇬🇧" tvg-id="MUTV.HD.uk" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/MUTV.webp" group-title="🅵 Desporto|☆ Canais 🇬🇧🇺🇸",MUTV 🇬🇧
 https://bit.ly/3FTAN4y?profile=inspirationFreetv.m3u8
 #EXTINF:-1 cuid="972" tvg-chno="972" tvg-name="MUTV 🇬🇧" tvg-id="MUTV.HD.uk" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/MUTV.webp" group-title="🅵 Desporto|☆ Canais 🇬🇧🇺🇸",MUTV 🇬🇧
@@ -3045,6 +3069,12 @@ http://100automoto.tv:1935/bgtv1/autotv/chunklist_w783411174.m3u8
 
 --- 📺 𝙎𝗽𝙤𝗿𝙩𝙨 𝙍𝙖𝙙𝙞𝙘𝙖𝙡 🏄⛷️🏂
 
+#EXTINF:-1 cuid="" tvg-chno="192" tvg-name="GE Fast" tvg-logo="https://imgur.com/0q6qsui.png" group-title="🅵 Desporto|☆ Radicais 🏄⛷️",GE Fast
+https://cc-huzqc47g60md7.akamaized.net/Globo/GE_Fast_BR/GE_Fast.m3u8
+
+#EXTINF:-1 cuid="" tvg-chno="200" tvg-name="Woohoo" tvg-id="WOOHOO" tvg-logo="https://logo.iptveditor.com/woohoo.png" group-title="🅵 Desporto|☆ Radicais 🏄⛷️",WOOHOO Surf 🇧🇷
+https://live01.woohoo.cportal.com.br/WhFAST/HLS/stream.m3u8
+
 #EXTINF:-1 cuid="1158" tvg-chno="1158" tvg-name="Extreme+ 🇺🇸" tvg-logo="https://media.unreel.me/prod/sportsplus/logo/d6f7b3b0-db1f-4ab9-af8c-1e822cbc18e1" group-title="🅵 Desporto|☆ Radicais 🏄⛷️",Extreme+ 🇺🇸
 https://d1j5f4s4o1u3r4.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/ExtremePlus-Dooya-SportsTribal/276.m3u8
 
@@ -3053,6 +3083,12 @@ https://d3i87cms5m5yjq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 
 #EXTINF:-1 cuid="648" tvg-chno="648" tvg-name="Nautical Channel 🇺🇸" tvg-id="Nautical.Channel.pt" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_l-UCLjlC3fh-KPfXMiAwI4DhchBLQIeJXS4_Uo64aCq2Q=s900-c-k-c0x00ffffff-no-rj" group-title="🅵 Desporto|☆ Radicais 🏄⛷️",Nautical Channel 🇺🇸
 https://streams2.sofast.tv/ptnr-stirr/genre-Sports/lang-English/ctgr-Sport/title-Nautical_TV/vglive-sk-231198/index_4.m3u8
+
+#EXTINF:-1 cuid="" tvg-chno="199" tvg-name="Canal Off 🇧🇷" tvg-id="OFF" tvg-logo="https://logo.iptveditor.com/canaloff.png" group-title="🅵 Desporto|☆ Radicais 🏄⛷️",Canal Off 🇧🇷
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
+#EXTVLCOPT:http-origin=https://embedstream.org/
+#EXTVLCOPT:http-referrer=https://embedstream.org/
+https://livst.site/canaloff/index.m3u8
 
 #EXTINF:-1 cuid="" tvg-chno="1160" tvg-name="Fuel tv (cc 🇧🇷)" tvg-id="Fuel.TV.HD.pt" tvg-logo="https://provider-static.plex.tv/6/epg/channels/logos/gracenote/6d37acb509ed72b6cc59cdb32828cbc0.png" group-title="🅵 Desporto|☆ Radicais 🏄⛷️",Fuel tvᶠᴴᴰ (cc 🇧🇷)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01074-fueltv-fueltvbr-samsungbr/playlist.m3u8
@@ -3099,6 +3135,9 @@ https://surfchannel-surfchannel-01-es.samsung.wurl.tv/playlist_1920x1080_4200k.m
 https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991249
 
 --- 📺  𝘾𝙤𝙢𝘽𝙖𝙩 𝘾𝙝𝙖𝙣𝙣𝙚𝙡𝙨 (Ufc Fight Box and Wrestling) 🥊 
+
+#EXTINF:-1 cuid="" tvg-chno="197" tvg-name="Fight box 🇺🇸" tvg-id="FightBox.cz" tvg-logo="https://logo.iptveditor.com/fightbox.png" group-title="🅵 Desporto|☆ Combat & Box 🥊",FightBox ᶠᴴᴰ 🇺🇸
+http://88.212.15.19/live/test_fightbox_medium_atk/playlist.m3u8
 
 #EXTINF:-1 cuid="1174" tvg-chno="1174" tvg-name="" tvg-id="GBBD30000038U" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD30000038U_20240214T034906SQUARE.png_20240214034907.png" group-title="🅵 Desporto|☆ Combat & Box 🥊",DAZN Ringside 🇺🇸 🥊
 https://live-manifest.production-public.tubi.io/live/656fc320-a76f-4be3-9b0d-50bc42fa59dd/playlist.m3u8
