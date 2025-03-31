@@ -43,7 +43,6 @@
 ```bash
 https://bit.ly/InspirationFreetv
 ```
-
 ---
 
 ### 📺📱 OTT Navigator IPTV Para Sistema Android
@@ -61,7 +60,18 @@ Backup: xCYaL6 | Password: 123
 ⚙️ Configurações > Configurações adicionais > Backup e Restauração > Restaurar um backup de configuração feito anteriormente > inserir código xCYaL6 > Restaurar posição (Todos) > inserir senha 123 > reiniciar aplicação.
 ```
 ---
+### 📢 Este espaço é da unicamente responsabilidade de Iptv Top Tuga!!!
 
+### 📺📱 Serviço IPTV by ITTuga
+
+![Best Iptv Tuga](/LogosTv/ott.jpg "Best Iptv Tuga")
+
+[💬👉 Telegram](https://t.me/Ittuga)
+
+
+Estamos a trabalhar no intuito de melhorar o serviço com mais variedades de conteúdo, Temáticas e opções. Tudo a pensar em si.
+Já disponível secção de Exclusivo, canais de filmes 24h legendados em 🇵🇹. E categoria de Cinema em Casa (VOB).
+---
 <a href='https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=B3EDBYK3LXSNS' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi2.png?v=3' border='0' alt='Buy Me a Coffee' /></a>
 
 ## ⭐ GitHub stars
