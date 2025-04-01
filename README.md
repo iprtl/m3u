@@ -64,7 +64,6 @@ Backup: xCYaL6 | Password: 123
 
 ### 📺📱 Serviço IPTV by ITTuga
 
-![Best Iptv pars os Pobres](/LogosTv/ott.jpg "Best Iptv Tuga")
 [![Best Iptv pars os Pobres](https://od.lk/s/NjBfMTc1NDIyNzgzXw/TVPobres1.webp)](https://t.me/Ittuga)
 
 [💬👉 Telegram](https://t.me/Ittuga)
