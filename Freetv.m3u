@@ -1235,12 +1235,12 @@ https://rtvelivestream.akamaized.net/rtvesec/int/tvei_eu_main_dvr.m3u8
 #EXTINF:-1 cuid="" tvg-chno="655" tvg-name="tve Internacional 🇪🇸" tvg-id="TVEi.pt" tvg-logo="https://logo.iptveditor.com/tveinternacional.png" group-title="🆁 Espanha 🇪🇸",tve Internacional 🇪🇸
 http://78.128.125.60:9981/play/a00o/index.m3u8
 
-#EXTINF:-1 cuid="" tvg-chno="656" tvg-name="La 1 🇪🇸 (SamsungTvPlus)" tvg-id="LA.1.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/1148px-Logo_TVE-1.svg.png" group-title="🆁 Espanha 🇪🇸",La 1 🇪🇸 (SamsungTvPlus)
+#EXTINF:-1 cuid="" tvg-chno="656" tvg-name="La 1 🇪🇸" tvg-id="LA.1.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/1148px-Logo_TVE-1.svg.png" group-title="🆁 Espanha 🇪🇸",La 1 🇪🇸 [sᴀᴍsυɴɢᴛᴠᴘʟυs]
 https://dh6vo1bovy43s.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-x3gcl32l5ffq2/La_1_ES.m3u8
 #EXTINF:-1 cuid="" tvg-chno="657" tvg-name="La 1 ᶠᴴᴰ 🇪🇸" tvg-id="LA.1.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/1148px-Logo_TVE-1.svg.png" group-title="🆁 Espanha 🇪🇸",La 1 ᶠᴴᴰ 🇪🇸
 https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main_dvr.m3u8
 
-#EXTINF:-1 cuid="" tvg-chno="658" tvg-name="La 2 ᶠᴴᴰ 🇪🇸 (SamsungTvPlus)" tvg-id="LA.2.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Logo_TVE-2.svg/1900px-Logo_TVE-2.svg.png" group-title="🆁 Espanha 🇪🇸",La 2 ᶠᴴᴰ 🇪🇸 (SamsungTvPlus)
+#EXTINF:-1 cuid="" tvg-chno="658" tvg-name="La 2 ᶠᴴᴰ 🇪🇸" tvg-id="LA.2.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Logo_TVE-2.svg/1900px-Logo_TVE-2.svg.png" group-title="🆁 Espanha 🇪🇸",La 2 ᶠᴴᴰ 🇪🇸 [sᴀᴍsυɴɢᴛᴠᴘʟυs]
 https://di2qeq48iv8ps.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-o8u23e6v7vptv/La_2_ES.m3u8
 #EXTINF:-1 cuid="" tvg-chno="659" tvg-name="La 2 ᶠᴴᴰ 🇪🇸" tvg-id="LA.2.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Logo_TVE-2.svg/1900px-Logo_TVE-2.svg.png" group-title="🆁 Espanha 🇪🇸",La 2 ᶠᴴᴰ 🇪🇸
 https://rtvelivestream.akamaized.net/rtvesec/la2/la2_main_dvr.m3u8
