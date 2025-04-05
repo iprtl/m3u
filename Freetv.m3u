@@ -259,7 +259,7 @@ https://bit.ly/3uQwRzn?5f1ef1a8cec6be00072a7ac9.m3u8
 #EXTINF:-1 cuid="40" tvg-chno="40" tvg-id="" tvg-logo="https://logo.iptveditor.com/canalmacau.png" group-title="🆁 Portugal 🇵🇹🇲🇴🇲🇿",Teledifusão de Macau 🇲🇴🇵🇹
 https://live5.tdm.com.mo/ch2/ch2.live/playlist.m3u8
 
-#EXTINF:-1 cuid="39" tvg-chno="39" tvg-id="TVM.HD.mt" tvg-name="" tvg-logo="https://tvm.co.mz/templates/templatetvmmain/favicon.ico" group-title="🆁 Portugal 🇵🇹🇲🇴🇲🇿🇲🇴🇲🇿",TV Moçambique 🇲🇴
+#EXTINF:-1 cuid="39" tvg-chno="39" tvg-id="TVM.HD.mt" tvg-name="" tvg-logo="https://tvm.co.mz/templates/templatetvmmain/favicon.ico" group-title="🆁 Portugal 🇵🇹🇲🇴🇲🇿",TV Moçambique 🇲🇿
 http://196.28.226.121:1935/live/smil:Channel1.smil/chunklist_w695546362_b714000_slpor.m3u8
 
 #EXTINF:-1 cuid="185" tvg-chno="193" tvg-name="" tvg-id="" tvg-logo="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/6326899c-25c3-435b-b688-e98f67ab0a08.jpeg" group-title="🆁 Kids 🇧🇷🇵🇹 🧒",KKTV 🇲🇿🇵🇹
@@ -1327,6 +1327,8 @@ https://rcntv-rcnmas-1-us.roku.wurl.tv/playlist.m3u8
 
 --- 📺  𝙈𝙚𝐱𝙞𝙘𝙤 𝘾𝙝𝙖𝙣𝙣𝙚𝙡𝙨 🇨🇺🇲🇽🇺🇾
 
+
+
 #EXTINF:-1 cuid="41" tvg-chno="41" tvg-id="Cubavisión.Internacional.pt" tvg-name="Cubavisión TV" tvg-logo="https://logo.iptveditor.com/cubavisionint.png" group-title="🆁 Hispânicos 🇨🇺🇨🇴🇲🇽",Cubavisión TV Internacional 🇨🇺
 #EXTVLCOPT:http-referrer=https://teveo.cu/live/video/AKDdWvMTYzfsfnNJ/embed?auto=true
 https://cdn.teveo.cu/live/video/A36pWmuWvZBQskuZ/ngrp:gppfydfzpSUn9Udy.stream/playlist.m3u8
@@ -1992,199 +1994,199 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01468-lifeminutetv-lifeminutetv-lga
 
 --- 📺 𝙎𝙚𝙧𝙞𝗲𝙨 & 𝙏𝙫 𝙎𝙝𝙤𝙬𝙨
 
-#EXTINF:-1 cuid="687" tvg-chno="687" tvg-name="Conan O'Brien TV" tvg-id="GB300001QO" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB300001QO_20240319T052351SQUARE.png" group-title="🆁 English 🇬🇧🇺🇸|☆ Tv Shows",Conan O'Brien TVᶠᴴᴰ 🇺🇸
+#EXTINF:-1 cuid="687" tvg-chno="687" tvg-name="Conan O'Brien TV" tvg-id="GB300001QO" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB300001QO_20240319T052351SQUARE.png" group-title="🆁 English Movies 🇬🇧🇺🇸|☆ Tv Shows",Conan O'Brien TVᶠᴴᴰ 🇺🇸
 https://dsvt0yq4k5a5x.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-zkvjbxpwh4s5n/index.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=GB300001QO
 
-#EXTINF:-1 cuid="686" tvg-chno="686" tvg-name="BBC Top Gear 🇬🇧" tvg-id="636adc255bcf470007d6e0e2" tvg-logo="https://images.pluto.tv/channels/636adc255bcf470007d6e0e2/colorLogoPNG.png" group-title="🆁 English 🇬🇧🇺🇸|☆ Tv Shows",BBC Top Gear 🇬🇧
+#EXTINF:-1 cuid="686" tvg-chno="686" tvg-name="BBC Top Gear 🇬🇧" tvg-id="636adc255bcf470007d6e0e2" tvg-logo="https://images.pluto.tv/channels/636adc255bcf470007d6e0e2/colorLogoPNG.png" group-title="🆁 English Movies 🇬🇧🇺🇸|☆ Tv Shows",BBC Top Gear 🇬🇧
 https://amg00793-bbcstudios-amg00793c4-lg-us-2527.playouts.now.amagi.tv/playlist/amg00793-bbcstudios-bbctopgear8min-lgus/playlist.m3u8
 
-#EXTINF:-1 cuid="688" tvg-chno="688" tvg-name="The ChatShow 🇬🇧" tvg-id="GBBD1900003JT" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/TheChatShow.webp" group-title="🆁 English 🇬🇧🇺🇸|☆ Tv Shows",The ChatShow 🇬🇧
+#EXTINF:-1 cuid="688" tvg-chno="688" tvg-name="The ChatShow 🇬🇧" tvg-id="GBBD1900003JT" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/TheChatShow.webp" group-title="🆁 English Movies 🇬🇧🇺🇸|☆ Tv Shows",The ChatShow 🇬🇧
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-thechatshow-samsungnz/playlist.m3u8
 
-#EXTINF:-1 cuid="689" tvg-chno="689" tvg-name="The Graham Norton Show 🇬🇧" tvg-id="66166ce7aec96800080f6bd3" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB4000027F_20240214T034922SQUARE.png_20240214034923.png" group-title="🆁 English 🇬🇧🇺🇸|☆ Tv Shows",The Graham Norton Show 🇬🇧
+#EXTINF:-1 cuid="689" tvg-chno="689" tvg-name="The Graham Norton Show 🇬🇧" tvg-id="66166ce7aec96800080f6bd3" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB4000027F_20240214T034922SQUARE.png_20240214034923.png" group-title="🆁 English Movies 🇬🇧🇺🇸|☆ Tv Shows",The Graham Norton Show 🇬🇧
 https://mediapackage-ptgn-source.fullscreen.nz/index.m3u8
 
-#EXTINF:-1 cuid="690" tvg-chno="690" tvg-name="Best of The Drew Barrymore Show 🇺🇸" tvg-id="6310cbee5a8ad300070fdb7c" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD35000202P_20240520T220151SQUARE.png" group-title="🆁 English 🇬🇧🇺🇸|☆ Tv Shows",Best of The Drew Barrymore Show 🇺🇸
+#EXTINF:-1 cuid="690" tvg-chno="690" tvg-name="Best of The Drew Barrymore Show 🇺🇸" tvg-id="6310cbee5a8ad300070fdb7c" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD35000202P_20240520T220151SQUARE.png" group-title="🆁 English Movies 🇬🇧🇺🇸|☆ Tv Shows",Best of The Drew Barrymore Show 🇺🇸
 https://bit.ly/3S4gU0t?profile=inspirationFreetv.m3u8
 
-#EXTINF:-1 cuid="691" tvg-chno="691" tvg-name="The Ed Sullivan Show 🇧🇷🇺🇸" tvg-id="62e91da1f07afa0007ffccfc" tvg-logo="https://images.pluto.tv/channels/62e91da1f07afa0007ffccfc/colorLogoPNG.png" group-title="🆁 English 🇬🇧🇺🇸|☆ Tv Shows",The Ed Sullivan Show 🇧🇷🇺🇸 [ᴘʟυᴛᴏ]
+#EXTINF:-1 cuid="691" tvg-chno="691" tvg-name="The Ed Sullivan Show 🇧🇷🇺🇸" tvg-id="62e91da1f07afa0007ffccfc" tvg-logo="https://images.pluto.tv/channels/62e91da1f07afa0007ffccfc/colorLogoPNG.png" group-title="🆁 English Movies 🇬🇧🇺🇸|☆ Tv Shows",The Ed Sullivan Show 🇧🇷🇺🇸 [ᴘʟυᴛᴏ]
 https://stitcher.pluto.tv/stitch/hls/channel/62e91da1f07afa0007ffccfc/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=80f90cf7-7a92-11ef-97cb-02e0fd7f02bc
 
-#EXTINF:-1 cuid="692" tvg-chno="692" tvg-name="Johnny Carson TV 🇺🇸" tvg-id="64ddcf8e9c1e390008349fc8" tvg-logo="https://images.pluto.tv/channels/64ddcf8e9c1e390008349fc8/colorLogoPNG.png" group-title="🆁 English 🇬🇧🇺🇸|☆ Tv Shows",Johnny Carson TV 🇺🇸
+#EXTINF:-1 cuid="692" tvg-chno="692" tvg-name="Johnny Carson TV 🇺🇸" tvg-id="64ddcf8e9c1e390008349fc8" tvg-logo="https://images.pluto.tv/channels/64ddcf8e9c1e390008349fc8/colorLogoPNG.png" group-title="🆁 English Movies 🇬🇧🇺🇸|☆ Tv Shows",Johnny Carson TV 🇺🇸
 https://johnnycarson-localnow.amagi.tv/playlist.m3u8
 
 --- 📺 𝙎𝙚𝙧𝙞𝗲𝙨
 
-#EXTINF:-1 cuid="683" tvg-chno="683" tvg-name="Comedy Central Animation 🇺🇸" tvg-id="5f99e24636d67d0007a94e6d" tvg-logo="https://images.pluto.tv/channels/5f99e24636d67d0007a94e6d/colorLogoPNG.png" group-title="🆁 English 🇬🇧🇺🇸|☆ Tv Series",Comedy Central Animation 🇺🇸 [ᴘʟυᴛᴏ]
+#EXTINF:-1 cuid="683" tvg-chno="683" tvg-name="Comedy Central Animation 🇺🇸" tvg-id="5f99e24636d67d0007a94e6d" tvg-logo="https://images.pluto.tv/channels/5f99e24636d67d0007a94e6d/colorLogoPNG.png" group-title="🆁 English Movies 🇬🇧🇺🇸|☆ Tv Series",Comedy Central Animation 🇺🇸 [ᴘʟυᴛᴏ]
 #https://stitcher.pluto.tv/stitch/hls/channel/5f99e24636d67d0007a94e6d/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=cb5874fc-6948-11ef-b8e3-ea3db3d97a96
 
-#EXTINF:-1 cuid="684" tvg-chno="684" tvg-name="Entertainment Hub 🇬🇧" tvg-id="GBBC2300003ZQ" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/EntertainmentHub.webp" group-title="🆁 English 🇬🇧🇺🇸|☆ Tv Series",Entertainment Hub 🇬🇧
+#EXTINF:-1 cuid="684" tvg-chno="684" tvg-name="Entertainment Hub 🇬🇧" tvg-id="GBBC2300003ZQ" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/EntertainmentHub.webp" group-title="🆁 English Movies 🇬🇧🇺🇸|☆ Tv Series",Entertainment Hub 🇬🇧
 https://is.gd/AEo5Op?GBBC2300003ZQ.m3u8
 
-#EXTINF:-1 cuid="685" tvg-chno="685" tvg-name="Vice 🇺🇸" tvg-id="USBB1900006NY" tvg-logo="https://logo.iptveditor.com/vice.png" group-title="🆁 English 🇬🇧🇺🇸|☆ Tv Series",Vice 🇺🇸
+#EXTINF:-1 cuid="685" tvg-chno="685" tvg-name="Vice 🇺🇸" tvg-id="USBB1900006NY" tvg-logo="https://logo.iptveditor.com/vice.png" group-title="🆁 English Movies 🇬🇧🇺🇸|☆ Tv Series",Vice 🇺🇸
 https://d2do1g43aq7264.cloudfront.net/playlist.m3u8
 
-#EXTINF:-1 cuid="693" tvg-chno="693" tvg-name="National Lampoon (vᴘɴ 🇺🇸)" tvg-id="US1800015K5" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1800015K5_20240709T002207SQUARE.png" group-title="🆁 English 🇬🇧🇺🇸|☆ Tv Series",National Lampoon (vᴘɴ 🇺🇸)
+#EXTINF:-1 cuid="693" tvg-chno="693" tvg-name="National Lampoon (vᴘɴ 🇺🇸)" tvg-id="US1800015K5" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1800015K5_20240709T002207SQUARE.png" group-title="🆁 English Movies 🇬🇧🇺🇸|☆ Tv Series",National Lampoon (vᴘɴ 🇺🇸)
 #https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-661fcbcf414d94009d1206ee.m3u8?X-Plex-Client-Identifier=xgkz9ui5tipdsflhzmh1ar3h&X-Plex-Client-Platform=Chrome&X-Plex-Token=7w9nCtu5CxfVU3NurHtZ
 
-#EXTINF:-1 cuid="694" tvg-chno="694" tvg-name="Murder She Wrote 🇺🇸" tvg-id="6549337183595c000815ad05" tvg-logo="https://images.pluto.tv/channels/6549337183595c000815ad05/colorLogoPNG.png" group-title="🆁 English 🇬🇧🇺🇸|☆ Tv Series",Murder She Wrote 🇺🇸 [ᴘʟυᴛᴏ]
+#EXTINF:-1 cuid="694" tvg-chno="694" tvg-name="Murder She Wrote 🇺🇸" tvg-id="6549337183595c000815ad05" tvg-logo="https://images.pluto.tv/channels/6549337183595c000815ad05/colorLogoPNG.png" group-title="🆁 English Movies 🇬🇧🇺🇸|☆ Tv Series",Murder She Wrote 🇺🇸 [ᴘʟυᴛᴏ]
 https://stitcher.pluto.tv/stitch/hls/channel/6549337183595c000815ad05/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=cb5874fc-6948-11ef-b8e3-ea3db3d97a96
 
-#EXTINF:-1 cuid="695" tvg-chno="695" tvg-name="Family Ties 🇺🇸" tvg-id="654a4a3ef91d250008ac089b" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB3500003D6_20241112T000627SQUARE.png" group-title="🆁 English 🇬🇧🇺🇸|☆ Tv Series",Family Ties 🇺🇸 [ᴘʟυᴛᴏ]
+#EXTINF:-1 cuid="695" tvg-chno="695" tvg-name="Family Ties 🇺🇸" tvg-id="654a4a3ef91d250008ac089b" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB3500003D6_20241112T000627SQUARE.png" group-title="🆁 English Movies 🇬🇧🇺🇸|☆ Tv Series",Family Ties 🇺🇸 [ᴘʟυᴛᴏ]
 https://stitcher.pluto.tv/stitch/hls/channel/654a4a3ef91d250008ac089b/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=cb5874fc-6948-11ef-b8e3-ea3db3d97a96
 
-#EXTINF:-1 cuid="696" tvg-chno="696" tvg-name="ALF 🇺🇸" tvg-id="plex.tv.ALF.plex" tvg-logo="https://image.tmdb.org/t/p/original/eAjQP2Q75lg6WgwlnhpdcBgeoOf.jpg" group-title="🆁 English 🇬🇧🇺🇸|☆ Tv Series",ALF 🇺🇸
+#EXTINF:-1 cuid="696" tvg-chno="696" tvg-name="ALF 🇺🇸" tvg-id="plex.tv.ALF.plex" tvg-logo="https://image.tmdb.org/t/p/original/eAjQP2Q75lg6WgwlnhpdcBgeoOf.jpg" group-title="🆁 English Movies 🇬🇧🇺🇸|☆ Tv Series",ALF 🇺🇸
 https://s9host3.localnow.api.cms.amdvids.com/v1/master/c189661feba961c19bc5fb60b57879ee9b84548a/config11/dist/localnow/729/hls/master/playlist.m3u8?ads.cdnhost=s9host3.localnow.api.cms.amdvids.com&ads.playbackid=38D9E180-1A43-439F-800D-74268C5EC966&ads.n1=rule_id&ads.v1=E7BB7BA1-D932-4E65-BD9F-93731E6E87C5-1714063241&ads.n3=qp_content_id&ads.v3=38D9E180-1A43-439F-800D-74268C5EC966
 
-#EXTINF:-1 cuid="697" tvg-chno="697" tvg-name="Little House on the Prairie (cc 🇺🇸 Available)" tvg-id="654933ac986ad20008a1f406" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQud07qjdu9kMbGTA3vvnRto7mKNwEPuvfL2nPtrdpMa5-ZkE8X4ufCbNTQD-ph8P0h9Vk&usqp=CAU" group-title="🆁 English 🇬🇧🇺🇸|☆ Tv Series",Little House on the Prairie (cc 🇺🇸 Available)
+#EXTINF:-1 cuid="697" tvg-chno="697" tvg-name="Little House on the Prairie (cc 🇺🇸 Available)" tvg-id="654933ac986ad20008a1f406" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQud07qjdu9kMbGTA3vvnRto7mKNwEPuvfL2nPtrdpMa5-ZkE8X4ufCbNTQD-ph8P0h9Vk&usqp=CAU" group-title="🆁 English Movies 🇬🇧🇺🇸|☆ Tv Series",Little House on the Prairie (cc 🇺🇸 Available)
 https://d3f4oii5n0oeqi.cloudfront.net/11701/88814607/hls/master.m3u8?ads.xumo_channelId=88814607&ads.xumo_streamId=88814607
 
-#EXTINF:-1 cuid="698" tvg-chno="698" tvg-name="The Dick Van Dyke Show" tvg-id="62e91384210bec0007ba714c" tvg-logo="https://ntvb.tmsimg.com/assets/p184002_b_h10_ag.jpg" group-title="🆁 English 🇬🇧🇺🇸|☆ Tv Series",The Dick Van Dyke Show 🇺🇸 [xυᴍᴏ]
+#EXTINF:-1 cuid="698" tvg-chno="698" tvg-name="The Dick Van Dyke Show" tvg-id="62e91384210bec0007ba714c" tvg-logo="https://ntvb.tmsimg.com/assets/p184002_b_h10_ag.jpg" group-title="🆁 English Movies 🇬🇧🇺🇸|☆ Tv Series",The Dick Van Dyke Show 🇺🇸 [xυᴍᴏ]
 https://d3fmqi91qduj7.cloudfront.net/11401/88884544/hls/master.m3u8?ads.xumo_channelId=88884544&ads.xumo_streamId=88884544
-#EXTINF:-1 cuid="698" tvg-chno="698" tvg-name="The Dick Van Dyke Show" tvg-id="62e91384210bec0007ba714c" tvg-logo="https://ntvb.tmsimg.com/assets/p184002_b_h10_ag.jpg" group-title="🆁 English 🇬🇧🇺🇸|☆ Tv Series",The Dick Van Dyke Show 🇺🇸 [ᴘʟυᴛᴏ]
+#EXTINF:-1 cuid="698" tvg-chno="698" tvg-name="The Dick Van Dyke Show" tvg-id="62e91384210bec0007ba714c" tvg-logo="https://ntvb.tmsimg.com/assets/p184002_b_h10_ag.jpg" group-title="🆁 English Movies 🇬🇧🇺🇸|☆ Tv Series",The Dick Van Dyke Show 🇺🇸 [ᴘʟυᴛᴏ]
 https://stitcher.pluto.tv/stitch/hls/channel/62e91384210bec0007ba714c/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=cb5874fc-6948-11ef-b8e3-ea3db3d97a96
 
 
-#EXTINF:-1 cuid="699" tvg-chno="699" tvg-name="Alfred Hitchcock Presents 🇺🇸" tvg-id="US1800014CG" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1800014CG_20241022T004357SQUARE.png" group-title="🆁 English 🇬🇧🇺🇸|☆ Tv Series",Alfred Hitchcock Presents 🇺🇸 [xυᴍᴏ]
+#EXTINF:-1 cuid="699" tvg-chno="699" tvg-name="Alfred Hitchcock Presents 🇺🇸" tvg-id="US1800014CG" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1800014CG_20241022T004357SQUARE.png" group-title="🆁 English Movies 🇬🇧🇺🇸|☆ Tv Series",Alfred Hitchcock Presents 🇺🇸 [xυᴍᴏ]
 https://d3f4oii5n0oeqi.cloudfront.net/11701/88814618/hls/master.m3u8?ads.xumo_channelId=88814618&ads.xumo_streamId=88814618
 
-#EXTINF:-1 cuid="700" tvg-chno="700" tvg-name="The Twilight Zone 🇺🇸" tvg-id="6512ec9f3a0d700008db4f0c" tvg-logo="https://images.pluto.tv/channels/6512ec9f3a0d700008db4f0c/colorLogoPNG.png" group-title="🆁 English 🇬🇧🇺🇸|☆ Tv Series",The Twilight Zone 🇺🇸 [ᴘʟυᴛᴏ]
+#EXTINF:-1 cuid="700" tvg-chno="700" tvg-name="The Twilight Zone 🇺🇸" tvg-id="6512ec9f3a0d700008db4f0c" tvg-logo="https://images.pluto.tv/channels/6512ec9f3a0d700008db4f0c/colorLogoPNG.png" group-title="🆁 English Movies 🇬🇧🇺🇸|☆ Tv Series",The Twilight Zone 🇺🇸 [ᴘʟυᴛᴏ]
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6512ec9f3a0d700008db4f0c/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&deviceMake=github.com/inspirationlinks&deviceDNT=1
 
-#EXTINF:-1 cuid="701" tvg-chno="701" tvg-name="Murder She Wrote (cc 🇺🇸 Available)" tvg-id="62e91384210bec0007ba714c" tvg-logo="https://images.pluto.tv/channels/62e91384210bec0007ba714c/colorLogoPNG.png" group-title="🆁 English 🇬🇧🇺🇸|☆ Tv Series",Murder She Wrote [ᴘʟυᴛᴏ]
+#EXTINF:-1 cuid="701" tvg-chno="701" tvg-name="Murder She Wrote (cc 🇺🇸 Available)" tvg-id="62e91384210bec0007ba714c" tvg-logo="https://images.pluto.tv/channels/62e91384210bec0007ba714c/colorLogoPNG.png" group-title="🆁 English Movies 🇬🇧🇺🇸|☆ Tv Series",Murder She Wrote [ᴘʟυᴛᴏ]
 https://stitcher.pluto.tv/stitch/hls/channel/62e91384210bec0007ba714c/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=cb5874fc-6948-11ef-b8e3-ea3db3d97a96
 
-#EXTINF:-1 cuid="702" tvg-chno="702" tvg-name="XPTV 2 🇺🇸" tvg-logo="https://xptv.live/wp-content/uploads/2023/07/XPTV2_Logo_2.png" group-title="🆁 English 🇬🇧🇺🇸|☆ Tv Series",XPTV 2 🇺🇸
+#EXTINF:-1 cuid="702" tvg-chno="702" tvg-name="XPTV 2 🇺🇸" tvg-logo="https://xptv.live/wp-content/uploads/2023/07/XPTV2_Logo_2.png" group-title="🆁 English Movies 🇬🇧🇺🇸|☆ Tv Series",XPTV 2 🇺🇸
 https://janus.xpbroadcasting.com:8443/hls/xptv2.m3u8
 
-#EXTINF:-1 cuid="703" tvg-chno="703" tvg-name="XPTV UK" tvg-logo="https://xpb-icons.s3.eu-west-2.amazonaws.com/Channel-Logos/xptvuk-logo-epg.jpg" group-title="🆁 English 🇬🇧🇺🇸|☆ Tv Series",XPTV UK
+#EXTINF:-1 cuid="703" tvg-chno="703" tvg-name="XPTV UK" tvg-logo="https://xpb-icons.s3.eu-west-2.amazonaws.com/Channel-Logos/xptvuk-logo-epg.jpg" group-title="🆁 English Movies 🇬🇧🇺🇸|☆ Tv Series",XPTV UK
 https://janus.xpbroadcasting.com:8443/hls/xptvUK.m3u8
 
-#EXTINF:-1 cuid="704" tvg-chno="704" tvg-name="XPTVUS 🇺🇸" tvg-logo="https://xptv.live/wp-content/uploads/2023/07/XPUS-Button.png" group-title="🆁 English 🇬🇧🇺🇸|☆ Tv Series",XPTVUS 🇺🇸
+#EXTINF:-1 cuid="704" tvg-chno="704" tvg-name="XPTVUS 🇺🇸" tvg-logo="https://xptv.live/wp-content/uploads/2023/07/XPUS-Button.png" group-title="🆁 English Movies 🇬🇧🇺🇸|☆ Tv Series",XPTVUS 🇺🇸
 https://janus.xpbroadcasting.com:8443/hls/xptvUS.m3u8
 
-#EXTINF:-1 cuid="705" tvg-chno="705" tvg-name="IFC Portlandia 🇺🇸" tvg-id="USBD12000038K" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD12000038K_20240520T220135SQUARE.png" group-title="🆁 English 🇬🇧🇺🇸|☆ Tv Series",IFC Portlandia 🇺🇸 [ʟɢ]
+#EXTINF:-1 cuid="705" tvg-chno="705" tvg-name="IFC Portlandia 🇺🇸" tvg-id="USBD12000038K" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD12000038K_20240520T220135SQUARE.png" group-title="🆁 English Movies 🇬🇧🇺🇸|☆ Tv Series",IFC Portlandia 🇺🇸 [ʟɢ]
 https://amc-portlandia-1-us.lg.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 cuid="706" tvg-chno="706" tvg-name="Z Nation 🇪🇸" tvg-id="66b3af1c3a4ad200081c7d03" tvg-logo="https://images.pluto.tv/channels/66b3af1c3a4ad200081c7d03/colorLogoPNG.png" group-title="🆁 English 🇬🇧🇺🇸|☆ Tv Series",Z Nation 🇪🇸 [ᴘʟυᴛᴏ]
+#EXTINF:-1 cuid="706" tvg-chno="706" tvg-name="Z Nation 🇪🇸" tvg-id="66b3af1c3a4ad200081c7d03" tvg-logo="https://images.pluto.tv/channels/66b3af1c3a4ad200081c7d03/colorLogoPNG.png" group-title="🆁 English Movies 🇬🇧🇺🇸|☆ Tv Series",Z Nation 🇪🇸 [ᴘʟυᴛᴏ]
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/66b3af1c3a4ad200081c7d03/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=github.com/inspirationlinks&deviceDNT=1
 
-#EXTINF:-1 cuid="707" tvg-chno="707" tvg-name="FilmRise Z Nation 🇺🇸" tvg-id="5e20b730f2f8d5003d739db7-66ce3e009ac0b1441b19ca29" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMfqPfcCLKi2Ylj2xXZOlXa7h64XhDGJzamsmXZdVUpBcLZ1ZnTz60sNw1KS332CCUfH4&usqp=CAU" group-title="🆁 English 🇬🇧🇺🇸|☆ Tv Series",FilmRise Z Nation 🇺🇸
+#EXTINF:-1 cuid="707" tvg-chno="707" tvg-name="FilmRise Z Nation 🇺🇸" tvg-id="5e20b730f2f8d5003d739db7-66ce3e009ac0b1441b19ca29" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMfqPfcCLKi2Ylj2xXZOlXa7h64XhDGJzamsmXZdVUpBcLZ1ZnTz60sNw1KS332CCUfH4&usqp=CAU" group-title="🆁 English Movies 🇬🇧🇺🇸|☆ Tv Series",FilmRise Z Nation 🇺🇸
 #https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-66ce3e009ac0b1441b19ca29.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=7DvnJN6Z6Rq1xRN5x2wz
 
-#EXTINF:-1 cuid="708" tvg-chno="708" tvg-name="The Walking Dead Universe 🇺🇸" tvg-id="5e20b730f2f8d5003d739db7-5fc705ff2f220e002d5e6bce" tvg-logo="https://provider-static.plex.tv/0/epg/channels/logos/gracenote/01fdcabfec82d869b2ab775ffa637bf7.png" group-title="🆁 English 🇬🇧🇺🇸|☆ Tv Series",The Walking Dead Universe 🇺🇸 [ᴘʟᴇx]
+#EXTINF:-1 cuid="708" tvg-chno="708" tvg-name="The Walking Dead Universe 🇺🇸" tvg-id="5e20b730f2f8d5003d739db7-5fc705ff2f220e002d5e6bce" tvg-logo="https://provider-static.plex.tv/0/epg/channels/logos/gracenote/01fdcabfec82d869b2ab775ffa637bf7.png" group-title="🆁 English Movies 🇬🇧🇺🇸|☆ Tv Series",The Walking Dead Universe 🇺🇸 [ᴘʟᴇx]
 https://22985209144b4ff78289fbb19f55e93e.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Plex_TWDUniverseExperience/playlist.m3u8
 
-#EXTINF:-1 cuid="709" tvg-chno="709" tvg-name="More NCIS 🇺🇸" tvg-id="62e949f0cec1e60007f03314" tvg-logo="https://images.pluto.tv/channels/62e949f0cec1e60007f03314/colorLogoPNG.png" group-title="🆁 English 🇬🇧🇺🇸|☆ Tv Series",More NCIS 🇺🇸 [ᴘʟυᴛᴏ]
+#EXTINF:-1 cuid="709" tvg-chno="709" tvg-name="More NCIS 🇺🇸" tvg-id="62e949f0cec1e60007f03314" tvg-logo="https://images.pluto.tv/channels/62e949f0cec1e60007f03314/colorLogoPNG.png" group-title="🆁 English Movies 🇬🇧🇺🇸|☆ Tv Series",More NCIS 🇺🇸 [ᴘʟυᴛᴏ]
 https://bit.ly/421jtVE?62e949f0cec1e60007f03314.m3u8
 
-#EXTINF:-1 cuid="710" tvg-chno="710" tvg-name="CSI 🇺🇸" tvg-id="5efbd29e4aa26700076c0d06" tvg-logo="https://images.pluto.tv/channels/5efbd29e4aa26700076c0d06/colorLogoPNG.png" group-title="🆁 English 🇬🇧🇺🇸|☆ Tv Series",CSI 🇺🇸 [ᴘʟυᴛᴏ]
+#EXTINF:-1 cuid="710" tvg-chno="710" tvg-name="CSI 🇺🇸" tvg-id="5efbd29e4aa26700076c0d06" tvg-logo="https://images.pluto.tv/channels/5efbd29e4aa26700076c0d06/colorLogoPNG.png" group-title="🆁 English Movies 🇬🇧🇺🇸|☆ Tv Series",CSI 🇺🇸 [ᴘʟυᴛᴏ]
 https://bit.ly/csi_inspiration_m3u8
 
-#EXTINF:-1 cuid="711" tvg-chno="711" tvg-name="Criminal Minds 🇺🇸" tvg-id="65653817c917a5000844bc30" tvg-logo="https://images.pluto.tv/channels/65653817c917a5000844bc30/colorLogoPNG.png" group-title="🆁 English 🇬🇧🇺🇸|☆ Tv Series",Criminal Minds 🇺🇸 [ᴘʟυᴛᴏ]
+#EXTINF:-1 cuid="711" tvg-chno="711" tvg-name="Criminal Minds 🇺🇸" tvg-id="65653817c917a5000844bc30" tvg-logo="https://images.pluto.tv/channels/65653817c917a5000844bc30/colorLogoPNG.png" group-title="🆁 English Movies 🇬🇧🇺🇸|☆ Tv Series",Criminal Minds 🇺🇸 [ᴘʟυᴛᴏ]
 https://bit.ly/3Hpns4O?profile=65653817c917a5000844bc30.m3u8
 
-#EXTINF:-1 cuid="712" tvg-chno="712" tvg-name="BritBox Mysteries 🇬🇧" tvg-id="60f5d389985a0c0007357304" tvg-logo="https://images.pluto.tv/channels/60f5d389985a0c0007357304/colorLogoPNG.png" group-title="🆁 English 🇬🇧🇺🇸|☆ Tv Series",BritBox Mysteries 🇬🇧 [ᴘʟυᴛᴏ]
+#EXTINF:-1 cuid="712" tvg-chno="712" tvg-name="BritBox Mysteries 🇬🇧" tvg-id="60f5d389985a0c0007357304" tvg-logo="https://images.pluto.tv/channels/60f5d389985a0c0007357304/colorLogoPNG.png" group-title="🆁 English Movies 🇬🇧🇺🇸|☆ Tv Series",BritBox Mysteries 🇬🇧 [ᴘʟυᴛᴏ]
 https://sck.pm/q5ay?60f5d389985a0c0007357304.m3u8
 
-#EXTINF:-1 cuid="713" tvg-chno="713" tvg-name="Circle Country 🇺🇸" tvg-id="USBA300035FV" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA300035FV_20240528T020917SQUARE.png" group-title="🆁 English 🇬🇧🇺🇸|☆ Tv Series",Circle Country 🇺🇸 [sᴀᴍsυɴɢᴛᴠᴘʟυs]
+#EXTINF:-1 cuid="713" tvg-chno="713" tvg-name="Circle Country 🇺🇸" tvg-id="USBA300035FV" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA300035FV_20240528T020917SQUARE.png" group-title="🆁 English Movies 🇬🇧🇺🇸|☆ Tv Series",Circle Country 🇺🇸 [sᴀᴍsυɴɢᴛᴠᴘʟυs]
 https://d3tpmt3umhznz8.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-axj453e6aku5x/e4b5462e-88f8-4587-8ddf-71b357783e95/3.m3u8
 
-#EXTINF:-1 cuid="715" tvg-chno="715" tvg-name="Bet Pluto tv 🇺🇸" tvg-id="604f8f8622166000071a929f" tvg-logo="https://images.pluto.tv/channels/604f8f8622166000071a929f/colorLogoPNG.png" group-title="🆁 English 🇬🇧🇺🇸|☆ Tv Series",Bet Pluto tv 🇺🇸 [ᴘʟυᴛᴏ]
+#EXTINF:-1 cuid="715" tvg-chno="715" tvg-name="Bet Pluto tv 🇺🇸" tvg-id="604f8f8622166000071a929f" tvg-logo="https://images.pluto.tv/channels/604f8f8622166000071a929f/colorLogoPNG.png" group-title="🆁 English Movies 🇬🇧🇺🇸|☆ Tv Series",Bet Pluto tv 🇺🇸 [ᴘʟυᴛᴏ]
 https://stitcher.pluto.tv/stitch/hls/channel/604f8f8622166000071a929f/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=9438b638-7b18-11ef-9825-de7fcdd69a13
 
-#EXTINF:-1 cuid="716" tvg-chno="716" tvg-name="Ebony Drama by Lionsgate 🇺🇸" tvg-id="6675c713fc3a46000863dde7" tvg-logo="https://images.pluto.tv/channels/6675c713fc3a46000863dde7/colorLogoPNG.png" group-title="🆁 English 🇬🇧🇺🇸|☆ Tv Series",Ebony Drama by Lionsgate 🇺🇸 [ᴘʟυᴛᴏ]
+#EXTINF:-1 cuid="716" tvg-chno="716" tvg-name="Ebony Drama by Lionsgate 🇺🇸" tvg-id="6675c713fc3a46000863dde7" tvg-logo="https://images.pluto.tv/channels/6675c713fc3a46000863dde7/colorLogoPNG.png" group-title="🆁 English Movies 🇬🇧🇺🇸|☆ Tv Series",Ebony Drama by Lionsgate 🇺🇸 [ᴘʟυᴛᴏ]
 https://stitcher.pluto.tv/stitch/hls/channel/6675c713fc3a46000863dde7/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=cb5874fc-6948-11ef-b8e3-ea3db3d97a96
 
-#EXTINF:-1 cuid="717" tvg-chno="717" tvg-name="her Sphere by Lionsgate 🇺🇸" tvg-id="5e20b730f2f8d5003d739db7-644c4bc17472b186783f35a0" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/HerSphereLionsgate.webp" group-title="🆁 English 🇬🇧🇺🇸|☆ Tv Series",her Sphere by Lionsgate 🇺🇸 [ʟɢ]
+#EXTINF:-1 cuid="717" tvg-chno="717" tvg-name="her Sphere by Lionsgate 🇺🇸" tvg-id="5e20b730f2f8d5003d739db7-644c4bc17472b186783f35a0" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/HerSphereLionsgate.webp" group-title="🆁 English Movies 🇬🇧🇺🇸|☆ Tv Series",her Sphere by Lionsgate 🇺🇸 [ʟɢ]
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-hersphere-lgus/playlist.m3u8
 
-#EXTINF:-1 cuid="718" tvg-chno="718" tvg-name="ION Plus 🇺🇸" tvg-id="USBD300003LK" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD300003LK_20240702T044841SQUARE.png" group-title="🆁 English 🇬🇧🇺🇸|☆ Tv Series",ION Plus 🇺🇸 [ᴛᴀʙʟᴏ]
+#EXTINF:-1 cuid="718" tvg-chno="718" tvg-name="ION Plus 🇺🇸" tvg-id="USBD300003LK" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD300003LK_20240702T044841SQUARE.png" group-title="🆁 English Movies 🇬🇧🇺🇸|☆ Tv Series",ION Plus 🇺🇸 [ᴛᴀʙʟᴏ]
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-ionplus-tablo/playlist.m3u8
 
-#EXTINF:-1 cuid="719" tvg-chno="719" tvg-name="ION Mystery 🇺🇸" tvg-id="USBC24000223S" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC24000223S_20241014T232219SQUARE.png" group-title="🆁 English 🇬🇧🇺🇸|☆ Tv Series",ION Mystery⁴ᵏ 🇺🇸 [xυᴍᴏ]
+#EXTINF:-1 cuid="719" tvg-chno="719" tvg-name="ION Mystery 🇺🇸" tvg-id="USBC24000223S" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC24000223S_20241014T232219SQUARE.png" group-title="🆁 English Movies 🇬🇧🇺🇸|☆ Tv Series",ION Mystery⁴ᵏ 🇺🇸 [xυᴍᴏ]
 https://scripps-ionmystery-1-us.xumo.wurl.tv/playlist_4300k.m3u8
-#EXTINF:-1 cuid="719" tvg-chno="719" tvg-name="ION Mystery 🇺🇸" tvg-id="USBC24000223S" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC24000223S_20241014T232219SQUARE.png" group-title="🆁 English 🇬🇧🇺🇸|☆ Tv Series",ION Mystery 🇺🇸 [xυᴍᴏ]
+#EXTINF:-1 cuid="719" tvg-chno="719" tvg-name="ION Mystery 🇺🇸" tvg-id="USBC24000223S" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC24000223S_20241014T232219SQUARE.png" group-title="🆁 English Movies 🇬🇧🇺🇸|☆ Tv Series",ION Mystery 🇺🇸 [xυᴍᴏ]
 https://scripps-ionmystery-1-us.xumo.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 cuid="720" tvg-chno="720" tvg-name="Nonstop Drama 🇺🇸" tvg-id="62fb9ade112ca70007d8441d" tvg-logo="https://images.pluto.tv/channels/62fb9ade112ca70007d8441d/colorLogoPNG.png" group-title="🆁 English 🇬🇧🇺🇸|☆ Tv Series",Nonstop Drama 🇺🇸 [ᴘʟυᴛᴏ]
+#EXTINF:-1 cuid="720" tvg-chno="720" tvg-name="Nonstop Drama 🇺🇸" tvg-id="62fb9ade112ca70007d8441d" tvg-logo="https://images.pluto.tv/channels/62fb9ade112ca70007d8441d/colorLogoPNG.png" group-title="🆁 English Movies 🇬🇧🇺🇸|☆ Tv Series",Nonstop Drama 🇺🇸 [ᴘʟυᴛᴏ]
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62fb9ade112ca70007d8441d/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&deviceMake=Revolucioniptv&deviceDNT=1
 
-#EXTINF:-1 cuid="721" tvg-chno="721" tvg-name="MHz Now 🇺🇸" tvg-id="5e20b730f2f8d5003d739db7-611152a48f945c002c40021a" tvg-logo="https://mhznetworks.com/wp-content/uploads/2021/09/MHz_NOW_Logo-uai-258x258.png" group-title="🆁 English 🇬🇧🇺🇸|☆ Tv Series",MHz Now 🇺🇸 [sᴀᴍsυɴɢᴛᴠᴘʟυs]
+#EXTINF:-1 cuid="721" tvg-chno="721" tvg-name="MHz Now 🇺🇸" tvg-id="5e20b730f2f8d5003d739db7-611152a48f945c002c40021a" tvg-logo="https://mhznetworks.com/wp-content/uploads/2021/09/MHz_NOW_Logo-uai-258x258.png" group-title="🆁 English Movies 🇬🇧🇺🇸|☆ Tv Series",MHz Now 🇺🇸 [sᴀᴍsυɴɢᴛᴠᴘʟυs]
 https://mhz-samsung-linear-ca.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 cuid="721" tvg-chno="721" tvg-name="MHz Now 🇺🇸" tvg-id="5e20b730f2f8d5003d739db7-611152a48f945c002c40021a" tvg-logo="https://mhznetworks.com/wp-content/uploads/2021/09/MHz_NOW_Logo-uai-258x258.png" group-title="🆁 English 🇬🇧🇺🇸|☆ Tv Series",MHz Now 🇺🇸 [ᴘʟᴇx]
+#EXTINF:-1 cuid="721" tvg-chno="721" tvg-name="MHz Now 🇺🇸" tvg-id="5e20b730f2f8d5003d739db7-611152a48f945c002c40021a" tvg-logo="https://mhznetworks.com/wp-content/uploads/2021/09/MHz_NOW_Logo-uai-258x258.png" group-title="🆁 English Movies 🇬🇧🇺🇸|☆ Tv Series",MHz Now 🇺🇸 [ᴘʟᴇx]
 https://9cd9410130db4466b2fc456b6885dfc8.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-ca_MHz/playlist.m3u8
 
-#EXTINF:-1 cuid="722" tvg-chno="722" tvg-name="Stories By AMC  🇺🇸" tvg-id="5e20b730f2f8d5003d739db7-5fc705e2a2236e002d69f3ba" tvg-logo="https://provider-static.plex.tv/d/epg/channels/logos/gracenote/dc11bbe6b65b5884a0af6702f6b61c61.png" group-title="🆁 English 🇬🇧🇺🇸|☆ Tv Series",Stories By AMC 🇺🇸 [ᴘʟᴇx]
+#EXTINF:-1 cuid="722" tvg-chno="722" tvg-name="Stories By AMC  🇺🇸" tvg-id="5e20b730f2f8d5003d739db7-5fc705e2a2236e002d69f3ba" tvg-logo="https://provider-static.plex.tv/d/epg/channels/logos/gracenote/dc11bbe6b65b5884a0af6702f6b61c61.png" group-title="🆁 English Movies 🇬🇧🇺🇸|☆ Tv Series",Stories By AMC 🇺🇸 [ᴘʟᴇx]
 https://5def33c73f084e11a19ca77697d6b413.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_AMCPresents/playlist.m3u8
 
-#EXTINF:-1 cuid="723" tvg-chno="723" tvg-name="FilmRise Made in Canada" tvg-id="647f8d22a2fc3fadb4721685-65e9d0ad8fe4ef7053c3c873" tvg-logo="https://store-images.s-microsoft.com/image/apps.43367.13600635989574023.5c688055-bbb7-45a0-b2a0-58f033019abf.6ebc3fa6-0478-4509-9cb7-8fccfe2b3166?h=210" group-title="🆁 English 🇬🇧🇺🇸|☆ Tv Series",FilmRise Made in Canada (ᴠᴘɴ 🇨🇦)
+#EXTINF:-1 cuid="723" tvg-chno="723" tvg-name="FilmRise Made in Canada" tvg-id="647f8d22a2fc3fadb4721685-65e9d0ad8fe4ef7053c3c873" tvg-logo="https://store-images.s-microsoft.com/image/apps.43367.13600635989574023.5c688055-bbb7-45a0-b2a0-58f033019abf.6ebc3fa6-0478-4509-9cb7-8fccfe2b3166?h=210" group-title="🆁 English Movies 🇬🇧🇺🇸|☆ Tv Series",FilmRise Made in Canada (ᴠᴘɴ 🇨🇦)
 #https://epg.provider.plex.tv/library/parts/647f8d22a2fc3fadb4721685-65e9d0ad8fe4ef7053c3c873.m3u8?X-Plex-Client-Identifier=xgkz9ui5tipdsflhzmh1ar3h&X-Plex-Client-Platform=Chrome&X-Plex-Token=Uq_CEvyFe-yvibWxy7FS
 
-#EXTINF:-1 cuid="724" tvg-chno="724" tvg-name="Rescue 911 🇬🇧" tvg-id="5f21e831e9fe730007706acb" tvg-logo="https://images.pluto.tv/channels/5f21e831e9fe730007706acb/colorLogoPNG.png" group-title="🆁 English 🇬🇧🇺🇸|☆ Tv Series",Rescue 911 🇬🇧 [ᴘʟυᴛᴏ]
+#EXTINF:-1 cuid="724" tvg-chno="724" tvg-name="Rescue 911 🇬🇧" tvg-id="5f21e831e9fe730007706acb" tvg-logo="https://images.pluto.tv/channels/5f21e831e9fe730007706acb/colorLogoPNG.png" group-title="🆁 English Movies 🇬🇧🇺🇸|☆ Tv Series",Rescue 911 🇬🇧 [ᴘʟυᴛᴏ]
 https://is.gd/OZgvbY?5f21e831e9fe730007706acb.m3u8
 
-#EXTINF:-1 cuid="725" tvg-chno="725" tvg-name="Emergency! 🇬🇧" tvg-id="5e20b730f2f8d5003d739db7-63c1db220aa23f984207af80" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f69f8786-3b60-47b6-aead-be63865746ea/750x500_-_white_logo_James_Roebuck.png" group-title="🆁 English 🇬🇧🇺🇸|☆ Tv Series",Emergency! 🇬🇧 [ᴛcʟ]
+#EXTINF:-1 cuid="725" tvg-chno="725" tvg-name="Emergency! 🇬🇧" tvg-id="5e20b730f2f8d5003d739db7-63c1db220aa23f984207af80" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f69f8786-3b60-47b6-aead-be63865746ea/750x500_-_white_logo_James_Roebuck.png" group-title="🆁 English Movies 🇬🇧🇺🇸|☆ Tv Series",Emergency! 🇬🇧 [ᴛcʟ]
 https://rightsboosterltd-emergency-1-us.tcl.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 cuid="726" tvg-chno="726" tvg-name="5 Emergency Rescue 🇬🇧" tvg-id="63c1384e829c850007922ca4" tvg-logo="https://images.pluto.tv/channels/63c1384e829c850007922ca4/colorLogoPNG.png" group-title="🆁 English 🇬🇧🇺🇸|☆ Tv Series",5 Emergency Rescue 🇬🇧 [ᴘʟυᴛᴏ]
+#EXTINF:-1 cuid="726" tvg-chno="726" tvg-name="5 Emergency Rescue 🇬🇧" tvg-id="63c1384e829c850007922ca4" tvg-logo="https://images.pluto.tv/channels/63c1384e829c850007922ca4/colorLogoPNG.png" group-title="🆁 English Movies 🇬🇧🇺🇸|☆ Tv Series",5 Emergency Rescue 🇬🇧 [ᴘʟυᴛᴏ]
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/63c1384e829c850007922ca4/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&deviceMake=Revolucioniptv&deviceDNT=1
 
-#EXTINF:-1 cuid="728" tvg-chno="728" tvg-name="U&Real Heroes 🇬🇧" tvg-id="64c0d6b424ade50008bc8883" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD3100002NU_20240709T044426SQUARE.png" group-title="🆁 English 🇬🇧🇺🇸|☆ Tv Series",U&Real Heroes 🇬🇧 [ᴘʟυᴛᴏ]
+#EXTINF:-1 cuid="728" tvg-chno="728" tvg-name="U&Real Heroes 🇬🇧" tvg-id="64c0d6b424ade50008bc8883" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD3100002NU_20240709T044426SQUARE.png" group-title="🆁 English Movies 🇬🇧🇺🇸|☆ Tv Series",U&Real Heroes 🇬🇧 [ᴘʟυᴛᴏ]
 https://stitcher.pluto.tv/stitch/hls/channel/64c0d6b424ade50008bc8883/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=9438b638-7b18-11ef-9825-de7fcdd69a13
 
-#EXTINF:-1 cuid="729" tvg-chno="729" tvg-name="REELZ Famous & Infamous 🇺🇸" tvg-id="USBB3200001MG" tvg-logo="https://provider-static.plex.tv/epg/cms/production/8bcf761d-cf7d-4ee5-84f8-985dcef2cf78/REELZ_Famous_Infamous_1500x1000_Logo_Light_-_Kenneth_Kirtley.png" group-title="🆁 English 🇬🇧🇺🇸|☆ Tv Series",REELZ Famous & Infamous 🇺🇸 [ᴛυʙɪ]
+#EXTINF:-1 cuid="729" tvg-chno="729" tvg-name="REELZ Famous & Infamous 🇺🇸" tvg-id="USBB3200001MG" tvg-logo="https://provider-static.plex.tv/epg/cms/production/8bcf761d-cf7d-4ee5-84f8-985dcef2cf78/REELZ_Famous_Infamous_1500x1000_Logo_Light_-_Kenneth_Kirtley.png" group-title="🆁 English Movies 🇬🇧🇺🇸|☆ Tv Series",REELZ Famous & Infamous 🇺🇸 [ᴛυʙɪ]
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Reelz.m3u8
 
-#EXTINF:-1 cuid="730" tvg-chno="730" tvg-name="Backstage (vᴘɴ 🇺🇸)" tvg-id="USBC10000129R" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC10000129R_20240611T050311SQUARE.png" group-title="🆁 English 🇬🇧🇺🇸|☆ Tv Series",Backstage (vᴘɴ 🇺🇸)
+#EXTINF:-1 cuid="730" tvg-chno="730" tvg-name="Backstage (vᴘɴ 🇺🇸)" tvg-id="USBC10000129R" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC10000129R_20240611T050311SQUARE.png" group-title="🆁 English Movies 🇬🇧🇺🇸|☆ Tv Series",Backstage (vᴘɴ 🇺🇸)
 #https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-608aec5fa09205002da4f28f.m3u8?X-Plex-Client-Identifier=xgkz9ui5tipdsflhzmh1ar3h&X-Plex-Client-Platform=Chrome&X-Plex-Token=9cz-zRu2JRequ38w_Z1X
 
-#EXTINF:-1 cuid="731" tvg-chno="731" tvg-name="Wedo Big Stories 🇺🇸" tvg-id="CHBC40000040J" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/WedoBigStories.webp" group-title="🆁 English 🇬🇧🇺🇸|☆ Tv Series",Wedo Big Stories 🇺🇸 [ʟɢ]
+#EXTINF:-1 cuid="731" tvg-chno="731" tvg-name="Wedo Big Stories 🇺🇸" tvg-id="CHBC40000040J" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/WedoBigStories.webp" group-title="🆁 English Movies 🇬🇧🇺🇸|☆ Tv Series",Wedo Big Stories 🇺🇸 [ʟɢ]
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00735-videosolutionsa-wedobigdocs-lggb/playlist.m3u8
 
-#EXTINF:-1 cuid="732" tvg-chno="732" tvg-name="Real Disaster Channel 🇺🇸" tvg-id="64e89cfc9c1e3900084ca663" tvg-logo="https://images.pluto.tv/channels/64e89cfc9c1e3900084ca663/colorLogoPNG.png" group-title="🆁 English 🇬🇧🇺🇸|☆ Tv Series",Real Disaster Channel 🇺🇸 [ᴘʟυᴛᴏ]
+#EXTINF:-1 cuid="732" tvg-chno="732" tvg-name="Real Disaster Channel 🇺🇸" tvg-id="64e89cfc9c1e3900084ca663" tvg-logo="https://images.pluto.tv/channels/64e89cfc9c1e3900084ca663/colorLogoPNG.png" group-title="🆁 English Movies 🇬🇧🇺🇸|☆ Tv Series",Real Disaster Channel 🇺🇸 [ᴘʟυᴛᴏ]
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/64e89cfc9c1e3900084ca663/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=github.com/inspirationlinks&deviceDNT=1
 
-#EXTINF:-1 cuid="733" tvg-chno="733" tvg-name="Real Disaster Channel² 🇺🇸" tvg-id="64d2b6bf9b414d0008187d83" tvg-logo="https://images.pluto.tv/channels/64d2b6bf9b414d0008187d83/colorLogoPNG.png" group-title="🆁 English 🇬🇧🇺🇸|☆ Tv Series",Real Disaster Channel² 🇺🇸 [ᴘʟυᴛᴏ]
+#EXTINF:-1 cuid="733" tvg-chno="733" tvg-name="Real Disaster Channel² 🇺🇸" tvg-id="64d2b6bf9b414d0008187d83" tvg-logo="https://images.pluto.tv/channels/64d2b6bf9b414d0008187d83/colorLogoPNG.png" group-title="🆁 English Movies 🇬🇧🇺🇸|☆ Tv Series",Real Disaster Channel² 🇺🇸 [ᴘʟυᴛᴏ]
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/64d2b6bf9b414d0008187d83/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=github.com/inspirationlinks&deviceDNT=1
 
-#EXTINF:-1 cuid="734" tvg-chno="734" tvg-name="Antiques Road Trip 🇬🇧" tvg-id="615b8ec39e878900073f419a" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/AntiquesRoadTrip.webp" group-title="🆁 English 🇬🇧🇺🇸|☆ Tv Series",Antiques Road Trip 🇬🇧 [ᴘʟυᴛᴏ]
+#EXTINF:-1 cuid="734" tvg-chno="734" tvg-name="Antiques Road Trip 🇬🇧" tvg-id="615b8ec39e878900073f419a" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/AntiquesRoadTrip.webp" group-title="🆁 English Movies 🇬🇧🇺🇸|☆ Tv Series",Antiques Road Trip 🇬🇧 [ᴘʟυᴛᴏ]
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/615b8ec39e878900073f419a/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&deviceMake=Revolucioniptv&deviceDNT=1
 
-#EXTINF:-1 cuid="735" tvg-chno="735" tvg-name="NBC Lx Home 🇺🇸" tvg-id="USBB40000028E" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB40000028E_20240520T221314SQUARE.png" group-title="🆁 English 🇬🇧🇺🇸|☆ Tv Series",NBC Lx Home 🇺🇸
+#EXTINF:-1 cuid="735" tvg-chno="735" tvg-name="NBC Lx Home 🇺🇸" tvg-id="USBB40000028E" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB40000028E_20240520T221314SQUARE.png" group-title="🆁 English Movies 🇬🇧🇺🇸|☆ Tv Series",NBC Lx Home 🇺🇸
 https://nbculocallive.akamaized.net/hls/live/2037096/lx/use1.m3u8
 
-#EXTINF:-1 cuid="736" tvg-chno="736" tvg-name="Real Stories 🇬🇧" tvg-id="UK:.Real.Stories.en" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBA4900009BL_20220824T022303SQUARE.png_20220824022303.png" group-title="🆁 English 🇬🇧🇺🇸|☆ Tv Series",Real Stories 🇬🇧 [ʟɢ]
+#EXTINF:-1 cuid="736" tvg-chno="736" tvg-name="Real Stories 🇬🇧" tvg-id="UK:.Real.Stories.en" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBA4900009BL_20220824T022303SQUARE.png_20220824022303.png" group-title="🆁 English Movies 🇬🇧🇺🇸|☆ Tv Series",Real Stories 🇬🇧 [ʟɢ]
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-realstories-lgnl/playlist.m3u8
 
-#EXTINF:-1 cuid="737" tvg-chno="737" tvg-name="Real Life 🇺🇸" tvg-id="GBBC4300003XU" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBA49000129Q_20220427T054645SQUARE.png_20220427054646.png" group-title="🆁 English 🇬🇧🇺🇸|☆ Tv Series",Real Life 🇺🇸 [ᴘʟᴇx]
+#EXTINF:-1 cuid="737" tvg-chno="737" tvg-name="Real Life 🇺🇸" tvg-id="GBBC4300003XU" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBA49000129Q_20220427T054645SQUARE.png_20220427054646.png" group-title="🆁 English Movies 🇬🇧🇺🇸|☆ Tv Series",Real Life 🇺🇸 [ᴘʟᴇx]
 https://lds-realfamilies-plex.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 cuid="738" tvg-chno="738" tvg-name="HomeFul 🇺🇸" tvg-id="USBD700022M5" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD700022M5_20241014T232157SQUARE.png" group-title="🆁 English 🇬🇧🇺🇸|☆ Tv Series",HomeFul 🇺🇸 [ᴠɪzɪᴏ]
+#EXTINF:-1 cuid="738" tvg-chno="738" tvg-name="HomeFul 🇺🇸" tvg-id="USBD700022M5" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD700022M5_20241014T232157SQUARE.png" group-title="🆁 English Movies 🇬🇧🇺🇸|☆ Tv Series",HomeFul 🇺🇸 [ᴠɪzɪᴏ]
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01515-blueskyeenterta-homefulusa-vizious/playlist.m3u8
 
-#EXTINF:-1 cuid="739" tvg-chno="739" tvg-name="All Weddings WE TV 🇺🇸" tvg-id="plex.tv.All.Weddings.WE.tv.plex" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD1200005XR_20240730T012758SQUARE.png" group-title="🆁 English 🇬🇧🇺🇸|☆ Tv Series",All Weddings WE TV 🇺🇸
+#EXTINF:-1 cuid="739" tvg-chno="739" tvg-name="All Weddings WE TV 🇺🇸" tvg-id="plex.tv.All.Weddings.WE.tv.plex" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD1200005XR_20240730T012758SQUARE.png" group-title="🆁 English Movies 🇬🇧🇺🇸|☆ Tv Series",All Weddings WE TV 🇺🇸
 http://amc-allweddings-1-us.plex.wurl.tv/4300.m3u8
 
-#EXTINF:-1 cuid="740" tvg-chno="740" tvg-name="All Reality WE TV" tvg-id="plex.tv.All.Reality.WE.tv.plex" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD12000061R_20240709T002120SQUARE.png" group-title="🆁 English 🇬🇧🇺🇸|☆ Tv Series",All Reality WE TV [ᴘʟᴇx]
+#EXTINF:-1 cuid="740" tvg-chno="740" tvg-name="All Reality WE TV" tvg-id="plex.tv.All.Reality.WE.tv.plex" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD12000061R_20240709T002120SQUARE.png" group-title="🆁 English Movies 🇬🇧🇺🇸|☆ Tv Series",All Reality WE TV [ᴘʟᴇx]
 https://amc-absolutereality-1-us.plex.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 cuid="741" tvg-chno="741" tvg-name="At Home with Family Handyman 🇺🇸" tvg-id="USBB40000028E" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD25000138Y_20240520T221410SQUARE.png" group-title="🆁 English 🇬🇧🇺🇸|☆ Tv Series",At Home with Family Handyman 🇺🇸
+#EXTINF:-1 cuid="741" tvg-chno="741" tvg-name="At Home with Family Handyman 🇺🇸" tvg-id="USBB40000028E" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD25000138Y_20240520T221410SQUARE.png" group-title="🆁 English Movies 🇬🇧🇺🇸|☆ Tv Series",At Home with Family Handyman 🇺🇸
 https://jukin-homefamilyhandyman-1-us.lg.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 cuid="742" tvg-chno="742" tvg-name="This Old House 🇺🇸" tvg-id="USBC13000065U" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC13000065U_20240702T044847SQUARE.png" group-title="🆁 English 🇬🇧🇺🇸|☆ Tv Series",This Old House 🇺🇸 [sᴀᴍsυɴɢᴛᴠᴘʟυs]
+#EXTINF:-1 cuid="742" tvg-chno="742" tvg-name="This Old House 🇺🇸" tvg-id="USBC13000065U" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC13000065U_20240702T044847SQUARE.png" group-title="🆁 English Movies 🇬🇧🇺🇸|☆ Tv Series",This Old House 🇺🇸 [sᴀᴍsυɴɢᴛᴠᴘʟυs]
 https://d22xc95vfbu1qn.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-j93gtbl1whg1w-prod/amgthisoldhouse/playlist.m3u8
 
-#EXTINF:-1 cuid="743" tvg-chno="743" tvg-name="Tiny House Nation 🇺🇸" tvg-id="USAJ3400020KC" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3400020KC_20240826T235518SQUARE.png" group-title="🆁 English 🇬🇧🇺🇸|☆ Tv Series",Tiny House Nation 🇺🇸 [sᴀᴍsυɴɢᴛᴠᴘʟυs]
+#EXTINF:-1 cuid="743" tvg-chno="743" tvg-name="Tiny House Nation 🇺🇸" tvg-id="USAJ3400020KC" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3400020KC_20240826T235518SQUARE.png" group-title="🆁 English Movies 🇬🇧🇺🇸|☆ Tv Series",Tiny House Nation 🇺🇸 [sᴀᴍsυɴɢᴛᴠᴘʟυs]
 https://bit.ly/3vAIhYw?profile=USAJ3400020KC.m3u8
 
-#EXTINF:-1 cuid="744" tvg-chno="744" tvg-name="Home.Made.Nation 🇺🇸" tvg-id="USAJ3000006X5" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3000006X5_20240826T235515SQUARE.png" group-title="🆁 English 🇬🇧🇺🇸|☆ Tv Series",Home.Made.Nation 🇺🇸 [sᴀᴍsυɴɢᴛᴠᴘʟυs]
+#EXTINF:-1 cuid="744" tvg-chno="744" tvg-name="Home.Made.Nation 🇺🇸" tvg-id="USAJ3000006X5" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3000006X5_20240826T235515SQUARE.png" group-title="🆁 English Movies 🇬🇧🇺🇸|☆ Tv Series",Home.Made.Nation 🇺🇸 [sᴀᴍsυɴɢᴛᴠᴘʟυs]
 https://bit.ly/3vrdSf1?profile=USAJ3000006X5.m3u8
 
-#EXTINF:-1 cuid="745" tvg-chno="745" tvg-name="BBC Home & Garden 🇬🇧" tvg-id="5fb5836fe745b600070fc743" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC600017FG_20240722T230859SQUARE.png" group-title="🆁 English 🇬🇧🇺🇸|☆ Tv Series",BBC Home & Garden 🇬🇧 [ᴘʟυᴛᴏ]
+#EXTINF:-1 cuid="745" tvg-chno="745" tvg-name="BBC Home & Garden 🇬🇧" tvg-id="5fb5836fe745b600070fc743" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC600017FG_20240722T230859SQUARE.png" group-title="🆁 English Movies 🇬🇧🇺🇸|☆ Tv Series",BBC Home & Garden 🇬🇧 [ᴘʟυᴛᴏ]
 https://stitcher.pluto.tv/stitch/hls/channel/5fb5836fe745b600070fc743/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=cb5874fc-6948-11ef-b8e3-ea3db3d97a96
 
-#EXTINF:-1 cuid="746" tvg-chno="746" tvg-name="Homes Under the Hammer 🇬🇧" tvg-id="GBBC900013K9" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC900013K9_20230208T012821SQUARE.png_20230208012822.png" group-title="🆁 English 🇬🇧🇺🇸|☆ Tv Series",Homes Under the Hammer 🇬🇧 [ᴠɪᴅᴀᴀ]
+#EXTINF:-1 cuid="746" tvg-chno="746" tvg-name="Homes Under the Hammer 🇬🇧" tvg-id="GBBC900013K9" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC900013K9_20230208T012821SQUARE.png_20230208012822.png" group-title="🆁 English Movies 🇬🇧🇺🇸|☆ Tv Series",Homes Under the Hammer 🇬🇧 [ᴠɪᴅᴀᴀ]
 https://all3media-homes-under-the-hammer-1-gb.vidaa.wurl.tv/playlist.m3u8
 
 --- 📺  𝙈𝙤𝙫𝙞𝙚𝙨 𝘾𝙝𝙖𝙣𝙣𝙚𝙡𝙨 🎬
@@ -2192,131 +2194,131 @@ https://all3media-homes-under-the-hammer-1-gb.vidaa.wurl.tv/playlist.m3u8
 #EXTINF:-1 cuid="751" tvg-chno="751" tvg-name="Trailers 🇪🇸" tvg-id="ESBC1700004PX" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBA3300048YJ_20240709T045109SQUARE.png" group-title="🆁 Hispânicos 🌍|☆ Peliculas 🇪🇸🇨🇱",Trailers 🇪🇸
 https://bit.ly/3WChqoj?ESBC1700004PX.m3u8
 
-#EXTINF:-1 cuid="753" tvg-chno="753" tvg-name="MIH TV By Movie Fone tv 🇺🇸" tvg-id="5e20b730f2f8d5003d739db7-60db63d29ec966002c9ea6f0" tvg-logo="https://pbs.twimg.com/profile_images/700470249162825730/7o8nGc8n_200x200.jpg" group-title="🆁 English 🇬🇧🇺🇸|☆ Movies 📽️",MIH TV By Movie Fone tv 🇺🇸
+#EXTINF:-1 cuid="753" tvg-chno="753" tvg-name="MIH TV By Movie Fone tv 🇺🇸" tvg-id="5e20b730f2f8d5003d739db7-60db63d29ec966002c9ea6f0" tvg-logo="https://pbs.twimg.com/profile_images/700470249162825730/7o8nGc8n_200x200.jpg" group-title="🆁 English Movies 🇬🇧🇺🇸|☆ Films 📽️",MIH TV By Movie Fone tv 🇺🇸
 https://connection3-ent-br.tcl.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 cuid="754" tvg-chno="754" tvg-name="Brividy Cinema 🇮🇹" tvg-id="ITBD600001CL" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD600001CL_20240423T033448SQUARE.png" group-title="🆁 Italy 🇮🇹|☆ Film 📽️",Brividy Cinema 🇮🇹
 https://0219a5c3ba50427ba7885f9cf5e2ccdd.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Samsung-it_Serially/playlist.m3u8?ads.wurl_channel=1418&ads.wurl_name=Serially&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
 
-#EXTINF:-1 cuid="755" tvg-chno="755" tvg-name="Twilight saga (cc 🇺🇸 available)" tvg-id="66e03cd715d2c60008e0b219" tvg-logo="https://images.pluto.tv/channels/66e03cd715d2c60008e0b219/colorLogoPNG.png" group-title="🆁 English 🇬🇧🇺🇸|☆ Movies 📽️",Twilight saga [ᴘʟυᴛᴏ]
+#EXTINF:-1 cuid="755" tvg-chno="755" tvg-name="Twilight saga (cc 🇺🇸 available)" tvg-id="66e03cd715d2c60008e0b219" tvg-logo="https://images.pluto.tv/channels/66e03cd715d2c60008e0b219/colorLogoPNG.png" group-title="🆁 English Movies 🇬🇧🇺🇸|☆ Films 📽️",Twilight saga [ᴘʟυᴛᴏ]
 #https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/66e03cd715d2c60008e0b219/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=github.com/inspirationlinks&deviceDNT=1
 
-#EXTINF:-1 cuid="756" tvg-chno="756" tvg-name="Tubi Originals 🇺🇸" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/12/Tubi_Originals_2021.png" group-title="🆁 English 🇬🇧🇺🇸|☆ Movies 📽️",Tubi Originals 🇺🇸
+#EXTINF:-1 cuid="756" tvg-chno="756" tvg-name="Tubi Originals 🇺🇸" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/12/Tubi_Originals_2021.png" group-title="🆁 English Movies 🇬🇧🇺🇸|☆ Films 📽️",Tubi Originals 🇺🇸
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Tubi-Originals.m3u8
 
-#EXTINF:-1 cuid="757" tvg-chno="757" tvg-name="Freebie tv 🇺🇸" tvg-logo="https://i.imgur.com/KbmXdjm.png" group-title="🆁 English 🇬🇧🇺🇸|☆ Movies 📽️",Freebie tv 🇺🇸
+#EXTINF:-1 cuid="757" tvg-chno="757" tvg-name="Freebie tv 🇺🇸" tvg-logo="https://i.imgur.com/KbmXdjm.png" group-title="🆁 English Movies 🇬🇧🇺🇸|☆ Films 📽️",Freebie tv 🇺🇸
 https://d1h1d6qoy9vnra.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Freebie-Plex/187.m3u8
-#EXTINF:-1 cuid="757" tvg-chno="757" tvg-name="Freebie tv 🇺🇸" tvg-logo="https://i.imgur.com/KbmXdjm.png" group-title="🆁 English 🇬🇧🇺🇸|☆ Movies 📽️",Freebie tv 🇺🇸
+#EXTINF:-1 cuid="757" tvg-chno="757" tvg-name="Freebie tv 🇺🇸" tvg-logo="https://i.imgur.com/KbmXdjm.png" group-title="🆁 English Movies 🇬🇧🇺🇸|☆ Films 📽️",Freebie tv 🇺🇸
 https://d1h1d6qoy9vnra.cloudfront.net/v1/manifest/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Freebie-Plex/9d6b0d9d-78e2-4f1e-85a6-ae695397d75c/2.m3u8
 
-#EXTINF:-1 cuid="758" tvg-chno="758" tvg-name="Rakuten British Films 🇬🇧" tvg-id="UK:.Top.Movies.-.Rakuten.TV.en" tvg-logo="https://yt3.googleusercontent.com/sC6_eDb_dPx9GKys5Ewglk_pCmHzdOpMeaq0OV_l2Kbxp2nhC4pThY_a-sbLh0xz3ohVqcvMhQ=s900-c-k-c0x00ffffff-no-rj" group-title="🆁 English 🇬🇧🇺🇸|☆ Movies 📽️",Rakuten British Films 🇬🇧
+#EXTINF:-1 cuid="758" tvg-chno="758" tvg-name="Rakuten British Films 🇬🇧" tvg-id="UK:.Top.Movies.-.Rakuten.TV.en" tvg-logo="https://yt3.googleusercontent.com/sC6_eDb_dPx9GKys5Ewglk_pCmHzdOpMeaq0OV_l2Kbxp2nhC4pThY_a-sbLh0xz3ohVqcvMhQ=s900-c-k-c0x00ffffff-no-rj" group-title="🆁 English Movies 🇬🇧🇺🇸|☆ Films 📽️",Rakuten British Films 🇬🇧
 https://rakuten-british-films-1-gb.vidaa.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 cuid="759" tvg-chno="759" tvg-name="Rakuten Thriller 🇬🇧" tvg-id="UK:.Drama.Movies.-.Rakuten.TV.en" tvg-logo="https://yt3.googleusercontent.com/sC6_eDb_dPx9GKys5Ewglk_pCmHzdOpMeaq0OV_l2Kbxp2nhC4pThY_a-sbLh0xz3ohVqcvMhQ=s900-c-k-c0x00ffffff-no-rj" group-title="🆁 English 🇬🇧🇺🇸|☆ Movies 📽️",Rakuten Thriller 🇬🇧
+#EXTINF:-1 cuid="759" tvg-chno="759" tvg-name="Rakuten Thriller 🇬🇧" tvg-id="UK:.Drama.Movies.-.Rakuten.TV.en" tvg-logo="https://yt3.googleusercontent.com/sC6_eDb_dPx9GKys5Ewglk_pCmHzdOpMeaq0OV_l2Kbxp2nhC4pThY_a-sbLh0xz3ohVqcvMhQ=s900-c-k-c0x00ffffff-no-rj" group-title="🆁 English Movies 🇬🇧🇺🇸|☆ Films 📽️",Rakuten Thriller 🇬🇧
 https://rakuten-thriller-1-gb.vidaa.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 cuid="760" tvg-chno="760" tvg-name="CinePride 🇺🇸" tvg-id="5e20b730f2f8d5003d739db7-62167144ab2095ca85353ad6" tvg-logo="https://provider-static.plex.tv/epg/cms/production/4729689c-cf27-4e2b-886c-165b4656c006/Cinepride_artwork_horizontal.jpeg" group-title="🆁 English 🇬🇧🇺🇸|☆ Movies 📽️",CinePride 🇺🇸
+#EXTINF:-1 cuid="760" tvg-chno="760" tvg-name="CinePride 🇺🇸" tvg-id="5e20b730f2f8d5003d739db7-62167144ab2095ca85353ad6" tvg-logo="https://provider-static.plex.tv/epg/cms/production/4729689c-cf27-4e2b-886c-165b4656c006/Cinepride_artwork_horizontal.jpeg" group-title="🆁 English Movies 🇬🇧🇺🇸|☆ Films 📽️",CinePride 🇺🇸
 #https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-62167144ab2095ca85353ad6.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=Xhes1yoJoJhSCRzY7pLM
 
 #EXTINF:-1 cuid="764" tvg-chno="764" tvg-name="Cine Drama 🇪🇸" tvg-id="5f1ac947dcd00d0007937c08" tvg-logo="https://images.pluto.tv/channels/5f1ac947dcd00d0007937c08/colorLogoPNG.png" group-title="🆁 Hispânicos 🌍|☆ Peliculas 🇪🇸🇨🇱",Cine Drama 🇪🇸 [ᴘʟυᴛᴏ]
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1ac947dcd00d0007937c08/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&deviceMake=Revolucioniptv&deviceDNT=1
 
-#EXTINF:-1 cuid="761" tvg-chno="768" tvg-name="Trending Now" tvg-id="5a4d3a00ad95e4718ae8d8db" tvg-logo="https://images.pluto.tv/channels/5a4d3a00ad95e4718ae8d8db/colorLogoPNG.png" group-title="🆁 English 🇬🇧🇺🇸|☆ Movies 📽️",Pluto Comedy 🇺🇸 [ᴘʟυᴛᴏ]
+#EXTINF:-1 cuid="761" tvg-chno="768" tvg-name="Trending Now" tvg-id="5a4d3a00ad95e4718ae8d8db" tvg-logo="https://images.pluto.tv/channels/5a4d3a00ad95e4718ae8d8db/colorLogoPNG.png" group-title="🆁 English Movies 🇬🇧🇺🇸|☆ Films 📽️",Pluto Comedy 🇺🇸 [ᴘʟυᴛᴏ]
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5a4d3a00ad95e4718ae8d8db/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=github.com/inspirationlinks&deviceDNT=1
 
-#EXTINF:-1 cuid="761" tvg-chno="761" tvg-name="Pluto TV Movies 🇺🇸" tvg-id="5ad8d3a31b95267e225e4e09" tvg-logo="https://images.pluto.tv/channels/5ad8d3a31b95267e225e4e09/colorLogoPNG.png" group-title="🆁 English 🇬🇧🇺🇸|☆ Movies 📽️",Pluto TV Movies 🇺🇸 [ᴘʟυᴛᴏ]
+#EXTINF:-1 cuid="761" tvg-chno="761" tvg-name="Pluto TV Movies 🇺🇸" tvg-id="5ad8d3a31b95267e225e4e09" tvg-logo="https://images.pluto.tv/channels/5ad8d3a31b95267e225e4e09/colorLogoPNG.png" group-title="🆁 English Movies 🇬🇧🇺🇸|☆ Films 📽️",Pluto TV Movies 🇺🇸 [ᴘʟυᴛᴏ]
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ad8d3a31b95267e225e4e09/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=github.com/inspirationlinks&deviceDNT=1
 
-#EXTINF:-1 cuid="762" tvg-chno="762" tvg-name="Pluto TV Icons 🇺🇸" tvg-id="64b585f84ea480000838e446" tvg-logo="https://images.pluto.tv/channels/64b585f84ea480000838e446/colorLogoPNG.png" group-title="🆁 English 🇬🇧🇺🇸|☆ Movies 📽️",Pluto TV Icons 🇺🇸 [ᴘʟυᴛᴏ]
+#EXTINF:-1 cuid="762" tvg-chno="762" tvg-name="Pluto TV Icons 🇺🇸" tvg-id="64b585f84ea480000838e446" tvg-logo="https://images.pluto.tv/channels/64b585f84ea480000838e446/colorLogoPNG.png" group-title="🆁 English Movies 🇬🇧🇺🇸|☆ Films 📽️",Pluto TV Icons 🇺🇸 [ᴘʟυᴛᴏ]
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/64b585f84ea480000838e446/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=github.com/inspirationlinks&deviceDNT=1
 
-#EXTINF:-1 cuid="763" tvg-chno="763" tvg-name="Pluto TV Action 🇺🇸" tvg-id="5dbfeb961b411c00090b52b3" tvg-logo="https://images.pluto.tv/channels/5dbfeb961b411c00090b52b3/colorLogoPNG.png" group-title="🆁 English 🇬🇧🇺🇸|☆ Movies 📽️",Pluto Action 🇺🇸 [ᴘʟυᴛᴏ]
+#EXTINF:-1 cuid="763" tvg-chno="763" tvg-name="Pluto TV Action 🇺🇸" tvg-id="5dbfeb961b411c00090b52b3" tvg-logo="https://images.pluto.tv/channels/5dbfeb961b411c00090b52b3/colorLogoPNG.png" group-title="🆁 English Movies 🇬🇧🇺🇸|☆ Films 📽️",Pluto Action 🇺🇸 [ᴘʟυᴛᴏ]
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dbfeb961b411c00090b52b3/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=github.com/inspirationlinks&deviceDNT=1
 
-#EXTINF:-1 cuid="765" tvg-chno="765" tvg-name="Fantastic Movies 🇺🇸" tvg-id="5b64a245a202b3337f09e51d" tvg-logo="https://images.pluto.tv/channels/5b64a245a202b3337f09e51d/colorLogoPNG.png" group-title="🆁 English 🇬🇧🇺🇸|☆ Movies 📽️",Pluto Fantastic Movies 🇺🇸 [ᴘʟυᴛᴏ]
+#EXTINF:-1 cuid="765" tvg-chno="765" tvg-name="Fantastic Movies 🇺🇸" tvg-id="5b64a245a202b3337f09e51d" tvg-logo="https://images.pluto.tv/channels/5b64a245a202b3337f09e51d/colorLogoPNG.png" group-title="🆁 English Movies 🇬🇧🇺🇸|☆ Films 📽️",Pluto Fantastic Movies 🇺🇸 [ᴘʟυᴛᴏ]
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5b64a245a202b3337f09e51d/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&deviceMake=Revolucioniptv&deviceDNT=1
 
-#EXTINF:-1 cuid="766" tvg-chno="766" tvg-name="Crime Movies 🇺🇸" tvg-id="5f4d8594eb979c0007706de7" tvg-logo="https://images.pluto.tv/channels/5f4d8594eb979c0007706de7/colorLogoPNG.png" group-title="🆁 English 🇬🇧🇺🇸|☆ Movies 📽️",Pluto Crime Movies 🇺🇸 [ᴘʟυᴛᴏ]
+#EXTINF:-1 cuid="766" tvg-chno="766" tvg-name="Crime Movies 🇺🇸" tvg-id="5f4d8594eb979c0007706de7" tvg-logo="https://images.pluto.tv/channels/5f4d8594eb979c0007706de7/colorLogoPNG.png" group-title="🆁 English Movies 🇬🇧🇺🇸|☆ Films 📽️",Pluto Crime Movies 🇺🇸 [ᴘʟυᴛᴏ]
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f4d8594eb979c0007706de7/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&deviceMake=Revolucioniptv&deviceDNT=1
 
-#EXTINF:-1 cuid="767" tvg-chno="767" tvg-name="Reaction Movies 🇺🇸" tvg-id="617b37b361e0fd0008cfd8c5" tvg-logo="https://images.pluto.tv/channels/617b37b361e0fd0008cfd8c5/colorLogoPNG.png" group-title="🆁 English 🇬🇧🇺🇸|☆ Movies 📽️",Pluto Reaction Movies 🇺🇸 [ᴘʟυᴛᴏ]
+#EXTINF:-1 cuid="767" tvg-chno="767" tvg-name="Reaction Movies 🇺🇸" tvg-id="617b37b361e0fd0008cfd8c5" tvg-logo="https://images.pluto.tv/channels/617b37b361e0fd0008cfd8c5/colorLogoPNG.png" group-title="🆁 English Movies 🇬🇧🇺🇸|☆ Films 📽️",Pluto Reaction Movies 🇺🇸 [ᴘʟυᴛᴏ]
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/617b37b361e0fd0008cfd8c5/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&deviceMake=Revolucioniptv&deviceDNT=1
 
-#EXTINF:-1 cuid="768" tvg-chno="768" tvg-name="Action Movies 🇺🇸" tvg-id="561d7d484dc7c8770484914a" tvg-logo="https://images.pluto.tv/channels/561d7d484dc7c8770484914a/colorLogoPNG.png" group-title="🆁 English 🇬🇧🇺🇸|☆ Movies 📽️",Pluto Action Movies 🇺🇸 [ᴘʟυᴛᴏ]
+#EXTINF:-1 cuid="768" tvg-chno="768" tvg-name="Action Movies 🇺🇸" tvg-id="561d7d484dc7c8770484914a" tvg-logo="https://images.pluto.tv/channels/561d7d484dc7c8770484914a/colorLogoPNG.png" group-title="🆁 English Movies 🇬🇧🇺🇸|☆ Films 📽️",Pluto Action Movies 🇺🇸 [ᴘʟυᴛᴏ]
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/561d7d484dc7c8770484914a/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&deviceMake=Revolucioniptv&deviceDNT=1
 
-#EXTINF:-1 cuid="768" tvg-chno="768" tvg-name="Action Movies 🇺🇸" tvg-id="5dc02a44a9518600094273ac" tvg-logo="https://images.pluto.tv/channels/5dc02a44a9518600094273ac/colorLogoPNG.png" group-title="🆁 English 🇬🇧🇺🇸|☆ Movies 📽️",Pluto SCI FI 🇺🇸 [ᴘʟυᴛᴏ]
+#EXTINF:-1 cuid="768" tvg-chno="768" tvg-name="Action Movies 🇺🇸" tvg-id="5dc02a44a9518600094273ac" tvg-logo="https://images.pluto.tv/channels/5dc02a44a9518600094273ac/colorLogoPNG.png" group-title="🆁 English Movies 🇬🇧🇺🇸|☆ Films 📽️",Pluto SCI FI 🇺🇸 [ᴘʟυᴛᴏ]
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dc02a44a9518600094273ac/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=github.com/inspirationlinks&deviceDNT=1
 
-#EXTINF:-1 cuid="768" tvg-chno="768" tvg-name="Trending Now" tvg-id="673247127d5da5000817b4d6" tvg-logo="https://images.pluto.tv/channels/673247127d5da5000817b4d6/colorLogoPNG.png" group-title="🆁 English 🇬🇧🇺🇸|☆ Movies 📽️",Trending Now 🇺🇸 [ᴘʟυᴛᴏ]
+#EXTINF:-1 cuid="768" tvg-chno="768" tvg-name="Trending Now" tvg-id="673247127d5da5000817b4d6" tvg-logo="https://images.pluto.tv/channels/673247127d5da5000817b4d6/colorLogoPNG.png" group-title="🆁 English Movies 🇬🇧🇺🇸|☆ Films 📽️",Trending Now 🇺🇸 [ᴘʟυᴛᴏ]
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/673247127d5da5000817b4d6/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=github.com/inspirationlinks&deviceDNT=1
 
-#EXTINF:-1 cuid="769" tvg-chno="769" tvg-name="Miramax Movies Cnannel 🇺🇸" tvg-id="5e20b730f2f8d5003d739db7-661fca34414d94009d1206ec" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US18000163F_20240716T002709SQUARE.png" group-title="🆁 English 🇬🇧🇺🇸|☆ Movies 📽️",Miramax Movies Cnannel 🇺🇸
+#EXTINF:-1 cuid="769" tvg-chno="769" tvg-name="Miramax Movies Cnannel 🇺🇸" tvg-id="5e20b730f2f8d5003d739db7-661fca34414d94009d1206ec" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US18000163F_20240716T002709SQUARE.png" group-title="🆁 English Movies 🇬🇧🇺🇸|☆ Films 📽️",Miramax Movies Cnannel 🇺🇸
 https://linear-798.frequency.stream/mt/plex/798/hls/master/playlist.m3u8
 
-#EXTINF:-1 cuid="770" tvg-chno="770" tvg-name="Miramax Movies Cnannel 🇺🇸" tvg-id="US18000163F" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US18000163F_20240716T002709SQUARE.png" group-title="🆁 English 🇬🇧🇺🇸|☆ Movies 📽️",Miramax Movies Cnannel 🇺🇸
+#EXTINF:-1 cuid="770" tvg-chno="770" tvg-name="Miramax Movies Cnannel 🇺🇸" tvg-id="US18000163F" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US18000163F_20240716T002709SQUARE.png" group-title="🆁 English Movies 🇬🇧🇺🇸|☆ Films 📽️",Miramax Movies Cnannel 🇺🇸
 https://d3d9ae4yefa76z.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-by82ttgbu16zf/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=US18000163F
 
-#EXTINF:-1 cuid="771" tvg-chno="771" tvg-name="FilmRise 🇺🇸" tvg-logo="https://sales.filmrise.com/img/878ec6c87891209ffcc1.png" group-title="🆁 English 🇬🇧🇺🇸|☆ Movies 📽️",FilmRise 🇺🇸
+#EXTINF:-1 cuid="771" tvg-chno="771" tvg-name="FilmRise 🇺🇸" tvg-logo="https://sales.filmrise.com/img/878ec6c87891209ffcc1.png" group-title="🆁 English Movies 🇬🇧🇺🇸|☆ Films 📽️",FilmRise 🇺🇸
 https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991337
 
-#EXTINF:-1 cuid="772" tvg-chno="772" tvg-name="FilmRise Free Movies 🇨🇦" tvg-id="plex.tv.FilmRise.Free.Movies.plex" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CAAJ40000077N_20241112T231511SQUARE.png" group-title="🆁 English 🇬🇧🇺🇸|☆ Movies 📽️",FilmRise Free Movies 🇨🇦
+#EXTINF:-1 cuid="772" tvg-chno="772" tvg-name="FilmRise Free Movies 🇨🇦" tvg-id="plex.tv.FilmRise.Free.Movies.plex" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CAAJ40000077N_20241112T231511SQUARE.png" group-title="🆁 English Movies 🇬🇧🇺🇸|☆ Films 📽️",FilmRise Free Movies 🇨🇦
 https://d3fmqi91qduj7.cloudfront.net/11401/88814500/hls/master.m3u8?ads.xumo_channelId=88814500&ads.xumo_streamId=88814500
 
-#EXTINF:-1 cuid="773" tvg-chno="773" tvg-name="FilmRise Action 🇨🇦" tvg-id="CAAJ2700014EE" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CAAJ2700014EE_20241112T231505SQUARE.png" group-title="🆁 English 🇬🇧🇺🇸|☆ Movies 📽️",FilmRise Action 🇨🇦
+#EXTINF:-1 cuid="773" tvg-chno="773" tvg-name="FilmRise Action 🇨🇦" tvg-id="CAAJ2700014EE" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CAAJ2700014EE_20241112T231505SQUARE.png" group-title="🆁 English Movies 🇬🇧🇺🇸|☆ Films 📽️",FilmRise Action 🇨🇦
 https://d3fmqi91qduj7.cloudfront.net/11401/88814502/hls/master.m3u8?ads.xumo_channelId=88814502&ads.xumo_streamId=88814502
 
-#EXTINF:-1 cuid="774" tvg-chno="774" tvg-name="FilmRise Sci-Fi 🇺🇸" tvg-id="plex.tv.FilmRise.Sci-Fi.plex" tvg-logo="https://sales.filmrise.com/img/878ec6c87891209ffcc1.png" group-title="🆁 English 🇬🇧🇺🇸|☆ Movies 📽️",FilmRise Sci-Fi 🇺🇸
+#EXTINF:-1 cuid="774" tvg-chno="774" tvg-name="FilmRise Sci-Fi 🇺🇸" tvg-id="plex.tv.FilmRise.Sci-Fi.plex" tvg-logo="https://sales.filmrise.com/img/878ec6c87891209ffcc1.png" group-title="🆁 English Movies 🇬🇧🇺🇸|☆ Films 📽️",FilmRise Sci-Fi 🇺🇸
 https://d3is52sgpnlx4c.cloudfront.net/10901/88885513/hls/master.m3u8?withResolution=true&ads.xumo_channelId=88885513
 
-#EXTINF:-1 cuid="775" tvg-chno="775" tvg-name="Movie Favorites By Lifetime 🇺🇸" tvg-id="63335b193583440007c859fb" tvg-logo="https://images.pluto.tv/channels/63335b193583440007c859fb/colorLogoPNG.png" group-title="🆁 English 🇬🇧🇺🇸|☆ Movies 📽️",Movie Favorites By Lifetime 🇺🇸 [ᴘʟυᴛᴏ]
+#EXTINF:-1 cuid="775" tvg-chno="775" tvg-name="Movie Favorites By Lifetime 🇺🇸" tvg-id="63335b193583440007c859fb" tvg-logo="https://images.pluto.tv/channels/63335b193583440007c859fb/colorLogoPNG.png" group-title="🆁 English Movies 🇬🇧🇺🇸|☆ Films 📽️",Movie Favorites By Lifetime 🇺🇸 [ᴘʟυᴛᴏ]
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/63335b193583440007c859fb/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&deviceMake=Revolucioniptv&deviceDNT=1
 
-#EXTINF:-1 cuid="776" tvg-chno="776" tvg-name="Gravitas Movies 🇺🇸" tvg-id="USBD700011RE" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD700011RE_20240520T222902SQUARE.png" group-title="🆁 English 🇬🇧🇺🇸|☆ Movies 📽️",Gravitas Movies 🇺🇸
+#EXTINF:-1 cuid="776" tvg-chno="776" tvg-name="Gravitas Movies 🇺🇸" tvg-id="USBD700011RE" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD700011RE_20240520T222902SQUARE.png" group-title="🆁 English Movies 🇬🇧🇺🇸|☆ Films 📽️",Gravitas Movies 🇺🇸
 https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991312
 
-#EXTINF:-1 cuid="777" tvg-chno="777" tvg-name="Paramount Movie Channel 🇺🇸" tvg-id="5cb0cae7a461406ffe3f5213" tvg-logo="https://images.pluto.tv/channels/5cb0cae7a461406ffe3f5213/colorLogoPNG.png" group-title="🆁 English 🇬🇧🇺🇸|☆ Movies 📽️",Paramount Movie Channel 🇺🇸 [ᴘʟυᴛᴏ]
+#EXTINF:-1 cuid="777" tvg-chno="777" tvg-name="Paramount Movie Channel 🇺🇸" tvg-id="5cb0cae7a461406ffe3f5213" tvg-logo="https://images.pluto.tv/channels/5cb0cae7a461406ffe3f5213/colorLogoPNG.png" group-title="🆁 English Movies 🇬🇧🇺🇸|☆ Films 📽️",Paramount Movie Channel 🇺🇸 [ᴘʟυᴛᴏ]
 https://bit.ly/ParamountMovie_m3u8
 
-#EXTINF:-1 cuid="778" tvg-chno="778" tvg-name="MovieSphere 🇺🇸" tvg-id="GBBA33000557H" tvg-logo="https://images.pluto.tv/channels/6401d85a49839300087b116c/colorLogoPNG.png" group-title="🆁 English 🇬🇧🇺🇸|☆ Movies 📽️",MovieSphere 🇺🇸
+#EXTINF:-1 cuid="778" tvg-chno="778" tvg-name="MovieSphere 🇺🇸" tvg-id="GBBA33000557H" tvg-logo="https://images.pluto.tv/channels/6401d85a49839300087b116c/colorLogoPNG.png" group-title="🆁 English Movies 🇬🇧🇺🇸|☆ Films 📽️",MovieSphere 🇺🇸
 https://samsunguk-moviesphereuk-samsung-uk-s7xaa.amagi.tv/playlist/samsunguk-moviesphereuk-samsung-uk/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
 
-#EXTINF:-1 cuid="779" tvg-chno="779" tvg-name="MovieSphere by Lionsgate" tvg-id="64a3d96f060e830008af6745" tvg-logo="https://images.pluto.tv/channels/645e7828e1979c00087b75b4/colorLogoPNG.png" group-title="🆁 English 🇬🇧🇺🇸|☆ Movies 📽️",MovieSphere by Lionsgate 🇺🇸 [ᴘʟυᴛᴏ]
+#EXTINF:-1 cuid="779" tvg-chno="779" tvg-name="MovieSphere by Lionsgate" tvg-id="64a3d96f060e830008af6745" tvg-logo="https://images.pluto.tv/channels/645e7828e1979c00087b75b4/colorLogoPNG.png" group-title="🆁 English Movies 🇬🇧🇺🇸|☆ Films 📽️",MovieSphere by Lionsgate 🇺🇸 [ᴘʟυᴛᴏ]
 https://bit.ly/3Ho1O14?profile=64a3d96f060e830008af6745.m3u8
-#EXTINF:-1 cuid="779" tvg-chno="779" tvg-name="MovieSphere by Lionsgate" tvg-id="GBBA33000557H" tvg-logo="https://images.pluto.tv/channels/645e7828e1979c00087b75b4/colorLogoPNG.png" group-title="🆁 English 🇬🇧🇺🇸|☆ Movies 📽️",MovieSphere by Lionsgate 🇺🇸
+#EXTINF:-1 cuid="779" tvg-chno="779" tvg-name="MovieSphere by Lionsgate" tvg-id="GBBA33000557H" tvg-logo="https://images.pluto.tv/channels/645e7828e1979c00087b75b4/colorLogoPNG.png" group-title="🆁 English Movies 🇬🇧🇺🇸|☆ Films 📽️",MovieSphere by Lionsgate 🇺🇸
 https://samsunguk-moviesphereuk-samsung-uk-s7xaa.amagi.tv/playlist/samsunguk-moviesphereuk-samsung-uk/playlist.m3u8
 
-#EXTINF:-1 cuid="780" tvg-chno="780" tvg-name="MovieDome 🇬🇧" tvg-id="GBBB3800003JH" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBB3800003JH_20220323T071458SQUARE.png_20220323071500.png" group-title="🆁 English 🇬🇧🇺🇸|☆ Movies 📽️",MovieDome 🇬🇧
+#EXTINF:-1 cuid="780" tvg-chno="780" tvg-name="MovieDome 🇬🇧" tvg-id="GBBB3800003JH" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBB3800003JH_20220323T071458SQUARE.png_20220323071500.png" group-title="🆁 English Movies 🇬🇧🇺🇸|☆ Films 📽️",MovieDome 🇬🇧
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00771-kochfilmsgerman-moviedomeuk-tcl/playlist.m3u8
 
-#EXTINF:-1 cuid="781" tvg-chno="781" tvg-name="Now Fantasy Action SCI FI 🇺🇸" tvg-id="USBC6000225M" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC6000225M_20240520T222632CIRCLE.png" group-title="🆁 English 🇬🇧🇺🇸|☆ Movies 📽️",Now Fantasy Action SCI FI 🇺🇸
+#EXTINF:-1 cuid="781" tvg-chno="781" tvg-name="Now Fantasy Action SCI FI 🇺🇸" tvg-id="USBC6000225M" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC6000225M_20240520T222632CIRCLE.png" group-title="🆁 English Movies 🇬🇧🇺🇸|☆ Films 📽️",Now Fantasy Action SCI FI 🇺🇸
 https://dm1y3xxivi9lk.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-icxyqeotf73n4-prod/elec/en/elec_en.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
 
-#EXTINF:-1 cuid="782" tvg-chno="782" tvg-name="CineLife 🇺🇸" tvg-id="CineLife.distro" tvg-logo="https://www.cinelifeentertainment.com/wp-content/uploads/2019/01/logo-1.png" group-title="🆁 English 🇬🇧🇺🇸|☆ Movies 📽️",CineLife 🇺🇸
+#EXTINF:-1 cuid="782" tvg-chno="782" tvg-name="CineLife 🇺🇸" tvg-id="CineLife.distro" tvg-logo="https://www.cinelifeentertainment.com/wp-content/uploads/2019/01/logo-1.png" group-title="🆁 English Movies 🇬🇧🇺🇸|☆ Films 📽️",CineLife 🇺🇸
 https://magnolia-cinelife.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 cuid="783" tvg-chno="783" tvg-name="Icon Films Classics 🇬🇧" tvg-id="GB12000052F" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB12000052F_20240709T044438SQUARE.png" group-title="🆁 English 🇬🇧🇺🇸|☆ Movies 📽️",Icon Films Classics 🇬🇧
+#EXTINF:-1 cuid="783" tvg-chno="783" tvg-name="Icon Films Classics 🇬🇧" tvg-id="GB12000052F" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB12000052F_20240709T044438SQUARE.png" group-title="🆁 English Movies 🇬🇧🇺🇸|☆ Films 📽️",Icon Films Classics 🇬🇧
 https://iconfilmsdistribution-iconfilmchannelclassics-1-gb.lg.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 cuid="784" tvg-chno="784" tvg-name="Hallmark Movies & More 🇺🇸" tvg-id="5e20b730f2f8d5003d739db7-6244cf3c742b0d58cd4f2514" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/07/31/USBB19000017U_20210525T051431.png" group-title="🆁 English 🇬🇧🇺🇸|☆ Movies 📽️",Hallmark Movies & More 🇺🇸
+#EXTINF:-1 cuid="784" tvg-chno="784" tvg-name="Hallmark Movies & More 🇺🇸" tvg-id="5e20b730f2f8d5003d739db7-6244cf3c742b0d58cd4f2514" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/07/31/USBB19000017U_20210525T051431.png" group-title="🆁 English Movies 🇬🇧🇺🇸|☆ Films 📽️",Hallmark Movies & More 🇺🇸
 https://d3l10ju7ii2sha.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-301fj9dsme11n/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE
 
-#EXTINF:-1 cuid="785" tvg-chno="785" tvg-name="Movieitaly Channel 🇺🇸🇮🇹" tvg-id="5e20b730f2f8d5003d739db7-65d90ec99c7a6da8c3ce57eb" tvg-logo="https://provider-static.plex.tv/epg/cms/production/6f847490-8a69-42db-8e89-3e0cc53f4168/HORIZONtalMI_O_-_Simona_Campobasso.jpg" group-title="🆁 English 🇬🇧🇺🇸|☆ Movies 📽️",Movieitaly Channel 🇺🇸🇮🇹
+#EXTINF:-1 cuid="785" tvg-chno="785" tvg-name="Movieitaly Channel 🇺🇸🇮🇹" tvg-id="5e20b730f2f8d5003d739db7-65d90ec99c7a6da8c3ce57eb" tvg-logo="https://provider-static.plex.tv/epg/cms/production/6f847490-8a69-42db-8e89-3e0cc53f4168/HORIZONtalMI_O_-_Simona_Campobasso.jpg" group-title="🆁 English Movies 🇬🇧🇺🇸|☆ Films 📽️",Movieitaly Channel 🇺🇸🇮🇹
 #https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-65d90ec99c7a6da8c3ce57eb.m3u8?X-Plex-Client-Identifier=xgkz9ui5tipdsflhzmh1ar3h&X-Plex-Client-Platform=Chrome&X-Plex-Token=sVR9P5G-vhJ6P64uQoaY
 
-#EXTINF:-1 cuid="786" tvg-chno="786" tvg-name="Midnight Pulp 🇺🇸🇰🇷" tvg-id="USBD700015LK" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD700015LK_20240702T044839SQUARE.png" group-title="🆁 English 🇬🇧🇺🇸|☆ Movies 📽️",Midnight Pulp 🇺🇸🇰🇷
+#EXTINF:-1 cuid="786" tvg-chno="786" tvg-name="Midnight Pulp 🇺🇸🇰🇷" tvg-id="USBD700015LK" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD700015LK_20240702T044839SQUARE.png" group-title="🆁 English Movies 🇬🇧🇺🇸|☆ Films 📽️",Midnight Pulp 🇺🇸🇰🇷
 https://amg01201-cinedigmenterta-midnightpulp-cineverse-axym1.amagi.tv/playlist/amg01201-cinedigmenterta-midnightpulp-cineverse/playlist.m3u8
 
-#EXTINF:-1 cuid="787" tvg-chno="787" tvg-name="New KMovies 🇺🇸🇰🇷" tvg-id="USAJ30000122O" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ30000122O_20241008T212627SQUARE.png" group-title="🆁 English 🇬🇧🇺🇸|☆ Movies 📽️",New KMovies 🇺🇸🇰🇷
+#EXTINF:-1 cuid="787" tvg-chno="787" tvg-name="New KMovies 🇺🇸🇰🇷" tvg-id="USAJ30000122O" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ30000122O_20241008T212627SQUARE.png" group-title="🆁 English Movies 🇬🇧🇺🇸|☆ Films 📽️",New KMovies 🇺🇸🇰🇷
 https://e6391536675d4e7f8ce0c849732f33b5.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/LocalNow_NewMovies/playlist.m3u8
 
-#EXTINF:-1 cuid="788" tvg-chno="788" tvg-name="Samuel Goldwyn Films 🇺🇸" tvg-id="plex.tv.Samuel.Goldwyn.Channel.plex" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/12/SamuelGoldwyn.jpg" group-title="🆁 English 🇬🇧🇺🇸|☆ Movies 📽️",Samuel Goldwyn Films 🇺🇸 [ʀᴏkυ]
+#EXTINF:-1 cuid="788" tvg-chno="788" tvg-name="Samuel Goldwyn Films 🇺🇸" tvg-id="plex.tv.Samuel.Goldwyn.Channel.plex" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/12/SamuelGoldwyn.jpg" group-title="🆁 English Movies 🇬🇧🇺🇸|☆ Films 📽️",Samuel Goldwyn Films 🇺🇸 [ʀᴏkυ]
 https://samuelgoldwyn-films-1-us.roku.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 cuid="789" tvg-chno="789" tvg-name="Filmzie Doc 🇺🇸" tvg-logo="https://filmzie.com/assets/images/common/favicon-a3ea3628.png" group-title="🆁 English 🇬🇧🇺🇸|☆ Movies 📽️",Filmzie Doc 🇺🇸
+#EXTINF:-1 cuid="789" tvg-chno="789" tvg-name="Filmzie Doc 🇺🇸" tvg-logo="https://filmzie.com/assets/images/common/favicon-a3ea3628.png" group-title="🆁 English Movies 🇬🇧🇺🇸|☆ Films 📽️",Filmzie Doc 🇺🇸
 https://filmzie-filmzie-3-us.zeasn.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 cuid="804" tvg-chno="804" tvg-name="Filmzie 🇺🇸" tvg-id="UK:.Filmzie.en" tvg-logo="https://filmzie.com/assets/images/common/favicon-a3ea3628.png" group-title="🆁 English 🇬🇧🇺🇸|☆ Movies 📽️",Filmzie 🇺🇸
+#EXTINF:-1 cuid="804" tvg-chno="804" tvg-name="Filmzie 🇺🇸" tvg-id="UK:.Filmzie.en" tvg-logo="https://filmzie.com/assets/images/common/favicon-a3ea3628.png" group-title="🆁 English Movies 🇬🇧🇺🇸|☆ Films 📽️",Filmzie 🇺🇸
 https://filmzie-filmzie-1-eu.zeasn.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 cuid="791" tvg-chno="791" tvg-name="Cine Max 🇫🇷" tvg-logo="https://moviaz.com/upload/S%C3%A9rie%20Max.jpg" group-title="🆁 France 🇫🇷|☆ Films 📽️",Cine Max 🇫🇷
@@ -2325,16 +2327,16 @@ https://video1.getstreamhosting.com:1936/8432/8432/playlist.m3u8
 #EXTINF:-1 cuid="792" tvg-chno="792" tvg-name="Free tv 🇨🇱" tvg-id="plex.tv.FreeTV.Live.plex" tvg-logo="https://www.freetv.com/themes/custom/oly/freetv/logo.png" group-title="🆁 Hispânicos 🌍|☆ Peliculas 🇪🇸🇨🇱",Free tv 🇨🇱
 https://freetv.stream.olympusatmedia.com/index.m3u8
 
-#EXTINF:-1 cuid="793" tvg-chno="793" tvg-name="24 Hour Free Movies 🇺🇸" tvg-id="5e20b730f2f8d5003d739db7-5fd115bab7ef8d002dcf181d" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/arts/24hrfreemovies_artwork_horizontal-v2.jpg" group-title="🆁 English 🇬🇧🇺🇸|☆ Movies 📽️",24 Hour Free Movies 🇺🇸
+#EXTINF:-1 cuid="793" tvg-chno="793" tvg-name="24 Hour Free Movies 🇺🇸" tvg-id="5e20b730f2f8d5003d739db7-5fd115bab7ef8d002dcf181d" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/arts/24hrfreemovies_artwork_horizontal-v2.jpg" group-title="🆁 English Movies 🇬🇧🇺🇸|☆ Films 📽️",24 Hour Free Movies 🇺🇸
 https://d1b5mlajbmvkjv.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/UDU-DistroTV/145.m3u8
 
-#EXTINF:-1 cuid="794" tvg-chno="794" tvg-name="24 Hour Free Movies (vᴘɴ 🇺🇸)" tvg-id="5e20b730f2f8d5003d739db7-5fd115bab7ef8d002dcf181d" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/arts/24hrfreemovies_artwork_horizontal-v2.jpg" group-title="🆁 English 🇬🇧🇺🇸|☆ Movies 📽️",24 Hour Free Movies (vᴘɴ 🇺🇸)
+#EXTINF:-1 cuid="794" tvg-chno="794" tvg-name="24 Hour Free Movies (vᴘɴ 🇺🇸)" tvg-id="5e20b730f2f8d5003d739db7-5fd115bab7ef8d002dcf181d" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/arts/24hrfreemovies_artwork_horizontal-v2.jpg" group-title="🆁 English Movies 🇬🇧🇺🇸|☆ Films 📽️",24 Hour Free Movies (vᴘɴ 🇺🇸)
 #https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5fd115bab7ef8d002dcf181d.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=Qgy_9qeXsNx8Q9ANDZ9n
 
-#EXTINF:-1 cuid="795" tvg-chno="795" tvg-name="Samuel Goldwyn International (vᴘɴ 🇺🇸)" tvg-id="5e20b730f2f8d5003d739db7-624604480e3d6a85f19e37f1" tvg-logo="https://provider-static.plex.tv/epg/cms/production/0b3af7c7-f2ec-420e-96b5-f2a7eb3499b9/SamuelGoldwynInternational_artwork_horizontal_TT.jpeg" group-title="🆁 English 🇬🇧🇺🇸|☆ Movies 📽️",Samuel Goldwyn International (vᴘɴ 🇺🇸)
+#EXTINF:-1 cuid="795" tvg-chno="795" tvg-name="Samuel Goldwyn International (vᴘɴ 🇺🇸)" tvg-id="5e20b730f2f8d5003d739db7-624604480e3d6a85f19e37f1" tvg-logo="https://provider-static.plex.tv/epg/cms/production/0b3af7c7-f2ec-420e-96b5-f2a7eb3499b9/SamuelGoldwynInternational_artwork_horizontal_TT.jpeg" group-title="🆁 English Movies 🇬🇧🇺🇸|☆ Films 📽️",Samuel Goldwyn International (vᴘɴ 🇺🇸)
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-624604480e3d6a85f19e37f1.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=wgHyoK-YJ9buFXNJnKHT
 
-#EXTINF:-1 cuid="796" tvg-chno="796" tvg-name="Bigtime Free Movies (vᴘɴ 🇺🇸)" tvg-id="24.Hour.Free.Movies.distro" tvg-logo="https://provider-static.plex.tv/epg/cms/production/69cadeae-c655-4fcf-bd79-32db7a817365/Bigtime_Logo_WithArtwork_3840x2160_Daniel_Hotovy__Amogo_Networx_.jpg" group-title="🆁 English 🇬🇧🇺🇸|☆ Movies 📽️",Bigtime Free Movies (vᴘɴ 🇺🇸)
+#EXTINF:-1 cuid="796" tvg-chno="796" tvg-name="Bigtime Free Movies (vᴘɴ 🇺🇸)" tvg-id="24.Hour.Free.Movies.distro" tvg-logo="https://provider-static.plex.tv/epg/cms/production/69cadeae-c655-4fcf-bd79-32db7a817365/Bigtime_Logo_WithArtwork_3840x2160_Daniel_Hotovy__Amogo_Networx_.jpg" group-title="🆁 English Movies 🇬🇧🇺🇸|☆ Films 📽️",Bigtime Free Movies (vᴘɴ 🇺🇸)
 #https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6348a4f190b96ef5e0eb3286.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=Qgy_9qeXsNx8Q9ANDZ9n
 
 #EXTINF:-1 cuid="797" tvg-chno="797" tvg-name="Freetv Acción 🇨🇱" tvg-id="FreeTV.Acción.distro" tvg-logo="https://provider-static.plex.tv/epg/cms/production/b55e7498-db05-435b-b2df-2eb737aeeeb8/FreeTVAction_Circle_1500x1000_-_Ralph_Campillo.png" group-title="🆁 Hispânicos 🌍|☆ Peliculas 🇪🇸🇨🇱",Freetv Acción 🇨🇱 [ʀᴏkυ]
@@ -2345,76 +2347,76 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-freetvcl-lgcl/playl
 
 --- 📺 𝙒𝙚𝙨𝙩𝙚𝙧𝙣 & 𝘾𝙡𝙖𝙨𝙨𝙞𝙘𝙨 𝙏𝙫 📽️
 
-#EXTINF:-1 cuid="799" tvg-chno="799" tvg-name="Nost Network (vᴘɴ 🇺🇸)" tvg-id="NOST.-.The.Nostalgia.Network.distro" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/NOST-1080x1080.jpg/800px-NOST-1080x1080.jpg" group-title="🆁 English 🇬🇧🇺🇸|☆ Classic Films 📼",Nost Network (vᴘɴ 🇺🇸)
+#EXTINF:-1 cuid="799" tvg-chno="799" tvg-name="Nost Network (vᴘɴ 🇺🇸)" tvg-id="NOST.-.The.Nostalgia.Network.distro" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/NOST-1080x1080.jpg/800px-NOST-1080x1080.jpg" group-title="🆁 English Movies 🇬🇧🇺🇸|☆ Classic Films 📼",Nost Network (vᴘɴ 🇺🇸)
 https://dai.google.com/linear/hls/event/wnQPvAN9QBODw9hP-H0rZA/master.m3u8
 
-#EXTINF:-1 cuid="802" tvg-chno="802" tvg-name="WBTV Classic Cinema 🇺🇸" tvg-logo="https://canvas.tubitv.com/opts/n101qdscaAvbSg==/e1b1d4ba-dfdb-4441-a534-b34b25ce8654/CNIHEMAEOgUxLjEuMg==" group-title="🆁 English 🇬🇧🇺🇸|☆ Classic Films 📼",WBTV Classic Cinema 🇺🇸
+#EXTINF:-1 cuid="802" tvg-chno="802" tvg-name="WBTV Classic Cinema 🇺🇸" tvg-logo="https://canvas.tubitv.com/opts/n101qdscaAvbSg==/e1b1d4ba-dfdb-4441-a534-b34b25ce8654/CNIHEMAEOgUxLjEuMg==" group-title="🆁 English Movies 🇬🇧🇺🇸|☆ Classic Films 📼",WBTV Classic Cinema 🇺🇸
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,WBD-Classic-Cinema.m3u8
 
-#EXTINF:-1 cuid="803" tvg-chno="803" tvg-name="Samuel Goldwyn Classics" tvg-id="plex.tv.Samuel.Goldwyn.Classics.plex" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f7411c62-627f-4be2-ac35-c792c53ddf12/SamuelGoldwynClassics_artwork_horizontal_TT.jpeg" group-title="🆁 English 🇬🇧🇺🇸|☆ Classic Films 📼",Samuel Goldwyn Classics 🇺🇸 [ʀᴏkυ]
+#EXTINF:-1 cuid="803" tvg-chno="803" tvg-name="Samuel Goldwyn Classics" tvg-id="plex.tv.Samuel.Goldwyn.Classics.plex" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f7411c62-627f-4be2-ac35-c792c53ddf12/SamuelGoldwynClassics_artwork_horizontal_TT.jpeg" group-title="🆁 English Movies 🇬🇧🇺🇸|☆ Classic Films 📼",Samuel Goldwyn Classics 🇺🇸 [ʀᴏkυ]
 https://samuelgoldwyn-classics-1-us.roku.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 cuid="805" tvg-chno="805" tvg-name="" tvg-id="561c5b0dada51f8004c4d855"  tvg-logo="https://images.pluto.tv/channels/561c5b0dada51f8004c4d855/colorLogoPNG.png" group-title="🆁 English 🇬🇧🇺🇸|☆ Western Films 🤠",Pluto Classic Movies 🇺🇸 [ᴘʟυᴛᴏ]
+#EXTINF:-1 cuid="805" tvg-chno="805" tvg-name="" tvg-id="561c5b0dada51f8004c4d855"  tvg-logo="https://images.pluto.tv/channels/561c5b0dada51f8004c4d855/colorLogoPNG.png" group-title="🆁 English Movies 🇬🇧🇺🇸|☆ Western Films 🤠",Pluto Classic Movies 🇺🇸 [ᴘʟυᴛᴏ]
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/561c5b0dada51f8004c4d855/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&deviceMake=github.com/inspirationlinks&deviceDNT=1
 
-#EXTINF:-1 cuid="805" tvg-chno="805" tvg-name="FilmStream 🇺🇸" tvg-id="5e20b730f2f8d5003d739db7-5f5132e162fe160040f26bdb" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBAJ4900011Y4_20220323T071426SQUARE.png_20220323071430.png" group-title="🆁 English 🇬🇧🇺🇸|☆ Classic Films 📼",FilmStream 🇺🇸
+#EXTINF:-1 cuid="805" tvg-chno="805" tvg-name="FilmStream 🇺🇸" tvg-id="5e20b730f2f8d5003d739db7-5f5132e162fe160040f26bdb" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBAJ4900011Y4_20220323T071426SQUARE.png_20220323071430.png" group-title="🆁 English Movies 🇬🇧🇺🇸|☆ Classic Films 📼",FilmStream 🇺🇸
 https://spi-filmstream-1-nl.samsung.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 cuid="806" tvg-chno="806" tvg-name="CineWestern 🇺🇸" tvg-id="CHAJ3500001Z8" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHAJ3500001Z8_20240214T040042SQUARE.png_20240214040043.png" group-title="🆁 English 🇬🇧🇺🇸|☆ Western Films 🤠",CineWestern 🇺🇸
+#EXTINF:-1 cuid="806" tvg-chno="806" tvg-name="CineWestern 🇺🇸" tvg-id="CHAJ3500001Z8" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHAJ3500001Z8_20240214T040042SQUARE.png_20240214040043.png" group-title="🆁 English Movies 🇬🇧🇺🇸|☆ Western Films 🤠",CineWestern 🇺🇸
 https://2ff966dcc4f34213a59732a80e87635a.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-ch_WP/playlist.m3u8?ads.wurl_channel=933&ads.wurl_name=WP&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
 
-#EXTINF:-1 cuid="807" tvg-chno="807" tvg-name="FilmRise Classic TV 🇺🇸" tvg-id="CAAJ2700008QA" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CAAJ2700008QA_20220824T022329SQUARE.png_20220824022330.png" group-title="🆁 English 🇬🇧🇺🇸|☆ Classic Films 📼",FilmRise Classic TV 🇺🇸
+#EXTINF:-1 cuid="807" tvg-chno="807" tvg-name="FilmRise Classic TV 🇺🇸" tvg-id="CAAJ2700008QA" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CAAJ2700008QA_20220824T022329SQUARE.png_20220824022330.png" group-title="🆁 English Movies 🇬🇧🇺🇸|☆ Classic Films 📼",FilmRise Classic TV 🇺🇸
 https://d3fmqi91qduj7.cloudfront.net/11401/88814514/hls/master.m3u8?ads.xumo_channelId=88814514&ads.xumo_streamId=88814514
 
-#EXTINF:-1 cuid="808" tvg-chno="808" tvg-name="FilmRise Classic TV 🇺🇸" tvg-id="CAAJ2700008QA" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CAAJ2700008QA_20220824T022329SQUARE.png_20220824022330.png" group-title="🆁 English 🇬🇧🇺🇸|☆ Classic Films 📼",FilmRise Classic TV 🇺🇸
+#EXTINF:-1 cuid="808" tvg-chno="808" tvg-name="FilmRise Classic TV 🇺🇸" tvg-id="CAAJ2700008QA" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CAAJ2700008QA_20220824T022329SQUARE.png_20220824022330.png" group-title="🆁 English Movies 🇬🇧🇺🇸|☆ Classic Films 📼",FilmRise Classic TV 🇺🇸
 https://d3bpiam1on3fys.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-yq6a0kzddrjxn/webvtt/v1/18584c3f3a2a4df8/88866005/master.m3u8?useRelativeUrls=true&skipBeacons=true&declaredCC1Language=en&ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=CAAJ2700008QA
 
-#EXTINF:-1 cuid="809" tvg-chno="809" tvg-name="00S REPLAY 🇬🇧" tvg-id="62ba60f059624e000781c436" tvg-logo="https://images.pluto.tv/channels/62ba60f059624e000781c436/colorLogoPNG.png" group-title="🆁 English 🇬🇧🇺🇸|☆ Classic Films 📼",00S REPLAY 🇬🇧 [ᴘʟυᴛᴏ]
+#EXTINF:-1 cuid="809" tvg-chno="809" tvg-name="00S REPLAY 🇬🇧" tvg-id="62ba60f059624e000781c436" tvg-logo="https://images.pluto.tv/channels/62ba60f059624e000781c436/colorLogoPNG.png" group-title="🆁 English Movies 🇬🇧🇺🇸|☆ Classic Films 📼",00S REPLAY 🇬🇧 [ᴘʟυᴛᴏ]
 https://is.gd/vlpdjt?62ba60f059624e000781c436.m3u8
 
-#EXTINF:-1 cuid="810" tvg-chno="810" tvg-name="90S Throwback 🇬🇧" tvg-id="5f4d86f519358a00072b978e" tvg-logo="https://images.pluto.tv/channels/5f4d86f519358a00072b978e/colorLogoPNG.png" group-title="🆁 English 🇬🇧🇺🇸|☆ Classic Films 📼",90S Throwback 🇬🇧 [ᴘʟυᴛᴏ]
+#EXTINF:-1 cuid="810" tvg-chno="810" tvg-name="90S Throwback 🇬🇧" tvg-id="5f4d86f519358a00072b978e" tvg-logo="https://images.pluto.tv/channels/5f4d86f519358a00072b978e/colorLogoPNG.png" group-title="🆁 English Movies 🇬🇧🇺🇸|☆ Classic Films 📼",90S Throwback 🇬🇧 [ᴘʟυᴛᴏ]
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f4d86f519358a00072b978e/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=github.com/inspirationlinks&deviceDNT=1
 
-#EXTINF:-1 cuid="812" tvg-chno="812" tvg-name="80S Rewind 🇬🇧" tvg-id="5ca525b650be2571e3943c63" tvg-logo="https://images.pluto.tv/channels/5ca525b650be2571e3943c63/colorLogoPNG.png" group-title="🆁 English 🇬🇧🇺🇸|☆ Classic Films 📼",80S Rewind 🇬🇧 [ᴘʟυᴛᴏ]
+#EXTINF:-1 cuid="812" tvg-chno="812" tvg-name="80S Rewind 🇬🇧" tvg-id="5ca525b650be2571e3943c63" tvg-logo="https://images.pluto.tv/channels/5ca525b650be2571e3943c63/colorLogoPNG.png" group-title="🆁 English Movies 🇬🇧🇺🇸|☆ Classic Films 📼",80S Rewind 🇬🇧 [ᴘʟυᴛᴏ]
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ca525b650be2571e3943c63/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=github.com/inspirationlinks&deviceDNT=1
 
-#EXTINF:-1 cuid="811" tvg-chno="811" tvg-name="Non-Stop '90s 🇺🇸" tvg-id="plex.tv.Non-Stop.`90s.plex" tvg-logo="https://provider-static.plex.tv/epg/cms/production/fd2fb28b-86b2-4134-81ba-49a0b10a4e7e/Nonstop90s_1920x1080_-_Paige_Sherman__1_.jpg" group-title="🆁 English 🇬🇧🇺🇸|☆ Classic Films 📼",Non-Stop '90s 🇺🇸
+#EXTINF:-1 cuid="811" tvg-chno="811" tvg-name="Non-Stop '90s 🇺🇸" tvg-id="plex.tv.Non-Stop.`90s.plex" tvg-logo="https://provider-static.plex.tv/epg/cms/production/fd2fb28b-86b2-4134-81ba-49a0b10a4e7e/Nonstop90s_1920x1080_-_Paige_Sherman__1_.jpg" group-title="🆁 English Movies 🇬🇧🇺🇸|☆ Classic Films 📼",Non-Stop '90s 🇺🇸
 https://s9host3.localnow.api.cms.amdvids.com/v1/master/c189661feba961c19bc5fb60b57879ee9b84548a/config11/dist/localnow/744/hls/master/playlist.m3u8?ads.cdnhost=s9host3.localnow.api.cms.amdvids.com&ads.playbackid=E2B93420-EB36-4052-B789-2AD8286E402B&ads.n1=rule_id&ads.v1=E7BB7BA1-D932-4E65-BD9F-93731E6E87C5-1714063241&ads.n3=qp_content_id&ads.v3=E2B93420-EB36-4052-B789-2AD8286E402B
 
-#EXTINF:-1 cuid="813" tvg-chno="813" tvg-name="SHOUT! TV 🇺🇸" tvg-id="USBD1200021JM" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD1200021JM_20241022T004347CIRCLE.png" group-title="🆁 English 🇬🇧🇺🇸|☆ Classic Films 📼",SHOUT! TV 🇺🇸
+#EXTINF:-1 cuid="813" tvg-chno="813" tvg-name="SHOUT! TV 🇺🇸" tvg-id="USBD1200021JM" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD1200021JM_20241022T004347CIRCLE.png" group-title="🆁 English Movies 🇬🇧🇺🇸|☆ Classic Films 📼",SHOUT! TV 🇺🇸
 https://d1e3a0zkn06gu7.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-pkf1jz7l0hork/playlist.m3u8
 
-#EXTINF:-1 cuid="814" tvg-chno="814" tvg-name="Universal Monsters 🇺🇸" tvg-id="65a9b20f0c7ff50008d3a3b6" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1900002QK_20240910T003815SQUARE.png" group-title="🆁 English 🇬🇧🇺🇸|☆ Classic Films 📼",Universal Monsters 🇺🇸[ᴘʟυᴛᴏ]
+#EXTINF:-1 cuid="814" tvg-chno="814" tvg-name="Universal Monsters 🇺🇸" tvg-id="65a9b20f0c7ff50008d3a3b6" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1900002QK_20240910T003815SQUARE.png" group-title="🆁 English Movies 🇬🇧🇺🇸|☆ Classic Films 📼",Universal Monsters 🇺🇸[ᴘʟυᴛᴏ]
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/65a9b20f0c7ff50008d3a3b6/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=github.com/inspirationlinks&deviceDNT=1
 
-#EXTINF:-1 cuid="815" tvg-chno="815" tvg-name="Cinevault 80s 🇺🇸" tvg-id="USAJ30000148W" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ30000148W_20240730T222508SQUARE.png" group-title="🆁 English 🇬🇧🇺🇸|☆ Classic Films 📼",Cinevault 80s 🇺🇸
+#EXTINF:-1 cuid="815" tvg-chno="815" tvg-name="Cinevault 80s 🇺🇸" tvg-id="USAJ30000148W" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ30000148W_20240730T222508SQUARE.png" group-title="🆁 English Movies 🇬🇧🇺🇸|☆ Classic Films 📼",Cinevault 80s 🇺🇸
 https://apollo.production-public.tubi.io/live/ac-cinevault-80s.m3u8
 
-#EXTINF:-1 cuid="816" tvg-chno="816" tvg-name="Cinevault Classics 🇺🇸" tvg-id="USBB3200015M8" tvg-logo="https://canvas-lb.tubitv.com/opts/Skmb-4dsXftLLw==/07448ddf-973b-4340-8779-32376a973248/CHgQeDoFMS4xLjJAAQ==" group-title="🆁 English 🇬🇧🇺🇸|☆ Classic Films 📼",Cinevault Classics 🇺🇸
+#EXTINF:-1 cuid="816" tvg-chno="816" tvg-name="Cinevault Classics 🇺🇸" tvg-id="USBB3200015M8" tvg-logo="https://canvas-lb.tubitv.com/opts/Skmb-4dsXftLLw==/07448ddf-973b-4340-8779-32376a973248/CHgQeDoFMS4xLjJAAQ==" group-title="🆁 English Movies 🇬🇧🇺🇸|☆ Classic Films 📼",Cinevault Classics 🇺🇸
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,CINEVAULT-Classics.m3u8
 
-#EXTINF:-1 cuid="817" tvg-chno="817" tvg-name="Cinevault Westerns 🇺🇸" tvg-id="USAK3508709A" tvg-logo="https://canvas-lb.tubitv.com/opts/BSRHayGaLjPoXA==/bda0dfca-9c16-4b67-8930-324a4b7a0dbd/CHgQeDoFMS4xLjVAAQ==" group-title="🆁 English 🇬🇧🇺🇸|☆ Western Films 🤠",Cinevault Westerns 🇺🇸
+#EXTINF:-1 cuid="817" tvg-chno="817" tvg-name="Cinevault Westerns 🇺🇸" tvg-id="USAK3508709A" tvg-logo="https://canvas-lb.tubitv.com/opts/BSRHayGaLjPoXA==/bda0dfca-9c16-4b67-8930-324a4b7a0dbd/CHgQeDoFMS4xLjVAAQ==" group-title="🆁 English Movies 🇬🇧🇺🇸|☆ Western Films 🤠",Cinevault Westerns 🇺🇸
 https://gsn-cinevault-westerns-1-us.lg.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 cuid="818" tvg-chno="818" tvg-name="LoneStar 🇺🇸" tvg-id="UK:.Lone.Star.en" tvg-logo="https://is.gd/noEcbn" group-title="🆁 English 🇬🇧🇺🇸|☆ Western Films 🤠",LoneStar 🇺🇸
+#EXTINF:-1 cuid="818" tvg-chno="818" tvg-name="LoneStar 🇺🇸" tvg-id="UK:.Lone.Star.en" tvg-logo="https://is.gd/noEcbn" group-title="🆁 English Movies 🇬🇧🇺🇸|☆ Western Films 🤠",LoneStar 🇺🇸
 https://lonestar-rakuten.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 cuid="819" tvg-chno="819" tvg-name="Action Hollywood Movies 🇺🇸" tvg-id="plex.tv.Action.Hollywood.Movies.plex" tvg-logo="https://i.mjh.nz/.images/ahm-FAST.png" group-title="🆁 English 🇬🇧🇺🇸|☆ Classic Films 📼",Action Hollywood Movies 🇺🇸
+#EXTINF:-1 cuid="819" tvg-chno="819" tvg-name="Action Hollywood Movies 🇺🇸" tvg-id="plex.tv.Action.Hollywood.Movies.plex" tvg-logo="https://i.mjh.nz/.images/ahm-FAST.png" group-title="🆁 English Movies 🇬🇧🇺🇸|☆ Classic Films 📼",Action Hollywood Movies 🇺🇸
 https://amg01076-lightningintern-actionhollywood-samsungnz-82rry.amagi.tv/playlist/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
 
-#EXTINF:-1 cuid="820" tvg-chno="820" tvg-name="TCM 🇺🇸" tvg-id="5e20b730f2f8d5003d739db7-66bfb17c144c201b8b61c10d" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/58/Tcm_logo_red.png" group-title="🆁 English 🇬🇧🇺🇸|☆ Classic Films 📼",TCM 🇺🇸
+#EXTINF:-1 cuid="820" tvg-chno="820" tvg-name="TCM 🇺🇸" tvg-id="5e20b730f2f8d5003d739db7-66bfb17c144c201b8b61c10d" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/58/Tcm_logo_red.png" group-title="🆁 English Movies 🇬🇧🇺🇸|☆ Classic Films 📼",TCM 🇺🇸
 http://143.244.60.30/TCM/index.m3u8
 
-#EXTINF:-1 cuid="820" tvg-chno="820" tvg-name="" tvg-id="plex.tv.Wild.West.TV.plex" tvg-logo="https://images.pluto.tv/channels/664e640a0120f40008be4582/thumbnail.jpg" group-title="🆁 English 🇬🇧🇺🇸|☆ Western Films 🤠",Wild West tv 🇺🇸 [ᴘʟυᴛᴏ]
+#EXTINF:-1 cuid="820" tvg-chno="820" tvg-name="" tvg-id="plex.tv.Wild.West.TV.plex" tvg-logo="https://images.pluto.tv/channels/664e640a0120f40008be4582/thumbnail.jpg" group-title="🆁 English Movies 🇬🇧🇺🇸|☆ Western Films 🤠",Wild West tv 🇺🇸 [ᴘʟυᴛᴏ]
 https://linear-799.frequency.stream/mt/studio/799/hls/master/playlist.m3u8
 
-#EXTINF:-1 cuid="820" tvg-chno="820" tvg-name="" tvg-id="664e640a0120f40008be4582" tvg-logo="https://images.pluto.tv/channels/664e640a0120f40008be4582/thumbnail.jpg" group-title="🆁 English 🇬🇧🇺🇸|☆ Western Films 🤠",Wild West tv 🇺🇸 [ᴘʟυᴛᴏ]
+#EXTINF:-1 cuid="820" tvg-chno="820" tvg-name="" tvg-id="664e640a0120f40008be4582" tvg-logo="https://images.pluto.tv/channels/664e640a0120f40008be4582/thumbnail.jpg" group-title="🆁 English Movies 🇬🇧🇺🇸|☆ Western Films 🤠",Wild West tv 🇺🇸 [ᴘʟυᴛᴏ]
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/664e640a0120f40008be4582/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=github.com/inspirationlinks&deviceDNT=1
 
 #EXTINF:-1 cuid="821" tvg-chno="821" tvg-name="RCM 🇮🇹🇺🇸" tvg-id="plex.tv.RCM.plex" tvg-logo="https://provider-static.plex.tv/epg/cms/production/8e9e9106-bf71-4255-a888-f89b1b8f3bd1/RCM_artwork_horizontal_-_Angela_ChanRDX.jpg" group-title="🆁 Italy 🇮🇹|☆ Film classici 📼",RCM 🇮🇹🇺🇸
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-rialto-samsungnz/playlist.m3u8
 
-#EXTINF:-1 cuid="823" tvg-chno="823" tvg-name="Charlie 🇺🇸" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/27/Chaplin_cartoon.jpg/220px-Chaplin_cartoon.jpg" group-title="🆁 English 🇬🇧🇺🇸|☆ Classic Films 📼",Charlie Silence Movie 🇺🇸
+#EXTINF:-1 cuid="823" tvg-chno="823" tvg-name="Charlie 🇺🇸" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/27/Chaplin_cartoon.jpg/220px-Chaplin_cartoon.jpg" group-title="🆁 English Movies 🇬🇧🇺🇸|☆ Classic Films 📼",Charlie Silence Movie 🇺🇸
 https://amogonetworx-charlie-1-br.tcl.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 cuid="824" tvg-chno="824" tvg-name="TVS Drive in Movie 🇺🇸🇮🇹" tvg-logo="https://www.watchyour.tv/channels/logo/tvs-drive-in-movie.jpg" group-title="🆁 Italy 🇮🇹|☆ Film Classici 📼",TVS Drive in Movie 🇺🇸🇮🇹
@@ -2425,16 +2427,16 @@ https://rpn.bozztv.com/gusa/gusa-tvswesternmovies/index.m3u8
 
 --- 📺  𝙏𝙚𝙧𝙧𝙤𝙧 𝘾𝙝𝙖𝙣𝙣𝙚𝙡𝙨 😱  
 
-#EXTINF:-1 cuid="826" tvg-chno="826" tvg-name="Trailers From Hell 🇺🇸" tvg-id="plex.tv.Trailers.From.Hell.plex" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/tfh.webp" group-title="🆁 English 🇬🇧🇺🇸|☆ Horror Movies 😱",Trailers From Hell 🇺🇸
+#EXTINF:-1 cuid="826" tvg-chno="826" tvg-name="Trailers From Hell 🇺🇸" tvg-id="plex.tv.Trailers.From.Hell.plex" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/tfh.webp" group-title="🆁 English Movies 🇬🇧🇺🇸|☆ Horror Movies 😱",Trailers From Hell 🇺🇸
 https://189067eb43d2471db5d0829668d625eb.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/LocalNow_TrailersFromHell/playlist.m3u8
 
-#EXTINF:-1 cuid="827" tvg-chno="827" tvg-name="Wedo Movies 🇬🇧" tvg-id="GBBA3300050RG" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBA3300050RG_20220323T071656SQUARE.png_20220323071659.png" group-title="🆁 English 🇬🇧🇺🇸|☆ Horror Movies 😱",Wedo Movies 🇬🇧 [xɪᴀᴏᴍɪ]
+#EXTINF:-1 cuid="827" tvg-chno="827" tvg-name="Wedo Movies 🇬🇧" tvg-id="GBBA3300050RG" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBA3300050RG_20220323T071656SQUARE.png_20220323071659.png" group-title="🆁 English Movies 🇬🇧🇺🇸|☆ Horror Movies 😱",Wedo Movies 🇬🇧 [xɪᴀᴏᴍɪ]
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00735-videosolutionsa-movies4free-xiaomi/playlist.m3u8
 
-#EXTINF:-1 cuid="828" tvg-chno="828" tvg-name="IFC Films Picks 🇺🇸" tvg-id="5e20b730f2f8d5003d739db7-5fc705eb052f6f002ef46057" tvg-logo="https://provider-static.plex.tv/9/epg/channels/logos/gracenote/956bc5f750ddad6a83cc2411a447a984.png" group-title="🆁 English 🇬🇧🇺🇸|☆ Horror Movies 😱",IFC Films Picks 🇺🇸
+#EXTINF:-1 cuid="828" tvg-chno="828" tvg-name="IFC Films Picks 🇺🇸" tvg-id="5e20b730f2f8d5003d739db7-5fc705eb052f6f002ef46057" tvg-logo="https://provider-static.plex.tv/9/epg/channels/logos/gracenote/956bc5f750ddad6a83cc2411a447a984.png" group-title="🆁 English Movies 🇬🇧🇺🇸|☆ Horror Movies 😱",IFC Films Picks 🇺🇸
 https://bit.ly/3T2BL51?5e20b730f2f8d5003d739db7-5fc705eb052f6f002ef46057.m3u8
 
-#EXTINF:-1 cuid="829" tvg-chno="829" tvg-name="AMC Thrillers 🇺🇸" tvg-id="5e20b730f2f8d5003d739db7-5fc705e2a2236e002d69f36d" tvg-logo="https://provider-static.plex.tv/6/epg/channels/logos/gracenote/6e7af423114c9f735d17e142783f233a.png" group-title="🆁 English 🇬🇧🇺🇸|☆ Horror Movies 😱",AMC Thrillers 🇺🇸
+#EXTINF:-1 cuid="829" tvg-chno="829" tvg-name="AMC Thrillers 🇺🇸" tvg-id="5e20b730f2f8d5003d739db7-5fc705e2a2236e002d69f36d" tvg-logo="https://provider-static.plex.tv/6/epg/channels/logos/gracenote/6e7af423114c9f735d17e142783f233a.png" group-title="🆁 English Movies 🇬🇧🇺🇸|☆ Horror Movies 😱",AMC Thrillers 🇺🇸
 https://436f59579436473e8168284cac5d725f.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_RushByAMC/playlist.m3u8
 
 ---
@@ -2448,61 +2450,61 @@ https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/66c35c0c92b1af0008c8e
 #EXTINF:-1 cuid="833" tvg-chno="833" tvg-name="Cine Friki 🇪🇸 (vᴘɴ 🇺🇸)" tvg-id="ES:.Cine.Friki.es" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD800001RJ_20240507T094205SQUARE.png" group-title="🆁 Hispânicos 🌍|☆ Peliculas Terror 😱",Cine Friki 🇪🇸 (vᴘɴ 🇺🇸)
 https://amg00711-zylo-amg00711c1-xiaomi-in-1317.playouts.now.amagi.tv/playlist/amg00711-zylofast-cinefriki-xiaomiin/playlist.m3u8
 
-#EXTINF:-1 cuid="834" tvg-chno="834" tvg-name="Horror Stories by WB (vᴘɴ 🇺🇸)" tvg-id="5e20b730f2f8d5003d739db7-66b136d2a9ef8c41ec0841ae" tvg-logo="https://provider-static.plex.tv/epg/cms/production/096e78d0-845b-4286-b8a6-885e47fb8c31/16x9.jpg" group-title="🆁 English 🇬🇧🇺🇸|☆ Horror Movies 😱",Horror Stories by WB (vᴘɴ 🇺🇸)
+#EXTINF:-1 cuid="834" tvg-chno="834" tvg-name="Horror Stories by WB (vᴘɴ 🇺🇸)" tvg-id="5e20b730f2f8d5003d739db7-66b136d2a9ef8c41ec0841ae" tvg-logo="https://provider-static.plex.tv/epg/cms/production/096e78d0-845b-4286-b8a6-885e47fb8c31/16x9.jpg" group-title="🆁 English Movies 🇬🇧🇺🇸|☆ Horror Movies 😱",Horror Stories by WB (vᴘɴ 🇺🇸)
 #https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-66b136d2a9ef8c41ec0841ae.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=Qgy_9qeXsNx8Q9ANDZ9n
 
-#EXTINF:-1 cuid="835" tvg-chno="835" tvg-name="Dread TV (vᴘɴ 🇺🇸)" tvg-id="5e20b730f2f8d5003d739db7-64a04b8a261d597ce8b4c9ec" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a6d258ed-919b-46ed-adf8-1a353e9ef463/Dread_TV_3840x2160.jpg" group-title="🆁 English 🇬🇧🇺🇸|☆ Horror Movies 😱",Dread TV (vᴘɴ 🇺🇸)
+#EXTINF:-1 cuid="835" tvg-chno="835" tvg-name="Dread TV (vᴘɴ 🇺🇸)" tvg-id="5e20b730f2f8d5003d739db7-64a04b8a261d597ce8b4c9ec" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a6d258ed-919b-46ed-adf8-1a353e9ef463/Dread_TV_3840x2160.jpg" group-title="🆁 English Movies 🇬🇧🇺🇸|☆ Horror Movies 😱",Dread TV (vᴘɴ 🇺🇸)
 #https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-64a04b8a261d597ce8b4c9ec.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=Qgy_9qeXsNx8Q9ANDZ9n
 
-#EXTINF:-1 cuid="836" tvg-chno="836" tvg-name="Scares by Shudder (vᴘɴ 🇺🇸)" tvg-id="5e20b730f2f8d5003d739db7-650b38f490baad1963ad96f9" tvg-logo="https://provider-static.plex.tv/epg/cms/production/af69a56a-b26a-42d5-8978-176bbace29a8/SHUD_FastChanel_Plex_HorizontalArt_3840x2160.jpg" group-title="🆁 English 🇬🇧🇺🇸|☆ Horror Movies 😱",Scares by Shudder (vᴘɴ 🇺🇸)
+#EXTINF:-1 cuid="836" tvg-chno="836" tvg-name="Scares by Shudder (vᴘɴ 🇺🇸)" tvg-id="5e20b730f2f8d5003d739db7-650b38f490baad1963ad96f9" tvg-logo="https://provider-static.plex.tv/epg/cms/production/af69a56a-b26a-42d5-8978-176bbace29a8/SHUD_FastChanel_Plex_HorizontalArt_3840x2160.jpg" group-title="🆁 English Movies 🇬🇧🇺🇸|☆ Horror Movies 😱",Scares by Shudder (vᴘɴ 🇺🇸)
 #https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-650b38f490baad1963ad96f9.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=Qgy_9qeXsNx8Q9ANDZ9n
 
-#EXTINF:-1 cuid="837" tvg-chno="837" tvg-name="Freetv Terror (vᴘɴ 🇺🇸)" tvg-logo="https://img3.static-ottera.com/prod/oly/linear_channel/thumbnails/square/213x213/freetv_horror_1080x1080_02092024.jpg" group-title="🆁 English 🇬🇧🇺🇸|☆ Horror Movies 😱",Freetv Terror (vᴘɴ 🇺🇸)
+#EXTINF:-1 cuid="837" tvg-chno="837" tvg-name="Freetv Terror (vᴘɴ 🇺🇸)" tvg-logo="https://img3.static-ottera.com/prod/oly/linear_channel/thumbnails/square/213x213/freetv_horror_1080x1080_02092024.jpg" group-title="🆁 English Movies 🇬🇧🇺🇸|☆ Horror Movies 😱",Freetv Terror (vᴘɴ 🇺🇸)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-enghorrorfy-freetv/playlist.m3u8
 
 #EXTINF:-1 cuid="838" tvg-chno="838" tvg-name="Freetv Terror 🇨🇱 (vᴘɴ 🇺🇸)" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/FreetvTerror.jpg" group-title="🆁 Hispânicos 🌍|☆ Peliculas Terror 😱",Freetv Terror 🇨🇱 (vᴘɴ 🇺🇸)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-horrorfycl-lgcl/playlist.m3u8
 
-#EXTINF:-1 cuid="839" tvg-chno="839" tvg-name="Cult Films 🇺🇸" tvg-id="5c665db3e6c01b72c4977bc2" tvg-logo="https://images.pluto.tv/channels/5c665db3e6c01b72c4977bc2/colorLogoPNG.png" group-title="🆁 English 🇬🇧🇺🇸|☆ Horror Movies 😱",Cult Films 🇺🇸 [ᴘʟυᴛᴏ]
+#EXTINF:-1 cuid="839" tvg-chno="839" tvg-name="Cult Films 🇺🇸" tvg-id="5c665db3e6c01b72c4977bc2" tvg-logo="https://images.pluto.tv/channels/5c665db3e6c01b72c4977bc2/colorLogoPNG.png" group-title="🆁 English Movies 🇬🇧🇺🇸|☆ Horror Movies 😱",Cult Films 🇺🇸 [ᴘʟυᴛᴏ]
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5c665db3e6c01b72c4977bc2/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=github.com/inspirationlinks&deviceDNT=1
 
-#EXTINF:-1 cuid="840" tvg-chno="840" tvg-name="FilmRise Horror 🇨🇦" tvg-id="FilmRiseHorror.us" tvg-logo="https://image.roku.com/developer_channels/prod/1d2d97093f7a391b79c46ee5c2c4c5403df2baa84deabf2641f15b4c2234da05.png" group-title="🆁 English 🇬🇧🇺🇸|☆ Horror Movies 😱",FilmRise Horror 🇨🇦 [ᴛυʙɪ]
+#EXTINF:-1 cuid="840" tvg-chno="840" tvg-name="FilmRise Horror 🇨🇦" tvg-id="FilmRiseHorror.us" tvg-logo="https://image.roku.com/developer_channels/prod/1d2d97093f7a391b79c46ee5c2c4c5403df2baa84deabf2641f15b4c2234da05.png" group-title="🆁 English Movies 🇬🇧🇺🇸|☆ Horror Movies 😱",FilmRise Horror 🇨🇦 [ᴛυʙɪ]
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,FilmRise-Horror-Canada.m3u8
 
-#EXTINF:-1 cuid="841" tvg-chno="841" tvg-name="Fear Zone 🇺🇸" tvg-id="USBC1300012VK" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC1300012VK_20241014T232248SQUARE.png" group-title="🆁 English 🇬🇧🇺🇸|☆ Horror Movies 😱",Fear Zone 🇺🇸
+#EXTINF:-1 cuid="841" tvg-chno="841" tvg-name="Fear Zone 🇺🇸" tvg-id="USBC1300012VK" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC1300012VK_20241014T232248SQUARE.png" group-title="🆁 English Movies 🇬🇧🇺🇸|☆ Horror Movies 😱",Fear Zone 🇺🇸
 https://d2poaftv7vl6fy.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-6sd5tbxf0p3kk-ssai-prd/amgholidaymovie/playlist.m3u8
 
 #EXTINF:-1 cuid="842" tvg-chno="842" tvg-name="ScreamIN 🇫🇷" tvg-id="CHBB46000021V" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBB4600002K5_20220323T080533SQUARE.png_20220323080535.png" group-title="🆁 France 🇫🇷|☆ Films d'horreur 😱"ScreamIN 🇫🇷 [xɪᴀᴏᴍɪ]
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-screamin-xiaomi/playlist.m3u8
 
-#EXTINF:-1 cuid="843" tvg-chno="843" tvg-name="Scream Box tv 🇺🇸" tvg-id="plex.tv.Screambox.TV.plex" tvg-logo="https://img2.static-ottera.com/prod/oly/linear_channel/thumbnails/square/213x213/screambox_500x500_011924.jpg" group-title="🆁 English 🇬🇧🇺🇸|☆ Horror Movies 😱",Scream Box tv 🇺🇸 [ʟᴏcᴀʟɴᴏw]
+#EXTINF:-1 cuid="843" tvg-chno="843" tvg-name="Scream Box tv 🇺🇸" tvg-id="plex.tv.Screambox.TV.plex" tvg-logo="https://img2.static-ottera.com/prod/oly/linear_channel/thumbnails/square/213x213/screambox_500x500_011924.jpg" group-title="🆁 English Movies 🇬🇧🇺🇸|☆ Horror Movies 😱",Scream Box tv 🇺🇸 [ʟᴏcᴀʟɴᴏw]
 https://bloodydisgustingtv-localnow-cinedigm-com.akamaized.net/index.m3u8
 
-#EXTINF:-1 cuid="844" tvg-chno="844" tvg-name="Watch it Scream 🇺🇸" tvg-id="plex.tv.Watch.it.SCREAM.plex" tvg-logo="https://img1.static-ottera.com/prod/oly/linear_channel/thumbnails/square/213x213/watchitscream_500x500_011924.jpg" group-title="🆁 English 🇬🇧🇺🇸|☆ Horror Movies 😱",Watch it Scream 🇺🇸 [ᴏᴛᴛᴇʀᴀ]
+#EXTINF:-1 cuid="844" tvg-chno="844" tvg-name="Watch it Scream 🇺🇸" tvg-id="plex.tv.Watch.it.SCREAM.plex" tvg-logo="https://img1.static-ottera.com/prod/oly/linear_channel/thumbnails/square/213x213/watchitscream_500x500_011924.jpg" group-title="🆁 English Movies 🇬🇧🇺🇸|☆ Horror Movies 😱",Watch it Scream 🇺🇸 [ᴏᴛᴛᴇʀᴀ]
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=2257
 
-#EXTINF:-1 cuid="830" tvg-chno="830" tvg-name="TCL Horror 🇺🇸" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDU3ZGUxNzYtNzI2Yi00MDNkLTgxYzYtMDcyOGI0ZmEwMGEzXkEyXkFqcGc@._V1_.jpg" group-title="🆁 English 🇬🇧🇺🇸|☆ Horror Movies 😱",TCL Horror 🇺🇸 [ᴏᴛᴛᴇʀᴀ]
+#EXTINF:-1 cuid="830" tvg-chno="830" tvg-name="TCL Horror 🇺🇸" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDU3ZGUxNzYtNzI2Yi00MDNkLTgxYzYtMDcyOGI0ZmEwMGEzXkEyXkFqcGc@._V1_.jpg" group-title="🆁 English Movies 🇬🇧🇺🇸|☆ Horror Movies 😱",TCL Horror 🇺🇸 [ᴏᴛᴛᴇʀᴀ]
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=12075
 
-#EXTINF:-1 cuid="844" tvg-chno="844" tvg-name="" tvg-id="AmericanHorrors.us" tvg-logo="https://image.roku.com/developer_channels/prod/16f5571a82819e8992a748c70b256cbe63105f4b546b73d129668dc2cb701d91.png" group-title="🆁 English 🇬🇧🇺🇸|☆ Horror Movies 😱",American Horrors 🇺🇸
+#EXTINF:-1 cuid="844" tvg-chno="844" tvg-name="" tvg-id="AmericanHorrors.us" tvg-logo="https://image.roku.com/developer_channels/prod/16f5571a82819e8992a748c70b256cbe63105f4b546b73d129668dc2cb701d91.png" group-title="🆁 English Movies 🇬🇧🇺🇸|☆ Horror Movies 😱",American Horrors 🇺🇸
 http://107.167.7.162:8081/playlist/amhor/playlist.m3u8
 
 #EXTINF:-1 cuid="845" tvg-chno="845" tvg-name="Bizzarro Movies 🇮🇹🇺🇸" tvg-id="ITBA3300024IU" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBA3300024IU_20240214T034959SQUARE.png_20240214034959.png" group-title="🆁 Italy 🇮🇹|☆ Film dell'orrore 😱",Bizzarro Movies 🇮🇹🇺🇸
 https://minerva-bizzarromovies-1-it.samsung.wurl.tv/playlist.m3u8 
 
-#EXTINF:-1 cuid="845" tvg-chno="845" tvg-name="" tvg-id="5c6dc88fcd232425a6e0f06e" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBA3300024IU_20240214T034959SQUARE.png_20240214034959.png" group-title="🆁 English 🇬🇧🇺🇸|☆ Horror Movies 😱",Pluto Terror 🇺🇸 [ᴘʟυᴛᴏ]
+#EXTINF:-1 cuid="845" tvg-chno="845" tvg-name="" tvg-id="5c6dc88fcd232425a6e0f06e" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBA3300024IU_20240214T034959SQUARE.png_20240214034959.png" group-title="🆁 English Movies 🇬🇧🇺🇸|☆ Horror Movies 😱",Pluto Terror 🇺🇸 [ᴘʟυᴛᴏ]
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5c6dc88fcd232425a6e0f06e/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&deviceMake=github.com/inspirationlinks&deviceDNT=1
 
-#EXTINF:-1 cuid="846" tvg-chno="846" tvg-name="Pluto Horror 🇺🇸" tvg-id="569546031a619b8f07ce6e25" tvg-logo="https://images.pluto.tv/channels/569546031a619b8f07ce6e25/colorLogoPNG.png" group-title="🆁 English 🇬🇧🇺🇸|☆ Horror Movies 😱",Pluto Horror 🇺🇸 [ᴘʟυᴛᴏ]
+#EXTINF:-1 cuid="846" tvg-chno="846" tvg-name="Pluto Horror 🇺🇸" tvg-id="569546031a619b8f07ce6e25" tvg-logo="https://images.pluto.tv/channels/569546031a619b8f07ce6e25/colorLogoPNG.png" group-title="🆁 English Movies 🇬🇧🇺🇸|☆ Horror Movies 😱",Pluto Horror 🇺🇸 [ᴘʟυᴛᴏ]
 https://bit.ly/horrorterror?/master_4.m3u8
 
-#EXTINF:-1 cuid="847" tvg-chno="847" tvg-name="FrightFlix 🇺🇸" tvg-id="5e20b730f2f8d5003d739db7-621674502c2627c068e73ada" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/FrightFlix.webp" group-title="🆁 English 🇬🇧🇺🇸|☆ Horror Movies 😱",FrightFlix 🇺🇸
+#EXTINF:-1 cuid="847" tvg-chno="847" tvg-name="FrightFlix 🇺🇸" tvg-id="5e20b730f2f8d5003d739db7-621674502c2627c068e73ada" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/FrightFlix.webp" group-title="🆁 English Movies 🇬🇧🇺🇸|☆ Horror Movies 😱",FrightFlix 🇺🇸
 https://b81ea6a237a99f732a8a56c17e6e1733.7wzuvg.channel-assembly.mediatailor.us-east-1.amazonaws.com/v1/channel/Frightflix_Loop_no-link/index-frightflix-nolink.m3u8
 
-#EXTINF:-1 cuid="848" tvg-chno="848" tvg-name="Horror Machine 🇺🇸" tvg-id="Horror.Machine.distro" tvg-logo="https://a.jsrdn.com/hls/22930/horror-machine/logo_20210423_225948_70.png" group-title="🆁 English 🇬🇧🇺🇸|☆ Horror Movies 😱",Horror Machine 🇺🇸
+#EXTINF:-1 cuid="848" tvg-chno="848" tvg-name="Horror Machine 🇺🇸" tvg-id="Horror.Machine.distro" tvg-logo="https://a.jsrdn.com/hls/22930/horror-machine/logo_20210423_225948_70.png" group-title="🆁 English Movies 🇬🇧🇺🇸|☆ Horror Movies 😱",Horror Machine 🇺🇸
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/horrormachine/playlist.m3u8
 
-#EXTINF:-1 cuid="849" tvg-chno="849" tvg-name="Horror Machine 🇺🇸" tvg-id="Horror.Machine.distro" tvg-logo="https://a.jsrdn.com/hls/22930/horror-machine/logo_20210423_225948_70.png" group-title="🆁 English 🇬🇧🇺🇸|☆ Horror Movies 😱",Horror Machine 🇺🇸
+#EXTINF:-1 cuid="849" tvg-chno="849" tvg-name="Horror Machine 🇺🇸" tvg-id="Horror.Machine.distro" tvg-logo="https://a.jsrdn.com/hls/22930/horror-machine/logo_20210423_225948_70.png" group-title="🆁 English Movies 🇬🇧🇺🇸|☆ Horror Movies 😱",Horror Machine 🇺🇸
 https://linear-82.frequency.stream/dist/localnow/82/hls/master/playlist.m3u8
 
 --- 📺  𝙋𝙖𝙧𝙖𝙣𝙤𝙧𝙢𝙖𝙡 𝙏𝙫 👽  
