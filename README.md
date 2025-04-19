@@ -66,8 +66,6 @@ Backup: xCYaL6 | Password: 123
 
 [💬👉 Telegram](https://t.me/Ittuga)
 
-[📝 Conteúdo da lista iptv](https://pastecode.dev/raw/tz2t5fyg/paste1.txt)
-
 
 IPTV PARA OS POBRES 
 Estamos a trabalhar no intuito de melhorar o serviço com mais variedade de conteúdos, Temáticas e outras opções. Tudo a pensar em si.
