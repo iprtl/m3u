@@ -114,7 +114,7 @@ https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tvipt/s
 #EXTINF:-1 cuid="20" tvg-name="TVI Internacionalᶠᴴᴰ 🇵🇹 (𝓑𝙮: thomraider12)" tvg-id="TVI.Internacional.pt" tvg-logo="https://logo.iptveditor.com/tviinternacional.png" group-title="🌈🆁™Portugal 🇵🇹🇲🇴🇲🇿",TVI Internacionalᶠᴴᴰ 🇵🇹 (𝓑𝙮: thomraider12)
 https://github.com/thomraider12/canaistvpt/raw/main/m3u8s/tvi.m3u8
 #EXTINF:-1 cuid="21" tvg-name="TVI Internacionalᶠᴴᴰ 🇵🇹" tvg-id="tvi.internacional.pt" tvg-logo="https://logo.iptveditor.com/tviinternacional.png" group-title="🌈🆁™Portugal 🇵🇹🇲🇴🇲🇿",TVI Internacionalᶠᴴᴰ 🇵🇹
-https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xOC8yMDI1IDg6MzU6NTggUE0maGFzaF92YWx1ZT1UeWZkalJOQ2liYU5EcUVOcXIvQzZnPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9NDg3NTRhZDYtZjNkOC00OGQ3LTkwNjUtOTUxY2MyMDZjYjQ2/
+https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDI1IDI6Njo1NCBBTSZoYXNoX3ZhbHVlPU1saG9hMUsvVTBLQkdsdHdUT1BTYUE9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD1kODYyZTk3OS0wN2Q4LTQyODAtODNmMC1iOWJhZWI0NjhmNTA=/
 
 --- 🌈🆁™ 
 
@@ -124,7 +124,7 @@ https://github.com/thomraider12/canaistvpt/raw/main/m3u8s/tvi.m3u8
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tvipt/sh/tvi.m3u8
 #EXTINF:-1 cuid="24" tvg-name="TVI 🇵🇹" tvg-id="TVI.HD.pt" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/tvi.webp" group-title="🌈🆁™Portugal 🇵🇹🇲🇴🇲🇿",TVI 🇵🇹
 🇵🇹
-https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xOC8yMDI1IDg6MzU6NTYgUE0maGFzaF92YWx1ZT1Fb1c3aThwUTVyaGhmNEJTalBjM2JBPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9NTA3ZDM3NDAtMDIxMS00NTEwLTkxZWEtM2E0ZTMwMTMyOTU0/
+https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDI1IDI6Njo1MyBBTSZoYXNoX3ZhbHVlPWtCSGJNMndWeFpCbEx1WHV3Tkx4UkE9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD1lMGJiODBlYy1lYjc0LTQ0MWUtYmQ3OC02NzgwZjVmMTM4NmI=/
 
 --- 🌈🆁™ 
 
@@ -170,14 +170,14 @@ https://github.com/thomraider12/canaistvpt/raw/main/m3u8s/cnnpt.m3u8
 #EXTINF:-1 cuid="26" tvg-name="CNN Portugal 🇵🇹" tvg-id="CNN.Portugal.HD.pt" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/CNNPortugal.webp" group-title="🌈🆁™News 🇵🇹🇧🇷",CNN Portugal 🇵🇹
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tvipt/sh/cnnpt.m3u8
 #EXTINF:-1 cuid="27" tvg-name="CNN Portugal 🇵🇹" tvg-id="CNN.Portugal.HD.pt" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/CNNPortugal.webp" group-title="🌈🆁™News 🇵🇹🇧🇷",CNN Portugal 🇵🇹
-https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xOC8yMDI1IDg6MzU6NTcgUE0maGFzaF92YWx1ZT1FM1VFamhsUXE5MUVra01Kd1JGVlhBPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9YzVhM2Y5NDUtYjJmNC00YzFmLThhNDAtNTVmMjQ5YzQ4ZmUz/
+https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDI1IDI6Njo1NCBBTSZoYXNoX3ZhbHVlPVpUQlRncEZyWTh4TnFneG1VWnNGNEE9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD00MmZlYjIxMi05OWQ5LTRlMGMtYTcwNS02OWI5YmY5NWEyNTI=/
 
 --- 🌈🆁™ 
 
 #EXTINF:-1 cuid="41" tvg-name="Euronews 🇵🇹" tvg-id="Euronews.pt" tvg-logo="https://pt.euronews.com/favicon-192x192.png" group-title="🌈🆁™News 🇵🇹🇧🇷",Euronews 🇵🇹
 https://euronews-live-por-pt.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6572/7392d4f0-7e24-4dbe-8482-f165e712eeed/5.m3u8
 #EXTINF:-1 cuid="42" tvg-name="Euronews 🇵🇹" tvg-id="619e6614c9d9650007a2b171" tvg-logo="https://images.pluto.tv/channels/619e6614c9d9650007a2b171/colorLogoPNG.png" group-title="🌈🆁™News 🇵🇹🇧🇷",Euronews 🇵🇹
-https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xOC8yMDI1IDg6MzU6NTcgUE0maGFzaF92YWx1ZT1FM1VFamhsUXE5MUVra01Kd1JGVlhBPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9YzVhM2Y5NDUtYjJmNC00YzFmLThhNDAtNTVmMjQ5YzQ4ZmUz/
+https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDI1IDI6Njo1NCBBTSZoYXNoX3ZhbHVlPVpUQlRncEZyWTh4TnFneG1VWnNGNEE9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD00MmZlYjIxMi05OWQ5LTRlMGMtYTcwNS02OWI5YmY5NWEyNTI=/
 
 #EXTINF:-1 cuid="60" tvg-name="Record News 🇧🇷" tvg-id="RECORDNEWS" tvg-logo="https://images.pluto.tv/channels/6102e04e9ab1db0007a980a1/colorLogoPNG.png" group-title="🌈🆁™News 🇵🇹🇧🇷",Record News 🇧🇷 [ᴏᴛᴛᴇʀᴀ]
 https://rnw-rn-samsungtvplus.otteravision.com/rnw/rn/rnw_rn.m3u8
