@@ -92,7 +92,7 @@ https://production-fast-sic.content.okast.tv/fa2e8c4385712f9aa54bbe52b1bd9b6b/ch
 #EXTINF:-1 cuid="19" tvg-name="TVI Internacionalᶠᴴᴰ 🇵🇹" tvg-id="tvi.internacional.pt" tvg-logo="https://logo.iptveditor.com/tviinternacional.png" group-title="🌈🆁™Portugal 🇵🇹🇲🇴🇲🇿",TVI Internacionalᶠᴴᴰ 🇵🇹
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tvipt/sh/tviint.m3u8
 #EXTINF:-1 cuid="20" tvg-name="TVI Internacionalᶠᴴᴰ 🇵🇹 (𝓑𝙮: thomraider12)" tvg-id="TVI.Internacional.pt" tvg-logo="https://logo.iptveditor.com/tviinternacional.png" group-title="🌈🆁™Portugal 🇵🇹🇲🇴🇲🇿",TVI Internacionalᶠᴴᴰ 🇵🇹 (𝓑𝙮: thomraider12)
-https://github.com/thomraider12/canaistvpt/raw/main/m3u8s/tvi.m3u8
+https://github.com/thomraider12/canaistvpt/raw/main/m3u8s/tviint.m3u8
 #EXTINF:-1 cuid="21" tvg-name="TVI Internacionalᶠᴴᴰ 🇵🇹" tvg-id="tvi.internacional.pt" tvg-logo="https://logo.iptveditor.com/tviinternacional.png" group-title="🌈🆁™Portugal 🇵🇹🇲🇴🇲🇿",TVI Internacionalᶠᴴᴰ 🇵🇹
 https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDI1IDQ6NDA6NDAgUE0maGFzaF92YWx1ZT13d1hHSUcyRmJJekh5c251YTljYSt3PT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9ZDBiNjNiMzItNTRhZi00NGI4LWE5M2YtZDVlYjAxNjc1ZTQz/
 
@@ -204,9 +204,9 @@ https://video01.soultv.com.br/programa4por4/programa4por4/playlist.m3u8
 https://video-auth5.iol.pt/live_tvi_reality/live_tvi_reality/edge_servers/tvireality-720_passthrough/playlist.m3u8
 
 #EXTINF:-1 cuid="33" tvg-name="BBB 🇧🇷" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/44/Logo_Big_Brother_Brasil.png" group-title="🌈🆁™Secret Story 👁️🌎",BBB 🇧🇷
-#EXTVLCOPT:http-origin=https://nossoplayeronlinehd.com/
-#EXTVLCOPT:http-referrer=https://nossoplayeronlinehd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:137.0) Gecko/20100101 Firefox/137.0
+#EXTVLCOPT:http-origin=https://embedtv-0.icu/
+#EXTVLCOPT:http-referrer=https://embedtv-0.icu/
 https://s2.100mundial.icu/fontes/nossoplayer/bbb2.m3u8
 
 #EXTINF:-1 cuid="34" tvg-name="BBB Mosaico 🇧🇷" tvg-logo="https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2025-01/22303531LCDLF5logo-aa6f66.png" group-title="🌈🆁™Secret Story 👁️🌎",La Casa de los Famosos All Stars 🇲🇽
@@ -292,14 +292,12 @@ https://nbcu-telemundoflorida-firetv.amagi.tv/playlist1080.m3u8
 #EXTINF:-1 cuid="81" tvg-name="Telemundo 52 California 🇲🇽🇺🇸" tvg-id="USBC4400020H7" tvg-logo="https://images.pluto.tv/channels/65790feacbd0d60008fac87a/colorLogoPNG.png" group-title="🌈🆁™News 🌍",Telemundo 52 California 🇲🇽🇺🇸
 https://d3i0aurg3nyoct.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-25zej4uwofrfd/playlist.m3u8
 
----
 
 #EXTINF:-1 cuid="82" tvg-name="Noticias Univision 24/7 🇲🇽" tvg-id="USBD1700014QU" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD1700014QU_20241228T011529SQUARE.png" group-title="🌈🆁™News 🌍",Noticias Univision 24/7 🇲🇽
 https://linear-254.frequency.stream/mt/studio/254/hls/master/playlist.m3u8
 #EXTINF:-1 cuid="83" tvg-name="Noticias Univision 24/7 🇲🇽" tvg-id="USBD1700014QU" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD1700014QU_20241228T011529SQUARE.png" group-title="🌈🆁™News 🌍",Noticias Univision 24/7 🇲🇽
 https://d2c043ja5c3fzo.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-kbmx2rye8x0uq/server/distrib/0d5L5aFqyXYNTJbA/zuvPJYoOOdEMDNF2j2mvmg.XD-5XW7bmDpD5yWfV328oU9NWPX1Y7dhiYqJY3ymkerRKjKvBm9YaKmRu09CS8ak3vKkgVwPUO3_k0fGhRTEqm9C52Akmi0bMrtkdFN-ApwGS5bzMeefjZWDmajrGpA-z7QefASsKjTkWAe3BlRJ_vz3lQhvxyaR-gTRDOtaBmPVj7kcBaZplJ2o86Rm6t4OZaOmdnH6WiW1GoB__4qhQJvpE8uBN8i_t4EJLrXsgpMTqttdcsGYmhH3W1nRYhFZ7tHSwWnrpfbk73-fLrtWcw/manifest.m3u8
 
----
 
 #EXTINF:-1 cuid="84" tvg-name="Estrella TV News 🇲🇽" tvg-logo="https://graph.facebook.com/EstrellaTVNetwork/picture?width=200&height=200" group-title="🌈🆁™News 🌍",Estrella TV News 🇲🇽
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-estrellanews-estrellamedia/playlist.m3u8
@@ -310,7 +308,7 @@ http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=1&output=7&forceUserA
 #EXTINF:-1 cuid="87" tvg-name="TG Norba24 🇮🇹" tvg-id="TG.NORBA.24.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/Tg_norba24.png" group-title="🌈🆁™News 🌍",TG Norba24 🇮🇹
 https://router.xdevel.com/video0s976570-1326/stream/playlist_dvr.m3u8
 
---- 🌈🆁™ 
+--- 🌈🆁™ FRANCESES
 
 #EXTINF:-1 cuid="88" tvg-name="Euronews 🇫🇷" tvg-id="Euronews.fr" tvg-logo="https://pt.euronews.com/favicon-192x192.png" group-title="🌈🆁™News 🌍",Euronews 🇫🇷
 https://euronews-live-fra-fr.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6564/bitok/eyJzdGlkIjoiMTYwZWIwZDUtM2JlNS00YmM4LWFlNjYtNTFlNGQ3YTU0NjI0IiwibWt0IjoiZnIiLCJjaCI6NjU2NCwicHRmIjoxfQ==/26032/euronews-fr.m3u8
@@ -341,7 +339,7 @@ https://africa24.vedge.infomaniak.com/livecast/ik:africa24/manifest.m3u8
 #EXTINF:-1 cuid="98" tvg-name="África News 🇺🇸🇫🇷" tvg-id="UK:.Africanews.en" tvg-logo="https://www.africaNews.com/apple-touch-icon-precomposed.png?v=3" group-title="🌈🆁™News 🌍",África News 🇺🇸🇫🇷
 https://rakuten-africaNews-1-pt.samsung.wurl.tv/manifest/playlist.m3u8
 
---- 🌈🆁™ 
+--- 🌈🆁™ INGLESES & NORTE AMERICANOS
 
 #EXTINF:-1 cuid="99" tvg-name="European Parliament tv 🇬🇧" tvg-id="UK:.GB.News.en" tvg-logo="https://yt3.googleusercontent.com/y6I27yW5rcdKML5uWm2yuXD8KPbt9bjoDnSvPYaiLNFPs6uQzHCXMGsyvKSP1Y4Xxo_67Nb0jw=s900-c-k-c0x00ffffff-no-rj" group-title="🌈🆁™News 🌍",European Parliament tv 🇬🇧
 https://d33zah5htxvoxb.cloudfront.net/el/live/oirtv/hls.m3u8
@@ -357,7 +355,7 @@ https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,B
 #EXTINF:-1 cuid="103" tvg-name="Car Chase News 🇺🇸" tvg-id="65244c403fd33c0008ffff31" tvg-logo="https://images.pluto.tv/channels/65244c403fd33c0008ffff31/colorLogoPNG.png" group-title="🌈🆁™News 🌍",Car Chase News 🇺🇸
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/65244c403fd33c0008ffff31/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&deviceMake=github.com/inspirationlinks&deviceDNT=1
 
---- 🌈🆁™ 
+--- 🌈🆁™ CNN
 
 #EXTINF:-1 cuid="104" tvg-name="CNN 🇺🇸" tvg-id="CNN.HD.uk" tvg-logo="http://lonewolftvpr.com/logos/cnn.png" group-title="🌈🆁™News 🌍",CNN 🇺🇸
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_2_1964000.m3u8
@@ -383,7 +381,7 @@ https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/66c45ba803e3b20008d8c
 #EXTINF:-1 cuid="112" tvg-name="CNN GO 🇺🇸" tvg-id="66c45ba803e3b20008d8c294" tvg-logo="https://photos5.appleinsider.com/archive/gallery/12287-6010-cnngo-l.jpg" group-title="🌈🆁™News 🌍",CNN GO 🇺🇸
 https://turnerlive.warnermediacdn.com/hls/live/586497/cnngo/cnni/VIDEO_0_3564000.m3u8
 
---- 🌈🆁™ 
+--- 🌈🆁™ FOX
 
 #EXTINF:-1 cuid="113" tvg-name="Sky News 🇺🇸" tvg-id="55b285cd2665de274553d66f" tvg-logo="https://images.pluto.tv/channels/55b285cd2665de274553d66f/colorLogoPNG.png" group-title="🌈🆁™News 🌍",Sky News 🇺🇸
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/55b285cd2665de274553d66f/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=inspirationiptv&deviceDNT=1
@@ -409,7 +407,7 @@ https://apollo.production-public.tubi.io/live/ac-news12ny.m3u8
 #EXTINF:-1 cuid="120" tvg-name="GB News 🇬🇧" tvg-id="UK:.GB.News.en" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/35/GB_News_Logo.svg/640px-GB_News_Logo.svg.png" group-title="🌈🆁™News 🌍",GB News 🇬🇧
 https://live-gbnews.simplestreamcdn.com/live5/gbnews/bitrate1.isml/manifest.m3u8
 
---- 🌈🆁™ 
+--- 🌈🆁™ NBC
 
 #EXTINF:-1 cuid="121" tvg-name="NBC San Francisco News 🇺🇸" tvg-id="NBC.(KNTV).San.Francisco,.CA.us" tvg-logo="https://media.nbcbayarea.com/2019/09/cropped-NBC_Bay-Area.png" group-title="🌈🆁™News 🌍",NBC San Francisco News 🇺🇸
 https://nbcu-nbcsanfrancisconews-firetv.amagi.tv/playlist.m3u8
@@ -429,7 +427,7 @@ https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5df97894467dfa00091c8
 #EXTINF:-1 cuid="126" tvg-name="NBC News Now 🇺🇸" tvg-id="5df97894467dfa00091c873c" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/NBCNewsNow.webp" group-title="🌈🆁™News 🌍",NBC News Now 🇺🇸
 https://d2ujxo1akrn26l.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rm6mbj1qgu3wm/master.m3u8
 
---- 🌈🆁™ 
+--- 🌈🆁™ CBS
 
 #EXTINF:-1 cuid="127" tvg-name="CBS News Boston 🇺🇸" tvg-id="CBSNewsBoston.us" tvg-logo="https://i.imgur.com/9un7R3N.png" group-title="🌈🆁™News 🌍",CBS News Boston 🇺🇸
 https://cbsn-bos.cbsnstream.cbsnews.com/out/v1/589d66ec6eb8434c96c28de0370d1326/master.m3u8
@@ -476,7 +474,7 @@ https://d36tuf8zz9b2bm.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da
 #EXTINF:-1 cuid="141" tvg-name="CBS News 24/7 🇺🇸" tvg-id="61e82af27027f9000753c6e4" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA370000104_20241112T000842SQUARE.png" group-title="🌈🆁™News 🌍",CBS News 24/7 🇺🇸
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61e82af27027f9000753c6e4/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&deviceMake=github.com/inspirationlinks&deviceDNT=1
 
---- 🌈🆁™ 
+--- 🌈🆁™ ABC
 
 #EXTINF:-1 cuid="142" tvg-name="Global News Toronto" tvg-id="62cc00b3b821cf00070f82c3" tvg-logo="https://images.pluto.tv/channels/62cc00b3b821cf00070f82c3/colorLogoPNG.png" group-title="🌈🆁™News 🌍",Global News Toronto
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62cc00b3b821cf00070f82c3/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&deviceMake=github.com/inspirationlinks&deviceDNT=1
@@ -490,7 +488,7 @@ https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV24.m3u8
 #EXTINF:-1 cuid="145" tvg-name="ABC News Live 🇺🇸" tvg-id="ABC.NEWS.us" tvg-logo="https://images.pluto.tv/channels/6508be683a0d700008c534e4/colorLogoPNG.png" group-title="🌈🆁™News 🌍",ABC News Live 🇺🇸
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6508be683a0d700008c534e4/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&deviceMake=github.com/inspirationlinks&deviceDNT=1
 
---- 🌈🆁™ 
+--- 🌈🆁™ BBC
 
 #EXTINF:-1 cuid="146" tvg-name="BBC News 🇺🇸" tvg-id="65d92a8c8b24c80008e285c0" tvg-logo="https://images.pluto.tv/channels/65d92a8c8b24c80008e285c0/colorLogoPNG.png" group-title="🌈🆁™News 🌍",BBC News 🇺🇸
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/65d92a8c8b24c80008e285c0/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&deviceMake=github.com/inspirationlinks&deviceDNT=1
@@ -499,14 +497,13 @@ https://vs-cmaf-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_c
 #EXTINF:-1 cuid="148" tvg-name="BBC Newsᴸᴼᵂ 🇺🇸" tvg-id="65d92a8c8b24c80008e285c0" tvg-logo="https://images.pluto.tv/channels/65d92a8c8b24c80008e285c0/colorLogoPNG.png" group-title="🌈🆁™News 🌍",BBC Newsᴸᴼᵂ 🇺🇸
 http://ott-cdn.ucom.am/s24/index.m3u8
 
---- 🌈🆁™ 
+--- 🌈🆁™ VARIOS
 
 #EXTINF:-1 cuid="149" tvg-name="TRT World 🇬🇧" tvg-id="TRT.World.HD.uk" tvg-logo="https://i.ibb.co/nP9xpck/trtw.png" group-title="🌈🆁™News 🌍",TRT World 🇬🇧
 https://tv-trtworld.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 cuid="150" tvg-name="TRT World 🇬🇧" tvg-id="TRT.World.HD.uk" tvg-logo="https://i.ibb.co/nP9xpck/trtw.png" group-title="🌈🆁™News 🌍",TRT World 🇬🇧
 #https://wp.me/p11I1T-68V?wmsAuthSign=NAO_DISPONIVEL_NA_FREETV
 
---- 🌈🆁™ 
 
 #EXTINF:-1 cuid="151" tvg-name="CGTN News 🇬🇧" tvg-id="CGTN.News.ng" tvg-logo="https://graph.facebook.com/ChinaGlobalTVNetwork/picture?width=200&height=200" group-title="🌈🆁™News 🌍",CGTN News 🇬🇧
 https://english-livebkali.cgtn.com/live/encgtn.m3u8
@@ -528,7 +525,6 @@ https://github.com/LeBazarDeBryan/XTVZ_/raw/main/Stream/Live/CNews.m3u8
 #EXTINF:-1 cuid="157" tvg-name="Cnews 🇺🇸" tvg-id="CNews.fr" tvg-logo="https://www.generationlibre.eu/wp-content/uploads/2020/01/Logo-CNEWS-détouré.png" group-title="🌈🆁™News 🌍",Cnews 🇺🇸
 https://github.com/Sibprod/streams/raw/main/ressources/dm/py/hls/cnews.m3u8
 
---- 🌈🆁™ 
 
 #EXTINF:-1 cuid="158" tvg-name="NHK World 🇬🇧" tvg-id="NHK.World.TV.pt" tvg-logo="https://i.ibb.co/JCjsXZm/nhk.png" group-title="🌈🆁™News 🌍",NHK World 🇬🇧
 https://nhkwlive-ojp.nhkworld.jp/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
