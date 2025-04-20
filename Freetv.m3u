@@ -94,7 +94,7 @@ https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tvipt/s
 #EXTINF:-1 cuid="20" tvg-name="TVI Internacionalᶠᴴᴰ 🇵🇹 (𝓑𝙮: thomraider12)" tvg-id="TVI.Internacional.pt" tvg-logo="https://logo.iptveditor.com/tviinternacional.png" group-title="🌈🆁™Portugal 🇵🇹🇲🇴🇲🇿",TVI Internacionalᶠᴴᴰ 🇵🇹 (𝓑𝙮: thomraider12)
 https://github.com/thomraider12/canaistvpt/raw/main/m3u8s/tviint.m3u8
 #EXTINF:-1 cuid="21" tvg-name="TVI Internacionalᶠᴴᴰ 🇵🇹" tvg-id="tvi.internacional.pt" tvg-logo="https://logo.iptveditor.com/tviinternacional.png" group-title="🌈🆁™Portugal 🇵🇹🇲🇴🇲🇿",TVI Internacionalᶠᴴᴰ 🇵🇹
-https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yMC8yMDI1IDQ6Mzk6MjMgQU0maGFzaF92YWx1ZT1DR0lLeFRaQUpqWG8zWXFmcVgvZzZBPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9MmIyNDNkY2YtNjliMi00MTQ5LTk3YzgtMDMzMDYzYjJhYmI4/
+https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yMC8yMDI1IDg6Mzg6MTQgQU0maGFzaF92YWx1ZT01cDkwdCszbHFzTHI5dHRMNG5tRXNBPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9OGIwNzY5MTAtNWU5Yy00NzY0LTk3NzQtZGUwMDg2MTM1MTZi/
 
 ---
 
@@ -103,7 +103,7 @@ https://github.com/thomraider12/canaistvpt/raw/main/m3u8s/tvi.m3u8
 #EXTINF:-1 cuid="23" tvg-name="TVI 🇵🇹" tvg-id="TVI.HD.pt" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/tvi.webp" group-title="🌈🆁™Portugal 🇵🇹🇲🇴🇲🇿",TVI 🇵🇹
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tvipt/sh/tvi.m3u8
 #EXTINF:-1 cuid="24" tvg-name="TVI 🇵🇹" tvg-id="TVI.HD.pt" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/tvi.webp" group-title="🌈🆁™Portugal 🇵🇹🇲🇴🇲🇿",TVI 🇵🇹
-https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yMC8yMDI1IDQ6Mzk6MjIgQU0maGFzaF92YWx1ZT1UZEEra0RSQ0x0c2JIeW9DZXQzcGZ3PT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9MGNiOWQ2ODMtMjIyMy00YmJkLTgxYmMtZmJjYjc5NmRjMWUw/
+https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yMC8yMDI1IDg6Mzg6MTIgQU0maGFzaF92YWx1ZT1BSnI2eU8wYmZ0dEpPTXZUOWlZbmd3PT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9ZDg4YmY0ZjgtODc1Ni00ZGM4LTg1ZDUtMzlkOTZjNjIwOGZm/
 
 ---
 
@@ -149,13 +149,13 @@ https://github.com/thomraider12/canaistvpt/raw/main/m3u8s/cnnpt.m3u8
 #EXTINF:-1 cuid="26" tvg-name="CNN Portugal 🇵🇹" tvg-id="CNN.Portugal.HD.pt" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/CNNPortugal.webp" group-title="🌈🆁™News 🇵🇹🇧🇷",CNN Portugal 🇵🇹
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tvipt/sh/cnnpt.m3u8
 #EXTINF:-1 cuid="27" tvg-name="CNN Portugal 🇵🇹" tvg-id="CNN.Portugal.HD.pt" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/CNNPortugal.webp" group-title="🌈🆁™News 🇵🇹🇧🇷",CNN Portugal 🇵🇹
-https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yMC8yMDI1IDQ6Mzk6MjIgQU0maGFzaF92YWx1ZT1VVmtpdTBmZFZ6aGpYQ1N4Q1k0VFdnPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9Nzc1NjZjMmItMGZkOC00NWNlLTg4OTAtOWRmZDJkYTVhMGVl/
+https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yMC8yMDI1IDg6Mzg6MTMgQU0maGFzaF92YWx1ZT0rSW52bTk3OVplZ0VMOWpzSjIwRlhRPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9MTNmODIyMDktNGFhYy00NjJkLWFjOTAtZDhlY2VhM2E0NjFi/
 
 
 #EXTINF:-1 cuid="41" tvg-name="Euronews 🇵🇹" tvg-id="Euronews.pt" tvg-logo="https://pt.euronews.com/favicon-192x192.png" group-title="🌈🆁™News 🇵🇹🇧🇷",Euronews 🇵🇹
 https://euronews-live-por-pt.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6572/7392d4f0-7e24-4dbe-8482-f165e712eeed/5.m3u8
 #EXTINF:-1 cuid="42" tvg-name="Euronews 🇵🇹" tvg-id="619e6614c9d9650007a2b171" tvg-logo="https://images.pluto.tv/channels/619e6614c9d9650007a2b171/colorLogoPNG.png" group-title="🌈🆁™News 🇵🇹🇧🇷",Euronews 🇵🇹
-https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yMC8yMDI1IDQ6Mzk6MjIgQU0maGFzaF92YWx1ZT1VVmtpdTBmZFZ6aGpYQ1N4Q1k0VFdnPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9Nzc1NjZjMmItMGZkOC00NWNlLTg4OTAtOWRmZDJkYTVhMGVl/
+https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yMC8yMDI1IDg6Mzg6MTMgQU0maGFzaF92YWx1ZT0rSW52bTk3OVplZ0VMOWpzSjIwRlhRPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9MTNmODIyMDktNGFhYy00NjJkLWFjOTAtZDhlY2VhM2E0NjFi/
 
 --- 🌈🆁™ NEWS BRASIL
 
