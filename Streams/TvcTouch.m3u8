@@ -1,0 +1,5 @@
+#EXTM3U
+#EXT-X-TARGETDURATION:65535
+#EXT-X-VERSION:2
+#EXTINF:65535,
+http://tv.trexiptv.com/play/live.php?mac=00:1A:79:A8:F4:F9&stream=59171&extension=ts
