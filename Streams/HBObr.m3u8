@@ -1,0 +1,17 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-ALLOW-CACHE:NO
+#EXT-X-TARGETDURATION:3
+#EXT-X-MEDIA-SEQUENCE:176
+#EXTINF:0.841,
+http://15.235.50.112:14186/HBOSD
+#EXTINF:0.832,
+http://15.235.50.112:14186/HBOSD
+#EXTINF:0.682,
+http://15.235.50.112:14186/HBOSD
+#EXTINF:0.814,
+http://tv.trexiptv.com/play/live.php?mac=00:1A:79:A8:F4:F9&stream=59228&extension=ts
+#EXTINF:0.885,
+http://tv.trexiptv.com/play/live.php?mac=00:1A:79:A8:F4:F9&stream=59228&extension=ts
+#EXTINF:0.754,
+http://tv.trexiptv.com/play/live.php?mac=00:1A:79:A8:F4:F9&stream=59228&extension=ts
