@@ -373,12 +373,15 @@ https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/673248f9030a2c0008033
 
 #EXTINF:-1 cuid="108" tvg-name="CNN Fast 🇺🇸" tvg-id="GBBD1900008O3" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD19000097D_20241022T051548SQUARE.png" group-title="🌈🆁™News 🌍",CNN Fast 🇺🇸
 https://amg01448-samsungin-cnnnow-samsungin-4npqg.amagi.tv/playlist/amg01448-samsungin-cnnnow-samsungin/playlist.m3u8
-#EXTINF:-1 cuid="109" tvg-name="CNN Fast 🇺🇸" tvg-id="GBBD1900008O3" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD19000097D_20241022T051548SQUARE.png" group-title="🌈🆁™News 🌍",CNN Fast₂ 🇺🇸
-https://dqmhiwgbe98iq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-1e8xhm2nv4xdw/index.m3u8
-#EXTINF:-1 cuid="110" tvg-name="CNN Fast 🇺🇸" tvg-id="GBBD1900008O3" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD19000097D_20241022T051548SQUARE.png" group-title="🌈🆁™News 🌍",CNN Fast₃ 🇺🇸
-https://mediapackage-ptcn-source.fullscreen.nz/index.m3u8
-#EXTINF:-1 cuid="111" tvg-name="CNN Fast 🇺🇸" tvg-id="66c45ba803e3b20008d8c294" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD19000097D_20241022T051548SQUARE.png" group-title="🌈🆁™News 🌍",CNN Fast₄ 🇺🇸
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/66c45ba803e3b20008d8c294/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=inspirationiptv&deviceDNT=1
+https://dqmhiwgbe98iq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-1e8xhm2nv4xdw/index.m3u8
+https://mediapackage-ptcn-source.fullscreen.nz/index.m3u8
+#EXTINF:-1 cuid="109" tvg-name="CNN Fast 🇺🇸" tvg-id="GBBD1900008O3" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD19000097D_20241022T051548SQUARE.png" group-title="🌈🆁™News 🌍",CNN Fast₂ 🇺🇸
+
+#EXTINF:-1 cuid="110" tvg-name="CNN Fast 🇺🇸" tvg-id="GBBD1900008O3" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD19000097D_20241022T051548SQUARE.png" group-title="🌈🆁™News 🌍",CNN Fast₃ 🇺🇸
+
+#EXTINF:-1 cuid="111" tvg-name="CNN Fast 🇺🇸" tvg-id="66c45ba803e3b20008d8c294" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD19000097D_20241022T051548SQUARE.png" group-title="🌈🆁™News 🌍",CNN Fast₄ 🇺🇸
+
 
 #EXTINF:-1 cuid="112" tvg-name="CNN GO 🇺🇸" tvg-id="66c45ba803e3b20008d8c294" tvg-logo="https://photos5.appleinsider.com/archive/gallery/12287-6010-cnngo-l.jpg" group-title="🌈🆁™News 🌍",CNN GO 🇺🇸
 https://turnerlive.warnermediacdn.com/hls/live/586497/cnngo/cnni/VIDEO_0_3564000.m3u8
@@ -497,7 +500,7 @@ https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/65d92a8c8b24c80008e28
 #EXTINF:-1 cuid="147" tvg-name="BBC News 🇺🇸" tvg-id="65d92a8c8b24c80008e285c0" tvg-logo="https://images.pluto.tv/channels/65d92a8c8b24c80008e285c0/colorLogoPNG.png" group-title="🌈🆁™News 🌍",BBC News 🇺🇸
 https://vs-cmaf-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/iptv_hd_abr_v1.mpd
 #EXTINF:-1 cuid="148" tvg-name="BBC Newsᴸᴼᵂ 🇺🇸" tvg-id="65d92a8c8b24c80008e285c0" tvg-logo="https://images.pluto.tv/channels/65d92a8c8b24c80008e285c0/colorLogoPNG.png" group-title="🌈🆁™News 🌍",BBC Newsᴸᴼᵂ 🇺🇸
-http://ott-cdn.ucom.am/s24/index.m3u8
+#http://ott-cdn.ucom.am/s24/index.m3u8
 
 --- 🌈🆁™ VARIOS
 
@@ -524,17 +527,19 @@ http://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8?wmsA
 
 #EXTINF:-1 cuid="156" tvg-name="Cnews 🇺🇸" tvg-id="CNews.fr" tvg-logo="https://www.generationlibre.eu/wp-content/uploads/2020/01/Logo-CNEWS-détouré.png" group-title="🌈🆁™News 🌍",Cnews 🇺🇸
 https://github.com/LeBazarDeBryan/XTVZ_/raw/main/Stream/Live/CNews.m3u8
-#EXTINF:-1 cuid="157" tvg-name="Cnews 🇺🇸" tvg-id="CNews.fr" tvg-logo="https://www.generationlibre.eu/wp-content/uploads/2020/01/Logo-CNEWS-détouré.png" group-title="🌈🆁™News 🌍",Cnews 🇺🇸
 https://github.com/Sibprod/streams/raw/main/ressources/dm/py/hls/cnews.m3u8
+#EXTINF:-1 cuid="157" tvg-name="Cnews 🇺🇸" tvg-id="CNews.fr" tvg-logo="https://www.generationlibre.eu/wp-content/uploads/2020/01/Logo-CNEWS-détouré.png" group-title="🌈🆁™News 🌍",Cnews 🇺🇸
+#https://
 
 
 #EXTINF:-1 cuid="158" tvg-name="NHK World 🇬🇧" tvg-id="NHK.World.TV.pt" tvg-logo="https://i.ibb.co/JCjsXZm/nhk.png" group-title="🌈🆁™News 🌍",NHK World 🇬🇧
 https://nhkwlive-ojp.nhkworld.jp/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
-#EXTINF:-1 cuid="159" tvg-name="NHK World 🇬🇧" tvg-id="NHK.World.TV.pt" tvg-logo="https://i.ibb.co/JCjsXZm/nhk.png" group-title="🌈🆁™News 🌍",NHK World 🇬🇧
 https://cdn.nhkworld.jp/www11/nhkworld-tv/domestic/2003459/live.m3u8
+#EXTINF:-1 cuid="159" tvg-name="NHK World 🇬🇧" tvg-id="NHK.World.TV.pt" tvg-logo="https://i.ibb.co/JCjsXZm/nhk.png" group-title="🌈🆁™News 🌍",NHK World 🇬🇧
+#https://
 
 #EXTINF:-1 cuid="160" tvg-name="Das Erste 🇩🇪" tvg-id="Das.Erste.de" tvg-logo="https://logo.iptveditor.com/daserste.png" group-title="🌈🆁™News 🌍",Das Erste 🇩🇪
-https://derste247liveint.akamaized.net/hls/live/662735/daserste_int/index.m3u8
+#https://derste247liveint.akamaized.net/hls/live/662735/daserste_int/index.m3u8
 
 #EXTINF:-1 cuid="161" tvg-name="Channel News Asia" tvg-id="Channel.News.Asia.id" tvg-logo="https://logo.iptveditor.com/cna.png" group-title="🌈🆁™News 🌍",Channel News Asia
 http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
@@ -1552,21 +1557,27 @@ http://78.128.125.60:9981/play/a00o/index.m3u8
 
 #EXTINF:-1 cuid="414" tvg-name="La 1 🇪🇸 [sᴀᴍsυɴɢᴛᴠᴘʟυs]" tvg-id="La.1.HD.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/1148px-Logo_TVE-1.svg.png" group-title="🌈🆁™Espanha 🇪🇸",La 1 🇪🇸 [sᴀᴍsυɴɢᴛᴠᴘʟυs]
 https://dh6vo1bovy43s.cloudfront.net/La_1_ES.m3u8
-#EXTINF:-1 cuid="415" tvg-name="La 1 🇪🇸 [sᴀᴍsυɴɢᴛᴠᴘʟυs]" tvg-id="La1.TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/1148px-Logo_TVE-1.svg.png" group-title="🌈🆁™Espanha 🇪🇸",La 1 🇪🇸 [sᴀᴍsυɴɢᴛᴠᴘʟυs]
 https://dh6vo1bovy43s.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-x3gcl32l5ffq2/La_1_ES.m3u8
-#EXTINF:-1 cuid="416" tvg-name="La 1 🇪🇸" tvg-id="LA.1.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/1148px-Logo_TVE-1.svg.png" group-title="🌈🆁™Espanha 🇪🇸",La 1 🇪🇸
+#EXTINF:-1 cuid="415" tvg-name="La 1 🇪🇸 [sᴀᴍsυɴɢᴛᴠᴘʟυs]" tvg-id="La1.TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/1148px-Logo_TVE-1.svg.png" group-title="🌈🆁™Espanha 🇪🇸",La 1 🇪🇸 [sᴀᴍsυɴɢᴛᴠᴘʟυs]
 https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main_dvr.m3u8
+#EXTINF:-1 cuid="416" tvg-name="La 1 🇪🇸" tvg-id="LA.1.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/1148px-Logo_TVE-1.svg.png" group-title="🌈🆁™Espanha 🇪🇸",La 1 🇪🇸
 
---- 🌈🆁™ 
+
+---
 
 #EXTINF:-1 cuid="417" tvg-name="La 2 🇪🇸 [sᴀᴍsυɴɢᴛᴠᴘʟυs]" tvg-id="La2.TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Logo_TVE-2.svg/1900px-Logo_TVE-2.svg.png" group-title="🌈🆁™Espanha 🇪🇸",La 2 🇪🇸 [sᴀᴍsυɴɢᴛᴠᴘʟυs]
-https://di2qeq48iv8ps.cloudfront.net/La_2_ES.m3u8
-#EXTINF:-1 cuid="418" tvg-name="La 2 🇪🇸 [sᴀᴍsυɴɢᴛᴠᴘʟυs]" tvg-id="LA.2.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Logo_TVE-2.svg/1900px-Logo_TVE-2.svg.png" group-title="🌈🆁™Espanha 🇪🇸",La 2 🇪🇸 [sᴀᴍsυɴɢᴛᴠᴘʟυs]
 https://di2qeq48iv8ps.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-o8u23e6v7vptv/La_2_ES.m3u8
-#EXTINF:-1 cuid="419" tvg-name="La 2 🇪🇸" tvg-id="LA.2.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Logo_TVE-2.svg/1900px-Logo_TVE-2.svg.png" group-title="🌈🆁™Espanha 🇪🇸",La 2 🇪🇸
-https://rtvelivestream.akamaized.net/rtvesec/la2/la2_main_dvr.m3u8
-#EXTINF:-1 cuid="420" tvg-name="La 2 🇪🇸" tvg-id="La2.TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Logo_TVE-2.svg/1900px-Logo_TVE-2.svg.png" group-title="🌈🆁™Espanha 🇪🇸",La 2 🇪🇸
+https://di2qeq48iv8ps.cloudfront.net/La_2_ES.m3u8
 https://ztnr.rtve.es/ztnr/1688885.m3u8
+#EXTINF:-1 cuid="418" tvg-name="La 2 🇪🇸 [sᴀᴍsυɴɢᴛᴠᴘʟυs]" tvg-id="LA.2.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Logo_TVE-2.svg/1900px-Logo_TVE-2.svg.png" group-title="🌈🆁™Espanha 🇪🇸",La 2 🇪🇸 [sᴀᴍsυɴɢᴛᴠᴘʟυs]
+https://rtvelivestream.akamaized.net/rtvesec/la2/la2_main_dvr.m3u8
+
+---
+
+#EXTINF:-1 cuid="419" tvg-name="La 2 🇪🇸" tvg-id="LA.2.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Logo_TVE-2.svg/1900px-Logo_TVE-2.svg.png" group-title="🌈🆁™Espanha 🇪🇸",La 2 🇪🇸
+
+#EXTINF:-1 cuid="420" tvg-name="La 2 🇪🇸" tvg-id="La2.TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Logo_TVE-2.svg/1900px-Logo_TVE-2.svg.png" group-title="🌈🆁™Espanha 🇪🇸",La 2 🇪🇸
+
 
 --- 🌈🆁™ 
 
@@ -2229,7 +2240,7 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/rtl/be/belrtl.
 #EXTINF:-1 cuid="664" tvg-name="Chérie 25" tvg-id="Chérie.25.fr" tvg-logo="https://static.epg.best/fr/Cherie25.fr.png" group-title="🌈🆁™France 🇫🇷",Chérie 25 🇫🇷
 https://event2.nrjaudio.fm/hls/live/2038379/cherie_25/master.m3u8?hdnts=exp=1744939240~acl=/*~hmac=ded01681a80dc50e9eb94717cf778f9aca430000b919c1dcc8126e7d6b38d759
 
---- 🌈🆁™ 
+---
 
 #EXTINF:-1 cuid="665" tvg-name="W9 🇫🇷" tvg-id="W9.fr" tvg-logo="https://logo.iptveditor.com/w9.png" group-title="🌈🆁™France 🇫🇷",W9 🇫🇷
 http://gratuittv.free.fr/Files/w9/live/playlist.m3u8
@@ -2245,7 +2256,7 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/cnew
 #EXTINF:-1 cuid="668" tvg-name="CSTAR" tvg-id="CSTAR.fr" tvg-logo="https://logo.iptveditor.com/cstar.png" group-title="🌈🆁™France 🇫🇷",CSTAR
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/cstar-dm.m3u8
 
---- 🌈🆁™ 
+--- 
 
 #EXTINF:-1 cuid="669" tvg-name="TV5 Monde Europe 🇫🇷" tvg-id="TV5.monde.fr" tvg-logo="https://logo.iptveditor.com/tv5mondeeurope.png" group-title="🌈🆁™France 🇫🇷",TV5 Monde Europe 🇫🇷
 http://213.91.178.133:8000/play/a06d
@@ -2427,17 +2438,9 @@ https://live03p-seg.msf.cdn.mediaset.net/live/ch-c5/c5-dash-widevine.isml/manife
 https://linear313-it-dash1-prd.selector.skycdn.it/016a/32477/FHD/skyuno/master.mpd
 
 #EXTINF:-1 cuid="719" tvg-name="Sky Cinema Action 🇮🇹" tvg-id="Sky.Cinema.Action.it" tvg-logo="https://it.imageservice.sky.com/pd-logo/skychb_206skycinemaactionhddark/200/50?output-format=webp" group-title="🌈🆁™Italy 🇮🇹",Sky Cinema Action 🇮🇹
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=00368fc53eab9498463dadfc60e0f818:0a70fe8d3b90360035982deaa8c83a6d
 http://pro-solut-xi.eu:5436/live/live:dinjo79/SkypeDinjo@telon.al/10073.m3u8
 
 #EXTINF:-1 cuid="720" tvg-name="Sky Cinema Family 🇮🇹" tvg-id="Sky.Cinema.Family.it" tvg-logo="https://it.imageservice.sky.com/pd-logo/skychb_255skycinemafamilyhddark/200/50?output-format=webp" group-title="🌈🆁™Italy 🇮🇹",Sky Cinema Family 🇮🇹
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=0036012604394c43b063c4f513ee431d:2c665092aa45cbae824bf7ad4e69d767
 http://pro-solut-xi.eu:5436/live/live:dinjo79/SkypeDinjo@telon.al/10074.m3u8
 
 #EXTINF:-1 cuid="721" tvg-name="Sky Cinema Collection 🇮🇹" tvg-id="Sky.Cinema.Collection.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Sky_Cinema_Collection_-_Logo_2021.svg/1920px-Sky_Cinema_Collection_-_Logo_2021.svg.png" group-title="🌈🆁™Italy 🇮🇹",Sky Cinema Collection 🇮🇹
@@ -2483,11 +2486,6 @@ https://linear315-it-dash1-prd-akp2.cdn13.skycdp.com/016a/31226/FHD/skyatlantic/
 https://linear315-it-dash1-prd-akp2.cdn13.skycdp.com/016a/31684/FHD/skyserie/master.mpd
 
 #EXTINF:-1 cuid="727" tvg-name="Sky Comedy Central 🇮🇹" tvg-id="Sky.Cinema.Due.it" tvg-logo="https://www.sorrisi.com/guidatv/bundles/tvscnewsite/css/images/loghi/sky-cinema-cult_c.png" group-title="🌈🆁™Italy 🇮🇹",Sky Cinema Due 🇮🇹
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=0036f3ec4ac7d836b5bf9fa79f3041b6:c02271563d97b1e7e755484279f2b55c
-Sky.Cinema.Due.it
 
 --- 🌈🆁™  𝙎𝙆𝙔 Doc
 
@@ -2533,7 +2531,7 @@ https://linear313-it-dash1-prd.selector.skycdn.it/016a/31513/FHD/history/master.
 #KODIPROP:inputstream.adaptive.license_key=0036798d4dc4ce189b2f029a4b4aa06c:4f668ba0ef796d807c90613b9e2e61bf
 https://linear313-it-dash1-prd-akp2.cdn13.skycdp.com/016a/32074/FHD/skyarte/master.mpd
 
---- 🌈🆁™ 
+---
 
 #EXTINF:-1 cuid="734" tvg-name="DMAX 🇮🇹 (vᴘɴ 🇺🇸)" tvg-id="ITBD4400001X5" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD4400001X5_20231213T033155SQUARE.png_20231213033156.png" group-title="🌈🆁™Italy 🇮🇹",DMAX 🇮🇹 (vᴘɴ 🇺🇸)
 #https://wp.me/p11I1T-68V?wmsAuthSign=NAO_DISPONIVEL_NA_FREETV
@@ -2571,6 +2569,8 @@ http://conexao-vs.live/VIVA/index.m3u8
 
 #EXTINF:-1 cuid="744" tvg-name="TNT Novelas 🇧🇷" tvg-id="TNTNOVELAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/Logo_TNT_Novelas.png" group-title="🌈🆁™Novelas 🌎",TNT Novelas 🇧🇷
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:137.0) Gecko/20100101 Firefox/137.0
+#EXTVLCOPT:http-origin=https://nossoplayeronlinehd.com/
+#EXTVLCOPT:http-referrer=https://nossoplayeronlinehd.com/
 #EXTVLCOPT:http-origin=https://embedtv-0.icu/
 #EXTVLCOPT:http-referrer=https://embedtv-0.icu/
 https://s2.100mundial.icu/fontes/nossoplayer/tntnovelas.m3u8
@@ -2724,8 +2724,6 @@ https://new.ejaculacaoretardada.site/espn2/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:137.0) Gecko/20100101 Firefox/137.0
 #EXTVLCOPT:http-origin=https://nossoplayeronlinehd.com/
 #EXTVLCOPT:http-referrer=https://nossoplayeronlinehd.com/
-#EXTVLCOPT:http-origin=https://embedcanaistv.com/
-#EXTVLCOPT:http-referrer=https://embedcanaistv.com/
 #https://s2.100mundial.icu/fontes/nossoplayer/espn2.m3u8
 
 
@@ -4498,7 +4496,7 @@ https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dc0c78281eddb0009a02
 https://dai.google.com/linear/hls/event/xrVrJYTmTfitfXBQfeZByQ/master.m3u8
 
 
-#EXTINF:-1 cuid="1131" tvg-name="ET Live Entertainment Tonightᶠᴴᴰ 🇺🇸" tvg-id="USBA3700002JF" tvg-logo="https://www.etonline.com/img/favicons/apple-icon-180x180.png" group-title="​🅿🅻🆄🆃🅾 🌎|☆ Celebrities 🤩",Celeb Reality 🇺🇸
+#EXTINF:-1 cuid="1131" tvg-name="" tvg-id="6578843432c1b300089a9a98" tvg-logo="https://images.pluto.tv/channels/6578843432c1b300089a9a98/colorLogoPNG.png" group-title="​🅿🅻🆄🆃🅾 🌎|☆ Celebrities 🤩",Celeb Reality 🇺🇸
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6578843432c1b300089a9a98/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=github.com/inspirationlinks&deviceDNT=1
 
 #EXTINF:-1 cuid="1132" tvg-name="Hollywire 🇺🇸" tvg-id="USBC2400015DO" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC2400015DO_20240520T214806SQUARE.png" group-title="​🅿🅻🆄🆃🅾 🌎|☆ Celebrities 🤩",Hollywire 🇺🇸
