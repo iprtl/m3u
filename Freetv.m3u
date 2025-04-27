@@ -226,15 +226,14 @@ https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1ef1a8cec6be00072a7
 
 ---
 
-#EXTINF:-1 cuid="52" tvg-name="Teledifusão de Macau 🇲🇴🇵🇹" tvg-logo="https://logo.iptveditor.com/canalmacau.png" group-title="🌈🆁™ Portugal 🇵🇹🇲🇴🇲🇿",Teledifusão de Macau 🇲🇴🇵🇹
-https://live5.tdm.com.mo/ch2/ch2.live/playlist.m3u8
+#EXTINF:-1 cuid="52" tvg-name="" tvg-id="TVCine.ACTION.HD.pt" tvg-logo="https://logo.iptveditor.com/tvcineaction.png" group-title="🌈🆁™ Portugal 🇵🇹🇲🇴🇲🇿",TvcAcao 🇵🇹
+https://github.com/inspirationlinks/m3u/raw/live/Streams/tvcaction.m3u8
 
 #EXTINF:-1 cuid="53" tvg-name="TV Moçambique 🇲🇿" tvg-id="TVM.HD.mt" tvg-logo="https://tvm.co.mz/templates/templatetvmmain/favicon.ico" group-title="🌈🆁™ Portugal 🇵🇹🇲🇴🇲🇿",TV Moçambique 🇲🇿
 http://196.28.226.121:1935/live/smil:Channel1.smil/chunklist_w695546362_b714000_slpor.m3u8
 
-#EXTINF:-1 cuid="54" tvg-name="" tvg-id="TVCine.ACTION.HD.pt" tvg-logo="https://logo.iptveditor.com/tvcineaction.png" group-title="🌈🆁™ Portugal 🇵🇹🇲🇴🇲🇿",TvcAcao 🇵🇹
-https://github.com/inspirationlinks/m3u/raw/live/Streams/tvcaction.m3u8
-###https://w1.manasat.com/ktv-angola/smil:ktv-angola.smil/playlist.m3u8
+#EXTINF:-1 cuid="54" tvg-name="Teledifusão de Macau 🇲🇴🇵🇹" tvg-logo="https://logo.iptveditor.com/canalmacau.png" group-title="🌈🆁™ Portugal 🇵🇹🇲🇴🇲🇿",Teledifusão de Macau 🇲🇴🇵🇹
+https://live5.tdm.com.mo/ch2/ch2.live/playlist.m3u8
 
 --- 🌈🆁™  𝙈𝙚𝙩𝙚𝙤𝙧𝙤𝙡𝙤𝙜𝙮 ❄︎ 
 
