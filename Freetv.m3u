@@ -2847,7 +2847,7 @@ https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8
 #EXTINF:-1 cuid="782" tvg-name="ESPN 🇧🇷" tvg-id="ESPN" tvg-logo="https://logo.iptveditor.com/espn.png" group-title="🌈🆁™Liga Betclic 🌍",ESPN 🇧🇷
 https://new.m3u8.one/espn/index.m3u8
 #EXTINF:-1 cuid="783" tvg-name="ESPN 🇧🇷" tvg-id="ESPN.br" tvg-logo="https://logo.iptveditor.com/espn.png" group-title="🌈🆁™Liga Betclic 🌍",ESPN 🇧🇷
-http://185.236.183.118:14178/espnFHD
+http://185.236.183.118:14180/espnHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:137.0) Gecko/20100101 Firefox/137.0
 #EXTVLCOPT:http-origin=https://embedcanaistv.com
 #EXTVLCOPT:http-referrer=https://embedcanaistv.com/
@@ -2858,7 +2858,7 @@ http://tv14s.xyz:8080//live/5ThaSM/484504/164948.m3u8
 #EXTINF:-1 cuid="784" tvg-name="ESPN 2 🇧🇷" tvg-id="ESPN.2.br" tvg-logo="https://logo.iptveditor.com/espn2.png" group-title="🌈🆁™Liga Betclic 🌍",ESPN 2 🇧🇷
 https://new.m3u8.one/espn2/index.m3u8
 #EXTINF:-1 cuid="785" tvg-name="ESPN 2 🇧🇷" tvg-id="ESPN.2.br" tvg-logo="https://logo.iptveditor.com/espn2.png" group-title="🌈🆁™Liga Betclic 🌍",ESPN 2 🇧🇷
-http://185.236.183.118:14183/espn2HD
+http://185.236.183.118:14181/espn2fhd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:137.0) Gecko/20100101 Firefox/137.0
 #EXTVLCOPT:http-origin=https://embedcanaistv.com
 #EXTVLCOPT:http-referrer=https://embedcanaistv.com/
