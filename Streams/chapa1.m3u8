@@ -4,17 +4,18 @@
 #EXT-X-TARGETDURATION:3
 #EXT-X-MEDIA-SEQUENCE:136784
 #EXTINF:2.432,
-http://tv14s.xyz:8080//live/5ThaSM/484504/167742.ts
+http://macete.xyz:2095/play/live.php?mac=00:1A:79:47:64:7A&stream=70484&extension=ts
 #EXTINF:2.509,
-http://tv14s.xyz:8080//live/5ThaSM/484504/167742.ts
+http://macete.xyz:2095/play/live.php?mac=00:1A:79:47:64:7A&stream=70484&extension=ts
 #EXTINF:2.456,
-http://tv14s.xyz:8080//live/5ThaSM/484504/167742.ts
+http://macete.xyz:2095/play/live.php?mac=00:1A:79:47:64:7A&stream=70484&extension=ts
 #EXTINF:2.523,
-http://tv14s.xyz:8080//live/5ThaSM/484504/167742.ts
+http://macete.xyz:2095/play/live.php?mac=00:1A:79:47:64:7A&stream=70484&extension=ts
 #EXTINF:2.493,
-http://tv14s.xyz:8080//live/5ThaSM/484504/167742.ts
+http://macete.xyz:2095/play/live.php?mac=00:1A:79:47:64:7A&stream=70484&extension=ts
 #EXTINF:2.597,
-http://tv14s.xyz:8080//live/5ThaSM/484504/167742.ts
+http://macete.xyz:2095/play/live.php?mac=00:1A:79:47:64:7A&stream=70484&extension=ts
 
 ##http://nxt.plus:8080//live/olmos/1234guz/23424.ts
 ##http://tv.iprotv.live:80//live/canales-ProYeCtoX998/NuevacanalesProyectoRw/96439.ts
+##http://tv14s.xyz:8080//live/5ThaSM/484504/167742.ts
