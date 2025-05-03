@@ -1,7 +1,7 @@
 # █ █▄ █ ▄▀▀ █▀▄ █ █▀▄ ▄▀▄ ▀█▀ █ ▄▀▄ █▄ █   █   █ █▄ █ █▄▀ ▄▀▀
 # █ █ ▀█ ▄██ █▀  █ █▀▄ █▀█  █  █ ▀▄▀ █ ▀█   █▄▄ █ █ ▀█ █ █ ▄██
 # ――――――――――――――――――――――――――――――――――――――――――――――
-# (●) Last Update: 2025-05-04 11:15:11 GMT+7 "
+# (●) Last Update: 2025-05-03 11:15:11 GMT+7 "
 # (●) Service: FREETV Inspiration Links
 # (●) Total Channels: Null
 
@@ -2930,8 +2930,8 @@ https://78088d9226df47fb95e3320920b08ad7.mediatailor.us-east-1.amazonaws.com/v1/
 --- 🌈🆁™  𝙉𝙤𝙫𝗲𝙡𝙖𝙨 🇲🇽🇦🇷🇻🇪
 
 #EXTINF:-1 cuid="761" tvg-name="Canela tv 🇲🇽" tvg-id="USBC39000080S" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC39000080S_20241228T011434SQUARE.png" group-logo="https://cdn-icons-png.freepik.com/512/2112/2112926.png" group-title="🌈🆁™ Novelas 🌎",Canela tv 🇲🇽
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=4847
 https://d1e8lnhq9tc267.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-82c2gso7442g9/canelatv.m3u8
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4847
 
 #EXTINF:-1 cuid="762" tvg-name="Novelas México" tvg-id="6474a7958e3c0a0008b97cae" tvg-logo="https://images.pluto.tv/channels/6474a7958e3c0a0008b97cae/colorLogoPNG.png" group-logo="https://cdn-icons-png.freepik.com/512/2112/2112926.png" group-title="🌈🆁™ Novelas 🌎",Novelas México 🇲🇽
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6474a7958e3c0a0008b97cae/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=inspirationiptv&deviceDNT=1
@@ -2960,10 +2960,10 @@ https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6474a7e7f77b6100080a8
 #EXTINF:-1 cuid="769" tvg-name="Novelisima 🇲🇽" tvg-id="plex.tv.Novelisima.plex" tvg-logo="https://play-lh.googleusercontent.com/_UxyN3kvZpoAYKdJqAauf73K4_eShG0gZNT_UHT2E1jkIabNL7x3bv7bEm2tyIQCUVEB=w0" group-logo="https://cdn-icons-png.freepik.com/512/2112/2112926.png" group-title="🌈🆁™ Novelas 🌎",Novelisima 🇲🇽
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2380
 
-#EXTINF:-1 cuid="770" tvg-name="Pluto TV Novelas Dramas 🇲🇽" tvg-id="5e84dbf4a838b60007ffbba1" tvg-logo="https://images.pluto.tv/channels/5cf96cc422df39f1a338d165/colorLogoPNG.png" group-logo="https://cdn-icons-png.freepik.com/512/2112/2112926.png" group-title="🌈🆁™ Novelas 🌎",Pluto TV Novelas Dramas 🇲🇽
+#EXTINF:-1 cuid="770" tvg-name="Pluto TV Novelas Dramas 🇲🇽" tvg-id="5e84dbf4a838b60007ffbba1" tvg-logo="https://images.pluto.tv/channels/5cf96cc422df39f1a338d165/colorLogoPNG.png" group-logo="https://cdn-icons-png.freepik.com/512/2112/2112926.png" group-title="🌈🆁™ Novelas 🌎",Novelas Dramas 🇲🇽
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e84dbf4a838b60007ffbba1/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=github.com/inspirationlinks&deviceDNT=1
 
-#EXTINF:-1 cuid="771" tvg-name="Pluto TV Novelas Romance 🇲🇽" tvg-id="PlutoTVNovelasRomance.us" tvg-logo="https://images.pluto.tv/channels/5e84db2db3851800077c871e/colorLogoPNG.png" group-logo="https://cdn-icons-png.freepik.com/512/2112/2112926.png" group-title="🌈🆁™ Novelas 🌎",Pluto TV Novelas Romance 🇲🇽
+#EXTINF:-1 cuid="771" tvg-name="Pluto TV Novelas Romance 🇲🇽" tvg-id="5e84db2db3851800077c871e" tvg-logo="https://images.pluto.tv/channels/5e84db2db3851800077c871e/colorLogoPNG.png" group-logo="https://cdn-icons-png.freepik.com/512/2112/2112926.png" group-title="🌈🆁™ Novelas 🌎",Novelas Romance 🇲🇽
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e84db2db3851800077c871e/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=github.com/inspirationlinks&deviceDNT=1
 
 #EXTINF:-1 cuid="772" tvg-name="Canela Telenovelas 🇲🇽" tvg-id="plex.tv.Canela.Telenovelas.plex" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a527acd3-e02c-4c29-81f9-d6e5e3e67f94/CM-Amagi-Artwork_9-1920x1080_-_Camila_Conti.jpg" group-logo="https://cdn-icons-png.freepik.com/512/2112/2112926.png" group-title="🌈🆁™ Novelas 🌎",Canela Telenovelas 🇲🇽
@@ -2987,7 +2987,7 @@ https://d3tqgr18sdql14.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://dm44c2ycmsees.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-awtur5jypeo4b/872c3088-19d6-4a4c-981c-07713116c86d/4.m3u8
 
 #EXTINF:-1 cuid="779" tvg-name="Tlnovela ѕᴅ 🇲🇽" tvg-id="Canal.TLNovelas.(Costa.Rica).cr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Tlnovelas_logo_2021.png" group-logo="https://cdn-icons-png.freepik.com/512/2112/2112926.png" group-title="🌈🆁™ Novelas 🌎",Tlnovela ѕᴅ 🇲🇽
-http://179.189.222.226:8000/play/ch45
+###http://179.189.222.226:8000/play/ch45
 
 #EXTINF:-1 cuid="780" tvg-name="Telemundo Novelas Clasicas 🇵🇷" tvg-id="5cf96cc422df39f1a338d165" tvg-logo="https://images.pluto.tv/channels/5cf96cc422df39f1a338d165/colorLogoPNG.png" group-logo="https://cdn-icons-png.freepik.com/512/2112/2112926.png" group-title="🌈🆁™ Novelas 🌎",Telemundo Novelas Clasicas 🇵🇷
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5cf96cc422df39f1a338d165/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=github.com/inspirationlinks&deviceDNT=1
@@ -3531,7 +3531,7 @@ https://tvpass.org/live/ESPN2/sd
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/dmotion/py/eqpe/ekip.m3u8
 https://accesiptv.com//Mzkc5Hm6eq/HYj6954jZZ/94
 
-#EXTINF:-1 cuid="908" tvg-name="L'Équipe Foot 🇫🇷" tvg-logo="https://medias.lequipe.fr/logo-media/lequipe-live-foot-000/320" group-logo="https://cdn-icons-png.freepik.com/512/5540/5540420.png" group-title="🌈🆁™ Sports 🇫🇷🇮🇹",L'Équipe Foot 🇫🇷
+#EXTINF:-1 cuid="908" tvg-name="L'Équipe 🇫🇷" tvg-id="La.chaine.l’Équipe.fr" tvg-logo="https://logo.iptveditor.com/l'equipe.png" group-logo="https://cdn-icons-png.freepik.com/512/5540/5540420.png" group-title="🌈🆁™ Sports 🇫🇷🇮🇹",L'Équipe 🇫🇷
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/l-equipe.m3u8
 
 #EXTINF:-1 tvg-name="L'Équipe Foot 🇫🇷" tvg-logo="https://medias.lequipe.fr/logo-media/lequipe-live-foot-000/320" group-logo="https://cdn-icons-png.freepik.com/512/5540/5540420.png" group-title="🌈🆁™ Sports 🇫🇷🇮🇹",L'Équipe Foot 🇫🇷
@@ -4021,22 +4021,24 @@ https://apollo.production-public.tubi.io/live/ac-tmz.m3u8
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2153
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62c5d32e2c48f9000715b6e9livestitch/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=github.com/inspirationlinks&deviceDNT=1
 
-#EXTINF:-1 cuid="1010" tvg-name="Runtime Família 🇧🇷" tvg-id="4677" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/runtime.webp" group-title="​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Films 📽️",Runtime Família 🇧🇷
+#EXTINF:-1 cuid="1010" tvg-name="Runtime Família 🇧🇷" tvg-id="4677" tvg-logo="https://logo.iptveditor.com/runtime.png" group-title="​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Films 📽️",Runtime Família 🇧🇷
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5589
-#EXTINF:-1 cuid="1011" tvg-name="Runtime Comedia 🇧🇷" tvg-id="4677" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/runtime.webp" group-title="​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Films 📽️",Runtime Comedia 🇧🇷
+#EXTINF:-1 cuid="1011" tvg-name="Runtime Comedia 🇧🇷" tvg-id="4677" tvg-logo="https://logo.iptveditor.com/runtime.png" group-title="​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Films 📽️",Runtime Comedia 🇧🇷
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2553
-#EXTINF:-1 cuid="1012" tvg-name="Runtime CinEspanto 🇧🇷" tvg-id="6800" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/runtime.webp" group-title="​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Films 📽️",Runtime CinEspanto 🇧🇷
+#EXTINF:-1 cuid="1012" tvg-name="Runtime CinEspanto 🇧🇷" tvg-id="6800" tvg-logo="https://logo.iptveditor.com/runtime.png" group-title="​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Films 📽️",Runtime CinEspanto 🇧🇷
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4865
-#EXTINF:-1 cuid="1013" tvg-name="Runtime Crime 🇧🇷" tvg-id="6802" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/runtime.webp" group-title="​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Films 📽️",Runtime Crime 🇧🇷
+#EXTINF:-1 cuid="1013" tvg-name="Runtime Crime 🇧🇷" tvg-id="6802" tvg-logo="https://logo.iptveditor.com/runtime.png" group-title="​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Films 📽️",Runtime Crime 🇧🇷
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4864
 
-#EXTINF:-1 cuid="1014" tvg-name="Runtime Action 🇧🇷" tvg-id="4675" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/runtime.webp" group-title="​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Films 📽️",Runtime Action 🇧🇷
+#EXTINF:-1 cuid="1014" tvg-name="Runtime Action 🇧🇷" tvg-id="4675" tvg-logo="https://logo.iptveditor.com/runtime.png" group-title="​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Films 📽️",Runtime Action 🇧🇷
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2552
 https://d3vx6kwn4pkd9t.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fj2q06aizeppd-prod/run/rt_ra/rt_ra.m3u8
+
+--- OUTROS
+
 #EXTINF:-1 cuid="1015" tvg-name="" tvg-id="" tvg-logo="" group-title="​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Films 📽️",
 ###
-
---- 
+ 
 
 #EXTINF:-1 cuid="1016" tvg-name="Dark Matter" tvg-id="plex.tv.Dark.Matter.TV.plex" tvg-logo="https://images.pluto.tv/channels/5e843d849109b700075d5ada/colorLogoPNG.png" group-title="​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Films Terror 😱",Dark Matter 🇺🇸
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/dark-matter-tv/master.m3u8
