@@ -5,7 +5,7 @@
 
 📌 Se encontrar à frente do nome do canal a <b>flag de um País, (🇵🇹🇧🇷🇪🇸🇺🇸), OU (💬),  OU este simbolo, (🔉) </b>. Significa a origem e nacionalidade do canal, como também quais os idiomas disponíveis de <b>(áudio e legendas)</b> disponiblizadas.
 
-📌 Se encontrar à frente do nome do canal este símbolo <b>⚽️</b>. Significa que o canal é de <b>Entretenimento</b>, mas transmite em <b>direto eventos desportivos</b>.
+📌 Se encontrar à frente do nome do canal varios simpolos de desporto, <b>🏉⚾⚽️🏍</b>. Significa que o canal é de <b>Entretenimento</b>, mas transmite em <b>direto eventos desportivos</b>.
 
 📌 Se encontrar à frente do nome do canal este símbolo, <b>▶️</b>. Significa que o canal é oriundo do <b>(Youtube, Dailymotion, etc...)</b>
 
