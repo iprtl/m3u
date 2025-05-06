@@ -164,16 +164,15 @@ http://cdn1host.online:2999//live/kratorius/opLcbhlXaT/1781.ts
 #EXTINF:-1 cuid="32" tvg-name="TVI Reality 🇵🇹" tvg-id="tvi.reality.pt" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/tviReality.webp" group-logo="https://cdn-icons-png.freepik.com/256/5695/5695545.png" group-title="🌈🆁™ Secret Story 👁️🌎",TVI Reality 🇵🇹
 https://video-auth5.iol.pt/live_tvi_reality/live_tvi_reality/edge_servers/tvireality-720_passthrough/playlist.m3u8
 
-#EXTINF:-1 cuid="33" tvg-name="BBB 🇧🇷" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/44/Logo_Big_Brother_Brasil.png" group-logo="https://cdn-icons-png.freepik.com/256/5695/5695545.png" group-title="🌈🆁™ Secret Story 👁️🌎",BBB 🇧🇷
+#EXTINF:-1 cuid="33" tvg-name="BBB 🇧🇷" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/b/bf/Power_Couple_Brasil.jpg" group-logo="https://cdn-icons-png.freepik.com/256/5695/5695545.png" group-title="🌈🆁™ Secret Story 👁️🌎",Power Couple 🇧🇷
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:137.0) Gecko/20100101 Firefox/137.0
-https://amd02eng.akamaized.net/hls/live/2019376/powerc3/master.m3u8?hdnts=exp=1746453131~acl=/*~hmac=f3f1cdcc44e8b90d7499cdabb42885c0f7b5e4f4dd2245c5cc6653cc969bbc5a
+http://pfsv.io:80//live/6783460679/1233/303184.ts
 #EXTVLCOPT:http-origin=https://embedtv-0.icu/
 #EXTVLCOPT:http-referrer=https://embedtv-0.icu/
 #EXTVLCOPT:http-origin=https://nossoplayeronlinehd.com/
 #EXTVLCOPT:http-referrer=https://nossoplayeronlinehd.com/
 https://s2.fazoeli.fun/fontes/nossoplayer/bbb2.m3u8
-https://amd01eng.akamaized.net/hls/live/2008102/powerc2/master.m3u8?hdnts=exp=1746453165~acl=/*~hmac=64295ac7d87782872fe76fa07094ae66e9421fc3fc2f7f908953b0a0afa0b1a7
-https://amd01eng.akamaized.net/hls/live/2008102/powerc1/master.m3u8?hdnts=exp=1746453197~acl=/*~hmac=2307f5cd718a9c9549cef5f4445e904381d989dd9e04547c4fcc50ff54b513dc
+
 
 
 
@@ -1333,6 +1332,12 @@ https://cdn-3.nxplay.com.br/HALLOCLASSIC/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 cuid="327" tvg-name="RECORDTV" tvg-id="RECORDRJ" tvg-logo="https://assine.playplus.com/pf/resources/images/assine-playplus.ico?d=327" group-logo="https://cdn-icons-png.freepik.com/512/4087/4087498.png" group-title="🌈🆁™ Brasil 🇧🇷",Record 🇧🇷
 http://185.246.208.74:14660/PlayPlus
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:137.0) Gecko/20100101 Firefox/137.0
+#EXTVLCOPT:http-origin=https://embedtv-0.icu/
+#EXTVLCOPT:http-referrer=https://embedtv-0.icu/
+#EXTVLCOPT:http-origin=https://nossoplayeronlinehd.com/
+#EXTVLCOPT:http-referrer=https://nossoplayeronlinehd.com/
+https://fazoeli.fun/fontes/embedtv/record.m3u8
 
 ---
 
