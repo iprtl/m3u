@@ -1946,6 +1946,7 @@ https://cdn.teveo.cu/live/video/A36pWmuWvZBQskuZ/ngrp:gppfydfzpSUn9Udy.stream/pl
 ---
 
 #EXTINF:-1 cuid="495" tvg-name="UNIVERSAL.PREMIERE" tvg-id="UNIVERSAL.PREMIERE.uy" tvg-logo="https://logo.iptveditor.com/universalpremiere.png" group-logo="https://cdn-icons-png.freepik.com/512/2072/2072212.png" group-title="🌈🆁™ Hispânicos 🇨🇺🇨🇴🇲🇽",Universal Premiere 🇺🇾🇸🇻
+http://clubtv.link/my0505/phpcode/lista0.php?c=31&token=Tecnoplus11&f=.m3u8
 http://45.184.87.142:8000/play/a058
 http://200.115.96.66:4000/play/a034/index.m3u8
 http://45.184.87.142:8000/play/a05r?West
@@ -1954,6 +1955,7 @@ http://45.184.87.142:8000/play/a05r?West
 http://45.184.87.142:8000/play/a05o
 
 #EXTINF:-1 cuid="497" tvg-name="Universal Crime" tvg-id="Canal.Universal.Crime.sv" tvg-logo="https://logo.iptveditor.com/universalcrime.png" group-logo="https://cdn-icons-png.freepik.com/512/2072/2072212.png" group-title="🌈🆁™ Hispânicos 🇨🇺🇨🇴🇲🇽",Universal Crime 🇺🇾🇸🇻
+http://clubtv.link/my0505/phpcode/lista0.php?c=32&token=Tecnoplus11&f=.m3u8
 http://45.184.87.142:8000/play/a05q
 http://200.115.96.66:4000/play/a033/index.m3u8
 
@@ -2010,35 +2012,34 @@ https://us.streaminghd.cl/torococotelevision/video.m3u8
 https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c68572841ba301729cc464d33c0b/manifest.mpd
 
 #EXTINF:-1 cuid="509" tvg-name="Channel.4" tvg-id="Channel.4.HD.uk" tvg-logo="https://logo.iptveditor.com/channel4.png" group-logo="https://cdn-icons-png.freepik.com/512/5238/5238411.png" group-title="🌈🆁™ English 🇬🇧🇺🇸🇨🇦",Channel 4 🇬🇧
+http://161.123.220.31:8000/play/a09g
 https://wowza5.leisertv.com/live/channel4hd.stream/.m3u8
 ###http://iptv.prosto.tv:7000/ch206/video.m3u8?EnglishClubTV 
 
-#EXTINF:-1 cuid="510" tvg-name="E4 Channel 🇬🇧" tvg-id="E4.HD.uk" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/e4-channel.png" group-logo="https://cdn-icons-png.freepik.com/512/5238/5238411.png" group-title="🌈🆁™ English 🇬🇧🇺🇸🇨🇦",E4 Channel 🇬🇧
-#EXTVLCOPT:http-origin=https://kisskissplay.cfd
-#EXTVLCOPT:http-referrer=https://kisskissplay.cfd/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://ddy6new.newkso.ru/ddy6/premium363/mono.m3u8
+#EXTINF:-1 cuid="510" tvg-name="Channel.5" tvg-id="Channel.5.HD.uk" tvg-logo="https://logo.iptveditor.com/channel5.png" group-logo="https://cdn-icons-png.freepik.com/512/5238/5238411.png" group-title="🌈🆁™ English 🇬🇧🇺🇸🇨🇦",Channel 5 🇬🇧
+http://161.123.220.31:8000/play/a02x
 
-#EXTINF:-1 cuid="511" tvg-name="ITV 4 🇬🇧" tvg-id="ITV4.HD.uk" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/itv-4-uk.png" group-logo="https://cdn-icons-png.freepik.com/512/5238/5238411.png" group-title="🌈🆁™ English 🇬🇧🇺🇸🇨🇦",ITV 4 🇬🇧
+#EXTINF:-1 cuid="511" tvg-name="ITV 4 🇬🇧" tvg-id="ITV4.HD.uk" tvg-logo="https://logo.iptveditor.com/itv4.png" group-logo="https://cdn-icons-png.freepik.com/512/5238/5238411.png" group-title="🌈🆁™ English 🇬🇧🇺🇸🇨🇦",ITV 4 🇬🇧
 #EXTVLCOPT:http-origin=https://kisskissplay.cfd
 #EXTVLCOPT:http-referrer=https://kisskissplay.cfd/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://ddy6new.newkso.ru/ddy6/premium353/mono.m3u8
 
-#EXTINF:-1 cuid="512" tvg-name="U&Dave 🇬🇧" tvg-id="Dave(src01).uk" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/dave.png" group-logo="https://cdn-icons-png.freepik.com/512/5238/5238411.png" group-title="🌈🆁™ English 🇬🇧🇺🇸🇨🇦",U&Dave 🇬🇧
+
+#EXTINF:-1 cuid="512" tvg-name="E4 Channel 🇬🇧" tvg-id="E4.HD.uk" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/e4-channel.png" group-logo="https://cdn-icons-png.freepik.com/512/5238/5238411.png" group-title="🌈🆁™ English 🇬🇧🇺🇸🇨🇦",E4 Channel 🇬🇧
 #EXTVLCOPT:http-origin=https://kisskissplay.cfd
 #EXTVLCOPT:http-referrer=https://kisskissplay.cfd/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://dokko1new.newkso.ru/dokko1/premium348/mono.m3u8
+https://ddy6new.newkso.ru/ddy6/premium363/mono.m3u8
 
 --- 🌈🆁™ 𝘾𝙝𝙖𝙣𝙣𝙚𝙡𝙨 🇺🇸🇬🇧🇨🇦
 
 #EXTINF:-1 cuid="513" tvg-name="AMC+ 🇺🇸" tvg-id="AMC+.us" tvg-logo="https://logo.iptveditor.com/amcplus.png" group-logo="https://cdn-icons-png.freepik.com/512/5238/5238411.png" group-title="🌈🆁™ English 🇬🇧🇺🇸🇨🇦",AMC+ 🇺🇸
 https://bcovlive-a.akamaihd.net/ba853de442c140b7b3dc020001597c0a/us-east-1/6245817279001/playlist.m3u8
-###https://tvpass.org/live/AMCEast/sd
 
 #EXTINF:-1 cuid="514" tvg-name="AMC" tvg-id="AMC.-.Eastern.Feed.us" tvg-logo="https://logo.iptveditor.com/amc.png" group-logo="https://cdn-icons-png.freepik.com/512/5238/5238411.png" group-title="🌈🆁™ English 🇬🇧🇺🇸🇨🇦",AMC 🇺🇸
 http://41.205.93.154/AMC/index.m3u8
+https://tvpass.org/live/AMCEast/sd
 
 #EXTINF:-1 cuid="515" tvg-name="" tvg-id="USA.Network.-.East.Feed.us" tvg-logo="https://logo.iptveditor.com/usanetwork.png" group-logo="https://cdn-icons-png.freepik.com/512/5238/5238411.png" group-title="🌈🆁™ English 🇬🇧🇺🇸🇨🇦",USA Network ⚽️ 🇺🇸
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -2055,56 +2056,47 @@ https://tvpass.org/live/USANetworkEast/hd/
 #KODIPROP:inputstream.adaptive.license_key=0045a118e231f1326bcdb45350b1ceaa:8c13afbfa54ea37a368b8b859021f6e3
 https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(knbc)/master.mpd 
 
---- 🌈🆁™ INDIA CHANNELS
+--- 🌈🆁™ CHANNELS UK
 
-#EXTINF:-1 cuid="517" tvg-name="HBO Hits 🇺🇸🇮🇳" tvg-id="HBO.Hits.HD.id" tvg-logo="https://logo.iptveditor.com/hbohits.png" group-logo="https://cdn-icons-png.freepik.com/512/5238/5238411.png" group-title="🌈🆁™ English 🇬🇧🇺🇸🇨🇦",HBO Hits 🇺🇸🇮🇳
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cubmu-cindo.cenc16995.workers.dev/
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
-###https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d054fbf67379f/manifest.mpd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=b04ae8017b5b4601a5a0c9060f6d5b7d:a8795f3bdb8a4778b7e888ee484cc7a1
-###https://qp-pldt-live-grp-09-prod.akamaized.net/out/u/cg_hbohits.mpd
+#EXTINF:-1 cuid="517" tvg-name="ITV 1" tvg-id="ITV1.HD.uk" tvg-logo="https://logo.iptveditor.com/itv1.png" tvg-logo="https://logo.iptveditor.com/hbohits.png" group-logo="https://cdn-icons-png.freepik.com/512/5238/5238411.png" group-title="🌈🆁™ English 🇬🇧🇺🇸🇨🇦",itv 1 🇬🇧
+http://161.123.220.31:8000/play/a06f
 
-#EXTINF:-1 cuid="518" tvg-name="HBO Signature 🇺🇸🇮🇳" tvg-id="HBO.Signature.HD.id" tvg-logo="https://logo.iptveditor.com/hbosignature.png" group-logo="https://cdn-icons-png.freepik.com/512/5238/5238411.png" group-title="🌈🆁™ English 🇬🇧🇺🇸🇨🇦",HBO Signature 🇺🇸🇮🇳
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=a06ca6c275744151895762e0346380f5:559da1b63eec77b5a942018f14d3f56f
-###https://qp-pldt-live-grp-01-prod.akamaized.net/out/u/cg_hbosign.mpd
+#EXTINF:-1 cuid="518" tvg-name="ITV 2" tvg-id="ITV2.HD.uk" tvg-logo="https://logo.iptveditor.com/itv2.png"  group-logo="https://cdn-icons-png.freepik.com/512/5238/5238411.png" group-title="🌈🆁™ English 🇬🇧🇺🇸🇨🇦",itv 2 🇬🇧
+http://161.123.220.31:8000/play/a06r
 
-#EXTINF:-1 cuid="519" tvg-name="HBO Cinemax 🇺🇸🇮🇳" tvg-id="Cinemax.HD.id" tvg-logo="https://logo.iptveditor.com/cinemax.png" group-logo="https://cdn-icons-png.freepik.com/512/5238/5238411.png" group-title="🌈🆁™ English 🇬🇧🇺🇸🇨🇦",HBO Cinemax 🇺🇸🇮🇳
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b207c44332844523a3a3b0469e5652d7:fe71aea346db08f8c6fbf0592209f955
-###https://qp-pldt-live-grp-01-prod.akamaized.net/out/u/cg_cinemax.mpd
+#EXTINF:-1 cuid="519" tvg-name="ITV 3" tvg-id="ITV3+1.uk" tvg-logo="https://logo.iptveditor.com/itv3.png" group-logo="https://cdn-icons-png.freepik.com/512/5238/5238411.png" group-title="🌈🆁™ English 🇬🇧🇺🇸🇨🇦",itv3+1 🇬🇧
+http://161.123.220.31:8000/play/a04f
+
+#EXTINF:-1 cuid="520" tvg-name="ITV 4" tvg-id="ITV4.HD.uk" tvg-logo="https://logo.iptveditor.com/itv4.png" group-logo="https://cdn-icons-png.freepik.com/512/5238/5238411.png" group-title="🌈🆁™ English 🇬🇧🇺🇸🇨🇦",itv 4 🇬🇧
+#EXTVLCOPT:http-origin=https://kisskissplay.cfd
+#EXTVLCOPT:http-referrer=https://kisskissplay.cfd/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://ddy6new.newkso.ru/ddy6/premium353/mono.m3u8
+
 
 ---
-
-#EXTINF:-1 cuid="520" tvg-name="Hits Now 🇺🇸🇮🇳" tvg-id="Cg.Hitsnow.ph" tvg-logo="https://logo.iptveditor.com/hitsnow.png" group-logo="https://cdn-icons-png.freepik.com/512/5238/5238411.png" group-title="🌈🆁™ English 🇬🇧🇺🇸🇨🇦",Hits Now (🔉🇺🇸🇮🇳)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-https://cdn08jtedge.indihometv.com/dassdvr/134/hitsnow/manifest.mpd
 
 #EXTINF:-1 cuid="521" tvg-name="CINEMAWORLD 🇺🇸🇮🇳" tvg-id="CINEMAWORLD.ph" tvg-logo="https://logo.iptveditor.com/cinemaworld.png" group-logo="https://cdn-icons-png.freepik.com/512/5238/5238411.png" group-title="🌈🆁™ English 🇬🇧🇺🇸🇨🇦",CINEMAWORLD (🔉🇺🇸🇮🇳)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cdn08jtedge.indihometv.com/dassdvr/134/cinemaworld/manifest.mpd
 
-#EXTINF:-1 cuid="522" tvg-name="TVN Movies 🇺🇸🇮🇳" tvg-id="tvN.Movies.HD.id" tvg-logo="https://static.wikia.nocookie.net/russel/images/e/e3/TvN_Movies_Pinoy_Logo_2023.png" group-logo="https://cdn-icons-png.freepik.com/512/5238/5238411.png" group-title="🌈🆁™ English 🇬🇧🇺🇸🇨🇦",TVN Movies 🇺🇸🇮🇳
+#EXTINF:-1 cuid="522" tvg-name="Hits Now 🇺🇸🇮🇳" tvg-id="Cg.Hitsnow.ph" tvg-logo="https://logo.iptveditor.com/hitsnow.png" group-logo="https://cdn-icons-png.freepik.com/512/5238/5238411.png" group-title="🌈🆁™ English 🇬🇧🇺🇸🇨🇦",Hits Now (🔉🇺🇸🇮🇳)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-###https://cdn08jtedge.indihometv.com/dassdvr/133/tvnmovies/manifest.mpd
+https://cdn08jtedge.indihometv.com/dassdvr/134/hitsnow/manifest.mpd
 
 
 #EXTINF:-1 cuid="523" tvg-name="AXN" tvg-id="AXN.id" tvg-logo="https://logo.iptveditor.com/axn.png" group-logo="https://cdn-icons-png.freepik.com/512/5238/5238411.png" group-title="🌈🆁™ English 🇬🇧🇺🇸🇨🇦",AXN 🇺🇸🇮🇳
 ###https://raw.githubusercontent.com/bestcommt2/m3u8/refs/heads/master/trueAXN.m3u8
 
-#EXTINF:-1 cuid="524" tvg-name="ABC (KABC) Los Angeles" tvg-id="Warner.id" tvg-logo="https://logo.iptveditor.com/warner.png" group-logo="https://cdn-icons-png.freepik.com/512/5238/5238411.png" group-title="🌈🆁™ English 🇬🇧🇺🇸🇨🇦",Warner TV 🇺🇸🇮🇳
+#EXTINF:-1 cuid="524" tvg-name="U&Dave 🇬🇧" tvg-id="U.and.Dave.HD.uk" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/dave.png" group-logo="https://cdn-icons-png.freepik.com/512/5238/5238411.png" group-title="🌈🆁™ English 🇬🇧🇺🇸🇨🇦",U&Dave 🇬🇧
+#EXTVLCOPT:http-origin=https://kisskissplay.cfd
+#EXTVLCOPT:http-referrer=https://kisskissplay.cfd/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://dokko1new.newkso.ru/dokko1/premium348/mono.m3u8
+
+
 #EXTVLCOPT:http-referrer=https://www.indihometv.com
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -3904,13 +3896,16 @@ https://ddy6new.newkso.ru/ddy6/premium432/mono.m3u8
 --- 🌈🆁™ Liga Betclic
 
 #EXTINF:-1 cuid="934" tvg-name="SPORT.TV1" tvg-id="SPORT.TV1.HD.pt" tvg-logo="https://logo.iptveditor.com/sporttv1.png" group-logo="https://cdn-icons-png.freepik.com/512/7054/7054410.png" group-title="🌈🆁™ Liga Betclic 🌍",αθλητική τηλεόραση 1
+http://3.team.ga:80/ch1705/mono.m3u8?token=mkoyan01.gggvuQb0_PS58ZmHycUdsQO_B0Hhqnc3M8BUGlRrSfu3QBxDOyIHcy4N-8oNcG6z
 http://fonte.lista.luxe:80//live/iptvgood/101011/7439.m3u8
 +https://github.com/inspirationlinks/m3u/raw/live/Streams/chapa1.m3u8
 #EXTINF:-1 cuid="935" tvg-name="SPORT.TV2" tvg-id="SPORT.TV5.HD.pt" tvg-logo="https://logo.iptveditor.com/sporttv5.png" group-logo="https://cdn-icons-png.freepik.com/512/7054/7054410.png" group-title="🌈🆁™ Liga Betclic 🌍",αθλητική τηλεόραση 5
 http://fonte.lista.luxe:80//live/iptvgood/101011/7427.m3u8
+http://3.team.ga:80/ch1709/mono.m3u8?token=mkoyan01.gggvuQb0_PS58ZmHycUdsc6534duqhcXT45qPAdNuTIRaI9z5jpkb8iPz_iFHo1v
 +https://github.com/inspirationlinks/m3u/raw/live/Streams/chapa5.m3u8
 
 #EXTINF:-1 cuid="936" tvg-name="Dazn 1" tvg-id="DAZN.1.pt" tvg-logo="https://logo.iptveditor.com/dazn1.png" group-logo="https://cdn-icons-png.freepik.com/512/7054/7054410.png" group-title="🌈🆁™ Liga Betclic 🌍",θαμπωμένος 1
+http://3.team.ga:80/ch2104/mono.m3u8?token=mkoyan01.gggvuQb0_PS58ZmHycUdsWX3Bnqv363lGH4BHa5c6WNa5CZSciHa9MX5yk-3C1jm
 http://fonte.lista.luxe:80//live/iptvgood/101011/7458.m3u8
 +https://github.com/inspirationlinks/m3u/raw/live/Streams/Dass1.m3u8
 
@@ -4108,7 +4103,7 @@ https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/arena6/default/index.mpd
 --- 🌈🆁™ 🇨🇿
 
 #EXTINF:-1 cuid="965" tvg-name="Sport1 🇨🇿" tvg-id="Sport1.cz" tvg-logo="https://www.sport1tv.cz/wp-content/uploads/2024/01/s1cz_logo_2020_01.png" group-logo="https://cdn-icons-png.freepik.com/512/5540/5540420.png" group-title="🌈🆁™ Sports in World 🌎",Sport1 🇨🇿
-###http://88.212.15.19/live/test_sport1_25p/playlist.m3u8
+http://185.236.230.212:9981/play/a0cg
 #EXTINF:-1 cuid="966" tvg-name="Sport2 🇨🇿" tvg-id="Sport2.cz" tvg-logo="https://www.sport1tv.cz/wp-content/uploads/2024/01/s1cz_logo_2020_02.png" group-logo="https://cdn-icons-png.freepik.com/512/5540/5540420.png" group-title="🌈🆁™ Sports in World 🌎",Sport2 🇨🇿
 http://88.212.15.19/live/test_sport_2/playlist.m3u8
 
