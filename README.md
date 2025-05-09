@@ -41,7 +41,10 @@
 ✅ Lista m3u só com Streams de Sinal Aberto 
 (Basta copiar e colar)
 ```bash
-https://bit.ly/InspirationFreetv
+Lista Inspiration Links:
+https://github.com/inspirationlinks/m3u/raw/live/InspirationLinks.m3u
+Lista FreeStreaming:
+https://github.com/inspirationlinks/m3u/raw/live/FreeStreaming.m3u
 ```
 ---
 
@@ -51,12 +54,6 @@ https://bit.ly/InspirationFreetv
 
 [👉 🖧 Download Latest Version Original OTTNavigator ](https://app.ott-nav.com/dist/std/latest.apk)
 
-Depois de instalado, faça esta Configuração, para ter a lista Inspiration Freetv no OTTNavigator.
-
-Backup: xCYaL6 | Password: 123
-```bash
-⚙️ Configurações > Configurações adicionais > Backup e Restauração > Restaurar um backup de configuração feito anteriormente > inserir código xCYaL6 > Restaurar posição (Todos) > inserir senha 123 > reiniciar aplicação.
-```
 ---
 ### 📢 Este espaço é da unicamente responsabilidade de Iptv Top Tuga!!!
 
