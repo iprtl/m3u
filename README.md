@@ -34,7 +34,7 @@
 
 * [📝 Indice|Legenda](https://github.com/inspirationlinks/m3u/blob/live/INFO.md#-indice--legendas)
 
-### 🌍🌐 Inspiration Links disponibliza Lista de iptv personalizada, com um conteudo bastante variado de varios Países: (🇵🇹 🇧🇷 🇪🇸 🇲🇽 🇺🇸 🇬🇧 🇫🇷 🇮🇹)
+### 🌍🌐 Inspiration Links disponibiliza Lista de iptv personalizada, com um conteúdo bastante variado de vários Países:
 
 ✅ Lista m3u personalizada Inspiration Links: 
 (Basta copiar e colar)
