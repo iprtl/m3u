@@ -39,7 +39,6 @@
 ✅ Lista m3u personalizada Inspiration Links: 
 (Basta copiar e colar)
 ```bash
-Lista Inspiration Links:
 https://github.com/inspirationlinks/m3u/raw/live/InspirationLinks.m3u
 ```
 ✅ Lista m3u só com Free Streaming que o Inspiration Links elaborou: (Pluto; Plex; SamsungTvPlus, Rakuten; Roku; Freetv; Xumo, etc... )
