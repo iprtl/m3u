@@ -1482,6 +1482,31 @@ https://di-kzbhv8pw.vo.lswcdn.net/sportitalia/sisolocalcio.smil/playlist.m3u8
 #EXTINF:-1 cuid="920" tvg-name="Sport Italia Replica 🇮🇹" tvg-id="IT:.Sport.Italia.it" tvg-logo="https://www.sportitalia.it/wp-content/uploads/2024/02/cropped-logo-si-180x180.png" group-logo="https://cdn-icons-png.freepik.com/512/5540/5540420.png" group-title="🌈🆁™ Sports 🌎",Sport Italia Replica 🇮🇹
 https://di-kzbhv8pw.vo.lswcdn.net/sportitalia/silive24.smil/playlist.m3u8
 
+--- 🌈🆁™ ALKASS 🇸🇦
+
+#EXTINF:-1 cuid="983" tvg-name="Alkass Two 🇸🇦" tvg-id="AlkassTwo.qa" tvg-logo="https://i.imgur.com/8w61kFX.png" group-logo="https://cdn-icons-png.freepik.com/512/5540/5540420.png" group-title="🌈🆁™ Sports 🌎",Alkass Two 🇸🇦
+https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass2hef/master.m3u8
+
+#EXTINF:-1 cuid="984" tvg-name="Alkass Three 🇸🇦" tvg-id="AlkassThree.qa" tvg-logo="https://i.imgur.com/d57BdFh.png" group-logo="https://cdn-icons-png.freepik.com/512/5540/5540420.png" group-title="🌈🆁™ Sports 🌎",Alkass Three 🇸🇦
+https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass3vak/master.m3u8
+
+#EXTINF:-1 cuid="985" tvg-name="Alkass Five 🇸🇦" tvg-id="AlkassFive.qa" tvg-logo="https://i.imgur.com/6RGNGsM.png" group-logo="https://cdn-icons-png.freepik.com/512/5540/5540420.png" group-title="🌈🆁™ Sports 🌎",Alkass Five 🇸🇦
+https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass5nnha/master.m3u8
+
+#EXTINF:-1 cuid="986" tvg-name="Alkass SHOOF 🇸🇦" tvg-id="AlkassSHOOF.qa" tvg-logo="https://shoof.alkass.net/assets/images/shoof.png" group-logo="https://cdn-icons-png.freepik.com/512/5540/5540420.png" group-title="🌈🆁™ Sports 🌎",Alkass SHOOF 🇸🇦
+https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass6Shoof1/master.m3u8
+
+--- 🌈🆁™ J SPORTS 🇯🇵
+
+#EXTINF:-1 cuid="991" tvg-name="J Sports 1 🇯🇵" tvg-id="J.SPORTS.1.jp" tvg-logo="https://www.jsports.co.jp/favicon.ico" group-logo="https://cdn-icons-png.freepik.com/512/5540/5540420.png" group-title="🌈🆁™ Sports 🌎",J Sports 1 🇯🇵
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS242&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 cuid="992" tvg-name="J Sports 2 🇯🇵" tvg-id="J.SPORTS.2.jp" tvg-logo="https://www.jsports.co.jp/favicon.ico" group-logo="https://cdn-icons-png.freepik.com/512/5540/5540420.png" group-title="🌈🆁™ Sports 🌎",J Sports 2 🇯🇵
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS243&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 cuid="993" tvg-name="J Sports 3 🇯🇵" tvg-id="J.SPORTS.3.jp" tvg-logo="https://www.jsports.co.jp/favicon.ico" group-logo="https://cdn-icons-png.freepik.com/512/5540/5540420.png" group-title="🌈🆁™ Sports 🌎",J Sports 3 🇯🇵
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS244&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 cuid="994" tvg-name="J Sports 4 🇯🇵" tvg-id="J.SPORTS.4.jp" tvg-logo="https://www.jsports.co.jp/favicon.ico" group-logo="https://cdn-icons-png.freepik.com/512/5540/5540420.png" group-title="🌈🆁™ Sports 🌎",J Sports 4 🇯🇵
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS245&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
 #EXTINF:-1 cuid="997" tvg-name="Sukan rtm 🇲🇾🇺🇸" tvg-id="SukanRTM.my" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b2/Sukan_RTM_1_April.png/1600px-Sukan_RTM_1_April.png" group-logo="https://cdn-icons-png.freepik.com/512/5540/5540420.png" group-title="🌈🆁™ Sports 🌎",Sukan rtm 🇲🇾🇺🇸
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/segment_ua194x9ch_ctvideo_cfm4s_ridp0va0br4500000_cs87121008000_mpd.m4s
