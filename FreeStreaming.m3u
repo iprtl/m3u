@@ -1,14 +1,6 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz,https://raw.githubusercontent.com/rootcoder/epgtv/main/guide.xml.gz,https://www.tdtchannels.com/epg/TV.xml.gz,https://github.com/matthuisman/i.mjh.nz/raw/refs/heads/master/PlutoTV/all.xml.gz,https://github.com/matthuisman/i.mjh.nz/raw/refs/heads/master/SamsungTVPlus/all.xml.gz"
 
 
-#EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz" 
-url-tvg="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz" refresh="1440" max-conn="1"
-#EXTM3U x-tvg-url="https://raw.githubusercontent.com/rootcoder/epgtv/main/guide.xml.gz" url-tvg="https://raw.githubusercontent.com/rootcoder/epgtv/main/guide.xml.gz" refresh="1440" max-conn="1"
-#EXTM3U x-tvg-url="https://www.tdtchannels.com/epg/TV.xml.gz" url-tvg="https://www.tdtchannels.com/epg/TV.xml.gz" refresh="1440" max-conn="1"
-#EXTM3U x-tvg-url="https://github.com/matthuisman/i.mjh.nz/raw/refs/heads/master/PlutoTV/all.xml.gz" url-tvg="https://github.com/matthuisman/i.mjh.nz/raw/refs/heads/master/PlutoTV/all.xml.gz" refresh="1440" max-conn="1" 
-#EXTM3U x-tvg-url="https://github.com/matthuisman/i.mjh.nz/raw/refs/heads/master/SamsungTVPlus/all.xml.gz" url-tvg="https://github.com/matthuisman/i.mjh.nz/raw/refs/heads/master/SamsungTVPlus/all.xml.gz" refresh="1440" max-conn="1"
-
-
 
 # █ █▄ █ ▄▀▀ █▀▄ █ █▀▄ ▄▀▄ ▀█▀ █ ▄▀▄ █▄ █   █   █ █▄ █ █▄▀ ▄▀▀
 # █ █ ▀█ ▄██ █▀  █ █▀▄ █▀█  █  █ ▀▄▀ █ ▀█   █▄▄ █ █ ▀█ █ █ ▄██
@@ -36,6 +28,15 @@ tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/QR_Blog.webp"
 https://jerrymoz.wordpress.com/wp-content/uploads/2024/03/qr_paypal.png
 
 ---
+
+#EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz" 
+url-tvg="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz" refresh="1440" max-conn="1"
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/rootcoder/epgtv/main/guide.xml.gz" url-tvg="https://raw.githubusercontent.com/rootcoder/epgtv/main/guide.xml.gz" refresh="1440" max-conn="1"
+#EXTM3U x-tvg-url="https://www.tdtchannels.com/epg/TV.xml.gz" url-tvg="https://www.tdtchannels.com/epg/TV.xml.gz" refresh="1440" max-conn="1"
+#EXTM3U x-tvg-url="https://github.com/matthuisman/i.mjh.nz/raw/refs/heads/master/PlutoTV/all.xml.gz" url-tvg="https://github.com/matthuisman/i.mjh.nz/raw/refs/heads/master/PlutoTV/all.xml.gz" refresh="1440" max-conn="1" 
+#EXTM3U x-tvg-url="https://github.com/matthuisman/i.mjh.nz/raw/refs/heads/master/SamsungTVPlus/all.xml.gz" url-tvg="https://github.com/matthuisman/i.mjh.nz/raw/refs/heads/master/SamsungTVPlus/all.xml.gz" refresh="1440" max-conn="1"
+
+
 
 #EXTINF:-1 cuid="0" tvg-name="EnglishTV" tvg-id="" tvg-logo="https://englishtv.us/img/english-tv-logo.png" group-logo="https://cdn-icons-png.freepik.com/512/4482/4482879.png" group-title="•🆁 Portugal",English TV 🇺🇸🇪🇸
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/a5e9aebd-1df4-4e56-be4f-33a891756f9b/manifest.m3u8
@@ -194,7 +195,7 @@ https://pull-live-156-1.global.ssl.fastly.net/pc5865dc25400thmb-ea6bf03b14fa318f
 
 ---
 
-#EXTINF:-1 cuid="29" tvg-name="Travelxp" tvg-id="UK:.Travelxp.en" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/07/91/DEBA100000404_20201208T050244.png" group-logo="https://cdn-icons-png.freepik.com/512/4482/4482879.png" group-title="•🆁 Canais Legendados 🇧🇷🇵🇹",Travelxp (💬 🇧🇷)
+#EXTINF:-1 cuid="29" tvg-name="Travelxp" tvg-id="UK:.Travelxp.en" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/07/91/DEBA100000404_20201208T050244.png" group-logo="https://cdn-icons-png.freepik.com/512/9434/9434699.png" group-title="•🆁 Canais Legendados 🇧🇷🇵🇹",Travelxp (💬 🇧🇷)
 https://mediaworldwidelimited-travelxp-6-br.tcl.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 cuid="30" tvg-name="TVM Internacional" tvg-id="TVM.HD.mt" tvg-logo="https://www.tvm.co.mz/templates/templatetvmmain/favicon.ico" group-logo="https://cdn-icons-png.freepik.com/512/4482/4482879.png" group-title="•🆁 Portugal",TVM Internacional 🇲🇿
@@ -1637,13 +1638,13 @@ https://di-kzbhv8pw.vo.lswcdn.net/sportitalia/silive24.smil/playlist.m3u8
 
 --- •🆁 Dubai ALKASS 🇸🇦
 
-#EXTINF:-1 cuid="980" tvg-name="Dubai.Racing" tvg-id="Dubai.Racing.ae" tvg-logo="https://logo.iptveditor.com/dubairacing.png" group-logo="https://cdn-icons-png.freepik.com/512/5540/5540420.png" group-title="𝐏𝐥𝐮𝐭𝐨 🌎|☆ Sports Horse Racing 🐴",Dubai Racing 🇸🇦
+#EXTINF:-1 cuid="980" tvg-name="Dubai.Racing" tvg-id="Dubai.Racing.ae" tvg-logo="https://logo.iptveditor.com/dubairacing.png" group-title="𝐏𝐥𝐮𝐭𝐨 🌎|☆ Sports Horse Racing 🐴",Dubai Racing 🇸🇦
 https://dmisdracta.cdn.mgmlcdn.com/events/smil:events.stream.smil/chunklist.m3u8
 
-#EXTINF:-1 cuid="981" tvg-name="Dubai.Racing" tvg-id="Dubai.Racing.ae" tvg-logo="https://logo.iptveditor.com/dubairacing2.png" group-logo="https://cdn-icons-png.freepik.com/512/5540/5540420.png" group-title="𝐏𝐥𝐮𝐭𝐨 🌎|☆ Sports Horse Racing 🐴",Dubai Racing 2 🇸🇦
+#EXTINF:-1 cuid="981" tvg-name="Dubai.Racing" tvg-id="Dubai.Racing.ae" tvg-logo="https://logo.iptveditor.com/dubairacing2.png" group-title="𝐏𝐥𝐮𝐭𝐨 🌎|☆ Sports Horse Racing 🐴",Dubai Racing 2 🇸🇦
 https://dmithrvllta.cdn.mgmlcdn.com/dubairacing/smil:dubairacing.smil/chunklist.m3u8
 
-#EXTINF:-1 cuid="982" tvg-name="Dubai.Racing" tvg-id="Dubai.Racing.ae" tvg-logo="https://logo.iptveditor.com/dubairacing3.png" group-logo="https://cdn-icons-png.freepik.com/512/5540/5540420.png" group-title="𝐏𝐥𝐮𝐭𝐨 🌎|☆ Sports Horse Racing 🐴",Dubai Racing 3 🇸🇦
+#EXTINF:-1 cuid="982" tvg-name="Dubai.Racing" tvg-id="Dubai.Racing.ae" tvg-logo="https://logo.iptveditor.com/dubairacing3.png" group-title="𝐏𝐥𝐮𝐭𝐨 🌎|☆ Sports Horse Racing 🐴",Dubai Racing 3 🇸🇦
 https://dmithrvllta.cdn.mgmlcdn.com/dubaimubasher/smil:dubaimubasher.smil/chunklist.m3u8
 
 
@@ -3796,7 +3797,7 @@ https://hdbox.chunklistv.com/live?stream=megabox
 #EXTINF:-1 cuid="1652" tvg-name="MuzangalaTV" tvg-id="MuzangalaTV.ao" tvg-logo="https://i.imgur.com/fBeaJoS.png" group-logo="https://cdn-icons-png.freepik.com/512/18305/18305496.png" group-title="•🆁 Music 🎧",Muzangala TV
 https://5cf4a2c2512a2.streamlock.net/tvmuzangala/tvmuzangala/playlist.m3u8
 
-#EXTINF:-1 cuid="1653" tvg-name="Fitdance" tvg-id="" tvg-logo="https://spng.pngfind.com/pngs/s/100-1004382_fitdance-ministra-aul-227o-de-dan-231a-no.png" group-logo="https://cdn-icons-png.freepik.com/512/18305/18305496.png" group-title="•🆁 Music 🎧",Fitdance
+#EXTINF:-1 cuid="1653" tvg-name="Fitdance" tvg-id="" tvg-logo="https://www.fitdance.com/286e053af12e718380d455db6c393f01.webp" group-logo="https://cdn-icons-png.freepik.com/512/18305/18305496.png" group-title="•🆁 Music 🎧",Fitdance
 https://dfr80qz435crc.cloudfront.net/ABCD/Amagi/Offgrid/Fitdance_BR/Fitdance.m3u8
 
 #EXTINF:-1 cuid="1654" tvg-name="" tvg-id="" tvg-logo="" group-logo="https://cdn-icons-png.freepik.com/512/18305/18305496.png" group-title="•🆁 Music 🎧",
