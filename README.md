@@ -12,6 +12,7 @@ Index de canais de IPTV (Internet Protocol Television) disponíveis publicamente
 ## Índice
 
 - 💬 [Legendas](#Legendas)
+- ⏳  [EPG](#EPG-used-in-Freetv-Inspiration)
 - 💬 [Discussions](#Discussions)
 - 📺 [Playlist](#Playlist-Inspiration-Links)
 - 🌐 [Apps](#Apps)
@@ -34,6 +35,14 @@ Index de canais de IPTV (Internet Protocol Television) disponíveis publicamente
 
 📢 (Esta "legenda|índice" pode sofrer alterações, por isso fiquem atentos)
 
+---
+
+## EPG used in Freetv Inspiration
+https://bit.ly/RevolutionEpg
+https://bit.ly/Brazilepg
+https://bit.ly/Plutogz
+https://bit.ly/Samsunggz
+https://www.tdtchannels.com/epg/TV.xml.gz
 ---
 
 ## Discussions
