@@ -39,6 +39,7 @@ Index de canais de IPTV (Internet Protocol Television) disponíveis publicamente
 
 ## EPG used in Freetv Inspiration
 
+```bash
 📌 https://bit.ly/RevolutionEpg
 
 📌 https://bit.ly/Brazilepg
@@ -48,7 +49,7 @@ Index de canais de IPTV (Internet Protocol Television) disponíveis publicamente
 📌 https://bit.ly/Samsunggz
 
 📌 https://www.tdtchannels.com/epg/TV.xml.gz
-
+```
 ---
 
 ## Discussions
