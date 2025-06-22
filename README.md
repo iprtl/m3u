@@ -11,7 +11,7 @@ Index de canais de IPTV (Internet Protocol Television) disponíveis publicamente
 
 ## Índice
 
-- 🕑 [Recentemente Adicionados](#Recentemente)
+- 🕑 [Recentemente Adicionados](##recentemente-adicionados-most-recently-added)
 - 💬 [Legendas](#Legendas)
 - ⏳  [EPG](#EPG-used-in-Freetv-Inspiration)
 - 💬 [Discussions](#Discussions)
