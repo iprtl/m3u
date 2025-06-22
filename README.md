@@ -11,6 +11,7 @@ Index de canais de IPTV (Internet Protocol Television) disponíveis publicamente
 
 ## Índice
 
+- 🕑 [Recentemente Adicionados](#Recentemente)
 - 💬 [Legendas](#Legendas)
 - ⏳  [EPG](#EPG-used-in-Freetv-Inspiration)
 - 💬 [Discussions](#Discussions)
@@ -19,6 +20,28 @@ Index de canais de IPTV (Internet Protocol Television) disponíveis publicamente
 - 📺 [List of Channels](#List-of-Channels)
 - 🟢 [Legal](#Legal)
 - 🔐 [License](#License)
+
+---
+
+## Recentemente Adicionados, Most Recently Added
+
+- Channels PBS 🇬🇧
+- Dallas Cowboys Cheerleaders 🇺🇸
+- Movies! 🇬🇧
+- Movies Action 🇬🇧
+- Movies Thriller 🇬🇧
+- TV Life America
+- Outlaw 🇺🇸
+- Right Now Tv 🇺🇸
+- AMG TV 🇺🇸
+- Reelz 🇺🇸
+- Grit 🇺🇸
+- AMC+ 🇺🇸
+- Reelz 🇺🇸
+- BBC America 🇺🇸
+- We Love Cars 🇺🇸
+- The Amazing Race 🇺🇸
+- ABC Entertains 🇬🇧
 
 ---
 
