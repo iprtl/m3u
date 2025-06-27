@@ -108,6 +108,8 @@ Applications with support of IPTV streams.
 - Sportv 2 🇧🇷
 - Sportv 3 🇧🇷
 - Premiere Clubes 🇧🇷
+- Sky Sport F1 🇮🇹
+- Sky Sport Motogp 🇮🇹
 - Rally tv 🇬🇧
 - DAZN F1 🇪🇸
 - M+ #Vamos 🇪🇸
@@ -123,6 +125,12 @@ Applications with support of IPTV streams.
 - TNT Sport 2 🇬🇧
 - TNT Sport 3 🇬🇧
 - TNT Sport 4 🇬🇧
+- Eurosport 1 🇮🇹
+- Eurosport 2 🇮🇹
+- Bein sports 🇺🇸
+- Bein sports 1 🇺🇸
+- Bein sports 2 🇺🇸
+- Bein sports 3 🇺🇸
 - Bein Sports 1 🇫🇷
 - Bein Sports 2 🇫🇷
 - Bein Sports 3 🇫🇷
