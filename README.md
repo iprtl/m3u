@@ -82,7 +82,9 @@ Applications with support of IPTV streams.
 
 ---
 
-<a href='https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=B3EDBYK3LXSNS' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi2.png?v=3' border='0' alt='Buy Me a Coffee' /></a>
+## Ajude-nos Faça o seu donativo
+ 
+ <p><a href="https://www.paypal.com/donate/?hosted_button_id=B3EDBYK3LXSNS" target="_blank" rel="noopener"><img class="" style="border: 0px; height: 133px;" src="https://jerrymoz.files.wordpress.com/2024/03/qr_paypal.png?w=210" alt="Buy Me a Coffee" width="133" height="150" border="0" /></a>
 
 ---
 
@@ -150,12 +152,6 @@ Applications with support of IPTV streams.
 - ESPN 5 🇨🇴
 - ESPN 5
 - ESPN 6 🇨🇴
-
----
-
-## Ajude-nos Faça o seu donativo
- 
- <p><a href="https://www.paypal.com/donate/?hosted_button_id=B3EDBYK3LXSNS" target="_blank" rel="noopener"><img class="" style="border: 0px; height: 133px;" src="https://jerrymoz.files.wordpress.com/2024/03/qr_paypal.png?w=210" alt="Buy Me a Coffee" width="133" height="150" border="0" /></a>
 
 ---
 
