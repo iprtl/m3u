@@ -45,7 +45,7 @@ Index de canais de IPTV (Internet Protocol Television) disponíveis publicamente
 
 ## Playlist Inspiration Links
 ```bash
-https://github.com/inspirationlinks/m3u/raw/live/FreeStreaming.m3u
+https://github.com/inspirationlinks/m3u/raw/live/tv.m3u
 ```
 ---
 
