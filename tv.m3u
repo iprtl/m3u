@@ -53,7 +53,7 @@ https://ddy6new.newkso.ru/ddy6/premium719/mono.m3u8|referer=https://caq21harderv
 #EXTVLCOPT:http-origin=https://vavoo.to
 https://www.kool.to/play/1394401047/index.m3u8
 #EXTINF:-1 cuid="4" tvg-name="RTP 1 🇵🇹" tvg-id="RTP.1.HD.pt" user-agent="Wink/1.31.1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/rtp-1-pt.png" group-logo="https://cdn-icons-png.freepik.com/512/4482/4482879.png" group-title="🆁™ Portugal",RTP 1 🇵🇹
-#EXTVLCOPT:http-user-agent=Wink/1.31.1
+#EXTVLCOPT:http-user-agent=IE
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=f80351a117ba3f17a26e0e8cd4dc00c4:a2226def4bc8f249de2daf36b7c12b1e
@@ -62,8 +62,10 @@ http://streaming-live-app.rtp.pt/liverepeater/rtpClean1HD.smil/manifest.mpd
 --- 🌈
 
 #EXTINF:-1 cuid="5" tvg-name="RTP 2 🇵🇹" tvg-id="RTP.2.HD.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/RTP2_logo_2016.png" user-agent="Wink/1.31.1" group-logo="https://cdn-icons-png.freepik.com/512/4482/4482879.png" group-title="🆁™ Portugal",RTP 2 🇵🇹
-#https://gitlatte-a.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW03MjAvbW9uby5tM3U4.m3u8
-#EXTINF:-1 cuid="6" tvg-name="RTP 2 🇵🇹 [Don't Work OTT]" tvg-id="RTP.2.HD.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/RTP2_logo_2016.png" group-logo="https://cdn-icons-png.freepik.com/512/4482/4482879.png" group-title="🆁™ Portugal",RTP 2 🇵🇹
+#
+
+#EXTINF:-1 cuid="6" tvg-name="RTP 2" tvg-id="RTP.2.HD.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/RTP2_logo_2016.png" group-logo="https://cdn-icons-png.freepik.com/512/4482/4482879.png" group-title="🆁™ Portugal",RTP 2 🇵🇹
+#EXTVLCOPT:http-user-agent=IE
 #EXTVLCOPT:http-user-agent=Wink/1.31.1
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -83,7 +85,7 @@ http://streaming-live.rtp.pt/liverepeater/smil:rtpnHD.smil/playlist.m3u8
 http://streaming-live.rtp.pt/liverepeater/rtpnHD.smil/playlist.m3u8
 
 #EXTINF:-1 cuid="8" tvg-name="RTP 3 🇵🇹" tvg-id="RTP.3.HD.pt" user-agent="Wink/1.31.1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Rtp3.png" group-logo="https://cdn-icons-png.freepik.com/512/2837/2837605.png" group-title="🆁™ News 🇵🇹🇧🇷",RTP 3 🇵🇹
-#EXTVLCOPT:http-user-agent=Wink/1.31.1
+#EXTVLCOPT:http-user-agent=IE
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=761e7af421a4386e82eaa861a49b3d73:f1eb56955a79e555b1f8b96aec3afa25
