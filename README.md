@@ -87,7 +87,11 @@ Applications with support of IPTV streams.
 
 ## Canais Extra Premium
 
-🕑 13/7/25
+💲 Se pretender um Lista com Canais Premium 🇵🇹. Nesta lista contem pacote total de canais existentes em Portugal e muito mais, como: (VOB), Filmes & Series.
+Entre em contacto Via Email:
+⏩ inspirationlivetv@gmail.com ⏪
+
+---
 
 🏆 🇵🇹 Canais Gold. Esta lista só está disponível para quem fizer uma doação, (Donativos). 
 * Quem optar por doações mensais, tem a possibilidade de criar uma lista personalizada só com canais que pretenda.
@@ -96,6 +100,8 @@ Applications with support of IPTV streams.
 
 🏆 🇬🇧 Premium Channels. This list is only available to those who make a donation (Donations).
 * Those who choose to make monthly donations have the option to create a personalized list with only the channels they want.
+
+🕑 13/7/25
 
 - Canal 11 🇵🇹
 - Sporting tv 🇵🇹
