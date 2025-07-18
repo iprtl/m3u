@@ -525,7 +525,6 @@ Applications with support of IPTV streams.
 - Ciné Western 🇫🇷 [ʀᴀkυᴛᴇɴ]
 - ScreamIN 🇫🇷 [ʀᴀkυᴛᴇɴ]
 - Paris Premiere 🇫🇷
-- 🇫🇷
 - Chérie 25 🇫🇷
 - W9 🇫🇷
 - RTL 9 🇫🇷
