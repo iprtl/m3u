@@ -101,14 +101,42 @@ Entre em contacto Via Email:
 🏆 🇬🇧 Premium Channels. This list is only available to those who make a donation (Donations).
 * Those who choose to make monthly donations have the option to create a personalized list with only the channels they want.
 
-🕑 13/7/25
+🕑 24/7/2025
 
 - Canal 11 🇵🇹
 - Sporting tv 🇵🇹
-- TNT 🇧🇷
-- Telecinco 🇪🇸
-- USA Network 🇺🇸
+- Benfica tv 🇵🇹
+- TNT 🇧🇷⚽︎
+- Telecinco 🇪🇸⚽︎
+- USA Network 🇺🇸⚽︎
 - Goltv
+- =BRASIL=
+- HBO 🇧🇷
+- HBO+ 🇧🇷
+- HBO Family 🇧🇷
+- HBO Mundi 🇧🇷
+- HBO Pop 🇧🇷
+- HBO Signature 🇧🇷
+- HBO Xtreme 🇧🇷
+- AMC Channel 🇧🇷
+- USA Channel 🇧🇷
+- TNT 💬 🇧🇷 ⚽️
+- TNT Series 🇧🇷
+- Canal Sony 🇧🇷
+- Warner Channel 🇧🇷
+- Universal tv 🇧🇷
+- Studio Universal 🇧🇷
+- Space 🇧🇷
+- Megapix 🇧🇷
+- Cinemax 🇧🇷
+- Telecine Premium 🇧🇷
+- Telecine Pipoca 🇧🇷
+- Telecine Action 🇧🇷
+- Telecine Cult 🇧🇷
+- Telecine Fun 🇧🇷
+- Telecine Touch 🇧🇷
+- Film & Arts 🇧🇷
+- = DESPORTO =
 - Cazetv 🇧🇷
 - Cazetv 1 🇧🇷
 - Cazetv 2 🇧🇷
@@ -158,12 +186,21 @@ Entre em contacto Via Email:
 - Ziggo Sport 3 🇳🇱
 - Ziggo Sport 4 🇳🇱
 - Ziggo Sport 5 🇳🇱
+- Ziggo Sport 6 🇳🇱
 - Eurosport 1 🇮🇹
 - Eurosport 2 🇮🇹
 - Sky Sport F1 🇮🇹
 - Sky Sport Motogp 🇮🇹
 - Eurosport 1 🇮🇹
 - Eurosport 2 🇮🇹
+- Canal+Sport 🇫🇷
+- Canal+Foot 🇫🇷
+- Canal+Sport 360 🇫🇷
+- Canal+ Sport 1 🇿🇦 🥊
+- Canal+ Sport 2 🇿🇦 ⚽️
+- Canal+ Sport 3 🇿🇦
+- Canal+ Sport 4 🇿🇦 ⛳
+- Canal+ Sport 5 🇿🇦 🎾
 - Bein sports 🇺🇸
 - Bein sports 1 🇺🇸
 - Bein sports 2 🇺🇸
@@ -182,6 +219,26 @@ Entre em contacto Via Email:
 - Bein Sports Max 8 🇫🇷
 - Bein Sports Max 9 🇫🇷
 - Bein Sports Max 10 🇫🇷
+- beIN Sports MENA 1 🇦🇷
+- beIN Sports MENA 2 🇦🇷
+- beIN Sports MENA 3 🇦🇷
+- beIN Sports MENA 4 🇦🇷
+- beIN Sports MENA 5 🇦🇷
+- beIN Sports MENA 6 🇦🇷
+- beIN Sports MENA 7 🇦🇷
+- beIN Sports MENA 8 🇦🇷
+- beIN Sports MENA 9 🇦🇷
+- Sport Klub 1 🇷🇸
+- Sport Klub 2 🇷🇸
+- Sport Klub HD
+- Sport 1 Baltic
+- Sport 2 Baltic
+- Sport 1 🇨🇿🇸🇰
+- Sport 2 🇨🇿🇸🇰
+- Match Football 1 🇷🇺
+- Match Football 2 🇷🇺
+- Match Football 3 🇷🇺
+- Match Football 3 🇷🇺
 - TUDN 🇺🇸🇲🇽
 - Claro Sports
 - DSports
@@ -193,13 +250,16 @@ Entre em contacto Via Email:
 - Fox Sports 3 🇲🇽
 - ESPN 🇲🇽
 - ESPN 2 🇨🇴
-- ESPN 2
 - ESPN 3 🇨🇴
-- ESPN 3
 - ESPN 4 🇨🇴
 - ESPN 5 🇨🇴
-- ESPN 5
 - ESPN 6 🇨🇴
+- ESPN 7 🇨🇴
+- Ring 🇧🇬
+- Eleven Sports 1 🇵🇱
+- Eleven Sports 2 🇵🇱
+- Eleven Sports 3 🇵🇱
+- Sportdigital Fussball 🇩🇪
 
 ---
 
