@@ -6,7 +6,8 @@
 
 If you want to support me continuing the work, you can donate by clicking the donate button. Creating the logos and maintaining them and the github takes quite the time and I would like to put in more work on this project so any donation helps!
 
-[<img src="[misc/paypal-donate.png](https://raw.githubusercontent.com/tv-logo/tv-logos/main/misc/paypal-donate.png)" width="150">](https://www.paypal.com/donate/?hosted_button_id=B3EDBYK3LXSNS)
+[<img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/misc/paypal-donate.png" width="150">](https://www.paypal.com/donate/?hosted_button_id=B3EDBYK3LXSNS)
+
 Index de canais de IPTV (Internet Protocol Television) disponíveis publicamente de todo o mundo.
 
 ## Índice
