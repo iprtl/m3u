@@ -5,7 +5,7 @@
 # █ █▄ █ ▄▀▀ █▀▄ █ █▀▄ ▄▀▄ ▀█▀ █ ▄▀▄ █▄ █   █   █ █▄ █ █▄▀ ▄▀▀
 # █ █ ▀█ ▄██ █▀  █ █▀▄ █▀█  █  █ ▀▄▀ █ ▀█   █▄▄ █ █ ▀█ █ █ ▄██
 # ――――――――――――――――――――――――――――――――――――――――――――――
-# (●) Last Update: 2025-08-06 11:15:11 GMT+7 "
+# (●) Last Update: 2025-08-08 11:15:11 GMT+7 "
 # (●) Service: FREETV Inspiration Links
 # (●) Total Channels: Null
 
@@ -159,21 +159,27 @@ https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tvipt/s
 #EXTINF:-1 cuid="20" tvg-name="TVI Internacionalᶠᴴᴰ)" tvg-id="TVI.Internacional.pt" tvg-logo="https://logo.iptveditor.com/tviinternacional.png" group-logo="https://cdn-icons-png.freepik.com/512/4482/4482879.png" group-title="Portugal",TVI Internacionalᶠᴴᴰ 🇵🇹
 https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC84LzIwMjUgMTo5OjU1IFBNJmhhc2hfdmFsdWU9SWo3MDVqaUtmNDZoSkJNdDFaQytFZz09JnZhbGlkbWludXRlcz0xNDQwJmlkPTRjNmU5OGY4LTM1YmItNDkwOC1iMTkwLTRkYjM4MjVlNGFjYQ==/
 
-=========================================================== 🌈 𝙏𝙑𝙡 
+=========================================================== 
+🌈 𝙏𝙑𝙡 
+=========================================================== 
 
 #EXTINF:-1 cuid="21" tvg-name="TVI 🇵🇹" tvg-id="TVI.HD.pt" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/tvi.webp" group-logo="https://cdn-icons-png.freepik.com/512/4482/4482879.png" group-title="Portugal",TVI 🇵🇹
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tvipt/sh/tvi.m3u8
 #EXTINF:-1 cuid="22" tvg-name="TVI 🇵🇹" tvg-id="TVI.HD.pt" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/tvi.webp" group-logo="https://cdn-icons-png.freepik.com/512/4482/4482879.png" group-title="Portugal",TVI 🇵🇹
 https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC84LzIwMjUgMTo5OjUzIFBNJmhhc2hfdmFsdWU9WlhaT2VaK0p2cE9JUm0yb1JGQVFWQT09JnZhbGlkbWludXRlcz0xNDQwJmlkPTE1OTJjZjJkLTA0OGItNDU2OS1iZDk0LTZhNzlmYjUzMmZiYQ==/
 
-=========================================================== 🌈 CNN 𝙏𝙑𝙡 
+=========================================================== 
+🌈 CNN 𝙏𝙑𝙡 
+=========================================================== 
 
 #EXTINF:-1 cuid="23" tvg-name="CNN Portugal 🇵🇹" tvg-id="CNN.Portugal.HD.pt" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/CNNportugal.webp" group-logo="https://cdn-icons-png.freepik.com/512/2837/2837605.png" group-title="News 🇵🇹🇧🇷",CNN Portugal 🇵🇹
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tvipt/sh/cnnpt.m3u8
 #EXTINF:-1 cuid="24" tvg-name="CNN Portugal 🇵🇹" tvg-id="CNN.Portugal.HD.pt" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/CNNportugal.webp" group-logo="https://cdn-icons-png.freepik.com/512/2837/2837605.png" group-title="News 🇵🇹🇧🇷",CNN Portugal 🇵🇹
 https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC84LzIwMjUgMTo5OjU0IFBNJmhhc2hfdmFsdWU9Q2g0WmVBcWE1YkNMRkVLZGZVemxjZz09JnZhbGlkbWludXRlcz0xNDQwJmlkPWI3MmM0OWVlLTBmMTUtNDgyNC1iZTAzLWJhNDRlMzlhNzk3YQ==/
 
-=========================================================== 🌈
+=========================================================== 
+🌈
+=========================================================== 
 
 #EXTINF:-1 cuid="25" tvg-name="V+ TVI 🇵🇹" tvg-id="V+TVI.pt" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/V%2Btvi.webp" group-logo="https://cdn-icons-png.freepik.com/512/4482/4482879.png" group-title="Portugal",V+ TVI 🇵🇹
 https://video-auth2.iol.pt/live_vmais/live_vmais/edge_servers/vmais-720p/playlist.m3u8
@@ -340,6 +346,10 @@ https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1ef1a8cec6be00072a7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
 http://38.41.8.1:8000/play/a0wi
 
+#EXTINF:-1 cuid="5512" tvg-name="GolTv" tvg-id="Canal.GolTV.Latinoamérica.pa" tvg-logo="https://logo.iptveditor.com/goltv.png" group-logo="https://cdn-icons-png.freepik.com/512/7054/7054410.png" group-title="Liga Betclic 🌍",Goltv 🇵🇦
+http://181.78.106.127:9000/play/ca041/index.m3u8
+http://45.71.254.1:8000/play/a02e/index.m3u8
+
 ===========================================================
 RING 🇧🇬
 ===========================================================
@@ -369,13 +379,6 @@ BEIN SPORTS MAX 10 🇫🇷
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"yh0KU6YG+P/rAo9rJHe6ow","k":"OIphdZ3jYt/K3vchuTbWmg"},{"kty":"oct","kid":"Fdq88eq8hxeEL+tl9xUhBw","k":"c4D2F5XK6+wmsHE7zipOPQ"},{"kty":"oct","kid":"+cKiW7q8jTgE30ZBgGnvBw","k":"J8pFeiu5dRpcHrFYR0NGoA"},{"kty":"oct","kid":"xBuLKVwIMH3cHjoi6pEncg","k":"2SX+aD7ZHlg3qqTlFHrYhQ"}]}
 https://api-proxad.dc2.oqee.net/playlist/v1/live/978/1/live.mpd
-
-===========================================================
-ZIGGO.SPORT 🇳🇱
-===========================================================
-
-#EXTINF:-1  tvg-name="Ziggo Sport" tvg-id="Ziggo.Sport.nl" tvg-logo="https://logo.iptveditor.com/ziggosport.png" group-logo="https://cdn-icons-png.freepik.com/512/207/207185.png" group-title="Liga Betclic 🌍",Ziggo Sport 🇳🇱
-https://ddy6new.newkso.ru/ddy6/premium393/mono.m3u8|Referer=https%3A%2F%2Falldownplay.xyz%2F&User-Agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&Origin=https%3A%2F%2Falldownplay.xyz
 
 ===========================================================
 ELEVEN SPORTS 🇵🇱
