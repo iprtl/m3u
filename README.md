@@ -98,7 +98,7 @@ Entre em contacto Via Email:
 
 ---
 
-🏆 🇵🇹 Canais Gold. Esta lista só está disponível para quem fizer uma doação, (Donativos). 
+🏆 Canais Gold. Esta lista só está disponível para quem fizer uma doação, (Donativos). ATENÇÃO não tem canais premium português. Só canais premium Internacionais.
 * Quem optar por doações mensais, tem a possibilidade de criar uma lista personalizada só com canais que pretenda.
 
 * https://www.paypal.com/donate/?hosted_button_id=B3EDBYK3LXSNS
