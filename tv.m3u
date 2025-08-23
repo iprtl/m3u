@@ -372,6 +372,15 @@ https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1ef1a8cec6be00072a7
 =========================================================== 
 
 #EXTGRP:Liga Portuguesa
+#EXTINF:-1 tvg-name="" tvg-id="Canal.11.HD.pt" tvg-logo="https://logo.iptveditor.com/canal11.png" group-logo="https://cdn-icons-png.freepik.com/512/207/207185.png" group-logo="https://cdn-icons-png.freepik.com/512/7054/7054410.png" group-title="Liga Betclic 🌍",Canal 11 🇵🇹 ⚽︎
+https://ddy6new.newkso.ru/ddy6/premium540/mono.m3u8|referer=https://kisskissplay.cfd/&origin=https://kisskissplay.cfd&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+
+============================SCP=============================== 
+
+#EXTINF:-1 tvg-id="Sporting.TV.HD.pt" tvg-name="Sporting tv" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/Sporting.webp" group-logo="https://cdn-icons-png.freepik.com/512/7054/7054410.png" group-title="Liga Betclic 🌍",Sporting tv ⚽︎
+https://ddy6new.newkso.ru/ddy6/premium716/mono.m3u8|referer=https://kisskissplay.cfd/&origin=https://kisskissplay.cfd&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+
+
 #EXTINF:-1 cuid="349" tvg-id="ESPN.br" tvg-name="ESPN" tvg-logo="https://logo.iptveditor.com/espn.png" group-logo="https://cdn-icons-png.freepik.com/512/7054/7054410.png" group-title="Liga Betclic 🌍",ESPN 🇧🇷
 https://zekonew.newkso.ru/zeko/premium81/mono.m3u8|referer=https://jxoplay.xyz/&Origin=https://jxoplay.xyz&User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A139.0%29%20Gecko/20100101%20Firefox/139.0
 
@@ -646,7 +655,7 @@ https://d25usgadhphvwi.cloudfront.net/hls/main.m3u8
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/645a99282858cb0008ea8378/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=github.com/inspirationlinks&deviceDNT=1
 
 #EXTINF:-1 cuid="66" tvg-name="BANDNEWS" tvg-id="BANDNEWS" tvg-logo="https://logo.iptveditor.com/bandnews.png" group-logo="https://cdn-icons-png.freepik.com/512/2837/2837605.png" group-title="News 🇵🇹🇧🇷",Band News 🇧🇷
-https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/645a99282858cb0008ea8378/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=github.com/inspirationlinks&deviceDNT=1
++https:
 
 #EXTINF:-1 cuid="67" tvg-name="JP News 🇧🇷" tvg-id="6317ba014d4d040007227f72" tvg-logo="https://images.pluto.tv/channels/6317ba014d4d040007227f72/colorLogoPNG.png" group-logo="https://cdn-icons-png.freepik.com/512/2837/2837605.png" group-title="News 🇵🇹🇧🇷",JP News 🇧🇷
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6317ba014d4d040007227f72/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=github.com/inspirationlinks&deviceDNT=1
@@ -2248,13 +2257,13 @@ https://di-kzbhv8pw.vo.lswcdn.net/sportitalia/silive24.smil/playlist.m3u8
 📺 ✰ EUROSPORTS
 ===========================================================
 
-#EXTINF:-1 tvg-name="Eurosport 1" tvg-id="Eurosport.1.HD.sk" group-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/live/LogosTv/eurosport.png" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/live/LogosTv/eurosport1.png" group-title="Eurosports 🌍",EuroSports 1 🇬🇧
+#EXTINF:-1 tvg-name="Eurosport 1" tvg-id="Eurosport.1.HD.sk" group-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/live/LogosTv/Eurosportv.webp" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/live/LogosTv/eurosport1.png" group-title="Eurosports 🌍",EuroSports 1 🇬🇧
 https://windnew.newkso.ru/wind/premium41/mono.m3u8|referer=https://jxoplay.xyz/&Origin=https://jxoplay.xyz&User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A139.0%29%20Gecko/20100101%20Firefox/139.0
 
-#EXTINF:-1 tvg-id="Eurosport.1.be" tvg-name="Eurosport 1" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/live/LogosTv/eurosport1.png" group-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/live/LogosTv/eurosport.png" group-title="Eurosports 🌍",Eurosport 1 🇫🇷
+#EXTINF:-1 tvg-id="Eurosport.1.be" tvg-name="Eurosport 1" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/live/LogosTv/eurosport1.png" group-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/live/LogosTv/Eurosportv.webp" group-title="Eurosports 🌍",Eurosport 1 🇫🇷
 https://ddy6new.newkso.ru/ddy6/premium772/mono.m3u8|referer=https://jxoplay.xyz/&Origin=https://jxoplay.xyz&User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A139.0%29%20Gecko/20100101%20Firefox/139.0
 
-#EXTINF:-1 cuid="78278" tvg-name="" tvg-id="Eurosport1.cz" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/live/LogosTv/eurosport1.png" group-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/live/LogosTv/eurosport.png" group-title="Eurosports 🌍",Eurosport 1 🇨🇿
+#EXTINF:-1 cuid="78278" tvg-name="" tvg-id="Eurosport1.cz" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/live/LogosTv/eurosport1.png" group-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/live/LogosTv/Eurosportv.webp" group-title="Eurosports 🌍",Eurosport 1 🇨🇿
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://webtv.sk/tv&referer=https://webtv.sk/tv/&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -2264,7 +2273,7 @@ https://dash2.antik.sk/stream/nvidia_eurosport1/playlist_cenc.mpd
 
 ===========================================================
 
-#EXTINF:-1 cuid="78278" tvg-name="" tvg-id="Eurosport2.cz" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/live/LogosTv/Eurosport2.png" group-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/live/LogosTv/eurosport.png" group-title="Eurosports 🌍",Eurosport 2 🇨🇿
+#EXTINF:-1 cuid="78278" tvg-name="" tvg-id="Eurosport2.cz" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/live/LogosTv/Eurosport2.png" group-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/live/LogosTv/Eurosportv.webp" group-title="Eurosports 🌍",Eurosport 2 🇨🇿
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://webtv.sk/tv&referer=https://webtv.sk/tv/&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -2272,7 +2281,7 @@ https://dash2.antik.sk/stream/nvidia_eurosport1/playlist_cenc.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
 https://dash2.antik.sk/stream/nvidia_eurosport2/playlist_cenc.mpd
 
-#EXTINF:-1 tvg-id="Eurosport.2.es" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/live/LogosTv/Eurosport2.png" group-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/live/LogosTv/eurosport.png" group-title="Eurosports 🌍",EuroSports 2 🇬🇧
+#EXTINF:-1 tvg-id="Eurosport.2.es" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/live/LogosTv/Eurosport2.png" group-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/live/LogosTv/Eurosportv.webp" group-title="Eurosports 🌍",EuroSports 2 🇬🇧
 https://windnew.newkso.ru/wind/premium42/mono.m3u8|referer=https://jxoplay.xyz/&Origin=https://jxoplay.xyz&User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A139.0%29%20Gecko/20100101%20Firefox/139.0
 
 =========================================================== 
