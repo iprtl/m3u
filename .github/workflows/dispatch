@@ -1,2 +1,0 @@
-adição minha para poder fazer trigger manual da automação
-- name: update total channels run: | TOTAL=$(grep -c '^#EXTINF:-1' tv.m3u) sed -i "s/^# (●) Total Channels:.*/# (●) Total Channels: $TOTAL/" tv.m3u - procura o numero de canais e atualiza pelo novo numero, se for igual mantem.
