@@ -7,7 +7,7 @@
 # ――――――――――――――――――――――――――――――――――――――――――――――
 # (●) Last Update: 🔄 2025-08-25 11:15:11 GMT+7 "
 # (●) Service: FREETV Inspiration Links
-# (●) Total Channels: 1458
+# (●) Total Channels: 1468
 
 
 ⚠️ Atenção: Todas as ligações de streams disponibilizados nas listas foram retiradas da Internet. Apenas as organizo, disponibiliza e partilha. Não detenho qualquer servidor e/ou transmitimos ou re-emitimos qualquer tipo de sinal.
@@ -182,7 +182,7 @@ https://production-fast-sic.content.okast.tv/fa2e8c4385712f9aa54bbe52b1bd9b6b/ch
 #EXTINF:-1 cuid="19" tvg-name="TVI Internacionalᶠᴴᴰ 🇵🇹" tvg-id="tvi.internacional.pt" tvg-logo="https://logo.iptveditor.com/tviinternacional.png" group-logo="https://cdn-icons-png.freepik.com/512/4482/4482879.png" group-title="Portugal",TVI Internacionalᶠᴴᴰ 🇵🇹
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tvipt/sh/tviint.m3u8
 #EXTINF:-1 cuid="20" tvg-name="TVI Internacionalᶠᴴᴰ)" tvg-id="TVI.Internacional.pt" tvg-logo="https://logo.iptveditor.com/tviinternacional.png" group-logo="https://cdn-icons-png.freepik.com/512/4482/4482879.png" group-title="Portugal",TVI Internacionalᶠᴴᴰ 🇵🇹
-https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yNS8yMDI1IDg6Mzg6MjkgUE0maGFzaF92YWx1ZT1BdzVMQmNYQzd0Vk1OMFFQS2FpSC9RPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9MzUwYzEzZjktMjQ2Yi00YjI5LWJiZDEtNzEwNTliMzZjYzI4/
+https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yNS8yMDI1IDg6Mzk6MzIgUE0maGFzaF92YWx1ZT1uZVpFMS9pMmVWeXEzU1NVOGtMNUFRPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9YzgxMmUxNDgtNTYyNi00MzBkLTk5YmUtNzlhZDg3MjQxNjUw/
 
 =========================================================== 
 🌈 𝙏𝙑𝙡 
@@ -191,7 +191,7 @@ https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlis
 #EXTINF:-1 cuid="21" tvg-name="TVI 🇵🇹" tvg-id="TVI.HD.pt" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/tvi.webp" group-logo="https://cdn-icons-png.freepik.com/512/4482/4482879.png" group-title="Portugal",TVI 🇵🇹
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tvipt/sh/tvi.m3u8
 #EXTINF:-1 cuid="22" tvg-name="TVI 🇵🇹" tvg-id="TVI.HD.pt" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/tvi.webp" group-logo="https://cdn-icons-png.freepik.com/512/4482/4482879.png" group-title="Portugal",TVI 🇵🇹
-https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yNS8yMDI1IDg6Mzg6MjggUE0maGFzaF92YWx1ZT1pdk40cUlBRFY4RmhSem5CdzE0N1BBPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9ZWM5ZDIxYjktZGEyZS00ODE2LWJiODUtODcyYjUzZTQ1N2Vj/
+https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yNS8yMDI1IDg6Mzk6MzAgUE0maGFzaF92YWx1ZT1UZ0o4RHhPQWhWRG1Ca3lvQTVLWjVBPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9YTM0Y2EwZmEtYmE4Zi00MjczLTkzOGMtYjU1NDhlMWViMWY0/
 
 =========================================================== 
 🌈 CNN 𝙏𝙑𝙡 
@@ -200,7 +200,7 @@ https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX
 #EXTINF:-1 cuid="23" tvg-name="CNN Portugal 🇵🇹" tvg-id="CNN.Portugal.HD.pt" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/cnnpt.webp" group-logo="https://cdn-icons-png.freepik.com/512/2837/2837605.png" group-title="News 🇵🇹🇧🇷",CNN Portugal 🇵🇹
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tvipt/sh/cnnpt.m3u8
 #EXTINF:-1 cuid="24" tvg-name="CNN Portugal 🇵🇹" tvg-id="CNN.Portugal.HD.pt" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/cnnptt.webp" group-logo="https://cdn-icons-png.freepik.com/512/2837/2837605.png" group-title="News 🇵🇹🇧🇷",CNN Portugal 🇵🇹
-https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yNS8yMDI1IDg6Mzg6MjkgUE0maGFzaF92YWx1ZT1ydWQ3STI1UDkvSWhrbjZhVGI4cmJ3PT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9YzI5YzExNDEtMGQ3OS00MzZiLWJlOWUtMjc4MTQ3MDk3OTJk/
+https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yNS8yMDI1IDg6Mzk6MzEgUE0maGFzaF92YWx1ZT1ERHBWbktYc29ybk5Ya0hjcVF1cG9RPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9YTUxMTY1NWEtMGFlZC00NDNmLTlmNGEtNzM4NjcwNTFkNzA5/
 
 =========================================================== 
 🌈
