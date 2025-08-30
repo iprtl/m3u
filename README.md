@@ -27,7 +27,7 @@ Index de canais de IPTV (Internet Protocol Television) disponíveis publicamente
 
 ## Legendas
 
-📌 Se um determinado canal tiver identificado com este termo, EXEMPLO: ([TEMP: MAX CONNEC:5]). Significa que esse canal é Temporário (pode ficar offline em qualquer momento)... e quantas conexões permite em simultâneo, (o máximo de pessoas podem ver esse determinado canal). É Normal que o canal vá abaixo com alguma frequência, dependendo do numero de pessoas conectadas nesse canal.
+📌 Se um determinado canal tiver identificado com este termo, EXEMPLO: ([TEMP: MAX CONNEC:5]). Significa que esse canal é Temporário, [TEMP:] (pode ficar offline em qualquer momento)! E Informa quantas conexões permite em simultâneo, EXEMPLO: MAX CONNEC:5] (o máximo de pessoas podem ver esse determinado canal). É Normal que o canal vá abaixo com alguma frequência, dependendo do numero de pessoas conectadas nesse canal.
 
 📌 Se verificar que um determinado canal não abre utilize uma VPN. Existem canais que em determinados Países, como Portugal e não só... Bloqueiam geograficamente, (Geoblocked) um determinado canal. Se usarem uma VPN de outro Pais diferente, existe fortes possibilidades de conseguirem abrir o canal em questão.
 
