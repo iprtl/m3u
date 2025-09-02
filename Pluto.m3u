@@ -384,9 +384,6 @@ https://mitv.zplay.cl/Ztv/index.m3u8
 #EXTINF:-1 cuid="802" tvg-name="" tvg-id="" tvg-logo="" group-title="​",
 #http
 
-#EXTINF:-1 cuid="809" tvg-name="Urban Turbo" tvg-id="" tvg-logo="https://d14z5zgripclfw.cloudfront.net/account351-i1091/archive/15/public/1666631616/urban_turbo-1666631616.png" group-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/live/LogosTv/iconsGrups/sportsMotors.png" group-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/live/LogosTv/iconsGrups/sportsMotors.png" group-title="Sports • Motors 🏎️🏍",Urban Turbo 🇧🇷
-https://gerenciar.vivatele.com:443/viva_padrao/viva2384/106.m3u8
-+http://200.194.238.229:8383/live/urbanturbo/playlist.m3u8
 
 ============================🔹=============================== 🌈 ​Fanny & Comedy 
 
@@ -718,10 +715,8 @@ https://cnm-tsl.otteravision.com/cnm/tsl/tsl.m3u8
 https://d63fabad.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWVzX0ZJRkFQbHVzU3BhbmlzaF9ITFM/playlist.m3u8
 https://is.gd/7PhGkV?5e20b730f2f8d5003d739db7-66628d4a8dfc36b8c8a399c4.m3u8
 
-#EXTINF:-1 cuid="1485" tvg-name="Fifa+" tvg-id="66997e8d3a4ad20008e50be9" tvg-logo="https://images.pluto.tv/channels/66997e8d3a4ad20008e50be9/colorLogoPNG.png" group-title="Canais Legendados 🇧🇷🇵🇹",Fifa+ (💬 🇧🇷)
-https://9b663bb2.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctcHRfRklGQVBsdXNQb3J0dWd1ZXNlX0hMUw/playlist.m3u8
-https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/66997e8d3a4ad20008e50be9/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=github.com/inspirationlinks&deviceDNT=1
-https://e3be9ac5.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctYnJfRklGQVBsdXNQb3J0dWd1ZXNlX0hMUw/playlist.m3u8
+
+
 
 
 
@@ -2395,10 +2390,6 @@ https://stream01.willfonk.com/live_playlist.m3u8?cid=CS262&r=HD&ccode=JP&m=d0:20
 ============================🔹=============================== 
 🌈DESPORTOS RADICAIS
 ============================🔹===============================
-
-#EXTINF:-1 cuid="1551" tvg-name="Fuel tv 🇧🇷" tvg-id="Fuel.TV.HD.pt" tvg-logo="https://provider-static.plex.tv/6/epg/channels/logos/gracenote/6d37acb509ed72b6cc59cdb32828cbc0.png" group-logo="https://cdn-icons-png.freepik.com/512/9434/9434699.png" group-title="Canais Legendados 🇧🇷🇵🇹",Fuel tv (💬 🇧🇷)
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01074-fueltv-fueltvbr-samsungbr/playlist.m3u8
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01074-fueltv-fueltvbrpt-lgbr/playlist.m3u8
 
 #EXTINF:-1 cuid="1552" tvg-name="Fuel tv 🇺🇸" tvg-id="Fuel.TV.English.(PT,EN).no" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/fuel.webp" group-title="𝐏𝐥𝐮𝐭𝐨 ☆ Sports • Radical 🏄⛷️",Fuel tv 🇺🇸
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01074-fueltv-fueltvemeaen-lggb/playlist.m3u8
