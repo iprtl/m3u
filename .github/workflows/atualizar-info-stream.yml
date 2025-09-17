@@ -17,14 +17,14 @@ jobs:
       - name: update streams
         run: |
           #!/bin/bash
-          sed -i "/live_tvi\/live_tvi/ c https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=$(wget https://services.iol.pt/matrix?userId= -o /dev/null -O -)/" Pluto.m3u
-          sed -i "/live_cnn/ c https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=$(wget https://services.iol.pt/matrix?userId= -o /dev/null -O -)/" Pluto.m3u
-          sed -i "/live_tvi_internacional/ c https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=$(wget https://services.iol.pt/matrix?userId= -o /dev/null -O -)/" Pluto.m3u
+          sed -i "/live_tvi\/live_tvi/ c https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=$(wget https://services.iol.pt/matrix?userId= -o /dev/null -O -)/" Freetv.m3u
+          sed -i "/live_cnn/ c https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=$(wget https://services.iol.pt/matrix?userId= -o /dev/null -O -)/" Freetv.m3u
+          sed -i "/live_tvi_internacional/ c https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=$(wget https://services.iol.pt/matrix?userId= -o /dev/null -O -)/" Freetv.m3u
 
       - name: update total channels
         run: |
-          TOTAL=$(grep -c '^#EXTINF:-1' Pluto.m3u)
-          sed -i "s/^# (●) Total Channels:.*/# (●) Total Channels: $TOTAL/" Pluto.m3u
+          TOTAL=$(grep -c '^#EXTINF:-1' Freetv.m3u)
+          sed -i "s/^# (●) Total Channels:.*/# (●) Total Channels: $TOTAL/" Freetv.m3u
       
       - name: setup git config
         run: |
@@ -34,7 +34,7 @@ jobs:
       - name: commit
         run: |
           git pull
-          git add Pluto.m3u
+          git add Freetv.m3u
           git commit -m "Update streams"
           git push origin live
 
