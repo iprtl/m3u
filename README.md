@@ -6,11 +6,11 @@
 
 Venho Por este meio Comunicar que a lista de IPTV denominada de, (tv.m3u), deixará de estar disponivel, pelo menos nos moldes em que sempre teve, ate nos dias de hoje.
 A decisao é inreversivel! 
-Por isso Ficará apenas disponivel 1 lista denoinada de,(Freetv.m3u).
+Por isso Ficará apenas disponivel 1 lista denominada de,(Freetv.m3u).
 
-A lista continuara a estar dispovel mas... So para aqueles que estejam disponiveis e quiserem obtar por (doações mensais).
+A lista continuara a estar dispovel mas... Só para aqueles que estejam disponiveis e quiserem obtar por (doações mensais).
 Dessa forma a lista será facultada invividualmente.
-A unica forma de voltarem a ter acesso ao conteudo de ipiv que eu partilhava, é enviar um email para: inspirationlivetv@gmail.com, para obterem mais informações, saber em que condiçoes e moldes, o conteudo que partilhava ate aqui sera facultada.
+A unica forma de voltarem a ter acesso ao conteudo de iptv que eu partilhava, é enviar um email para: inspirationlivetv@gmail.com, para obterem mais informações, saber em que condiçoes e moldes, o conteudo que partilhava ate aqui sera facultada aos iteressados.
 
 NOTAS FINAIS:
 A partir do dia 17/09/25- A lista deixará de estar disponivel, pelo menos de forma gratuita. 
