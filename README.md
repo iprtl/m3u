@@ -35,7 +35,7 @@ Index de canais de IPTV (Internet Protocol Television) disponíveis publicamente
 - ⚠️ [COMUNICADO](#COMUNICADO)
 - 🏆 [Canais Extras Premium](#Canais-Extra-Premium)
 - 💰 [Faça o seu donativo](#Ajude-nos-Faça-o-seu-donativo)
-- 📺 [List of Channels](#List-of-Channels)
+- 📺 [List of Channels](#list-of-channels-tvm3u)
 - 💬 [Legendas](#Legendas)
 - ⏳  [EPG](#EPG-used-in-Freetv-Inspiration)
 - 💬 [Discussions](#Discussions)
