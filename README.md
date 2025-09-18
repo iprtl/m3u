@@ -16,13 +16,14 @@ https://github.com/inspirationlinks/m3u/raw/live/Freetv.m3u
 A lista (tv.m3u) continuará a estar disponível mas... Só para aqueles que estejam interessados e quiserem obtar por (doações mensais via PayPal).
 Dessa forma a lista será facultada individualmente.
 É a unica forma de voltarem a ter acesso ao conteúdo de iptv que eu partilhava...
-enviar um email para: inspirationlivetv@gmail.com, para obterem mais informações, saber em que condições e moldes, o conteúdo que partilhava ate aqui seja facultada aos interessados.
+
+Enviar um email para: inspirationlivetv@gmail.com, para obterem mais informações, saber em que condições e moldes, o conteúdo que partilhava ate aqui seja facultada aos interessados.
 
 NOTAS FINAIS:
-Como ja fiz referência... A partir do dia 17/09/25- A lista deixará de estar disponivel, pelo menos de forma gratuita. 
+Como ja fiz referência... A partir do dia 17/09/25. A lista deixará de estar disponivel, pelo menos de forma Free. 
 Quem não gostar desta decisão, apenas tenho a dizer ... Temos pena!!!
 
-Como alternativa podem começar a fazer voçes mesmos as vossas proprias listas, ou limitarem-se ao que existe por ai...
+COMO ALTERNATIVA: Podem começar a fazer voçes mesmos as vossas proprias listas, ou limitarem-se ao que existe por ai...
 
 Modestia á parte sei que em Portugal, nao existe uma lista tão completa e organizada como a que eu partilhei durante décadas, sem nada pedir em troca.
 
