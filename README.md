@@ -27,14 +27,14 @@ If you want to support me continuing the work, you can donate by clicking the do
 ## Índice
 
 - ⚠️ [COMUNICADO](#COMUNICADO)
-- 📺 [Canais PREMIUM 🇵🇹](#exclusivo-inspiration-links-dreamiptv)
+- 📺 [Canais PREMIUM 🇵🇹](#exclusivo-dreamiptv)
 - 📺 [Lista Canais tv.m3u](#list-of-channels-tvm3u)
 - 📺 [Lista de Canais Freetv.m3u](#Playlist-Inspiration-Links)
 - 💬 [Legendas](#Legendas)
 - ⏳  [EPG](#EPG-used-in-Freetv-Inspiration)
 - 💬 [Discussions](#Discussions)
 - 🌐 [Apps](#Apps)
-- 💰 [Faça o seu donativo](#Ajude-nos-Faça-o-seu-donativo)
+- 💰 [Faça o seu donativo](#Ajude-nos)
 - 🟢 [Legal](#Legal)
 - 🔐 [License](#License)
 
@@ -59,7 +59,7 @@ If you want to support me continuing the work, you can donate by clicking the do
 
 ---
 
-## EXCLUSIVO INSPIRATION LINKS, (Dreamiptv).
+## EXCLUSIVO DREAMIPTV.
 * NOTA: fonte fidedigna, sem falhas, sem breaks, só desfrutar do melhor que temos em Portugal ;)
 * ALEM DESTA LISTA DE CANAIS - Está incluída também a secção de "Biblioteca de Midia", ou seja, sessão de cinema com os filmes e series mais recentes.
 * (Se estiver interessado nesta lista de Canais. O primeiro passo é Enviar um email para: inspirationlivetv@gmail.com
@@ -227,7 +227,34 @@ LISTA DE CANAIS DA DREAMIPTV
 ## List of Channels (tv.m3u) 
 * (Se estiver interessado nesta lista de Canais. Enviar um email para: inspirationlivetv@gmail.com)
 * AVISO: Esta lista é construida por fontes encontradas da Internet. Não me responsabilizo com possíveis instabilidades que os canais possam vir a ter nem a sua durabilidade.
-	
+
+🔹 CANAIS BRASILEIROS 🔹
+- HBO 🇧🇷
+- HBO+ 🇧🇷
+- HBO Family 🇧🇷
+- HBO Mundi 🇧🇷
+- HBO Pop 🇧🇷
+- HBO Signature 🇧🇷
+- HBO Xtreme 🇧🇷
+- AMC Channel 🇧🇷
+- USA Channel 🇧🇷
+- TNT 💬 🇧🇷 ⚽️
+- TNT Series 🇧🇷
+- Canal Sony 🇧🇷
+- Warner Channel 🇧🇷
+- Universal tv 🇧🇷
+- Studio Universal 🇧🇷
+- Space 🇧🇷
+- Megapix 🇧🇷
+- Cinemax 🇧🇷
+- Telecine Premium 🇧🇷
+- Telecine Pipoca 🇧🇷
+- Telecine Action 🇧🇷
+- Telecine Cult 🇧🇷
+- Telecine Fun 🇧🇷
+- Telecine Touch 🇧🇷
+- Film & Arts 🇧🇷
+
  🔹 CANAIS TRANSMITEM A LIGA BETCLIC 🇵🇹 🔹
 - Canal 11 🇵🇹
 - Sporting tv 🇵🇹
@@ -283,33 +310,6 @@ LISTA DE CANAIS DA DREAMIPTV
 - SSC Sport Extra 2 🇸🇦
 - SSC Sport Extra 3 🇸🇦
   
-🔹 CANAIS BRASILEIROS 🔹
-- HBO 🇧🇷
-- HBO+ 🇧🇷
-- HBO Family 🇧🇷
-- HBO Mundi 🇧🇷
-- HBO Pop 🇧🇷
-- HBO Signature 🇧🇷
-- HBO Xtreme 🇧🇷
-- AMC Channel 🇧🇷
-- USA Channel 🇧🇷
-- TNT 💬 🇧🇷 ⚽️
-- TNT Series 🇧🇷
-- Canal Sony 🇧🇷
-- Warner Channel 🇧🇷
-- Universal tv 🇧🇷
-- Studio Universal 🇧🇷
-- Space 🇧🇷
-- Megapix 🇧🇷
-- Cinemax 🇧🇷
-- Telecine Premium 🇧🇷
-- Telecine Pipoca 🇧🇷
-- Telecine Action 🇧🇷
-- Telecine Cult 🇧🇷
-- Telecine Fun 🇧🇷
-- Telecine Touch 🇧🇷
-- Film & Arts 🇧🇷
-
 🔹 DESPORTOS BRASILEIROS 🔹
 - Cazetv 🇧🇷
 - Cazetv 1 🇧🇷
@@ -487,6 +487,7 @@ LISTA DE CANAIS DA DREAMIPTV
 
 ---
 
+## Ajude-nos
 <a href='https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=B3EDBYK3LXSNS' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi2.png?v=3' border='0' alt='Buy Me a Coffee' /></a>
 
 ---
