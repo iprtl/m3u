@@ -5,9 +5,9 @@
 # █ █▄ █ ▄▀▀ █▀▄ █ █▀▄ ▄▀▄ ▀█▀ █ ▄▀▄ █▄ █   █   █ █▄ █ █▄▀ ▄▀▀
 # █ █ ▀█ ▄██ █▀  █ █▀▄ █▀█  █  █ ▀▄▀ █ ▀█   █▄▄ █ █ ▀█ █ █ ▄██
 # ――――――――――――――――――――――――――――――――――――――――――――――
-# (●) Last Update: 🔄 2025-09-18 11:15:11 GMT+7 "
+# (●) Last Update: 🔄 2025-09-19 11:15:11 GMT+7 "
 # (●) Service: FREETV Inspiration Links
-# (●) Total Channels: 943
+# (●) Total Channels: 827
 
 
 ⚠️ Atenção: Todas as ligações de streams disponibilizados nas listas foram retiradas da Internet. Apenas as organizo, disponibiliza e partilha. Não detenho qualquer servidor e/ou transmitimos ou re-emitimos qualquer tipo de sinal.
@@ -332,6 +332,230 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01074-fueltv-fueltvbrpt-lgbr/playli
 https://9b663bb2.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctcHRfRklGQVBsdXNQb3J0dWd1ZXNlX0hMUw/playlist.m3u8
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/66997e8d3a4ad20008e50be9/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=github.com/inspirationlinks&deviceDNT=1
 https://e3be9ac5.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctYnJfRklGQVBsdXNQb3J0dWd1ZXNlX0hMUw/playlist.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+============================🔹=============================== 
+🌈Novelas 🌎
+============================🔹=============================== 
+
+#EXTINF:-1 tvg-id="GloboPlay Novelas" tvg-logo="https://i.imgur.com/FOCEoUz.png" group-logo="https://cdn-icons-png.freepik.com/512/2112/2112926.png" group-title="Novelas 🌎",GloboPlay Novelas 🇧🇷
+http://79.127.238.228:14455/globoplaynovelasHD
+
+#EXTINF:-1 cuid="740" tvg-name=",Tela Brasil tv" tvg-id="" tvg-logo="https://static.wixstatic.com/media/c66e37_aa372b2b7a8b4cc29d5095b5e3ba1e37~mv2.png" group-logo="https://cdn-icons-png.freepik.com/512/2112/2112926.png" group-title="Novelas 🌎",Tela Brasil tv ᴸᴼᵂ 🇧🇷
+https://stmv.webtvninjas.com.br/mailson6054/mailson6054/playlist.m3u8
+
+#EXTINF:-1 cuid="740" tvg-name=",Revivatv" tvg-id="" tvg-logo="https://imgur.com/davbBNf.png" group-logo="https://cdn-icons-png.freepik.com/512/2112/2112926.png" group-title="Novelas 🌎",Reviva tv 🇧🇷
+https://stmv.webtvninjas.com.br/webtvni1/webtvni1/playlist.m3u8
+
+#EXTINF:-1 cuid="740" tvg-name=",Multi Mix" tvg-id="" tvg-logo="https://imgur.com/9X4qU4M.png" group-logo="https://cdn-icons-png.freepik.com/512/2112/2112926.png" group-title="Novelas 🌎",Multi Mix 🇧🇷
+https://stmv.webtvninjas.com.br/multimix/multimix/playlist.m3u8
+
+#EXTINF:-1 cuid="741" tvg-name=",A terra Prometida" tvg-id="BR30002677" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/BR30002677_20250528T010250SQUARE.png" group-logo="https://cdn-icons-png.freepik.com/512/2112/2112926.png" group-title="Novelas 🌎",A terra Prometida 🇧🇷
+https://dfr80qz435crc.cloudfront.net/IJKL/Amagi/Samsung/ATerraPrometida_BR/ATerraPrometida.m3u8
+
+#EXTINF:-1 cuid="741" tvg-name=",A terra Prometida" tvg-id="BRBC2200010BW" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/BRBC2200010BW_20250528T010139SQUARE.png" group-logo="https://cdn-icons-png.freepik.com/512/2112/2112926.png" group-title="Novelas 🌎",Os Dez Mandamentos 🇧🇷
+https://cc-38amk5g6kmcpo.akamaized.net/Os_Dez_Mandamentos.m3u8
+
+#EXTINF:-1 cuid="742" tvg-name="MIBG" tvg-id="" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/mibg.png" group-logo="https://cdn-icons-png.freepik.com/512/2112/2112926.png" group-title="Novelas 🌎",Minha Identidade e Beleza de Gangnam 🇧🇷
+https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=minhaidentidade%C3%A9belezadegangnam&channel_id=newid_233
+
+============================🔹=============================== 🌈
+
+#EXTINF:-1 cuid="745" tvg-name="Wedo tv Amor 🇧🇷" tvg-logo="https://cdn-01.watch4.com/01/1720620990_wedo-amor_red_logo.png" group-logo="https://cdn-icons-png.freepik.com/512/2112/2112926.png" group-title="Novelas 🌎",Wedo tv Amor 🇧🇷
+https://video-solutions-ag-anacarolina-1-br.samsung.wurl.tv/playlist.m3u8
+https://video-solutions-ag-anacarolina-1-br.tcl.wurl.tv/playlist.m3u8
+
+
+#EXTINF:-1 cuid="747" tvg-name="Malhação Fast 🇧🇷" tvg-id="BRBD1700009UV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/61/MalhacaoFast_2024.png" group-logo="https://cdn-icons-png.freepik.com/512/2112/2112926.png" group-title="Novelas 🌎",Malhação Fast 🇧🇷
+https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/Globo/Malhacao_Fast_BR/576p-vtt/index.m3u8
+
+#EXTINF:-1 cuid="748" tvg-name="TV Novelas 🇧🇷" tvg-id="5f512365abe1f50007d3ff56" tvg-logo="https://images.pluto.tv/channels/5f512365abe1f50007d3ff56/colorLogoPNG.png" group-logo="https://cdn-icons-png.freepik.com/512/2112/2112926.png" group-title="Novelas 🌎",TV Novelas ᴸᴼᵂ 🇧🇷
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f512365abe1f50007d3ff56/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=inspirationiptv&deviceDNT=1
+
+
+#EXTINF:-1 cuid="749" tvg-name="Novelisima 🇧🇷" tvg-id="BRBB4100006E9" tvg-logo="https://nov.vod.immergo.tv/nov/uploaded/f61c1bb0-b804-4ce6-9050-27879ba43004.png" group-logo="https://cdn-icons-png.freepik.com/512/2112/2112926.png" group-title="Novelas 🌎",Novelisima 🇧🇷
+https://cis-no-samsung.otteravision.com/cis/no/no_h265.m3u8
+
+
+#EXTINF:-1 cuid="751" tvg-name="" tvg-logo="" group-logo="https://cdn-icons-png.freepik.com/512/2112/2112926.png" group-title="Novelas 🌎",
+http://24.152.8.38:5001/live/olhatv/index.m3u8
+
+============================🔹=============================== 
+🌈 𝙉𝙤𝙫𝗲𝙡𝙖𝙨 🇺🇸🇰🇷
+============================🔹=============================== 
+
+#EXTINF:-1 cuid="752" tvg-name="Rakuten viki 🇺🇸🇰🇷" tvg-id="UK:.Rakuten.VIKI.en" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/rakutenviki.webp" group-logo="https://cdn-icons-png.freepik.com/512/2112/2112926.png" group-title="Novelas 🌎",Rakuten viki 🇺🇸🇰🇷
+https://newidco-rakutenviki-2-us.lg.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 cuid="753" tvg-name="Rakuten viki 🇲🇽🇰🇷" tvg-id="ES:.Rakuten.VIKI.es" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/rakutenviki.webp" group-logo="https://cdn-icons-png.freepik.com/512/2112/2112926.png" group-title="Novelas 🌎",Rakuten viki 🇲🇽🇰🇷
+https://newidco-rakutenviki-3-mx.lg.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 cuid="754" tvg-name="Asia Crush 🇺🇸🇰🇷" tvg-id="65e9ceb98145cb00084d64bc" tvg-logo="https://images.pluto.tv/channels/65e9ceb98145cb00084d64bc/colorLogoPNG.png" group-logo="https://cdn-icons-png.freepik.com/512/2112/2112926.png" group-title="Novelas 🌎",Asia Crush 🇺🇸🇰🇷
+https://amg01201-cinedigmenterta-asiancrush-cineverse-x701o.amagi.tv/playlist/amg01201-cinedigmenterta-asiancrush-cineverse/playlist.m3u8
+
+============================🔹=============================== 
+🌈 𝙉𝙤𝙫𝗲𝙡𝙖𝙨 🇫🇷
+============================🔹=============================== 
+
+#EXTINF:-1 cuid="755" tvg-name="Fréquence Novelas" tvg-id="FR:.Fréquence.Novelas.fr" tvg-logo="https://umsousercontent.com/lib_CQIHzphjEKuSMtLz/ee3icmhzkti0v0ir.jpg" group-logo="https://cdn-icons-png.freepik.com/512/2112/2112926.png" group-title="Novelas 🌎",Fréquence Novelas 🇫🇷
+https://d20oth1416y9a1.cloudfront.net/playlist/amg00711-zylofast-frequencenovelas-rakutenus/playlist.m3u8
+
+#EXTINF:-1 cuid="755" tvg-name="Telenovelas" tvg-id="Telenovelas.24/24.fr" tvg-logo="https://i.ibb.co/grBSqt4/novela.png" group-logo="https://cdn-icons-png.freepik.com/512/2112/2112926.png" group-title="Novelas 🌎",TeleNovela tv
+https://stormcast-telenovelatv-1-fr.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 cuid="756" tvg-name="Novela Channel 🇫🇷" tvg-id="NOVELAS.fr" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/LogosTv/NovelaChannel.webp" group-logo="https://cdn-icons-png.freepik.com/512/2112/2112926.png" group-title="Novelas 🌎",Novela Channel 🇫🇷
+https://video1.getstreamhosting.com:1936/8284/8284/playlist.m3u8
+
+#EXTINF:-1 cuid="757" tvg-name="Novela Channel 🇫🇷" tvg-id="NOVELAS.fr" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/LogosTv/NovelaChannel.webp" group-logo="https://cdn-icons-png.freepik.com/512/2112/2112926.png" group-title="Novelas 🌎",Novela Channel² 🇫🇷
+https://video1.getstreamhosting.com:1936/8494/8494/playlist.m3u8
+
+
+#EXTINF:-1 cuid="758" tvg-name="Televisa Telenovelas 🇫🇷" tvg-id="FRBA3300022OA" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBA14000026G_20241022T043629SQUARE.png" group-logo="https://cdn-icons-png.freepik.com/512/2112/2112926.png" group-title="Novelas 🌎",Televisa Telenovelas 🇫🇷
+https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8
+https://40413a8d4fab4568b22187b5d7cd15c9.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-fr_Televisa/playlist.m3u8
+
+#EXTINF:-1 cuid="759" tvg-name="Passion Novelas 🇫🇷" tvg-id="FRBD15000024B" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/passionNovelas.webp" group-logo="https://cdn-icons-png.freepik.com/512/2112/2112926.png" group-title="Novelas 🌎",Passion Novelas 🇫🇷
+https://d219tvyafu2vka.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-csm4hzxgjueax/index.m3u8
+
+
+#EXTINF:-1 cuid="760" tvg-name="Stormcast Novelas 🇫🇷" tvg-id="FRBA3300031ZC" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBA3300031ZC_20241015T042657SQUARE.png" group-logo="https://cdn-icons-png.freepik.com/512/2112/2112926.png" group-title="Novelas 🌎",Stormcast Novelas 🇫🇷
+https://78088d9226df47fb95e3320920b08ad7.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-fr_StormcastNovelas/playlist.m3u8
+
+============================🔹=============================== 
+🌈 𝙉𝙤𝙫𝗲𝙡𝙖𝙨 🇲🇽🇦🇷🇻🇪
+============================🔹=============================== 
+
+#EXTINF:-1 cuid="761" tvg-name="Canela tv 🇲🇽" tvg-id="USBC39000080S" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC39000080S_20241228T011434SQUARE.png" group-logo="https://cdn-icons-png.freepik.com/512/2112/2112926.png" group-title="Novelas 🌎",Canela tv 🇲🇽
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00658-canelamediainc-canelatelenovelas-lgcl/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]
+https://d1e8lnhq9tc267.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-82c2gso7442g9/canelatv.m3u8
+
+#EXTINF:-1 cuid="762" tvg-name="Novelas México" tvg-id="6474a7958e3c0a0008b97cae" tvg-logo="https://images.pluto.tv/channels/6474a7958e3c0a0008b97cae/colorLogoPNG.png" group-logo="https://cdn-icons-png.freepik.com/512/2112/2112926.png" group-title="Novelas 🌎",Novelas México 🇲🇽
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6474a7958e3c0a0008b97cae/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=inspirationiptv&deviceDNT=1
+
+#EXTINF:-1 cuid="763" tvg-name="Azteca Corazon 🇲🇽" tvg-id="Canal.TV.Azteca.Corazón.mx" tvg-logo="https://logo.m3uassets.com/aztecacorazon.png" group-logo="https://cdn-icons-png.freepik.com/512/2112/2112926.png" group-title="Novelas 🌎",Azteca Corazon 🇲🇽
+https://azt-cz.otteravision.com/azt/cz/cz_720p_high.m3u8
+
+#EXTINF:-1 cuid="764" tvg-name="Stormcast Novelas 🇪🇸" tvg-id="ESBA140000504" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA140000504_20231115T012203SQUARE.png_20231115012203.png" group-logo="https://cdn-icons-png.freepik.com/512/2112/2112926.png" group-title="Novelas 🌎",Stormcast Novelas 🇪🇸
+https://ac864287d62a45c9b168029d11a28e2a.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-es_StormcastNovelas/playlist.m3u8
+
+#EXTINF:-1 cuid="765" tvg-name="TV Novelas 🇦🇷" tvg-id="plex.tv.Canela.Telenovelas.plex" tvg-logo="https://images.pluto.tv/channels/6474a8c64f5ba50008683603/colorLogoPNG.png" group-logo="https://cdn-icons-png.freepik.com/512/2112/2112926.png" group-title="Novelas 🌎",Canela Novelas 🇦🇷
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00658-canelamediainc-canelatelenovelas-lgar/playlist.m3u8
+
+#EXTINF:-1 cuid="766" tvg-name="TV Novelas 🇻🇪" tvg-id="6474a86917f5e100089a0c1c" tvg-logo="https://images.pluto.tv/channels/6474a86917f5e100089a0c1c/colorLogoPNG.png" group-logo="https://cdn-icons-png.freepik.com/512/2112/2112926.png" group-title="Novelas 🌎",TV Novelas 🇻🇪
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6474a86917f5e100089a0c1c/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=inspirationiptv&deviceDNT=1
+
+
+#EXTINF:-1 cuid="768" tvg-name="" tvg-id="6474a7e7f77b6100080a89e7" tvg-logo="https://images.pluto.tv/channels/6474a7e7f77b6100080a89e7/colorLogoPNG.png" group-logo="https://cdn-icons-png.freepik.com/512/2112/2112926.png" group-title="Novelas 🌎",Novelas Colombia 🇨🇴
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6474a7e7f77b6100080a89e7/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=inspirationiptv&deviceDNT=1
+
+
+#EXTINF:-1 cuid="769" tvg-name="Novelisima 🇲🇽" tvg-id="plex.tv.Novelisima.plex" tvg-logo="https://nov.vod.immergo.tv/nov/uploaded/f61c1bb0-b804-4ce6-9050-27879ba43004.png" group-logo="https://cdn-icons-png.freepik.com/512/2112/2112926.png" group-title="Novelas 🌎",Novelisima 🇲🇽
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2380
+
+#EXTINF:-1 cuid="770" tvg-name="Pluto TV Novelas Dramas 🇲🇽" tvg-id="5e84dbf4a838b60007ffbba1" tvg-logo="https://images.pluto.tv/channels/5cf96cc422df39f1a338d165/colorLogoPNG.png" group-logo="https://cdn-icons-png.freepik.com/512/2112/2112926.png" group-title="Novelas 🌎",Novelas Dramas 🇲🇽
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e84dbf4a838b60007ffbba1/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=github.com/inspirationlinks&deviceDNT=1
+
+#EXTINF:-1 cuid="771" tvg-name="Pluto TV Novelas Romance 🇲🇽" tvg-id="5e84db2db3851800077c871e" tvg-logo="https://images.pluto.tv/channels/5e84db2db3851800077c871e/colorLogoPNG.png" group-logo="https://cdn-icons-png.freepik.com/512/2112/2112926.png" group-title="Novelas 🌎",Novelas Romance 🇲🇽
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e84db2db3851800077c871e/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=github.com/inspirationlinks&deviceDNT=1
+
+#EXTINF:-1 cuid="772" tvg-name="Canela Telenovelas 🇲🇽" tvg-id="plex.tv.Canela.Telenovelas.plex" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/e504b6f1e6d30c13ae95fc2064376e26.webp" group-logo="https://cdn-icons-png.freepik.com/512/2112/2112926.png" group-title="Novelas 🌎",Canela Novelas 🇲🇽
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00658-canelamediainc-canelatelenovelas-lgmx/playlist.m3u8
+
+#EXTINF:-1 cuid="773" tvg-name="Todo Novelas 🇲🇽 [ᴘʟᴇx]" tvg-id="plex.tv.Todo.Novelas,.más.Pasiones.plex" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC43000013T_20230915T042726SQUARE.png_20230915042727.png" group-logo="https://cdn-icons-png.freepik.com/512/2112/2112926.png" group-title="Novelas 🌎",Todo Novelas 🇲🇽 [ᴘʟᴇx]
+https://d2t7ujjc7lurgd.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-q0go87ctcenys-ssai-prd/index.m3u8
+
+#EXTINF:-1 cuid="774" tvg-name="Sony One Novelas 🇲🇽" tvg-id="USAJ3000002OC" tvg-logo="https://play-lh.googleusercontent.com/7DRaDczy1zOuBcLdixMRf_NAxAFq6BuNJ1OQdlmN-nuSWfGYj_phTEpa_PiFqHxMRF_-=w0" group-logo="https://cdn-icons-png.freepik.com/512/2112/2112926.png" group-title="Novelas 🌎",Sony One Novelas 🇲🇽
+https://spt-novelas-1-us.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 cuid="775" tvg-name="Sony One Novelas² 🇲🇽 [xɪᴀᴏᴍɪ]" tvg-id="USAJ3000002OC" tvg-logo="https://play-lh.googleusercontent.com/7DRaDczy1zOuBcLdixMRf_NAxAFq6BuNJ1OQdlmN-nuSWfGYj_phTEpa_PiFqHxMRF_-=w0" group-logo="https://cdn-icons-png.freepik.com/512/2112/2112926.png" group-title="Novelas 🌎",Sony One Novelas² 🇲🇽 [xɪᴀᴏᴍɪ]
+https://spt-sonyonenovelas-1-mx.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1 cuid="776" tvg-name="Sony One Novelas³ 🇲🇽" tvg-id="USAJ3000002OC" tvg-logo="https://play-lh.googleusercontent.com/7DRaDczy1zOuBcLdixMRf_NAxAFq6BuNJ1OQdlmN-nuSWfGYj_phTEpa_PiFqHxMRF_-=w0" group-logo="https://cdn-icons-png.freepik.com/512/2112/2112926.png" group-title="Novelas 🌎",Sony One Novelas³ 🇲🇽
+https://a89829b8dca2471ab52ea9a57bc28a35.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/CanelaTV_SonyCanalNovelas/playlist.m3u8
+
+
+#EXTINF:-1 cuid="777" tvg-name="Novelas Turcas 🇺🇸🇲🇽" tvg-id="US27000033D" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US27000033D_20240826T235549SQUARE.png" group-logo="https://cdn-icons-png.freepik.com/512/2112/2112926.png" group-title="Novelas 🌎",Novelas Turcas 🇺🇸🇲🇽
+https://d3tqgr18sdql14.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-pgcp345otohoa/Novelas_Turcas.m3u8
+
+#EXTINF:-1 cuid="778" tvg-name="ViX Novelas de Romance 🇺🇸🇲🇽" tvg-id="USBB44000099N" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB44000099N_20240520T212704SQUARE.png" group-logo="https://cdn-icons-png.freepik.com/512/2112/2112926.png" group-title="Novelas 🌎",ViX Novelas de Romance 🇺🇸🇲🇽
+#https://dm44c2ycmsees.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-awtur5jypeo4b/872c3088-19d6-4a4c-981c-07713116c86d/4.m3u8
+
+#EXTINF:-1 cuid="780" tvg-name="Telemundo Novelas Clasicas 🇵🇷" tvg-id="5cf96cc422df39f1a338d165" tvg-logo="https://images.pluto.tv/channels/5cf96cc422df39f1a338d165/colorLogoPNG.png" group-logo="https://cdn-icons-png.freepik.com/512/2112/2112926.png" group-title="Novelas 🌎",Telemundo Novelas Clasicas 🇵🇷
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5cf96cc422df39f1a338d165/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=github.com/inspirationlinks&deviceDNT=1
+
+#EXTINF:-1 cuid="781" tvg-name="13 Teleseries 🇨🇱" tvg-logo="https://i.imgur.com/aJMBnse.png" group-logo="https://cdn-icons-png.freepik.com/512/2112/2112926.png" group-title="Novelas 🌎",13 Teleseries 🇨🇱
+https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -1247,6 +1471,185 @@ https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/64f8a949f5b5e40008624
 
 #EXTINF:-1 cuid="1003" tvg-name="The Pet Collective 🇺🇸🇲🇽" tvg-id="USAJ3504704A" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3504704A_20240520T214709SQUARE.png" group-logo="https://cdn-icons-png.freepik.com/512/5625/5625746.png" group-title="𝐏𝐥𝐮𝐭𝐨 ☆ ​Fanny & Comedy 😂",The Pet Collective 🇺🇸🇲🇽
 https://d353v4sip9tsi1.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bgralteyy3kmh/playlist.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+============================🔹=============================== 
+🌈 MOTORSPORTS 🏎️🏍
+============================🔹===============================
+
+#EXTINF:-1 cuid="614" tvg-name="Auto TV 🇧🇷" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/autotvbr.webp" group-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/live/LogosTv/iconsGrups/sportsMotors.png" group-title="Sports • Motors 🏎️🏍",Auto TV 🇧🇷
+https://cdn.live.br1.jmvstream.com/webtv/txsneccr/playlist/playlist.m3u8
+#EXTINF:-1 cuid="615" tvg-name="TV Turbo 🇧🇷" tvg-id="6014761dfb91870008ea6463" tvg-logo="https://images.pluto.tv/channels/6014761dfb91870008ea6463/colorLogoPNG.png" group-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/live/LogosTv/iconsGrups/sportsMotors.png" group-title="Sports • Motors 🏎️🏍",TV Turbo 🇧🇷
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6014761dfb91870008ea6463/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=github.com/inspirationlinks&deviceDNT=1
+
+#EXTINF:-1 cuid="749" tvg-name="Urban Turbo 🇧🇷" tvg-logo="https://d14z5zgripclfw.cloudfront.net/account351-i1091/archive/15/public/1666631616/urban_turbo-1666631616.png" group-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/live/LogosTv/iconsGrups/sportsMotors.png" group-title="Sports • Motors 🏎️🏍",Urban Drive 🇧🇷
+https://gerenciar.vivatele.com/viva_padrao/viva2384/106.m3u8
+
+#EXTINF:-1 cuid="616" tvg-name="TV Esporte 🇧🇷" tvg-id="5f32d2db0af67400077f29c4" tvg-logo="https://images.pluto.tv/channels/5f32d2db0af67400077f29c4/colorLogoPNG.png" group-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/live/LogosTv/iconsGrups/sportsMotors.png" group-title="Sports • Motors 🏎️🏍",TV Esporte 🇧🇷
+https://is.gd/BdIRpQ?5f32d2db0af67400077f29c4.m3u8
+
+#EXTINF:-1 cuid="617" tvg-name="Acelerados 🇧🇷" tvg-logo="http://acelerados.tv/site/wp-content/uploads/2018/04/logo-acelerados-lg.png" group-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/live/LogosTv/iconsGrups/sportsMotors.png" group-title="Sports • Motors 🏎️🏍",Acelerados 🇧🇷
+https://cc-afscwj856ih88.akamaized.net/IJKL/Amagi/Offgrid/Acelerados_BR/Acelerados.m3u8
+
+#EXTINF:-1 cuid="618" tvg-name="Racer Brasil 🇧🇷" tvg-id="65a6818c7bdc8d0008457b21" tvg-logo="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/RACER_Select_Logo_1920x1080_Apr_2025.png" group-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/live/LogosTv/iconsGrups/sportsMotors.png" group-title="Sports • Motors 🏎️🏍",Racer Brasil 🇧🇷
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/65a6818c7bdc8d0008457b21/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=github.com/inspirationlinks&deviceDNT=1
+
+#EXTINF:-1 cuid="619" tvg-name="Racer 🇺🇸 🏎️ (ʀᴀkυᴛᴇɴ)" tvg-id="UK:.MAVTV.Motorsports.Network.en" tvg-logo="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/RACER_Select_Logo_1920x1080_Apr_2025.png" group-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/live/LogosTv/iconsGrups/sportsMotors.png" group-title="Sports • Motors 🏎️🏍",Racer 🇺🇸 🏎️ (ʀᴀkυᴛᴇɴ)
+https://amg00378-mavtv-amg00378c2-rakuten-us-1048.playouts.now.amagi.tv/playlist/amg00378-mavtvfast-motorsportsnetwork-rakutenus/playlist.m3u8
+
+#EXTINF:-1 cuid="620" tvg-name="Motorvision 🇧🇷" tvg-id="Motorvision.HD.pt" tvg-logo="https://images.pluto.tv/channels/60e5ea9a9bb4200008376f76/colorLogoPNG.png" group-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/live/LogosTv/iconsGrups/sportsMotors.png" group-title="Sports • Motors 🏎️🏍",Motorvision 🇧🇷
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=758
+
+#EXTINF:-1 cuid="621" tvg-name="WB Motortrend 🇮🇹" tvg-id="IT900004Y5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Motor_Trend_logo.svg/2560px-Motor_Trend_logo.svg.png" group-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/live/LogosTv/iconsGrups/sportsMotors.png" group-title="Sports • Motors 🏎️🏍",WB Motortrend 🇮🇹
+https://d205m6k582pec4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-asg5puyzdtnqu/Motortrend_IT.m3u8
+
+#EXTINF:-1 cuid="622" tvg-name="Hagerty 🇺🇸" tvg-id="USBD4200011W4" tvg-logo="https://canvas-lb.tubitv.com/opts/GoHFDVFXcXxJUg==/63cd15f5-1b92-44ec-aa48-da4c4f90fb8f/CHgQeDoFMS4xLjdAAQ==" group-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/live/LogosTv/iconsGrups/sportsMotors.png" group-title="Sports • Motors 🏎️🏍",Hagerty 🇺🇸
+https://dqw6u0upa8l21.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0etl87ne2tj77/Hagerty.m3u8
+
+#EXTINF:-1 cuid="623" tvg-name="FORMULA 1 Channel 🇺🇸 🏎️" tvg-id="65c69ee3d77d450008c80438" tvg-logo="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/F1Channel_1920x1080_Jan_2025.png" group-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/live/LogosTv/iconsGrups/sportsMotors.png" group-title="Sports • Motors 🏎️🏍",FORMULA 1 Channel 🇺🇸 🏎️
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/65c69ee3d77d450008c80438/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=github.com/inspirationlinks&deviceDNT=1
+
+#EXTINF:-1 cuid="624" tvg-name="GP TV 🇧🇷" tvg-logo="https://www.grandepremio.com.br/wp-content/themes/grandepremio/assets/img/gp-logo-branca-atualizada.png" group-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/live/LogosTv/iconsGrups/sportsMotors.png" group-title="Sports • Motors 🏎️🏍",GP TV 🇧🇷
+https://fast-channels-t2.b-cdn.net/grandepremio/aovivo_abr/grandepremio/aovivo_1080p/playlist.m3u8
+
+#EXTINF:-1 cuid="625" tvg-name="Speed Sport 1 🇺🇸 🏎️" tvg-id="6675b8ccca74680008563c24" tvg-logo="https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/SS1.png" group-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/live/LogosTv/iconsGrups/sportsMotors.png" group-title="Sports • Motors 🏎️🏍",Speed Sport 1 🇺🇸 🏎️
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6675b8ccca74680008563c24/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=github.com/inspirationlinks&deviceDNT=1
+
+#EXTINF:-1 cuid="626" tvg-name="Velocidad 🇪🇸" tvg-id="5dd6dc7480e3550009133d4a" tvg-logo="https://images.pluto.tv/channels/5dd6dc7480e3550009133d4a/colorLogoPNG.png" group-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/live/LogosTv/iconsGrups/sportsMotors.png" group-title="Sports • Motors 🏎️🏍",Velocidad 🇪🇸
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dd6dc7480e3550009133d4a/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=github.com/inspirationlinks&deviceDNT=1
+
+#EXTINF:-1 cuid="627" tvg-name="Nascar (vpn 🇺🇸)" tvg-id="65a6818c7bdc8d0008457b21" tvg-logo="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/nascare.png" group-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/live/LogosTv/iconsGrups/sportsMotors.png" group-title="Sports • Motors 🏎️🏍",Nascar (vpn 🇺🇸)
+https://apollo.production-public.tubi.io/live/nascar-XG7L6P.m3u8
+
+#EXTINF:-1 cuid="628" tvg-name="Monster Jam 🇺🇸" tvg-id="65c69b683ba51e00084534a3" tvg-logo="https://images.pluto.tv/channels/65c69b683ba51e00084534a3/colorLogoPNG.png" group-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/live/LogosTv/iconsGrups/sportsMotors.png" group-title="Sports • Motors 🏎️🏍",Monster Jam 🇺🇸
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/65c69b683ba51e00084534a3/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=github.com/inspirationlinks&deviceDNT=1
+
+#EXTINF:-1 cuid="629" tvg-name="Torque Presented By History 🇺🇸 [ᴘʟᴇx]" tvg-id="plex.tv.Torque.Presented.By.History.plex" tvg-logo="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/torque_by_history.png" group-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/live/LogosTv/iconsGrups/sportsMotors.png" group-title="Sports • Motors 🏎️🏍",Torque Presented By History 🇺🇸 [ᴘʟᴇx]
+https://df7ed838.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Um9rdV9Ub3JxdWVfSExT/playlist.m3u8
+
+#EXTINF:-1 cuid="630" tvg-name="Garage TV 🇦🇷" tvg-id="El.Garage.TV.-.South.(Latin.America).(GARAG).ar" tvg-logo="https://elgarage.com/wp-content/uploads/2021/04/favicon.png" group-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/live/LogosTv/iconsGrups/sportsMotors.png" group-title="Sports • Motors 🏎️🏍",Garage TV 🇦🇷
+https://stream1.sersat.com/hls/garagetv.m3u8
+
+#EXTINF:-1 cuid="631" tvg-name="Auto Allstars 🇺🇸" tvg-logo="https://play-lh.googleusercontent.com/zUMQu0eaZOlw2rT6BbnIrKMrEaWxJcwkhEypTN-MpwuPhZwDczpdeGkyIPwcVO4FuFc8=w0" group-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/live/LogosTv/iconsGrups/sportsMotors.png" group-title="Sports • Motors 🏎️🏍",Auto Allstars 🇺🇸
+https://9fdfea77.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctcHRfQ2FzdGlmeUF1dG9BbGxTdGFyc19ITFM/playlist.m3u8
+
+#EXTINF:-1 cuid="632" tvg-name="MotorTrend Fast TV 🇺🇸" tvg-id="6400f731d200410008f9b339" tvg-logo="https://canvas-lb.tubitv.com/opts/vTop54ED_uckkA==/db233fc0-5e25-4078-977c-324669c03581/CHgQeDoFMS4xLjdAAQ==" group-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/live/LogosTv/iconsGrups/sportsMotors.png" group-title="Sports • Motors 🏎️🏍",MotorTrend Fast TV 🇺🇸
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6400f731d200410008f9b339/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=github.com/inspirationlinks&deviceDNT=1
+
+#EXTINF:-1 cuid="633" tvg-name="Warner Bros TV Motorheads 🇺🇸" tvg-id="mjh-discovery-fast1" tvg-logo="https://cdn.fullscreen.nz/threenow/prod/channels/livestream/1701633988394/20231204T090843_motorheadslogo.png" group-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/live/LogosTv/iconsGrups/sportsMotors.png" group-title="Sports • Motors 🏎️🏍",Warner Bros TV Motorheads 🇺🇸
+https://mediapackage-azf1-source.fullscreen.nz/index.m3u8
+
+#EXTINF:-1 cuid="634" tvg-name="Drive tv" tvg-id="mjh-discovery-fast1" tvg-logo="https://i.ibb.co/Xs1PxZs/driveauto.png" group-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/live/LogosTv/iconsGrups/sportsMotors.png" group-title="Sports • Motors 🏎️🏍",Drive tv
+https://amg01796-amg01796c2-rakuten-uk-3887.playouts.now.amagi.tv/playlist/amg01796-fastmediafast-drivetv-rakutenuk/playlist.m3u8
+
+#EXTINF:-1 cuid="635" tvg-name="MotorRacing 🇬🇧" tvg-id="GBBA1500006H6" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/LogosTv/motorancing.webp" group-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/live/LogosTv/iconsGrups/sportsMotors.png" group-title="Sports • Motors 🏎️🏍",MotorRacing 🇬🇧
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/69fae76b-c5fe-11ec-967f-401ac48a6867/0/master.m3u8?ads%3Aamznbrmid=&ads%3Aamznregion=&ads%3Aamznslots=&ads%3Aapp_bundle=com.rakuten.tv&ads%3Aapp_version=&ads%3Abrand_name=&ads%3Acontent_classification=7&ads%3Adevice_type=web&ads%3Adevice_year=1970&ads%3Afunke_channel_id=RAKB0032&ads%3Alanguage=eng&ads%3Amarket=uk&ads%3Aos_language=&ads%3Aplayer_height=1080&ads%3Aplayer_width=1920&ads%3Apod_type=playerpage_midroll&ads%3Artv_content_id=4252&ads%3Astreaming_id=2ff04ac1-a68a-4e8e-bc86-d86b463b8c79&ads%3Atcf=&ads%3Ativo_devcountry=&ads%3Ativo_devmakedate=&ads%3Ativo_mvpd=&ads%3Ativo_platform=&ads%3Ativo_usid=&ads%3Ativo_uxloc=&ads%3Auser_type=visitor&country=gb&optout=0&uid=e3dd2658-e93a-4cee-9d4b-27200826a904&vendor=rakuten
+
+#EXTINF:-1 cuid="636" tvg-name="NHRA tv 🇺🇸 [ᴏᴛᴛᴇʀᴀ]" tvg-id="USBC3200019WF" tvg-logo="https://canvas-lb.tubitv.com/opts/CainNmBsP95pMw==/20c45879-2263-415e-8d68-2f5522c6ba81/CHgQeDoFMS4xLjdAAQ==" group-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/live/LogosTv/iconsGrups/sportsMotors.png" group-title="Sports • Motors 🏎️🏍",NHRA tv 🇺🇸 [ᴏᴛᴛᴇʀᴀ]
+https://api-ott.nhra.tv/loggingmediaurlpassthrough/a.m3u8?version=12&id=24&partner=littlstar
+
+#EXTINF:-1 cuid="637" tvg-name="Mtrspt1 🇬🇧" tvg-id="MTRSPT1.distro" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/Mtrspt1.webp" group-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/live/LogosTv/iconsGrups/sportsMotors.png" group-title="Sports • Motors 🏎️🏍",Mtrspt1 🇬🇧
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02873-kravemedia-mtrspt1-lges/playlist.m3u8
+
+#EXTINF:-1 cuid="638" tvg-name="PowerNation 🇺🇸" tvg-id="63b48016d9dd51000828fa37" tvg-logo="https://images.pluto.tv/channels/63b48016d9dd51000828fa37/colorLogoPNG.png" group-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/live/LogosTv/iconsGrups/sportsMotors.png" group-title="Sports • Motors 🏎️🏍",PowerNation 🇺🇸
+https://stitcher.pluto.tv/stitch/hls/channel/63b48016d9dd51000828fa37/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=cb5874fc-6948-11ef-b8e3-ea3db3d97a96
+
+#EXTINF:-1 cuid="639" tvg-name="Motorvision 🇺🇸" tvg-id="UK:.MOTORVISION.TV.en" tvg-logo="https://cdn-01.watch4.com/01/motorvision-tv-en_red_logo.png" group-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/live/LogosTv/iconsGrups/sportsMotors.png" group-title="Sports • Motors 🏎️🏍",Motorvision 🇺🇸
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01329-otterainc-motorvisionnz-samsungnz/playlist.m3u8
+
+#EXTINF:-1 cuid="640" tvg-name="Choppertown 🇺🇸 [ᴘʟᴇx]" tvg-id="643054b1fc3be59477853717-5ef11487d33ab9004048a1d3" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/choppertown.png" group-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/live/LogosTv/iconsGrups/sportsMotors.png" group-title="Sports • Motors 🏎️🏍",Choppertown 🇺🇸 [ᴘʟᴇx]
+https://linear-11.frequency.stream/dist/plex/11/hls/master/playlist.m3u8
+
+#EXTINF:-1 cuid="641" tvg-name="MotoAmerica 🇺🇸 🏍" tvg-id="localnow_MotoAmerica" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/MotoAmerica.webp" group-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/live/LogosTv/iconsGrups/sportsMotors.png" group-title="Sports • Motors 🏎️🏍",MotoAmerica 🇺🇸 🏍
+https://1422977263.rsc.cdn77.org/HLS/MOTOAMERICA_SCTE_Max.m3u8
+
+#EXTINF:-1 cuid="642" tvg-name="Racing America 🇺🇸 [ᴘʟᴇx]" tvg-id="plex.tv.Racing.America.plex" tvg-logo="https://provider-static.plex.tv/epg/cms/production/603d35f3-bea2-4f06-b179-1a98c0adf534/Untitled_15.png" group-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/live/LogosTv/iconsGrups/sportsMotors.png" group-title="Sports • Motors 🏎️🏍",Racing America 🇺🇸 [ᴘʟᴇx]
+https://racingamerica-plex.amagi.tv/playlist1080p.m3u8
+
+#EXTINF:-1 cuid="643" tvg-name="Canal Motor tv 🇺🇸" tvg-logo="https://i.imgur.com/nCAt3QN.png" group-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/live/LogosTv/iconsGrups/sportsMotors.png" group-title="Sports • Motors 🏎️🏍",Canal Motor tv 🇺🇸
+https://digicom.hls.iptvdc.com/motorstv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 cuid="644" tvg-name="Automoto tv 🇬🇧" tvg-logo="https://images.pluto.tv/channels/5f760c3d41aa2d0007bfde19/colorLogoPNG.png" group-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/live/LogosTv/iconsGrups/sportsMotors.png" group-title="Sports • Motors 🏎️🏍",Automoto tv 🇬🇧
+http://100automoto.tv:1935/bgtv1/autotv/chunklist_w783411174.m3u8
+
+#EXTINF:-1 cuid="645" tvg-name="We Love Cars 🇺🇸" tvg-id="30A.We.Love.Cars.us" tvg-logo="https://30a-tv.com/wp-content/uploads/2024/06/user-profile-30atv-2024.png" group-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/live/LogosTv/iconsGrups/sportsMotors.png" group-title="Sports • Motors 🏎️🏍",We Love Cars 🇺🇸
+https://30a-tv.com/feeds/vidaa/cars.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
