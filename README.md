@@ -289,8 +289,6 @@ LISTA DE CANAIS DA DREAMIPTV
 - SSC Sport Extra 1 🇸🇦
 - SSC Sport Extra 2 🇸🇦
 - SSC Sport Extra 3 🇸🇦
-- Telecinco 🇪🇸⚽︎
-- USA Network 🇺🇸⚽︎
   
 🔹 CANAIS BRASILEIROS 🔹
 - HBO 🇧🇷
@@ -342,12 +340,13 @@ LISTA DE CANAIS DA DREAMIPTV
 - Premiere Clubes 🇧🇷
 
  🔹 CANAIS FUTEBOL CLUB 🔹
-TOP Barça 🇪🇸
-Real Madrid Tv 🇬🇧
-Real Madrid Tv 🇪🇸
-MUTV 🇬🇧
-Inter TV 🇮🇹
-FENERBAHÇE TV
+
+- TOP Barça 🇪🇸
+- Real Madrid Tv 🇬🇧
+- Real Madrid Tv 🇪🇸
+- MUTV 🇬🇧
+- Inter TV 🇮🇹
+- FENERBAHÇE TV
 
  🔹 CANAIS FORMULA 1 🔹
 - Sky Sport F1 🇮🇹
@@ -420,13 +419,8 @@ FENERBAHÇE TV
 - ESPN 5 🇨🇴
 - ESPN 6 🇨🇴
 - ESPN 7 🇨🇴
-- Ring 🇧🇬
-- Eleven Sports 1 🇵🇱
-- Eleven Sports 2 🇵🇱
-- Eleven Sports 3 🇵🇱
-- Sportdigital Fussball 🇩🇪
   
- 🔹 VARIOS CHANNELS DESPORTO 🔹
+ 🔹 VARIOS CHANNELS DO LESTE EUROPEU 🔹
 - Sport 1 Baltic
 - Sport 2 Baltic
 - Sport 1 🇨🇿🇸🇰
