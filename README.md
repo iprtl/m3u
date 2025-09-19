@@ -4,7 +4,7 @@
 
 ## COMUNICADO:
 
-IMPORTANTE: A grande novidade é o surgimento de um pacote NOVO E EXCLUSIVO INSPIRATION. Denominada de DREAMIPTV. [Saiba mais...](#exclusivo-inspiration-links-dreamiptv)
+IMPORTANTE: A grande novidade é o surgimento de um pacote NOVO E EXCLUSIVO de DREAMIPTV. [Saiba mais...](#exclusivo-inspiration-links-dreamiptv)
 
 ---
 
