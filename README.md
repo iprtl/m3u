@@ -7,12 +7,6 @@
 Venho por este meio Comunicar que a lista de IPTV denominada de, (tv.m3u), deixará de estar disponível, pelo menos nos moldes em que sempre teve, ate ao dia de hoje.
 A decisão é irreversível! 
 
-Por isso ficará apenas disponível 1 lista denominada de,(Freetv.m3u), disponível para todos só com streamings de sinal aberto. 
-
-```bash
-https://github.com/inspirationlinks/m3u/raw/live/Freetv.m3u
-```
-
 A lista (tv.m3u) continuará a estar disponível mas... Só para aqueles que estejam interessados e quiserem optar por (doações mensais via PayPal).
 Dessa forma a lista será facultada individualmente.
 É a unica forma de voltarem a ter acesso ao conteúdo de iptv que eu partilhava ate então...
