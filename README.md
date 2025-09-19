@@ -29,11 +29,11 @@ Index de canais de IPTV (Internet Protocol Television) disponíveis publicamente
 - 📺 [Canais PREMIUM 🇵🇹](#exclusivo-inspiration-links-dreamiptv)
 - 📺 [Lista Canais tv.m3u](#list-of-channels-tvm3u)
 - 📺 [Lista de Canais Freetv.m3u](#Playlist-Inspiration-Links)
-- 💰 [Faça o seu donativo](#Ajude-nos-Faça-o-seu-donativo)
 - 💬 [Legendas](#Legendas)
 - ⏳  [EPG](#EPG-used-in-Freetv-Inspiration)
 - 💬 [Discussions](#Discussions)
 - 🌐 [Apps](#Apps)
+- 💰 [Faça o seu donativo](#Ajude-nos-Faça-o-seu-donativo)
 - 🟢 [Legal](#Legal)
 - 🔐 [License](#License)
 
