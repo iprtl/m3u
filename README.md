@@ -492,6 +492,17 @@ LISTA DE CANAIS DA DREAMIPTV
 
 ---
 
+## Playlist Inspiration Links
+```bash
+Entre em contacto via 📩 inspirationlivetv@gmail.com
+```
+## Playlist Inspiration Links: Free Streamings by (Pluto and more)...
+```bash
+https://github.com/inspirationlinks/m3u/raw/live/Freetv.m3u
+```
+
+---
+
 List of Channels (Freetv.m3u)
 * https://www.paypal.com/donate/?hosted_button_id=B3EDBYK3LXSNS
 
@@ -1579,15 +1590,6 @@ List of Channels (Freetv.m3u)
 📢 (Esta "legenda|índice" pode sofrer alterações, por isso fiquem atentos)
 
 ---
-
-## Playlist Inspiration Links
-```bash
-Entre em contacto via 📩 inspirationlivetv@gmail.com
-```
-## Playlist Inspiration Links: Free Streamings by (Pluto and more)...
-```bash
-https://github.com/inspirationlinks/m3u/raw/live/Freetv.m3u
-```
 
 ## EPG used in Freetv Inspiration
 
