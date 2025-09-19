@@ -243,7 +243,6 @@ LISTA DE CANAIS DA DREAMIPTV
 - Dazn 5 (📆👪 Max Con:5)
 - Goltv 🇺🇸
 - Goltv 🇵🇦
-- Arena Sport 2 🇸🇰
 - Ring 🇧🇬
 - Ziggo Sport 🇳🇱
 - Ziggo Sport 2 🇳🇱
