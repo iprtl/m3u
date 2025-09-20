@@ -27,7 +27,7 @@ If you want to support me continuing the work, you can donate by clicking the do
 ## Índice
 
 - ⚠️ [COMUNICADO](#COMUNICADO)
-- 📺 [Canais PREMIUM 🇵🇹](#exclusivo-dreamiptv)
+- 📺 [CANAIS PREMIUM 🇵🇹](#exclusivo-dreamiptv)
 - 📺 [Lista Canais tv.m3u](#list-of-channels-tvm3u)
 - 📺 [Lista de Canais Freetv.m3u](#Playlist-Inspiration-Links)
 - 💬 [Legendas](#Legendas)
@@ -255,7 +255,7 @@ LISTA DE CANAIS DA DREAMIPTV
 - Telecine Touch 🇧🇷
 - Film & Arts 🇧🇷
 
- 🔹 CANAIS TRANSMITEM A LIGA BETCLIC 🇵🇹 E NÃO SÓ...🔹
+ 🔹 CANAIS TRANSMITEM A LIGA BETCLIC E NÃO SÓ...🔹
 - Canal 11 🇵🇹
 - Sporting tv 🇵🇹
 - Benfica tv 🇵🇹
