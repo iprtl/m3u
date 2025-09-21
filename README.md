@@ -1126,7 +1126,7 @@ List of Channels (Freetv.m3u)
 - Trips Marter 🇺🇸
 - Tastemade Home 🇺🇸
 
-🔹 LIFESTALY 🔹
+🔹 LIFESTYLE 🔹
 - The Bob Ross Channel 🇺🇸
 - Escape to the Country 🇺🇸
 - 5 Minute Crafts 🇺🇸
