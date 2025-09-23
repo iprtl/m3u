@@ -255,6 +255,127 @@ LISTA DE CANAIS DA DREAMIPTV
 - Telecine Touch 🇧🇷
 - Film & Arts 🇧🇷
 
+🔹 CANAIS HISPÂNICOS 🔹
+
+- Canal 5 🇲🇽 (🔉🇪🇸🇬🇧)
+- Canal 5 🇲🇽 ⚽️
+- Unimas 🇲🇽
+- Univision 🇲🇽 ⚽️
+- Universal Premiere (🔉🇪🇸🇬🇧 💬🇪🇸)
+- Universal Cinema (🔉🇪🇸🇬🇧 💬🇪🇸)
+- Universal Comedy (🔉🇪🇸🇬🇧 💬🇪🇸)
+- Universal Crime (🔉🇪🇸🇬🇧 💬🇪🇸)
+- Universal Reality (🔉🇪🇸🇬🇧 💬🇪🇸)
+- TNT (🔉🇪🇸🇬🇧 💬🇪🇸)
+- HBO + (🔉🇪🇸🇬🇧 💬🇪🇸)
+- HBO 2 (🔉🇪🇸🇬🇧 💬🇪🇸)
+- HBO Family (🔉🇪🇸🇬🇧 💬🇪🇸)
+- HBO Pop (🔉🇪🇸🇬🇧 💬🇪🇸)
+- HBO Xtreme (🔉🇪🇸🇬🇧 💬🇪🇸)
+
+🔹 CANAIS FRANCESES 🔹
+- France 2 🇫🇷
+- France 3 🇫🇷
+- France 4 🇫🇷
+- France 5 🇫🇷
+- M6 🇫🇷
+- 6Ter 🇫🇷
+- W9 🇫🇷
+- RTL 9 🇫🇷
+- TF1 🇫🇷
+- LCI 🇫🇷
+- TFX 🇫🇷
+
+🔹 CANAIS ITALIANOS 🔹
+- WBtv 🇮🇹
+- WB Frisbee 🇮🇹
+- WB NOVE 🇮🇹
+- WB Real time 🇮🇹
+- WB Giallo 🇮🇹
+- WB HGTV 🇮🇹
+- WB DMAX 🇮🇹
+- Mediaset Italia 🇮🇹
+- Mediaset Italia 1 🇮🇹
+- Mediaset Canale 5 🇮🇹 ⚽️
+- Rai 1 🇮🇹
+- Rai 2 🇮🇹
+- Rai 3 🇮🇹
+- Rai World Premium 🇮🇹
+- Rai Itália Austrália 🇮🇹
+- Rai Itália América 🇮🇹
+- Rai Itália Europe Africa 🇮🇹
+- Rai Storia 🇮🇹
+- Rete 4 🇮🇹
+- Italian Fishing TV 🇮🇹
+
+🔹 CANAIS NÓRDICOS 🔹
+- NPO 2 🇳🇱
+- NPO 3 🇳🇱
+- NPO 1 Extra 🇳🇱
+- NPO 2 Extra 🇳🇱
+- 3sat 🇩🇪⚽️
+- RTL 🇩🇪
+- RTL Super 🇩🇪
+- ProSieben Maxx 🇩🇪
+- Sat1 🇩🇪
+
+🔹 CANAIS CANADIANOS & INGLESES & USA 🔹
+- Crave1 🇨🇦
+- Crave2 🇨🇦
+- Crave3 🇨🇦
+- Crave4 🇨🇦
+
+🔹 CANAIS INGLESES 🔹
+- BBC One 🇬🇧
+- BBC Two 🇬🇧
+- BBC Three 🇬🇧
+- BBC Four 🇬🇧
+- Channel 4 🇬🇧
+- Channel 5 🇬🇧 ⚽️
+- ITV 1 🇬🇧
+- ITV 2 🇬🇧
+- ITV 3 🇬🇧
+- ITV 4 🇬🇧
+
+🔹 CANAIS USA 🔹
+- DogTv 🇺🇸
+- The Cycling Channel 🇺🇸
+- MeTV 🇺🇸
+- BBC América 🇺🇸
+- USA Network 🇺🇸 ⚽️
+- truTV 🇺🇸 ⚽️
+- AMC+ 🇺🇸
+- AMC 🇺🇸
+- TNT 🇺🇸 ⚽️
+- TBS 🇺🇸 ⚽️
+- Paramount Network 🇺🇸
+- FXX
+- HBO 🇺🇸
+- HBO 2 🇺🇸
+- HBO Signature 🇺🇸
+- HBO Comedy 🇺🇸
+- HBO Family 🇺🇸
+- HBO Zone 🇺🇸
+- MGM+ 🇺🇸
+- MGM+ Drive In 🇺🇸
+- MGM+ Hits 🇺🇸
+- MGM+ Marquee 🇺🇸
+- Studio Universal
+- Reelz 🇺🇸
+- Grit 🇺🇸
+- AMG TV
+
+🔹 CANAIS USA DOCUMENTÁRIOS 🔹
+- H2 🇨🇦
+- National Geographic 🇺🇸
+- Nat Geo Wild 🇺🇸
+- Animal Planet 🇬🇧
+- Discovery Channel 🇺🇸
+- IDIscovery 🇺🇸
+- Discovery Life 🇺🇸
+- Discovery Family
+- Science Channel 🇺🇸
+
  🔹 CANAIS TRANSMITEM A LIGA BETCLIC E NÃO SÓ...🔹
 - Canal 11 🇵🇹
 - Sporting tv 🇵🇹
