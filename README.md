@@ -28,7 +28,7 @@ If you want to support me continuing the work, you can donate by clicking the do
 
 - ⚠️ [COMUNICADO](#COMUNICADO)
 - 📺 [CANAIS PREMIUM 🇵🇹](#exclusivo-dreamiptv)
-- 📺 [Lista Canais tv.m3u](#list-of-channels-tvm3u)
+- 📺 [Lista Canais TV.M3U](#list-of-channels-tvm3u)
 - 📺 [Lista de Canais Freetv.m3u](#Playlist-Inspiration-Links)
 - 💬 [Legendas](#Legendas)
 - ⏳  [EPG](#EPG-used-in-Freetv-Inspiration)
@@ -377,18 +377,7 @@ LISTA DE CANAIS DA DREAMIPTV
 - Science Channel 🇺🇸
 
  🔹 CANAIS TRANSMITEM A LIGA BETCLIC E NÃO SÓ...🔹
-- Canal 11 🇵🇹
-- Sporting tv 🇵🇹
-- Benfica tv 🇵🇹
-- Sport tv 1 (📆👪 Max Con:5)
-- Sport tv 2 (📆👪 Max Con:5)
-- Sport tv 3 (📆👪 Max Con:5)
-- Sport tv 4 (📆👪 Max Con:5)
-- Sport tv 5 (📆👪 Max Con:5)
-- Dazn 1 (📆👪 Max Con:5)
-- Dazn 3 (📆👪 Max Con:5)
-- Dazn 4 (📆👪 Max Con:5)
-- Dazn 5 (📆👪 Max Con:5)
+
 - Goltv 🇺🇸
 - Goltv 🇵🇦
 - Ring 🇧🇬
@@ -472,12 +461,19 @@ LISTA DE CANAIS DA DREAMIPTV
   
  🔹 DESPORTOS PREMIUM 🇪🇸🇬🇧 🔹
 
+- Peacocktv Sports 🇬🇧
+- W-Sport 🇬🇧
+- Astro Grandstand 🇬🇧
+- Super Sports Grandstand 🇬🇧
+- Super Sports Football 🇬🇧
 - FS1 🇺🇸
 - FS2 🇺🇸 
-- Championstv 1 🇮🇳🇬🇧
-- Championstv 2 🇮🇳🇬🇧
-- Championstv 5 🇮🇳🇬🇧
-- Championstv 6 🇮🇳🇬🇧
+- Star Sports Select 1 🇮🇳🇬🇧
+- Star Sports Select 2 🇮🇳🇬🇧
+- Championstv 1 🇮🇳🇬🇧 (NEM SEMPRE DISPONIVEL)
+- Championstv 2 🇮🇳🇬🇧 (NEM SEMPRE DISPONIVEL)
+- Championstv 5 🇮🇳🇬🇧 (NEM SEMPRE DISPONIVEL)
+- Championstv 6 🇮🇳🇬🇧 (NEM SEMPRE DISPONIVEL)
 - M+ LALIGA tv 🇪🇸 
 - M+ Liga de Campeones 🇪🇸
 - M+ #Vamos 🇪🇸 (NEM SEMPRE DISPONIVEL)
@@ -485,16 +481,15 @@ LISTA DE CANAIS DA DREAMIPTV
 - DAZN LA LIGA 🇪🇸 (NEM SEMPRE DISPONIVEL)
 - M+ LALIGA tv Hypermotion 🇪🇸 (NEM SEMPRE DISPONIVEL)
 - M+ Deportes 🇪🇸 (NEM SEMPRE DISPONIVEL)
-- Sky Sports Mix 🇬🇧 (NEM SEMPRE DISPONIVEL)
-- peacocktv Sports 🇬🇧
+- Sky Sports Mix 🇬🇧 
 - Vodafone Sport 🇬🇧
-- Sky Sport News 🇬🇧 (NEM SEMPRE DISPONIVEL)
-- Sky Sport Main Event 🇬🇧 (NEM SEMPRE DISPONIVEL)
-- Sky Sport Plus 🇬🇧 (NEM SEMPRE DISPONIVEL)
-- Sky Sports Action 🇬🇧 (NEM SEMPRE DISPONIVEL)
-- Sky Sports Mix 🇬🇧 (NEM SEMPRE DISPONIVEL)
-- Sky Sport Football 🇬🇧 (NEM SEMPRE DISPONIVEL)
-- Sky Sport Premier League 🇬🇧 (NEM SEMPRE DISPONIVEL)
+- Sky Sport News 🇬🇧 
+- Sky Sport Main Event 🇬🇧 
+- Sky Sport Plus
+- Sky Sports Action 🇬🇧 
+- Sky Sports Mix 🇬🇧 
+- Sky Sport Football 🇬🇧 
+- Sky Sport Premier League 🇬🇧 
 - TNT Sport 1 🇬🇧
 - TNT Sport 2 🇬🇧
 - TNT Sport 3 🇬🇧
@@ -507,17 +502,7 @@ LISTA DE CANAIS DA DREAMIPTV
 - Eurosport 1 🇵🇱
 - Eurosport 2 🇪🇸
 - Eurosport 2 🔉🇨🇿🇬🇧
-- EuroSports 2 🇵🇱
-  
-  🔹 DESPORTOS FRANCESES 🔹
-- Canal+Sport 🇫🇷
-- Canal+Foot 🇫🇷
-- Canal+Sport 360 🇫🇷
-- Canal+ Sport 1 🇿🇦 🥊
-- Canal+ Sport 2 🇿🇦 ⚽️
-- Canal+ Sport 3 🇿🇦
-- Canal+ Sport 4 🇿🇦 ⛳
-- Canal+ Sport 5 🇿🇦 🎾
+- EuroSports 2 🇵🇱 
   
   🔹 DESPORTOS HISPANICOS 🔹
 
@@ -535,6 +520,8 @@ LISTA DE CANAIS DA DREAMIPTV
 - Fox Sports 2 🇲🇽
 - Fox Sports 3 🇦🇷
 - Fox Sports 3 🇲🇽
+- ESPN premium 🇲🇽
+- ESPN Deportes 🇲🇽
 - ESPN 🇲🇽
 - ESPN 2 🇨🇴
 - ESPN 3 🇨🇴
@@ -543,7 +530,28 @@ LISTA DE CANAIS DA DREAMIPTV
 - ESPN 6 🇨🇴
 - ESPN 7 🇨🇴
   
- 🔹 VARIOS CHANNELS DO LESTE EUROPEU 🔹
+ 🔹 VARIOS CHANNELS NÓRDICOS 🔹
+
+- TV2 Sport Premium 1
+- TV2 Sport Premium 2
+- TV2 Sport 1
+- TV2 Sport 2
+- TV2 Sport x
+- TV3+
+- TV3 Sport
+- V Sport+
+- V Sport 1
+- V Sport 2
+- V Sport 3
+- Polsat Sport premium 1
+- Polsat Sport premium 2
+- Polsat Sport 1
+- Polsat Sport 2
+- Polsat Sport 3
+- SPOT 1
+- SPOT 2
+- Nova Sport 1
+- Nova Sport 2
 - Sport 1 Baltic
 - Sport 2 Baltic
 - Sport 1 🇨🇿🇸🇰
