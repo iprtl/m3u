@@ -228,7 +228,7 @@ LISTA DE CANAIS DA DREAMIPTV
 ## List of Channels (tv.m3u) 
 * (Se estiver interessado nesta lista de Canais. Enviar um email para: inspirationlivetv@gmail.com)
 * AVISO: Esta lista é construida por fontes encontradas da Internet. Não me responsabilizo com possíveis instabilidades que os canais possam vir a ter nem a sua durabilidade.
-- [👉 VEJA VIDEO](https://www.youtube.com/watch?v=uG3IB7cBIkM)
+[👉 VEJA VIDEO ☜](https://www.youtube.com/watch?v=uG3IB7cBIkM)
 
 🔹 CANAIS BRASILEIROS 🔹
 - HBO 🇧🇷
