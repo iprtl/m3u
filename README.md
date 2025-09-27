@@ -61,7 +61,7 @@ If you want to support me continuing the work, you can donate by clicking the do
 
 ## EXCLUSIVO DREAMIPTV.
 * NOTA: fonte fidedigna, sem falhas, sem breaks, só desfrutar do melhor que temos em Portugal ;)
-* ALEM DESTA LISTA DE CANAIS - Está incluída também a secção de "Biblioteca de Midia", ou seja, sessão de cinema com os filmes e series mais recentes.
+* ALEM DESTA LISTA DE CANAIS.
 * (Se estiver interessado nesta lista de Canais. O primeiro passo é Enviar um email para: inspirationlivetv@gmail.com
 
 LISTA DE CANAIS DA DREAMIPTV
