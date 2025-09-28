@@ -61,10 +61,12 @@ If you want to support me continuing the work, you can donate by clicking the do
 
 ---
 
-## EXCLUSIVO DREAMIPTV.
-* NOTA: fonte fidedigna, sem falhas, sem breaks, só desfrutar do melhor que temos em Portugal ;)
-* ALEM DESTA LISTA DE CANAIS.
-* (Se estiver interessado nesta lista de Canais. O primeiro passo é Enviar um email para: inspirationlivetv@gmail.com
+## EXCLUSIVO DREAMIPTV, que contactaram com o Inspiration links. Derivado a esse contacto foi possível esta partilha aqui no GitHub o trabalho deles...
+
+* NOTA: fonte fidedigna, pessoas sérias, que partilham conteúdo de qualidade, o melhor que temos em Portugal ;)
+* (Se estiver interessado nesta lista, O primeiro passo é contactar.
+
+<a href = "mailto:inspirationlivetv@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 [👉 VEJA VIDEO](https://streamable.com/e/vxzdm9)
 
