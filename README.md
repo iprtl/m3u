@@ -64,7 +64,7 @@ If you want to support me continuing the work, you can donate by clicking the do
 * ALEM DESTA LISTA DE CANAIS.
 * (Se estiver interessado nesta lista de Canais. O primeiro passo é Enviar um email para: inspirationlivetv@gmail.com
 
-[👉 VEJA VIDEO ☜](https://streamable.com/e/vxzdm9)
+[👉 VEJA VIDEO](https://streamable.com/e/vxzdm9)
 
 LISTA DE CANAIS DA DREAMIPTV
 - Rtp 1
@@ -229,7 +229,7 @@ LISTA DE CANAIS DA DREAMIPTV
 ## List of Channels (tv.m3u) 
 * (Se estiver interessado nesta lista de Canais. Enviar um email para: inspirationlivetv@gmail.com)
 * AVISO: Esta lista é construida por fontes encontradas da Internet. Não me responsabilizo com possíveis instabilidades que os canais possam vir a ter nem a sua durabilidade.
-[👉 VEJA VIDEO ☜](https://www.youtube.com/watch?v=uG3IB7cBIkM)
+[👉 VEJA VIDEO](https://www.youtube.com/watch?v=uG3IB7cBIkM)
 
 🔹 CANAIS BRASILEIROS 🔹
 - Estrela da Casa 🇧🇷
