@@ -61,7 +61,10 @@ If you want to support me continuing the work, you can donate by clicking the do
 
 ---
 
-## EXCLUSIVO DREAMIPTV, que contactaram com o Inspiration links. Derivado a esse contacto foi possível esta partilha aqui no GitHub o trabalho deles...
+## EXCLUSIVO DREAMIPTV 
+
+* INFO: Entraram em contacto com o Inspiration links. Derivado a esse contacto foi possível esta partilha aqui no GitHub o trabalho deles...
+Acrescento que o inspiration Links é apenas e só um intermediário.
 
 * NOTA: fonte fidedigna, pessoas sérias, que partilham conteúdo de qualidade, o melhor que temos em Portugal ;)
 * (Se estiver interessado nesta lista, O primeiro passo é contactar.
