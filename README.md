@@ -14,7 +14,11 @@ A decisão é irreversível! A partir do dia 17/09/25. A lista deixará de estar
 
 A lista (tv.m3u) continuará a estar disponível mas... Só para aqueles que estejam interessados e quiserem optar por (doações mensais via PayPal).
 
-para saber mais envie um [EMAIL](inspirationlivetv@gmail.com), para obterem mais informações.
+para saber mais envie um EMAIL para obterem mais informações.
+
+href = "mailto:inspirationlivetv@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+
+
 
 ## 💛 Support me to continue this project
 
