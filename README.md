@@ -20,6 +20,7 @@ para saber mais envie um EMAIL para obterem mais informações.
 
 
 
+
 ## 💛 Support me to continue this project
 
 If you want to support me continuing the work, you can donate by clicking the donate button. Creating the logos and maintaining them and the github takes quite the time and I would like to put in more work on this project so any donation helps!
@@ -29,7 +30,6 @@ If you want to support me continuing the work, you can donate by clicking the do
 ## Índice
 
 - ⚠️ [COMUNICADO](#COMUNICADO)
-- 📺 [CANAIS PREMIUM 🇵🇹](#exclusivo-dreamiptv)
 - 📺 [Lista Canais TV.M3U](#list-of-channels-tvm3u)
 - 📺 [Lista de Canais Freetv.m3u](#Playlist-Inspiration-Links)
 - 💬 [Legendas](#Legendas)
@@ -58,18 +58,6 @@ If you want to support me continuing the work, you can donate by clicking the do
 * Those who choose to make monthly donations have the option to create a personalized list with only the channels they want.
 
 * https://www.paypal.com/donate/?hosted_button_id=B3EDBYK3LXSNS
-
----
-
-## EXCLUSIVO DREAMIPTV 
-
-* INFO: Entraram em contacto com o Inspiration links. Derivado a esse contacto foi possível esta partilha aqui no GitHub o trabalho deles...
-Acrescento que o inspiration Links é apenas e só um intermediário.
-
-* NOTA: fonte fidedigna, pessoas sérias, que partilham conteúdo de qualidade, o melhor que temos em Portugal ;)
-* (Se estiver interessado nesta lista, O primeiro passo é contactar.
-
-<a href = "mailto:inspirationlivetv@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 ---
 
 ## List of Channels (tv.m3u) 
