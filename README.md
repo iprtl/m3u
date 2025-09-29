@@ -1,7 +1,33 @@
-## 🚩 Siga nos
+Thanks for visiting! ✨ Let's build something awesome together.
+Obrigado pela visita! ✨ Vamos construir juntos algo incrível.
 
-<p><a href="https://www.paypal.com/donate/?hosted_button_id=8ZSPPRPC2A8L2" target="_blank" rel="noopener"><img class="" style="border: 0px; height: 133px;" src="https://jerrymoz.files.wordpress.com/2024/03/qr_paypal.png?w=210" alt="Buy Me a Coffee" width="133" height="150" border="0" /></a></a><a href="https://jerrymoz.wordpress.com/"><img class="" style="border: 0px; height: 133px;" src="https://jerrymoz.files.wordpress.com/2023/12/qr_blog.png?w=200" alt="Blog Inspiration Links" width="133" height="140" border="0" /></a></p>
+<p><a href="https://www.paypal.com/donate/?hosted_button_id=B3EDBYK3LXSNS" target="_blank" rel="noopener"> <img src="https://ionicabizau.github.io/badges/paypal.svg" alt="Buy Me a Coffee" /></a> - Pode fazer um donativo único ou mensal via PayPal.
 
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=inspirationlinks&show_icons=true&theme=dark" width="400">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=inspirationlinks&theme=dark&hide_border=true" width="400">
+</p>
+
+---
+
+[![GitHub followers](https://img.shields.io/github/followers/inspirationlinks?logo=GitHub&style=for-the-badge)](https://github.com/inspirationlinks)
+[![GitHub Stars](https://img.shields.io/github/stars/CyrisXD?logo=github&style=for-the-badge)](https://github.com/inspirationlinks)
+[![GitHub Sponsors](https://img.shields.io/github/sponsors/inspirationlinks?color=BF4B8A&logo=githubsponsors&style=for-the-badge&label=Sponsor%20on%20Github)](https://github.com/sponsors/inspirationlinks)
+
+---
+
+[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://wp.me/p11I1T-68V)](https://wp.me/p11I1T-68V)
+[![Telegram](https://img.shields.io/badge/telegram-chat-blue)](https://t.me/livetuga/K2tN9kkVldcinF4U08lcfQ)
+
+---
+
+Obrigado a todas as pessoas que já contribuíram para o inspirationlinks!
+
+<a href="https://github.com/inspirationlinks/m3u/graphs/contributors">
+  <img src="https://contributors-img.firebaseapp.com/image?repo=inspirationlinks/m3u" />
+</a>
 ---
 
 INFORMAÇÃO:
@@ -10,9 +36,9 @@ A decisão é irreversível! A partir do dia 17/09/25. A lista deixará de estar
 
 A lista (tv.m3u) continuará a estar disponível mas... Só para aqueles que estejam interessados e quiserem optar por (doações mensais via PayPal).
 
-para saber mais envie um EMAIL para obterem mais informações.
+Para saber mais, entre em contaacto via Telegram.
 
-<a href = "mailto:inspirationlivetv@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+[![Entre em Contacto via Telegram](https://img.shields.io/badge/telegram-chat-blue)](https://t.me/livetuga/K2tN9kkVldcinF4U08lcfQ)
 
 
 
@@ -57,9 +83,8 @@ If you want to support me continuing the work, you can donate by clicking the do
 
 ## List of Channels (tv.m3u) 
 * (Se estiver interessado nesta lista de Canais. 
-Entre em contato:
-
-<a href = "mailto:inspirationlivetv@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+Entre em contato via Telegram:
+[![Entre em Contacto via Telegram](https://img.shields.io/badge/telegram-chat-blue)](https://t.me/livetuga/K2tN9kkVldcinF4U08lcfQ)
 
 * AVISO: Esta lista é construida por fontes encontradas na Internet. Não me responsabilizo com possíveis instabilidades que os canais possam vir a ter nem a sua durabilidade e não alojo listas, e, muito menos servidores.
 [👉 VEJA VIDEO](https://www.youtube.com/watch?v=uG3IB7cBIkM)
@@ -1635,6 +1660,7 @@ No video files are stored in this repository. The repository simply contains use
 ## ⭐ GitHub stars
 
 [![Stargazers over time](https://starchart.cc/inspirationlinks/lista-tuga.svg)](https://starchart.cc/inspirationlinks/lista-tuga)
+
 
 
 
