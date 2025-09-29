@@ -12,8 +12,7 @@ Obrigado pela visita! ✨ Vamos construir juntos algo incrível.
 
 ---
 
-[![GitHub followers](https://img.shields.io/github/followers/inspirationlinks?logo=GitHub&style=for-the-badge)](https://github.com/inspirationlinks)
-[![GitHub Stars](https://img.shields.io/github/stars/inspirationlinks?logo=github&style=for-the-badge)](https://github.com/inspirationlinks)
+[![GitHub followers](https://img.shields.io/github/followers/inspirationlinks?logo=GitHub&style=for-the-badge)](https://github.com/inspirationlinks)
 [![GitHub Sponsors](https://img.shields.io/github/sponsors/inspirationlinks?color=BF4B8A&logo=githubsponsors&style=for-the-badge&label=Sponsor%20on%20Github)](https://github.com/sponsors/inspirationlinks)
 
 ---
@@ -46,7 +45,7 @@ A decisão é irreversível! A partir do dia 17/09/25. A lista deixará de estar
 
 A lista (tv.m3u) continuará a estar disponível mas... Só para aqueles que estejam interessados e quiserem optar por (doações mensais via PayPal).
 
-Para saber mais, entre em contaacto via Telegram.
+Para saber mais, entre em contacto via Telegram.
 
 [![Entre em Contacto via Telegram](https://img.shields.io/badge/telegram-chat-blue)](https://t.me/livetuga/K2tN9kkVldcinF4U08lcfQ)
 
