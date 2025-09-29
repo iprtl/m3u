@@ -28,6 +28,7 @@ Obrigado a todas as pessoas que já contribuíram para o inspirationlinks!
 <a href="https://github.com/inspirationlinks/m3u/graphs/contributors">
   <img src="https://contributors-img.firebaseapp.com/image?repo=inspirationlinks/m3u" />
 </a>
+
 ---
 
 INFORMAÇÃO:
@@ -54,7 +55,7 @@ If you want to support me continuing the work, you can donate by clicking the do
 - 📺 [Lista Canais TV.M3U](#list-of-channels-tvm3u)
 - 📺 [Lista de Canais Freetv.m3u](#Playlist-Inspiration-Links)
 - 💬 [Legendas](#Legendas)
-- ⏳  [EPG](#EPG-used-in-Freetv-Inspiration)
+- ⏳ [EPG](#EPG-used-in-Freetv-Inspiration)
 - 💬 [Discussions](#Discussions)
 - 🌐 [Apps](#Apps)
 - 💰 [Faça o seu donativo](#Ajude-nos)
@@ -504,7 +505,6 @@ https://github.com/inspirationlinks/m3u/raw/live/Freetv.m3u
 ---
 
 List of Channels (Freetv.m3u)
-* https://www.paypal.com/donate/?hosted_button_id=B3EDBYK3LXSNS
 
 - Tv Portuguesa 🇵🇹🇧🇷
 - RTP Internacional 🇵🇹
@@ -1660,6 +1660,7 @@ No video files are stored in this repository. The repository simply contains use
 ## ⭐ GitHub stars
 
 [![Stargazers over time](https://starchart.cc/inspirationlinks/lista-tuga.svg)](https://starchart.cc/inspirationlinks/lista-tuga)
+
 
 
 
