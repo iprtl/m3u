@@ -26,7 +26,7 @@ Obrigado pela visita! ✨ Vamos construir juntos algo incrível.
 [![CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC_BY--NC--SA_4.0-blue.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0)
 [![Visitors](https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2Finspirationlinks%2Fm3u&label=Visitors&countColor=%23263759&style=flat)](https://visitorbadge.io/)
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://wp.me/p11I1T-68V)](https://wp.me/p11I1T-68V)
-[![Telegram](https://img.shields.io/badge/telegram-chat-blue)](https://t.me/livetuga/K2tN9kkVldcinF4U08lcfQ)
+
 
 ---
 
@@ -44,11 +44,7 @@ A decisão é irreversível! A partir do dia 17/09/25. A lista deixará de estar
 
 A lista (tv.m3u) continuará a estar disponível mas... Só para aqueles que estejam interessados e quiserem optar por (doações mensais via PayPal).
 
-Para saber mais, entre em contacto via Telegram.
-
-[![Entre em Contacto via Telegram](https://img.shields.io/badge/telegram-chat-blue)](https://t.me/livetuga/K2tN9kkVldcinF4U08lcfQ)
-
-
+Para saber mais, entre em contacto via Telegram.
 
 
 ## 💛 Support me to continue this project
