@@ -36,15 +36,7 @@ Obrigado a todas as pessoas que já contribuíram para o inspirationlinks!
   <img src="https://contributors-img.firebaseapp.com/image?repo=inspirationlinks/m3u" />
 </a>
 
----
-
-INFORMAÇÃO:
-Venho por este meio Comunicar que a lista de IPTV denominada de, [tv.m3u](#list-of-channels-tvm3u), deixará de estar disponível, pelo menos nos moldes em que sempre teve, ate ao dia de hoje.
-A decisão é irreversível! A partir do dia 17/09/25. A lista deixará de estar disponível, pelo menos de forma Free. 
-
-A lista (tv.m3u) continuará a estar disponível mas... Só para aqueles que estejam interessados e quiserem optar por (doações mensais via PayPal).
-
-Para saber mais, entre em contacto via Telegram.
+---
 
 
 ## 💛 Support me to continue this project
