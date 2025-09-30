@@ -55,7 +55,6 @@ If you want to support me continuing the work, you can donate by clicking the do
 
 ## Índice
 
-- 📺 [Lista Canais TV.M3U](#list-of-channels-tvm3u)
 - 📺 [Lista de Canais Freetv.m3u](#Playlist-Inspiration-Links)
 - 💬 [Legendas](#Legendas)
 - ⏳ [EPG](#EPG-used-in-Freetv-Inspiration)
@@ -80,16 +79,7 @@ If you want to support me continuing the work, you can donate by clicking the do
 ---
 
 🏆 🇬🇧 Premium Channels. This list is only available to those who make a donation (Donations).
-* Those who choose to make monthly donations have the option to create a personalized list with only the channels they want.
-
----
-
-## List of Channels (tv.m3u) 
-* (Se estiver interessado nesta lista de Canais. 
-Entre em contato via Telegram:
-[![Entre em Contacto via Telegram](https://img.shields.io/badge/telegram-chat-blue)](https://t.me/livetuga/K2tN9kkVldcinF4U08lcfQ)
-
-* AVISO: Esta lista é construida por fontes encontradas na Internet. Não me responsabilizo com possíveis instabilidades que os canais possam vir a ter nem a sua durabilidade e não alojo listas, e, muito menos tenho servidores para tal.
+* Those who choose to make monthly donations have the option to create a personalized list with only the channels they want.
 
 ---
 
@@ -103,6 +93,8 @@ Free Streamings by (Pluto and more)...
 ```bash
 https://github.com/inspirationlinks/m3u/raw/live/Freetv.m3u
 ```
+
+* AVISO: Esta lista é construida por fontes encontradas na Internet. Não me responsabilizo com possíveis instabilidades que os canais possam vir a ter nem a sua durabilidade e não alojo listas, e, muito menos tenho servidores para tal.
 
 ---
 
