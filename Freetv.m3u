@@ -5,7 +5,7 @@
 # █ █▄ █ ▄▀▀ █▀▄ █ █▀▄ ▄▀▄ ▀█▀ █ ▄▀▄ █▄ █   █   █ █▄ █ █▄▀ ▄▀▀
 # █ █ ▀█ ▄██ █▀  █ █▀▄ █▀█  █  █ ▀▄▀ █ ▀█   █▄▄ █ █ ▀█ █ █ ▄██
 # ――――――――――――――――――――――――――――――――――――――――――――――
-# (●) Last Update: 🔄 2025-09-28 11:15:11 GMT+7 "
+# (●) Last Update: 🔄 2025-09-30 11:15:11 GMT+7 "
 # (●) Service: FREETV Inspiration Links
 # (●) Total Channels: 1013
 
@@ -2242,10 +2242,10 @@ https://e6391536675d4e7f8ce0c849732f33b5.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 cuid="1257" tvg-name="Samuel Goldwyn Films" tvg-id="plex.tv.Samuel.Goldwyn.Channel.plex" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a3e63712-9262-428d-9e1c-a00c179a5454/samuel-goldwyn-channel-logo.png" group-logo="https://cdn-icons-png.freepik.com/512/17285/17285060.png" group-title="𝐏𝐥𝐮𝐭𝐨 ☆ Films 📽️",Samuel Goldwyn Films 🇺🇸
 https://samuelgoldwyn-films-1-us.roku.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 cuid="1258" tvg-name="CW Gold" tvg-id="plex.tv.CW.Gold.plex" tvg-logo="https://images.cwtv.com/images_172358/masters/cw/universal/channels/cw-gold/channel-icon-unfocused.png" group-title="𝐏𝐥𝐮𝐭𝐨 ☆ Tv • Series 📺",CW Gold 🇺🇸
+#EXTINF:-1 cuid="1258" tvg-name="CW Gold" tvg-id="plex.tv.CW.Gold.plex" tvg-logo="https://images.cwtv.com/images_172358/masters/cw/universal/channels/cw-gold/channel-icon-unfocused.png" group-logo="https://cdn-icons-png.freepik.com/256/8633/8633669.png" group-title="𝐏𝐥𝐮𝐭𝐨 ☆ Tv • Series 📺",CW Gold 🇺🇸
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01312-nexstarmediagro-cwgold-nondrmhlstsv2-cw/playlist.m3u8
 
-#EXTINF:-1 cuid="1259" tvg-name="CW Forever" tvg-id="plex.tv.CW.Forever.plex" tvg-logo="https://images.cwtv.com/images_172359/masters/cw/universal/channels/cw-forever/channel-icon-focused.png" group-title="𝐏𝐥𝐮𝐭𝐨 ☆ Tv • Series 📺",CW Forever 🇺🇸
+#EXTINF:-1 cuid="1259" tvg-name="CW Forever" tvg-id="plex.tv.CW.Forever.plex" tvg-logo="https://images.cwtv.com/images_172359/masters/cw/universal/channels/cw-forever/channel-icon-focused.png" group-logo="https://cdn-icons-png.freepik.com/256/8633/8633669.png" group-title="𝐏𝐥𝐮𝐭𝐨 ☆ Tv • Series 📺",CW Forever 🇺🇸
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01312-nexstarmediagro-cwforever-nondrmhlstsv2-cw/playlist.m3u8
 
 #EXTINF:-1 cuid="1260" tvg-name="Universal Movies" tvg-id="" tvg-logo="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/UniversalMovies-72-dpi-1920-x-1080-16-9-logo-aplha-channel-freevee-PNG_Jan_2025.png" group-logo="https://cdn-icons-png.freepik.com/512/17285/17285060.png" group-title="𝐏𝐥𝐮𝐭𝐨 ☆ Films 📽️",Universal Movies 🇺🇸
@@ -2274,191 +2274,191 @@ https://shls-live-enc.edgenextcdn.net/out/v1/f6d718e841f8442f8374de47f18c93a7/in
 🆁™ 🌈SERIES BR ​
 ============================🔹===============================
 
-#EXTINF:-1 cuid="1022" tvg-name="Sony One Emoções 🇧🇷" tvg-id="BRBA380003886" tvg-logo="https://play-lh.googleusercontent.com/7DRaDczy1zOuBcLdixMRf_NAxAFq6BuNJ1OQdlmN-nuSWfGYj_phTEpa_PiFqHxMRF_-=w0" group-title="𝐏𝐥𝐮𝐭𝐨 ☆ Tv • Series 📺",Sony One Emoções 🇧🇷
+#EXTINF:-1 cuid="1022" tvg-name="Sony One Emoções 🇧🇷" tvg-id="BRBA380003886" tvg-logo="https://play-lh.googleusercontent.com/7DRaDczy1zOuBcLdixMRf_NAxAFq6BuNJ1OQdlmN-nuSWfGYj_phTEpa_PiFqHxMRF_-=w0" group-logo="https://cdn-icons-png.freepik.com/256/8633/8633669.png" group-title="𝐏𝐥𝐮𝐭𝐨 ☆ Tv • Series 📺",Sony One Emoções 🇧🇷
 https://spt-sonyoneemocoes-1-br.samsung.wurl.tv/playlist.m3u8
 https://f9387554367349db8374885adb2d48cf.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Samsung-br_SonyOneEmocoes/playlist.m3u8
 
 #EXTINF:-1 cuid="1023" tvg-name="Hallo! doc" tvg-id="" tvg-logo="https://hallo.tv.br/img/DOC.png" group-logo="https://cdn-icons-png.freepik.com/512/4681/4681582.png" group-title="𝐏𝐥𝐮𝐭𝐨 ☆ Doc & History 🏛️",Hallo! Doc 🇧🇷
 https://aovivo.doozytv.com.br/31025556/10162730/playlist.m3u8
 
-#EXTINF:-1 cuid="1024" tvg-name="Sony One Clássicos 🇧🇷" tvg-logo="https://play-lh.googleusercontent.com/7DRaDczy1zOuBcLdixMRf_NAxAFq6BuNJ1OQdlmN-nuSWfGYj_phTEpa_PiFqHxMRF_-=w0" group-title="𝐏𝐥𝐮𝐭𝐨 ☆ Tv • Series 📺",Sony One Clássicos 🇧🇷
+#EXTINF:-1 cuid="1024" tvg-name="Sony One Clássicos 🇧🇷" tvg-logo="https://play-lh.googleusercontent.com/7DRaDczy1zOuBcLdixMRf_NAxAFq6BuNJ1OQdlmN-nuSWfGYj_phTEpa_PiFqHxMRF_-=w0" group-logo="https://cdn-icons-png.freepik.com/256/8633/8633669.png" group-title="𝐏𝐥𝐮𝐭𝐨 ☆ Tv • Series 📺",Sony One Clássicos 🇧🇷
 https://spt-sonyoneclassicas-1-br.samsung.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 cuid="1025" tvg-name="BET 🇧🇷" tvg-id="5ff768b6a4c8b80008498610" tvg-logo="http://images.pluto.tv/channels/5ff768b6a4c8b80008498610/colorLogoPNG.png" group-title="𝐏𝐥𝐮𝐭𝐨 ☆ Tv • Series 📺",BET 🇧🇷
+#EXTINF:-1 cuid="1025" tvg-name="BET 🇧🇷" tvg-id="5ff768b6a4c8b80008498610" tvg-logo="http://images.pluto.tv/channels/5ff768b6a4c8b80008498610/colorLogoPNG.png" group-logo="https://cdn-icons-png.freepik.com/256/8633/8633669.png" group-title="𝐏𝐥𝐮𝐭𝐨 ☆ Tv • Series 📺",BET 🇧🇷
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ff768b6a4c8b80008498610/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&deviceMake=Revolucioniptv&deviceDNT=1
 
-#EXTINF:-1 cuid="1026" tvg-name="NCIS 🇧🇷" tvg-id="63eb9fdda995710008991c54" tvg-logo="https://images.pluto.tv/channels/63eb9fdda995710008991c54/colorLogoPNG.png" group-title="𝐏𝐥𝐮𝐭𝐨 ☆ Tv • Series 📺",NCIS 🇧🇷
+#EXTINF:-1 cuid="1026" tvg-name="NCIS 🇧🇷" tvg-id="63eb9fdda995710008991c54" tvg-logo="https://images.pluto.tv/channels/63eb9fdda995710008991c54/colorLogoPNG.png" group-logo="https://cdn-icons-png.freepik.com/256/8633/8633669.png" group-title="𝐏𝐥𝐮𝐭𝐨 ☆ Tv • Series 📺",NCIS 🇧🇷
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/63eb9fdda995710008991c54/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=github.com/inspirationlinks&deviceDNT=1
 
-#EXTINF:-1 cuid="1027" tvg-name="CSI Miami 🇧🇷" tvg-id="63eb9c5351f5d000085e8d7e" tvg-logo="https://images.pluto.tv/channels/63eb9c5351f5d000085e8d7e/colorLogoPNG.png" group-title="𝐏𝐥𝐮𝐭𝐨 ☆ Tv • Series 📺",CSI Miami 🇧🇷
+#EXTINF:-1 cuid="1027" tvg-name="CSI Miami 🇧🇷" tvg-id="63eb9c5351f5d000085e8d7e" tvg-logo="https://images.pluto.tv/channels/63eb9c5351f5d000085e8d7e/colorLogoPNG.png" group-logo="https://cdn-icons-png.freepik.com/256/8633/8633669.png" group-title="𝐏𝐥𝐮𝐭𝐨 ☆ Tv • Series 📺",CSI Miami 🇧🇷
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/63eb9c5351f5d000085e8d7e/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=github.com/inspirationlinks&deviceDNT=1
 
-#EXTINF:-1 cuid="1028" tvg-name="Urban Series 🇧🇷" tvg-logo="https://imgur.com/Bav8k4e.png" group-title="𝐏𝐥𝐮𝐭𝐨 ☆ Tv • Series 📺",Urban Series 🇧🇷
+#EXTINF:-1 cuid="1028" tvg-name="Urban Series 🇧🇷" tvg-logo="https://imgur.com/Bav8k4e.png" group-logo="https://cdn-icons-png.freepik.com/256/8633/8633669.png" group-title="𝐏𝐥𝐮𝐭𝐨 ☆ Tv • Series 📺",Urban Series 🇧🇷
 https://gerenciar.vivatele.com:443/viva_padrao/viva2384/110.m3u8
 +http://200.194.238.229:8383/live/urbanseries/playlist.m3u8
 
-#EXTINF:-1 cuid="1029" tvg-name="FilmRise Séries Gratuitas 🇧🇷" tvg-id="FilmRiseSeriesGratis.us" tvg-logo="https://cdn.adrise.tv/image/channels/filmriseclassictv/logo_short.png" group-title="𝐏𝐥𝐮𝐭𝐨 ☆ Tv • Series 📺",FilmRise Séries Gratuitas 🇧🇷
+#EXTINF:-1 cuid="1029" tvg-name="FilmRise Séries Gratuitas 🇧🇷" tvg-id="FilmRiseSeriesGratis.us" tvg-logo="https://cdn.adrise.tv/image/channels/filmriseclassictv/logo_short.png" group-logo="https://cdn-icons-png.freepik.com/256/8633/8633669.png" group-title="𝐏𝐥𝐮𝐭𝐨 ☆ Tv • Series 📺",FilmRise Séries Gratuitas 🇧🇷
 +https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_br_filmrisefreeseries_002.m3u8
 
-#EXTINF:-1 cuid="1030" tvg-name="Old Series 🇧🇷" tvg-logo="https://www.rd.com/wp-content/uploads/2022/01/classic-tv-shows-opener-with-100th-badge.jpg" group-title="𝐏𝐥𝐮𝐭𝐨 ☆ Tv • Series 📺",Old Series 🇧🇷
+#EXTINF:-1 cuid="1030" tvg-name="Old Series 🇧🇷" tvg-logo="https://www.rd.com/wp-content/uploads/2022/01/classic-tv-shows-opener-with-100th-badge.jpg" group-logo="https://cdn-icons-png.freepik.com/256/8633/8633669.png" group-title="𝐏𝐥𝐮𝐭𝐨 ☆ Tv • Series 📺",Old Series 🇧🇷
 +http://200.194.238.229:8383/live/oldseries/playlist.m3u8
 
-#EXTINF:-1 cuid="1031" tvg-name="Séries Classic 🇧🇷" tvg-logo="https://d14vd6r4ppsx57.cloudfront.net/media/brand/S%C3%A9ries_Classic_70_Channel_100x100_RYYThZ7.png" group-title="𝐏𝐥𝐮𝐭𝐨 ☆ Tv • Series 📺",Séries Classic 🇧🇷
+#EXTINF:-1 cuid="1031" tvg-name="Séries Classic 🇧🇷" tvg-logo="https://d14vd6r4ppsx57.cloudfront.net/media/brand/S%C3%A9ries_Classic_70_Channel_100x100_RYYThZ7.png" group-logo="https://cdn-icons-png.freepik.com/256/8633/8633669.png" group-title="𝐏𝐥𝐮𝐭𝐨 ☆ Tv • Series 📺",Séries Classic 🇧🇷
 https://srv6.zcast.com.br/adriano8425/adriano8425/playlist.m3u8
 
 ============================🔹=============================== 
 🌈TV SERIES 📺
 ============================🔹===============================
 
-#EXTINF:-1 cuid="1152" tvg-name="Pluto TV Sherlock 🇬🇧" tvg-id="5dc2c00abfed110009d97243" tvg-logo="https://images.pluto.tv/channels/5dc2c00abfed110009d97243/colorLogoPNG.png" group-title="𝐏𝐥𝐮𝐭𝐨 ☆ Tv • Series 📺",Pluto TV Sherlock 🇬🇧
+#EXTINF:-1 cuid="1152" tvg-name="Pluto TV Sherlock 🇬🇧" tvg-id="5dc2c00abfed110009d97243" tvg-logo="https://images.pluto.tv/channels/5dc2c00abfed110009d97243/colorLogoPNG.png" group-logo="https://cdn-icons-png.freepik.com/256/8633/8633669.png" group-title="𝐏𝐥𝐮𝐭𝐨 ☆ Tv • Series 📺",Pluto TV Sherlock 🇬🇧
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dc2c00abfed110009d97243/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=github.com/inspirationlinks&deviceDNT=1
 
-#EXTINF:-1 cuid="1153" tvg-name="" tvg-id="ABCEntertainsSydney.au" tvg-logo="https://i.imgur.com/6NyFLAm.png" group-title="𝐏𝐥𝐮𝐭𝐨 ☆ Tv • Series 📺",ABC Entertains 🇬🇧
+#EXTINF:-1 cuid="1153" tvg-name="" tvg-id="ABCEntertainsSydney.au" tvg-logo="https://i.imgur.com/6NyFLAm.png" group-logo="https://cdn-icons-png.freepik.com/256/8633/8633669.png" group-title="𝐏𝐥𝐮𝐭𝐨 ☆ Tv • Series 📺",ABC Entertains 🇬🇧
 https://c.mjh.nz/abc-me.m3u8
 
-#EXTINF:-1 cuid="1154" tvg-name="Midsomer Murders 🇬🇧" tvg-id="62e92447ea1e2a000735ed33" tvg-logo="https://images.pluto.tv/channels/62e92447ea1e2a000735ed33/colorLogoPNG.png" group-title="𝐏𝐥𝐮𝐭𝐨 ☆ Tv • Series 📺",Midsomer Murders 🇬🇧
+#EXTINF:-1 cuid="1154" tvg-name="Midsomer Murders 🇬🇧" tvg-id="62e92447ea1e2a000735ed33" tvg-logo="https://images.pluto.tv/channels/62e92447ea1e2a000735ed33/colorLogoPNG.png" group-logo="https://cdn-icons-png.freepik.com/256/8633/8633669.png" group-title="𝐏𝐥𝐮𝐭𝐨 ☆ Tv • Series 📺",Midsomer Murders 🇬🇧
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62e92447ea1e2a000735ed33/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=github.com/inspirationlinks&deviceDNT=1
 
-#EXTINF:-1 cuid="1155" tvg-name="Crime ThrillHer" tvg-id="plex.tv.Crime.ThrillHer.plex" tvg-logo="https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/Crime_ThrillHer_Presented_by_Lifetime_WHT_Logo.png" group-title="𝐏𝐥𝐮𝐭𝐨 ☆ Tv • Series 📺",Crime ThrillHer by Lifetime 🇺🇸
+#EXTINF:-1 cuid="1155" tvg-name="Crime ThrillHer" tvg-id="plex.tv.Crime.ThrillHer.plex" tvg-logo="https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/Crime_ThrillHer_Presented_by_Lifetime_WHT_Logo.png" group-logo="https://cdn-icons-png.freepik.com/256/8633/8633669.png" group-title="𝐏𝐥𝐮𝐭𝐨 ☆ Tv • Series 📺",Crime ThrillHer by Lifetime 🇺🇸
 https://28caa756.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEdfQ3JpbWVUaHJpbGxIZXJfSExT/playlist.m3u8
 
-#EXTINF:-1 cuid="1156" tvg-name="OuterSphere 🇺🇸" tvg-id="USBD1200007FE" tvg-logo="https://static-us-east-2-fastly-a.www.philo.com/images/channel_logos/OTRSPH/large.png" group-title="𝐏𝐥𝐮𝐭𝐨 ☆ Tv • Series 📺",OuterSphere 🇺🇸
+#EXTINF:-1 cuid="1156" tvg-name="OuterSphere 🇺🇸" tvg-id="USBD1200007FE" tvg-logo="https://static-us-east-2-fastly-a.www.philo.com/images/channel_logos/OTRSPH/large.png" group-logo="https://cdn-icons-png.freepik.com/256/8633/8633669.png" group-title="𝐏𝐥𝐮𝐭𝐨 ☆ Tv • Series 📺",OuterSphere 🇺🇸
 https://d3o593mz1glx8d.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-1ca6ra6358f5t/OuterSphere_US.m3u8
 
-#EXTINF:-1 cuid="1157" tvg-name="" tvg-id="Outlaw.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c2/Outlaw_The_Western_Channel_2024.svg/revision/latest/scale-to-width-down/250?cb=20240103031057" group-title="𝐏𝐥𝐮𝐭𝐨 ☆ Tv • Series 📺",Outlaw 🇺🇸
+#EXTINF:-1 cuid="1157" tvg-name="" tvg-id="Outlaw.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c2/Outlaw_The_Western_Channel_2024.svg/revision/latest/scale-to-width-down/250?cb=20240103031057" group-logo="https://cdn-icons-png.freepik.com/256/8633/8633669.png" group-title="𝐏𝐥𝐮𝐭𝐨 ☆ Tv • Series 📺",Outlaw 🇺🇸
 http://txc4-swbb-mn.fibernet-tv.com/KABY-CW-2364/index.m3u8
 
-#EXTINF:-1 cuid="1157" tvg-name="Comedy Central Animation 🇺🇸" tvg-id="5f99e24636d67d0007a94e6d" tvg-logo="https://images.pluto.tv/channels/5f99e24636d67d0007a94e6d/colorLogoPNG.png" group-title="𝐏𝐥𝐮𝐭𝐨 ☆ Tv • Series 📺",Comedy Central Animation 🇺🇸
+#EXTINF:-1 cuid="1157" tvg-name="Comedy Central Animation 🇺🇸" tvg-id="5f99e24636d67d0007a94e6d" tvg-logo="https://images.pluto.tv/channels/5f99e24636d67d0007a94e6d/colorLogoPNG.png" group-logo="https://cdn-icons-png.freepik.com/256/8633/8633669.png" group-title="𝐏𝐥𝐮𝐭𝐨 ☆ Tv • Series 📺",Comedy Central Animation 🇺🇸
 #https://://stitcher.pluto.tv/stitch/hls/channel/5f99e24636d67d0007a94e6d/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=cb5874fc-6948-11ef-b8e3-ea3db3d97a96
 
-#EXTINF:-1 cuid="1158" tvg-name="Entertainment Hub 🇬🇧" tvg-id="GBBC2300003ZQ" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/EntertainmentHub.webp" group-title="𝐏𝐥𝐮𝐭𝐨 ☆ Tv • Series 📺",Entertainment Hub 🇬🇧
+#EXTINF:-1 cuid="1158" tvg-name="Entertainment Hub 🇬🇧" tvg-id="GBBC2300003ZQ" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/EntertainmentHub.webp" group-logo="https://cdn-icons-png.freepik.com/256/8633/8633669.png" group-title="𝐏𝐥𝐮𝐭𝐨 ☆ Tv • Series 📺",Entertainment Hub 🇬🇧
 https://is.gd/AEo5Op?GBBC2300003ZQ.m3u8
 
-#EXTINF:-1 cuid="1159" tvg-name="Vice 🇺🇸" tvg-id="USBB1900006NY" tvg-logo="https://logo.m3uassets.com/vice.png" group-title="𝐏𝐥𝐮𝐭𝐨 ☆ Tv • Series 📺",Vice 🇺🇸
+#EXTINF:-1 cuid="1159" tvg-name="Vice 🇺🇸" tvg-id="USBB1900006NY" tvg-logo="https://logo.m3uassets.com/vice.png" group-logo="https://cdn-icons-png.freepik.com/256/8633/8633669.png" group-title="𝐏𝐥𝐮𝐭𝐨 ☆ Tv • Series 📺",Vice 🇺🇸
 https://d2do1g43aq7264.cloudfront.net/playlist.m3u8
 
-#EXTINF:-1 cuid="1160" tvg-name="National Lampoon" tvg-id="US1800015K5" tvg-logo="https://provider-static.plex.tv/epg/cms/production/c6de5fd0-3b71-4e86-8909-bc280408a8c2/NATIONAL_LAMPOON_LOGO_VARIATION_1_-_Gabe_Evans.png" group-title="𝐏𝐥𝐮𝐭𝐨 ☆ Tv • Series 📺",National Lampoon 🇺🇸
+#EXTINF:-1 cuid="1160" tvg-name="National Lampoon" tvg-id="US1800015K5" tvg-logo="https://provider-static.plex.tv/epg/cms/production/c6de5fd0-3b71-4e86-8909-bc280408a8c2/NATIONAL_LAMPOON_LOGO_VARIATION_1_-_Gabe_Evans.png" group-logo="https://cdn-icons-png.freepik.com/256/8633/8633669.png" group-title="𝐏𝐥𝐮𝐭𝐨 ☆ Tv • Series 📺",National Lampoon 🇺🇸
 https://linear-758.frequency.stream/dist/tcltv/758/hls/master/playlist.m3u8
 
-#EXTINF:-1 cuid="1161" tvg-name="Murder She Wrote 🇺🇸" tvg-id="6549337183595c000815ad05" tvg-logo="https://images.pluto.tv/channels/6549337183595c000815ad05/colorLogoPNG.png" group-title="𝐏𝐥𝐮𝐭𝐨 ☆ Tv • Series 📺",Murder She Wrote 🇺🇸
+#EXTINF:-1 cuid="1161" tvg-name="Murder She Wrote 🇺🇸" tvg-id="6549337183595c000815ad05" tvg-logo="https://images.pluto.tv/channels/6549337183595c000815ad05/colorLogoPNG.png" group-logo="https://cdn-icons-png.freepik.com/256/8633/8633669.png" group-title="𝐏𝐥𝐮𝐭𝐨 ☆ Tv • Series 📺",Murder She Wrote 🇺🇸
 https://stitcher.pluto.tv/stitch/hls/channel/6549337183595c000815ad05/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=cb5874fc-6948-11ef-b8e3-ea3db3d97a96
 
-#EXTINF:-1 cuid="1162" tvg-name="The Love Boat 🇺🇸" tvg-id="5f7794a788d29000079d2f07" tvg-logo="https://images.pluto.tv/channels/5f7794a788d29000079d2f07/colorLogoPNG.png" group-title="𝐏𝐥𝐮𝐭𝐨 ☆ Tv • Series 📺",The Love Boat 🇺🇸
+#EXTINF:-1 cuid="1162" tvg-name="The Love Boat 🇺🇸" tvg-id="5f7794a788d29000079d2f07" tvg-logo="https://images.pluto.tv/channels/5f7794a788d29000079d2f07/colorLogoPNG.png" group-logo="https://cdn-icons-png.freepik.com/256/8633/8633669.png" group-title="𝐏𝐥𝐮𝐭𝐨 ☆ Tv • Series 📺",The Love Boat 🇺🇸
 https://stitcher.pluto.tv/stitch/hls/channel/5f7794a788d29000079d2f07/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=cb5874fc-6948-11ef-b8e3-ea3db3d97a96
 
-#EXTINF:-1 cuid="1163" tvg-name="Dynasty 🇺🇸" tvg-id="64d1606b4c5ed80008e3b8b9" tvg-logo="https://images.pluto.tv/channels/64d1606b4c5ed80008e3b8b9/colorLogoPNG.png" group-title="𝐏𝐥𝐮𝐭𝐨 ☆ Tv • Series 📺",Dynasty 🇺🇸
+#EXTINF:-1 cuid="1163" tvg-name="Dynasty 🇺🇸" tvg-id="64d1606b4c5ed80008e3b8b9" tvg-logo="https://images.pluto.tv/channels/64d1606b4c5ed80008e3b8b9/colorLogoPNG.png" group-logo="https://cdn-icons-png.freepik.com/256/8633/8633669.png" group-title="𝐏𝐥𝐮𝐭𝐨 ☆ Tv • Series 📺",Dynasty 🇺🇸
 https://stitcher.pluto.tv/stitch/hls/channel/64d1606b4c5ed80008e3b8b9/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=cb5874fc-6948-11ef-b8e3-ea3db3d97a96
 
-#EXTINF:-1 cuid="1164" tvg-name="Family Ties 🇺🇸" tvg-id="654a4a3ef91d250008ac089b" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB3500003D6_20241112T000627SQUARE.png" group-title="𝐏𝐥𝐮𝐭𝐨 ☆ Tv • Series 📺",Family Ties 🇺🇸
+#EXTINF:-1 cuid="1164" tvg-name="Family Ties 🇺🇸" tvg-id="654a4a3ef91d250008ac089b" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB3500003D6_20241112T000627SQUARE.png" group-logo="https://cdn-icons-png.freepik.com/256/8633/8633669.png" group-title="𝐏𝐥𝐮𝐭𝐨 ☆ Tv • Series 📺",Family Ties 🇺🇸
 https://stitcher.pluto.tv/stitch/hls/channel/654a4a3ef91d250008ac089b/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=cb5874fc-6948-11ef-b8e3-ea3db3d97a96
 
-#EXTINF:-1 cuid="1165" tvg-name="ALF 🇺🇸" tvg-id="CA41000052M" tvg-logo="https://provider-static.plex.tv/f/epg/channels/logos/gracenote/ff75dc12d5abb10dff1ec781ae19c566.png" group-title="𝐏𝐥𝐮𝐭𝐨 ☆ Tv • Series 📺",ALF 🇺🇸
+#EXTINF:-1 cuid="1165" tvg-name="ALF 🇺🇸" tvg-id="CA41000052M" tvg-logo="https://provider-static.plex.tv/f/epg/channels/logos/gracenote/ff75dc12d5abb10dff1ec781ae19c566.png" group-logo="https://cdn-icons-png.freepik.com/256/8633/8633669.png" group-title="𝐏𝐥𝐮𝐭𝐨 ☆ Tv • Series 📺",ALF 🇺🇸
 https://d26k5cn0vfbtz4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-36i0pcezg9psq/playlist.m3u8
 https://s9host3.localnow.api.cms.amdvids.com/v1/master/c189661feba961c19bc5fb60b57879ee9b84548a/config11/dist/localnow/729/hls/master/playlist.m3u8?ads.cdnhost=s9host3.localnow.api.cms.amdvids.com&ads.playbackid=38D9E180-1A43-439F-800D-74268C5EC966&ads.n1=rule_id&ads.v1=E7BB7BA1-D932-4E65-BD9F-93731E6E87C5-1714063241&ads.n3=qp_content_id&ads.v3=38D9E180-1A43-439F-800D-74268C5EC966
 
-#EXTINF:-1 cuid="1166" tvg-name="" tvg-id="5f15e3cccf49290007053c67" tvg-logo="https://images.pluto.tv/channels/5f15e3cccf49290007053c67/colorLogoPNG.png" group-title="𝐏𝐥𝐮𝐭𝐨 ☆ Tv • Series 📺",Classic TV Drama 🇺🇸
+#EXTINF:-1 cuid="1166" tvg-name="" tvg-id="5f15e3cccf49290007053c67" tvg-logo="https://images.pluto.tv/channels/5f15e3cccf49290007053c67/colorLogoPNG.png" group-logo="https://cdn-icons-png.freepik.com/256/8633/8633669.png" group-title="𝐏𝐥𝐮𝐭𝐨 ☆ Tv • Series 📺",Classic TV Drama 🇺🇸
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f15e3cccf49290007053c67/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=github.com/inspirationlinks&deviceDNT=1
 
-#EXTINF:-1 cuid="1167" tvg-name="Little House on the Prairie" tvg-id="654933ac986ad20008a1f406" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQud07qjdu9kMbGTA3vvnRto7mKNwEPuvfL2nPtrdpMa5-ZkE8X4ufCbNTQD-ph8P0h9Vk&usqp=CAU" group-title="𝐏𝐥𝐮𝐭𝐨 ☆ Tv • Series 📺",Little House on the Prairie (💬 🇺🇸)
+#EXTINF:-1 cuid="1167" tvg-name="Little House on the Prairie" tvg-id="654933ac986ad20008a1f406" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQud07qjdu9kMbGTA3vvnRto7mKNwEPuvfL2nPtrdpMa5-ZkE8X4ufCbNTQD-ph8P0h9Vk&usqp=CAU" group-logo="https://cdn-icons-png.freepik.com/256/8633/8633669.png" group-title="𝐏𝐥𝐮𝐭𝐨 ☆ Tv • Series 📺",Little House on the Prairie (💬 🇺🇸)
 https://d3f4oii5n0oeqi.cloudfront.net/11701/88814607/hls/master.m3u8?ads.xumo_channelId=88814607&ads.xumo_streamId=88814607
 
-#EXTINF:-1 cuid="1168" tvg-name="The Dick Van Dyke Show 🇺🇸" tvg-id="62e91384210bec0007ba714c" tvg-logo="https://images.pluto.tv/channels/62e91384210bec0007ba714c/colorLogoPNG.png" group-title="𝐏𝐥𝐮𝐭𝐨 ☆ Tv • Series 📺",The Dick Van Dyke Show 🇺🇸
+#EXTINF:-1 cuid="1168" tvg-name="The Dick Van Dyke Show 🇺🇸" tvg-id="62e91384210bec0007ba714c" tvg-logo="https://images.pluto.tv/channels/62e91384210bec0007ba714c/colorLogoPNG.png" group-logo="https://cdn-icons-png.freepik.com/256/8633/8633669.png" group-title="𝐏𝐥𝐮𝐭𝐨 ☆ Tv • Series 📺",The Dick Van Dyke Show 🇺🇸
 https://d3fmqi91qduj7.cloudfront.net/11401/88884544/hls/master.m3u8?ads.xumo_channelId=88884544&ads.xumo_streamId=88884544
 https://stitcher.pluto.tv/stitch/hls/channel/62e91384210bec0007ba714c/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=cb5874fc-6948-11ef-b8e3-ea3db3d97a96
 
-#EXTINF:-1 cuid="1169" tvg-name="The Dick Van Dyke Show 🇺🇸" tvg-id="60fb3087fbbc120007fc46be" tvg-logo="https://i.imgur.com/uQfzebn.png" group-title="𝐏𝐥𝐮𝐭𝐨 ☆ Tv • Series 📺",Series con Ñ 🇦🇷
+#EXTINF:-1 cuid="1169" tvg-name="The Dick Van Dyke Show 🇺🇸" tvg-id="60fb3087fbbc120007fc46be" tvg-logo="https://i.imgur.com/uQfzebn.png" group-logo="https://cdn-icons-png.freepik.com/256/8633/8633669.png" group-title="𝐏𝐥𝐮𝐭𝐨 ☆ Tv • Series 📺",Series con Ñ 🇦🇷
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60fb3087fbbc120007fc46be/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=github.com/inspirationlinks&deviceDNT=1
 
 
-#EXTINF:-1 cuid="1170" tvg-name="The Addams Family 🇺🇸" tvg-id="5d81607ab737153ea3c1c80e" tvg-logo="https://images.pluto.tv/channels/5d81607ab737153ea3c1c80e/colorLogoPNG.png" group-title="𝐏𝐥𝐮𝐭𝐨 ☆ Tv • Series 📺",The Addams Family 🇺🇸
+#EXTINF:-1 cuid="1170" tvg-name="The Addams Family 🇺🇸" tvg-id="5d81607ab737153ea3c1c80e" tvg-logo="https://images.pluto.tv/channels/5d81607ab737153ea3c1c80e/colorLogoPNG.png" group-logo="https://cdn-icons-png.freepik.com/256/8633/8633669.png" group-title="𝐏𝐥𝐮𝐭𝐨 ☆ Tv • Series 📺",The Addams Family 🇺🇸
 https://stitcher.pluto.tv/stitch/hls/channel/5d81607ab737153ea3c1c80e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=cb5874fc-6948-11ef-b8e3-ea3db3d97a96
 
-#EXTINF:-1 cuid="1171" tvg-name="Alfred Hitchcock Presents 🇺🇸" tvg-id="US1800014CG" tvg-logo="https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/alfred_hitchcock_presents_us.png" group-title="𝐏𝐥𝐮𝐭𝐨 ☆ Tv • Series 📺",Alfred Hitchcock Presents 🇺🇸
+#EXTINF:-1 cuid="1171" tvg-name="Alfred Hitchcock Presents 🇺🇸" tvg-id="US1800014CG" tvg-logo="https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/alfred_hitchcock_presents_us.png" group-logo="https://cdn-icons-png.freepik.com/256/8633/8633669.png" group-title="𝐏𝐥𝐮𝐭𝐨 ☆ Tv • Series 📺",Alfred Hitchcock Presents 🇺🇸
 https://xumo-xumoent-ch825-ku23q.fast.nbcuni.com/live/master.m3u8
 https://d3f4oii5n0oeqi.cloudfront.net/11701/88814618/hls/master.m3u8?ads.xumo_channelId=88814618&ads.xumo_streamId=88814618
 https://d24e5my1vwzi2w.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ss5zd16s2phyk/out/v1/2db37dd41ee44050a6edad58f9a283be/HLS_CMAF_DRM/index.m3u8
 
-#EXTINF:-1 cuid="1172" tvg-name="The Twilight Zone 🇺🇸" tvg-id="67352ed93a61d4000881f9fa" tvg-logo="https://images.pluto.tv/channels/67352ed93a61d4000881f9fa/colorLogoPNG.png" group-title="𝐏𝐥𝐮𝐭𝐨 ☆ Tv • Series 📺",The Twilight Zone 🇺🇸
+#EXTINF:-1 cuid="1172" tvg-name="The Twilight Zone 🇺🇸" tvg-id="67352ed93a61d4000881f9fa" tvg-logo="https://images.pluto.tv/channels/67352ed93a61d4000881f9fa/colorLogoPNG.png" group-logo="https://cdn-icons-png.freepik.com/256/8633/8633669.png" group-title="𝐏𝐥𝐮𝐭𝐨 ☆ Tv • Series 📺",The Twilight Zone 🇺🇸
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/67352ed93a61d4000881f9fa/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&deviceMake=github.com/inspirationlinks&deviceDNT=1
 
 ============================🔹=============================== 🌈
 
-#EXTINF:-1 cuid="1173" tvg-name="XPTV 2 🇺🇸" tvg-logo="https://xptv.live/wp-content/uploads/2023/07/XPTV2_Logo_2.png" group-title="𝐏𝐥𝐮𝐭𝐨 ☆ Tv • Series 📺",XPTV 2 🇺🇸
+#EXTINF:-1 cuid="1173" tvg-name="XPTV 2 🇺🇸" tvg-logo="https://xptv.live/wp-content/uploads/2023/07/XPTV2_Logo_2.png" group-logo="https://cdn-icons-png.freepik.com/256/8633/8633669.png" group-title="𝐏𝐥𝐮𝐭𝐨 ☆ Tv • Series 📺",XPTV 2 🇺🇸
 https://janus.xpbroadcasting.com:8443/hls/xptv2.m3u8
-#EXTINF:-1 cuid="1174" tvg-name="XPTV UK" tvg-logo="https://xptv.live/wp-content/uploads/2023/01/XPTV_Logo-e1688886282459.png" group-title="𝐏𝐥𝐮𝐭𝐨 ☆ Tv • Series 📺",XPTV UK
+#EXTINF:-1 cuid="1174" tvg-name="XPTV UK" tvg-logo="https://xptv.live/wp-content/uploads/2023/01/XPTV_Logo-e1688886282459.png" group-logo="https://cdn-icons-png.freepik.com/256/8633/8633669.png" group-title="𝐏𝐥𝐮𝐭𝐨 ☆ Tv • Series 📺",XPTV UK
 https://janus.xpbroadcasting.com:8443/hls/xptvUK.m3u8
-#EXTINF:-1 cuid="1175" tvg-name="XPTVUS 🇺🇸" tvg-logo="https://xptv.live/wp-content/uploads/2023/07/XPUS-Button.png" group-title="𝐏𝐥𝐮𝐭𝐨 ☆ Tv • Series 📺",XPTVUS 🇺🇸
+#EXTINF:-1 cuid="1175" tvg-name="XPTVUS 🇺🇸" tvg-logo="https://xptv.live/wp-content/uploads/2023/07/XPUS-Button.png" group-logo="https://cdn-icons-png.freepik.com/256/8633/8633669.png" group-title="𝐏𝐥𝐮𝐭𝐨 ☆ Tv • Series 📺",XPTVUS 🇺🇸
 https://janus.xpbroadcasting.com:8443/hls/xptvUS.m3u8
 
 ============================🔹=============================== 🌈
 
-#EXTINF:-1 cuid="1176" tvg-name="IFC Portlandia 🇺🇸" tvg-id="USBD12000038K" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD12000038K_20240520T220135SQUARE.png" group-title="𝐏𝐥𝐮𝐭𝐨 ☆ Tv • Series 📺",IFC Portlandia 🇺🇸
+#EXTINF:-1 cuid="1176" tvg-name="IFC Portlandia 🇺🇸" tvg-id="USBD12000038K" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD12000038K_20240520T220135SQUARE.png" group-logo="https://cdn-icons-png.freepik.com/256/8633/8633669.png" group-title="𝐏𝐥𝐮𝐭𝐨 ☆ Tv • Series 📺",IFC Portlandia 🇺🇸
 #https://://amc-portlandia-1-us.lg.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 cuid="1177" tvg-name="Z Nation 🇪🇸" tvg-id="66b3af1c3a4ad200081c7d03" tvg-logo="https://images.pluto.tv/channels/66b3af1c3a4ad200081c7d03/colorLogoPNG.png" group-title="𝐏𝐥𝐮𝐭𝐨 ☆ Tv • Series 📺",Z Nation 🇪🇸
+#EXTINF:-1 cuid="1177" tvg-name="Z Nation 🇪🇸" tvg-id="66b3af1c3a4ad200081c7d03" tvg-logo="https://images.pluto.tv/channels/66b3af1c3a4ad200081c7d03/colorLogoPNG.png" group-logo="https://cdn-icons-png.freepik.com/256/8633/8633669.png" group-title="𝐏𝐥𝐮𝐭𝐨 ☆ Tv • Series 📺",Z Nation 🇪🇸
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/66b3af1c3a4ad200081c7d03/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=github.com/inspirationlinks&deviceDNT=1
 
-#EXTINF:-1 cuid="1178" tvg-name="FilmRise Z Nation 🇺🇸" tvg-id="plex.tv.Z.Nation.plex" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMfqPfcCLKi2Ylj2xXZOlXa7h64XhDGJzamsmXZdVUpBcLZ1ZnTz60sNw1KS332CCUfH4&usqp=CAU" group-title="𝐏𝐥𝐮𝐭𝐨 ☆ Tv • Series 📺",FilmRise Z Nation 🇺🇸
+#EXTINF:-1 cuid="1178" tvg-name="FilmRise Z Nation 🇺🇸" tvg-id="plex.tv.Z.Nation.plex" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMfqPfcCLKi2Ylj2xXZOlXa7h64XhDGJzamsmXZdVUpBcLZ1ZnTz60sNw1KS332CCUfH4&usqp=CAU" group-logo="https://cdn-icons-png.freepik.com/256/8633/8633669.png" group-title="𝐏𝐥𝐮𝐭𝐨 ☆ Tv • Series 📺",FilmRise Z Nation 🇺🇸
 https://d3fmqi91qduj7.cloudfront.net/11401/88884552/hls/master.m3u8?ads.xumo_channelId=88884552&ads.xumo_streamId=88884552
 
-#EXTINF:-1 cuid="1179" tvg-name="The Walking Dead Universe 🇺🇸 [ᴘʟᴇx]" tvg-id="62fa8176b9884200074ef5ae" tvg-logo="https://images.pluto.tv/channels/62fa8176b9884200074ef5ae/colorLogoPNG.png" group-title="𝐏𝐥𝐮𝐭𝐨 ☆ Tv • Series 📺",The Walking Dead Universe 🇺🇸 [ᴘʟᴇx]
+#EXTINF:-1 cuid="1179" tvg-name="The Walking Dead Universe 🇺🇸 [ᴘʟᴇx]" tvg-id="62fa8176b9884200074ef5ae" tvg-logo="https://images.pluto.tv/channels/62fa8176b9884200074ef5ae/colorLogoPNG.png" group-logo="https://cdn-icons-png.freepik.com/256/8633/8633669.png" group-title="𝐏𝐥𝐮𝐭𝐨 ☆ Tv • Series 📺",The Walking Dead Universe 🇺🇸 [ᴘʟᴇx]
 https://22985209144b4ff78289fbb19f55e93e.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Plex_TWDUniverseExperience/playlist.m3u8
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62fa8176b9884200074ef5ae/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=github.com/inspirationlinks&deviceDNT=1
 
-#EXTINF:-1 cuid="1180" tvg-name="More NCIS 🇺🇸" tvg-id="62e949f0cec1e60007f03314" tvg-logo="https://images.pluto.tv/channels/62e949f0cec1e60007f03314/colorLogoPNG.png" group-title="𝐏𝐥𝐮𝐭𝐨 ☆ Tv • Series 📺",More NCIS 🇺🇸
+#EXTINF:-1 cuid="1180" tvg-name="More NCIS 🇺🇸" tvg-id="62e949f0cec1e60007f03314" tvg-logo="https://images.pluto.tv/channels/62e949f0cec1e60007f03314/colorLogoPNG.png" group-logo="https://cdn-icons-png.freepik.com/256/8633/8633669.png" group-title="𝐏𝐥𝐮𝐭𝐨 ☆ Tv • Series 📺",More NCIS 🇺🇸
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62e949f0cec1e60007f03314/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=github.com/inspirationlinks&deviceDNT=1
 
-#EXTINF:-1 cuid="1181" tvg-name="CSI 🇺🇸" tvg-id="5efbd29e4aa26700076c0d06" tvg-logo="https://images.pluto.tv/channels/5efbd29e4aa26700076c0d06/colorLogoPNG.png" group-title="𝐏𝐥𝐮𝐭𝐨 ☆ Tv • Series 📺",CSI 🇺🇸
+#EXTINF:-1 cuid="1181" tvg-name="CSI 🇺🇸" tvg-id="5efbd29e4aa26700076c0d06" tvg-logo="https://images.pluto.tv/channels/5efbd29e4aa26700076c0d06/colorLogoPNG.png" group-logo="https://cdn-icons-png.freepik.com/256/8633/8633669.png" group-title="𝐏𝐥𝐮𝐭𝐨 ☆ Tv • Series 📺",CSI 🇺🇸
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5efbd29e4aa26700076c0d06/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=github.com/inspirationlinks&deviceDNT=1
 
 
-#EXTINF:-1 cuid="1182" tvg-name="Criminal Minds 🇺🇸" tvg-id="65653817c917a5000844bc30" tvg-logo="https://images.pluto.tv/channels/65653817c917a5000844bc30/colorLogoPNG.png" group-title="𝐏𝐥𝐮𝐭𝐨 ☆ Tv • Series 📺",Criminal Minds 🇺🇸
+#EXTINF:-1 cuid="1182" tvg-name="Criminal Minds 🇺🇸" tvg-id="65653817c917a5000844bc30" tvg-logo="https://images.pluto.tv/channels/65653817c917a5000844bc30/colorLogoPNG.png" group-logo="https://cdn-icons-png.freepik.com/256/8633/8633669.png" group-title="𝐏𝐥𝐮𝐭𝐨 ☆ Tv • Series 📺",Criminal Minds 🇺🇸
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/65653817c917a5000844bc30/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=github.com/inspirationlinks&deviceDNT=1
 
 ============================🔹=============================== 🌈
 
-#EXTINF:-1 cuid="1183" tvg-name="BritBox Mysteries 🇬🇧" tvg-id="60f5d389985a0c0007357304" tvg-logo="https://images.pluto.tv/channels/60f5d389985a0c0007357304/colorLogoPNG.png" group-title="𝐏𝐥𝐮𝐭𝐨 ☆ Tv • Series 📺",BritBox Mysteries 🇬🇧
+#EXTINF:-1 cuid="1183" tvg-name="BritBox Mysteries 🇬🇧" tvg-id="60f5d389985a0c0007357304" tvg-logo="https://images.pluto.tv/channels/60f5d389985a0c0007357304/colorLogoPNG.png" group-logo="https://cdn-icons-png.freepik.com/256/8633/8633669.png" group-title="𝐏𝐥𝐮𝐭𝐨 ☆ Tv • Series 📺",BritBox Mysteries 🇬🇧
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60f5d389985a0c0007357304/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=github.com/inspirationlinks&deviceDNT=1
 
-#EXTINF:-1 cuid="1184" tvg-name="Circle Country 🇺🇸" tvg-id="USBA300035FV" tvg-logo="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/circle_country.png" group-title="𝐏𝐥𝐮𝐭𝐨 ☆ Tv • Series 📺",Circle Country 🇺🇸
+#EXTINF:-1 cuid="1184" tvg-name="Circle Country 🇺🇸" tvg-id="USBA300035FV" tvg-logo="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/circle_country.png" group-logo="https://cdn-icons-png.freepik.com/256/8633/8633669.png" group-title="𝐏𝐥𝐮𝐭𝐨 ☆ Tv • Series 📺",Circle Country 🇺🇸
 https://d3tpmt3umhznz8.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-axj453e6aku5x/e4b5462e-88f8-4587-8ddf-71b357783e95/3.m3u8
 
-#EXTINF:-1 cuid="1185" tvg-name="Bet Pluto tv 🇺🇸" tvg-id="604f8f8622166000071a929f" tvg-logo="https://images.pluto.tv/channels/604f8f8622166000071a929f/colorLogoPNG.png" group-title="𝐏𝐥𝐮𝐭𝐨 ☆ Tv • Series 📺",Bet Pluto tv 🇺🇸
+#EXTINF:-1 cuid="1185" tvg-name="Bet Pluto tv 🇺🇸" tvg-id="604f8f8622166000071a929f" tvg-logo="https://images.pluto.tv/channels/604f8f8622166000071a929f/colorLogoPNG.png" group-logo="https://cdn-icons-png.freepik.com/256/8633/8633669.png" group-title="𝐏𝐥𝐮𝐭𝐨 ☆ Tv • Series 📺",Bet Pluto tv 🇺🇸
 https://stitcher.pluto.tv/stitch/hls/channel/604f8f8622166000071a929f/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=9438b638-7b18-11ef-9825-de7fcdd69a13
 
-#EXTINF:-1 cuid="1186" tvg-name="Ebony Drama by Lionsgate 🇺🇸" tvg-id="6675c713fc3a46000863dde7" tvg-logo="https://images.pluto.tv/channels/6675c713fc3a46000863dde7/colorLogoPNG.png" group-title="𝐏𝐥𝐮𝐭𝐨 ☆ Tv • Series 📺",Ebony Drama by Lionsgate 🇺🇸
+#EXTINF:-1 cuid="1186" tvg-name="Ebony Drama by Lionsgate 🇺🇸" tvg-id="6675c713fc3a46000863dde7" tvg-logo="https://images.pluto.tv/channels/6675c713fc3a46000863dde7/colorLogoPNG.png" group-logo="https://cdn-icons-png.freepik.com/256/8633/8633669.png" group-title="𝐏𝐥𝐮𝐭𝐨 ☆ Tv • Series 📺",Ebony Drama by Lionsgate 🇺🇸
 https://stitcher.pluto.tv/stitch/hls/channel/6675c713fc3a46000863dde7/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=cb5874fc-6948-11ef-b8e3-ea3db3d97a96
 
-#EXTINF:-1 cuid="1187" tvg-name="her Sphere by Lionsgate 🇺🇸" tvg-id="plex.tv.HerSphere.by.Lionsgate.plex" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/HerSphereLionsgate.webp" group-title="𝐏𝐥𝐮𝐭𝐨 ☆ Tv • Series 📺",her Sphere by Lionsgate 🇺🇸
+#EXTINF:-1 cuid="1187" tvg-name="her Sphere by Lionsgate 🇺🇸" tvg-id="plex.tv.HerSphere.by.Lionsgate.plex" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/HerSphereLionsgate.webp" group-logo="https://cdn-icons-png.freepik.com/256/8633/8633669.png" group-title="𝐏𝐥𝐮𝐭𝐨 ☆ Tv • Series 📺",her Sphere by Lionsgate 🇺🇸
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-hersphere-lgus/playlist.m3u8
 
 ============================🔹=============================== 🌈
 
-#EXTINF:-1 cuid="1188" tvg-name="ION 🇺🇸" tvg-id="USBD300002TU" tvg-logo="https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/Carbon_Integration_Station_Image_Update/ION__1920x1080.png" group-title="𝐏𝐥𝐮𝐭𝐨 ☆ Tv • Series 📺",ION 🇺🇸
+#EXTINF:-1 cuid="1188" tvg-name="ION 🇺🇸" tvg-id="USBD300002TU" tvg-logo="https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/Carbon_Integration_Station_Image_Update/ION__1920x1080.png" group-logo="https://cdn-icons-png.freepik.com/256/8633/8633669.png" group-title="𝐏𝐥𝐮𝐭𝐨 ☆ Tv • Series 📺",ION 🇺🇸
 https://d17c57c9d84m4s.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-qpjle31c617v9/Ion_US.m3u8
-#EXTINF:-1 cuid="1189" tvg-name="ION Plus 🇺🇸 [ᴛᴀʙʟᴏ]" tvg-id="USBD300003LK" tvg-logo="https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/Carbon_Integration_Station_Image_Update/IONPlus_1920x1080.png" group-title="𝐏𝐥𝐮𝐭𝐨 ☆ Tv • Series 📺",ION Plus 🇺🇸 [ᴛᴀʙʟᴏ]
+#EXTINF:-1 cuid="1189" tvg-name="ION Plus 🇺🇸 [ᴛᴀʙʟᴏ]" tvg-id="USBD300003LK" tvg-logo="https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/Carbon_Integration_Station_Image_Update/IONPlus_1920x1080.png" group-logo="https://cdn-icons-png.freepik.com/256/8633/8633669.png" group-title="𝐏𝐥𝐮𝐭𝐨 ☆ Tv • Series 📺",ION Plus 🇺🇸 [ᴛᴀʙʟᴏ]
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-ionplus-tablo/playlist.m3u8
-#EXTINF:-1 cuid="1190" tvg-name="ION Mystery⁴ᵏ 🇺🇸" tvg-id="USBC24000223S" tvg-logo="https://provider-static.plex.tv/1/epg/channels/logos/gracenote/1247cd5fa3876d1c486559e0460b300b.png" group-title="𝐏𝐥𝐮𝐭𝐨 ☆ Tv • Series 📺",ION Mystery⁴ᵏ 🇺🇸
+#EXTINF:-1 cuid="1190" tvg-name="ION Mystery⁴ᵏ 🇺🇸" tvg-id="USBC24000223S" tvg-logo="https://provider-static.plex.tv/1/epg/channels/logos/gracenote/1247cd5fa3876d1c486559e0460b300b.png" group-logo="https://cdn-icons-png.freepik.com/256/8633/8633669.png" group-title="𝐏𝐥𝐮𝐭𝐨 ☆ Tv • Series 📺",ION Mystery⁴ᵏ 🇺🇸
 https://scripps-ionmystery-1-us.xumo.wurl.tv/playlist_4300k.m3u8
 
-#EXTINF:-1 cuid="1191" tvg-name="" tvg-id="6549341853fc9700083901ac" tvg-logo="https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/Universal_Crime_FAST_TitleArt_White.png" group-title="𝐏𝐥𝐮𝐭𝐨 ☆ Tv • Series 📺",Universal Crime 🇦🇷
+#EXTINF:-1 cuid="1191" tvg-name="" tvg-id="6549341853fc9700083901ac" tvg-logo="https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/Universal_Crime_FAST_TitleArt_White.png" group-logo="https://cdn-icons-png.freepik.com/256/8633/8633669.png" group-title="𝐏𝐥𝐮𝐭𝐨 ☆ Tv • Series 📺",Universal Crime 🇦🇷
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6549341853fc9700083901ac/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=github.com/inspirationlinks&deviceDNT=1
 
-#EXTINF:-1 cuid="1192" tvg-name="Nonstop Drama 🇺🇸" tvg-id="62fb9ade112ca70007d8441d" tvg-logo="https://images.pluto.tv/channels/62fb9ade112ca70007d8441d/colorLogoPNG.png" group-title="𝐏𝐥𝐮𝐭𝐨 ☆ Tv • Series 📺",Nonstop Drama 🇺🇸
+#EXTINF:-1 cuid="1192" tvg-name="Nonstop Drama 🇺🇸" tvg-id="62fb9ade112ca70007d8441d" tvg-logo="https://images.pluto.tv/channels/62fb9ade112ca70007d8441d/colorLogoPNG.png" group-logo="https://cdn-icons-png.freepik.com/256/8633/8633669.png" group-title="𝐏𝐥𝐮𝐭𝐨 ☆ Tv • Series 📺",Nonstop Drama 🇺🇸
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62fb9ade112ca70007d8441d/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&deviceMake=Revolucioniptv&deviceDNT=1
 
 
-#EXTINF:-1 cuid="1193" tvg-name="MHz Now 🇺🇸" tvg-id="plex.tv.MHz.Now.plex" tvg-logo="https://mhznetworks.com/wp-content/uploads/2021/09/MHz_NOW_Logo-uai-258x258.png" group-title="𝐏𝐥𝐮𝐭𝐨 ☆ Tv • Series 📺",MHz Now 🇺🇸
+#EXTINF:-1 cuid="1193" tvg-name="MHz Now 🇺🇸" tvg-id="plex.tv.MHz.Now.plex" tvg-logo="https://mhznetworks.com/wp-content/uploads/2021/09/MHz_NOW_Logo-uai-258x258.png" group-logo="https://cdn-icons-png.freepik.com/256/8633/8633669.png" group-title="𝐏𝐥𝐮𝐭𝐨 ☆ Tv • Series 📺",MHz Now 🇺🇸
 https://mhz-samsung-linear-ca.samsung.wurl.tv/playlist.m3u8
 https://9cd9410130db4466b2fc456b6885dfc8.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-ca_MHz/playlist.m3u8
 
-#EXTINF:-1 cuid="1194" tvg-name="" tvg-id="60dafb9a0df1ba000758d37b" tvg-logo="https://images.pluto.tv/channels/60dafb9a0df1ba000758d37b/colorLogoPNG.png" group-title="𝐏𝐥𝐮𝐭𝐨 ☆ Tv • Series 📺",BBC Drama 🇪🇸
+#EXTINF:-1 cuid="1194" tvg-name="" tvg-id="60dafb9a0df1ba000758d37b" tvg-logo="https://images.pluto.tv/channels/60dafb9a0df1ba000758d37b/colorLogoPNG.png" group-logo="https://cdn-icons-png.freepik.com/256/8633/8633669.png" group-title="𝐏𝐥𝐮𝐭𝐨 ☆ Tv • Series 📺",BBC Drama 🇪🇸
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60dafb9a0df1ba000758d37b/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&deviceMake=Revolucioniptv&deviceDNT=1
 
-#EXTINF:-1 cuid="1195" tvg-name="Stories By AMC 🇺🇸 [ᴘʟᴇx]" tvg-id="5e20b730f2f8d5003d739db7-5fc705e2a2236e002d69f3ba" tvg-logo="https://provider-static.plex.tv/d/epg/channels/logos/gracenote/dc11bbe6b65b5884a0af6702f6b61c61.png" group-title="𝐏𝐥𝐮𝐭𝐨 ☆ Tv • Series 📺",Stories By AMC 🇺🇸 [ᴘʟᴇx]
+#EXTINF:-1 cuid="1195" tvg-name="Stories By AMC 🇺🇸 [ᴘʟᴇx]" tvg-id="5e20b730f2f8d5003d739db7-5fc705e2a2236e002d69f3ba" tvg-logo="https://provider-static.plex.tv/d/epg/channels/logos/gracenote/dc11bbe6b65b5884a0af6702f6b61c61.png" group-logo="https://cdn-icons-png.freepik.com/256/8633/8633669.png" group-title="𝐏𝐥𝐮𝐭𝐨 ☆ Tv • Series 📺",Stories By AMC 🇺🇸 [ᴘʟᴇx]
 https://5def33c73f084e11a19ca77697d6b413.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_AMCPresents/playlist.m3u8
 
-#EXTINF:-1 cuid="1196" tvg-name="FilmRise Made in Canada (ᴠᴘɴ 🇨🇦)" tvg-id="647f8d22a2fc3fadb4721685-65e9d0ad8fe4ef7053c3c873" tvg-logo="https://images.plex.tv/photo?size=large-1920&scale=1&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2F788ea98c-d72a-4ba8-86bf-fd26d42248fd%2FPlex_FilmRise_Canadien_Color_Logo.png" group-title="𝐏𝐥𝐮𝐭𝐨 ☆ Tv • Series 📺",FilmRise Made in Canada (ᴠᴘɴ 🇨🇦)
+#EXTINF:-1 cuid="1196" tvg-name="FilmRise Made in Canada (ᴠᴘɴ 🇨🇦)" tvg-id="647f8d22a2fc3fadb4721685-65e9d0ad8fe4ef7053c3c873" tvg-logo="https://images.plex.tv/photo?size=large-1920&scale=1&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2F788ea98c-d72a-4ba8-86bf-fd26d42248fd%2FPlex_FilmRise_Canadien_Color_Logo.png" group-logo="https://cdn-icons-png.freepik.com/256/8633/8633669.png" group-title="𝐏𝐥𝐮𝐭𝐨 ☆ Tv • Series 📺",FilmRise Made in Canada (ᴠᴘɴ 🇨🇦)
 https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991337
 
 ============================🔹=============================== 
@@ -3046,7 +3046,7 @@ https://bit.ly/3QLfTvi?profile=inspirationLinks.m3u8
 +https
 
 
-#EXTINF:-1 cuid="1123" tvg-name="Bravo Vault 🇺🇸" tvg-id="6549316d2c1d330008631496" tvg-logo="https://images.pluto.tv/channels/6549316d2c1d330008631496/colorLogoPNG.png" group-title="𝐏𝐥𝐮𝐭𝐨 ☆ Tv • Series 📺",Bravo The Real HouseWives Vault 🇺🇸
+#EXTINF:-1 cuid="1123" tvg-name="Bravo Vault 🇺🇸" tvg-id="6549316d2c1d330008631496" tvg-logo="https://images.pluto.tv/channels/6549316d2c1d330008631496/colorLogoPNG.png" group-logo="https://cdn-icons-png.freepik.com/256/8633/8633669.png" group-title="𝐏𝐥𝐮𝐭𝐨 ☆ Tv • Series 📺",Bravo The Real HouseWives Vault 🇺🇸
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6549316d2c1d330008631496/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=github.com/inspirationlinks&deviceDNT=1
 
 #EXTINF:-1 cuid="1124" tvg-name="AWE 🇺🇸" tvg-id="A.Wealth.of.Entertainment.HDTV.(AWEHD).us" tvg-logo="https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/Carbon_Integration_Station_Image_Update/s117260_lw_h8_aa.png" group-logo="https://cdn-icons-png.freepik.com/512/7396/7396628.png" group-title="𝐏𝐥𝐮𝐭𝐨 ☆ Tv • Lifestyles 🛍️",AWE 🇺🇸
@@ -3412,28 +3412,28 @@ https://stitcher.pluto.tv/stitch/hls/channel/5cb6f6f9a461406ffe4022cf/master.m3u
 🌈SPORTS GAMING 🎮
 ============================🔹===============================
 
-#EXTINF:-1 cuid="1405" tvg-name="Ubisoft tv 🇧🇷 🎮" tvg-id="ubisoft_br_tv" tvg-logo="https://images.pluto.tv/channels/64c815e8a1c6130008fef928/colorLogoPNG.png" group-title="𝐏𝐥𝐮𝐭𝐨 ☆ Sports • Gaming 🎮",Ubisoft tv 🇧🇷
+#EXTINF:-1 cuid="1405" tvg-name="Ubisoft tv 🇧🇷 🎮" tvg-id="ubisoft_br_tv" tvg-logo="https://images.pluto.tv/channels/64c815e8a1c6130008fef928/colorLogoPNG.png" group-logo="https://cdn-icons-png.freepik.com/256/1729/1729543.png" group-title="𝐏𝐥𝐮𝐭𝐨 ☆ Sports • Gaming 🎮",Ubisoft tv 🇧🇷
 https://ubl-ut-samsung.otteravision.com/ubl/ut/ut.m3u8
 
-#EXTINF:-1 cuid="1406" tvg-name="ESR Network 🇺🇸 🎮" tvg-logo="https://images.pluto.tv/channels/5fb554d87a0c480007c8dada/colorLogoPNG.png" group-title="𝐏𝐥𝐮𝐭𝐨 ☆ Sports • Gaming 🎮",ESR Network 🇺🇸
+#EXTINF:-1 cuid="1406" tvg-name="ESR Network 🇺🇸 🎮" tvg-logo="https://images.pluto.tv/channels/5fb554d87a0c480007c8dada/colorLogoPNG.png" group-logo="https://cdn-icons-png.freepik.com/256/1729/1729543.png" group-title="𝐏𝐥𝐮𝐭𝐨 ☆ Sports • Gaming 🎮",ESR Network 🇺🇸
 https://eyeonesports.com/ES2RA-628g.m3u8
 
-#EXTINF:-1 cuid="1407" tvg-name="Polidoro tv 🇧🇷" tvg-logo="https://is.gd/AUJIUm" group-title="𝐏𝐥𝐮𝐭𝐨 ☆ Sports • Gaming 🎮",Polidoro tv 🇧🇷
+#EXTINF:-1 cuid="1407" tvg-name="Polidoro tv 🇧🇷" tvg-logo="https://is.gd/AUJIUm" group-logo="https://cdn-icons-png.freepik.com/256/1729/1729543.png" group-title="𝐏𝐥𝐮𝐭𝐨 ☆ Sports • Gaming 🎮",Polidoro tv 🇧🇷
 https://srv2.zcast.com.br/polidorotv/polidorotv/chunklist_w806455214.m3u8
 
-#EXTINF:-1 cuid="1408" tvg-name="E Sports 🇪🇸" tvg-id="5ff3934600d4c7000733ff49" tvg-logo="https://images.pluto.tv/channels/5ff3934600d4c7000733ff49/colorLogoPNG.png" group-title="𝐏𝐥𝐮𝐭𝐨 ☆ Sports • Gaming 🎮",E Sports 🇪🇸
+#EXTINF:-1 cuid="1408" tvg-name="E Sports 🇪🇸" tvg-id="5ff3934600d4c7000733ff49" tvg-logo="https://images.pluto.tv/channels/5ff3934600d4c7000733ff49/colorLogoPNG.png" group-logo="https://cdn-icons-png.freepik.com/256/1729/1729543.png" group-title="𝐏𝐥𝐮𝐭𝐨 ☆ Sports • Gaming 🎮",E Sports 🇪🇸
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ff3934600d4c7000733ff49/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=github.com/inspirationlinks&deviceDNT=1
 
-#EXTINF:-1 cuid="1409" tvg-name="Team Liquid 🇺🇸" tvg-id="plex.tv.Team.Liquid.plex" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/Skateboarding.webp" group-title="𝐏𝐥𝐮𝐭𝐨 ☆ Sports • Gaming 🎮",Team Liquid 🇺🇸
+#EXTINF:-1 cuid="1409" tvg-name="Team Liquid 🇺🇸" tvg-id="plex.tv.Team.Liquid.plex" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/Skateboarding.webp" group-logo="https://cdn-icons-png.freepik.com/256/1729/1729543.png" group-title="𝐏𝐥𝐮𝐭𝐨 ☆ Sports • Gaming 🎮",Team Liquid 🇺🇸
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg13231-actve-skateboarding-ono/playlist.m3u8
 
-#EXTINF:-1 cuid="1410" tvg-name="Pixel.tv" tvg-id="66bb374ba4ee27000841a62c" tvg-logo="https://images.pluto.tv/channels/66bb374ba4ee27000841a62c/colorLogoPNG.png" group-title="𝐏𝐥𝐮𝐭𝐨 ☆ Sports • Gaming 🎮",Pixel tv
+#EXTINF:-1 cuid="1410" tvg-name="Pixel.tv" tvg-id="66bb374ba4ee27000841a62c" tvg-logo="https://images.pluto.tv/channels/66bb374ba4ee27000841a62c/colorLogoPNG.png" group-logo="https://cdn-icons-png.freepik.com/256/1729/1729543.png" group-title="𝐏𝐥𝐮𝐭𝐨 ☆ Sports • Gaming 🎮",Pixel tv
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/66bb374ba4ee27000841a62c/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=github.com/inspirationlinks&deviceDNT=1
 
-#EXTINF:-1 cuid="1411" tvg-name="ESR Network 🇺🇸" tvg-id="5fb554d87a0c480007c8dada" tvg-logo="https://images.pluto.tv/channels/5fb554d87a0c480007c8dada/colorLogoPNG.png" group-title="𝐏𝐥𝐮𝐭𝐨 ☆ Sports • Gaming 🎮",ESR Network 🇺🇸
+#EXTINF:-1 cuid="1411" tvg-name="ESR Network 🇺🇸" tvg-id="5fb554d87a0c480007c8dada" tvg-logo="https://images.pluto.tv/channels/5fb554d87a0c480007c8dada/colorLogoPNG.png" group-logo="https://cdn-icons-png.freepik.com/256/1729/1729543.png" group-title="𝐏𝐥𝐮𝐭𝐨 ☆ Sports • Gaming 🎮",ESR Network 🇺🇸
 https://eyeonesports.com/720/ESR-002SCTE35.m3u8
 
-#EXTINF:-1 cuid="1412" tvg-name="ESports Max" tvg-id="" tvg-logo="https://esportsmax.tv/wp-content/uploads/2024/02/Esports-max-blanco.png" group-title="𝐏𝐥𝐮𝐭𝐨 ☆ Sports • Gaming 🎮",ESports Max
+#EXTINF:-1 cuid="1412" tvg-name="ESports Max" tvg-id="" tvg-logo="https://esportsmax.tv/wp-content/uploads/2024/02/Esports-max-blanco.png" group-logo="https://cdn-icons-png.freepik.com/256/1729/1729543.png" group-title="𝐏𝐥𝐮𝐭𝐨 ☆ Sports • Gaming 🎮",ESports Max
 https://streamyes.alsolnet.com/esportsmax/live/playlist.m3u8
 
 ============================🔹=============================== 
