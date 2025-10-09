@@ -1,3 +1,11 @@
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=iprtl.m3u">
+
+  <h1 align="center">
+    <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;He+is+IPRT....;Nice+to+meet+you!&center=true&size=30">
+    </a>
+  </h1>
+
 Thanks for visiting! ✨ Let's build something awesome together.
 Obrigado pela visita! ✨ Vamos construir juntos algo incrível.
 
@@ -36,7 +44,8 @@ Obrigado a todas as pessoas que já contribuíram para o inspirationlinks!
   <img src="https://contributors-img.firebaseapp.com/image?repo=inspirationlinks/m3u" />
 </a>
 
----
+---
+
 
 
 ## 💛 Support me to continue this project
@@ -71,7 +80,8 @@ If you want to support me continuing the work, you can donate by clicking the do
 ---
 
 🏆 🇬🇧 Premium Channels. This list is only available to those who make a donation (Donations).
-* Those who choose to make monthly donations have the option to create a personalized list with only the channels they want.
+* Those who choose to make monthly donations have the option to create a personalized list with only the channels they want.
+
 
 ---
 
@@ -1246,6 +1256,7 @@ No video files are stored in this repository. The repository simply contains use
 ## ⭐ GitHub stars
 
 [![Stargazers over time](https://starchart.cc/inspirationlinks/lista-tuga.svg)](https://starchart.cc/inspirationlinks/lista-tuga)
+
 
 
 
