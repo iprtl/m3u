@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "functions": {
+    "api/epg.js": {
+      "maxDuration": 300
+    }
+  },
+  "routes": [
+    { "src": "/(.*)", "dest": "/api/epg.js" }
+  ]
+}
