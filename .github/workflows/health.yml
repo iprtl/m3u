@@ -1,0 +1,27 @@
+name: health check
+
+on:
+  schedule:
+    - cron: "30 2,8,14,20 * * *"
+  workflow_dispatch:
+
+jobs:
+  health-check:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Run health.sh
+        run: bash health.sh
+
+      - name: Update log
+        uses: stefanzweifel/git-auto-commit-action@v6
+        with:
+          commit_message: "health log"
+          file_pattern: "readme.md"
+          commit_author: "GitHub Actions Bot <actions@github.com>"
+          commit_user_name: "GitHub Actions Bot"
+          commit_user_email: "actions@github.com"
