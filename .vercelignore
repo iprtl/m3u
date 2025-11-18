@@ -1,0 +1,9 @@
+# Ignore everything by default
+*
+
+# Allow the folder *and* the function file
+!api/
+!api/epg.js
+
+# Keep the config
+!vercel.json
