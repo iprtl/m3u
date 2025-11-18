@@ -1,0 +1,44 @@
+name: EPGShare01 JSON Builder
+
+on:
+  workflow_dispatch:        # Manual trigger
+  schedule:
+    - cron: "0 */12 * * *"  # Runs every 12 hours (twice per day)
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout main branch
+        uses: actions/checkout@v4
+        with:
+          ref: main
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests
+
+      - name: Run EPGShare01 script
+        run: python epgshare01-to-json.py
+
+      - name: Commit and push result to main (no history)
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          # Remove all history, rebuild fresh commit
+          git checkout --orphan temp_branch
+          git add epg.json.gz
+          git commit -m "Auto update epg.json.gz [skip ci]"
+          git branch -D main
+          git branch -m main
+          git push -f origin main
