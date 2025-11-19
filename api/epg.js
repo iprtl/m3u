@@ -2,7 +2,7 @@ const https = require('https');
 const zlib = require('zlib');
 
 const CONFIG = {
-  jsonEpgUrl: 'https://github.com/iprtl/epgshare01-to-json/raw/refs/heads/main/epg.json.gz',
+  jsonEpgUrl: 'https://github.com/iprtl/m3u/epgshare01-to-json/raw/refs/heads/live/epg.json.gz',
   daysPast: 1,
   daysFuture: 0
 };
