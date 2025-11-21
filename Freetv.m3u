@@ -7,7 +7,7 @@
 # ――――――――――――――――――――――――――――――――――――――――――――――
 # (●) Last Update: 🔄 2025-11-21 11:15:11 GMT+7 "
 # (●) Service: FREETV Inspiration Links
-# (●) Total Channels: 322
+# (●) Total Channels: 375
 
 
 ⚠️ Atenção: Todas as ligações de streams disponibilizados nas listas foram retiradas da Internet. Apenas as organizo, disponibiliza e partilha. Não detenho qualquer servidor e/ou transmitimos ou re-emitimos qualquer tipo de sinal.
@@ -144,7 +144,7 @@ https://production-fast-sic.content.okast.tv/fa2e8c4385712f9aa54bbe52b1bd9b6b/ch
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tvipt/sh/tviint.m3u8?@iprtlk
 
 #EXTINF:-1 tvg-chno="19" cuid="20" tvg-name="TVI Internacionalᶠᴴᴰ)" tvg-id="tvi.internacional.pt" tvg-logo="https://logo.m3uassets.com/tviinternacional.png" group-logo="https://cdn-icons-png.freepik.com/512/4482/4482879.png" group-title="Portugal",❖ TVI Internacional 🇵🇹
-https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjEvMjAyNSA0OjQxOjQwIFBNJmhhc2hfdmFsdWU9RFJEVzBwYXVyc0x0QTcwR2wwMnRFUT09JnZhbGlkbWludXRlcz0xNDQwJmlkPTI0ZTY4NWFlLTVkOWUtNGI4NC1iMDliLTU1YmU5YjRkZDlhMA==/
+https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjEvMjAyNSA0OjQzOjExIFBNJmhhc2hfdmFsdWU9aXkyenYvbU1zb1ZBVXFHVlJFaDZ0dz09JnZhbGlkbWludXRlcz0xNDQwJmlkPWI0MTEyNzIzLTFkYzItNDFlNy1hNjI5LWIzMjQxYzgyNzk5Ng==/
 
 =====================❖======================== 
 🌈 𝙏𝙑𝙡 
@@ -157,7 +157,7 @@ https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tvipt/s
 https://github.com/thomraider12/canaistvpt/raw/main/m3u8s/tvi.m3u8?@iprtlk
 
 #EXTINF:-1 tvg-chno="22" cuid="22" tvg-name="TVI 🇵🇹" tvg-id="TVI.HD.pt" tvg-logo="https://github.com/iprtl/p1/raw/master/logo/tvi.webp" group-logo="https://cdn-icons-png.freepik.com/512/4482/4482879.png" group-title="Portugal",❖ TVI 🇵🇹
-https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjEvMjAyNSA0OjQxOjM4IFBNJmhhc2hfdmFsdWU9QVlTTEwwbFBNaFpoU2czVmx2bjVuUT09JnZhbGlkbWludXRlcz0xNDQwJmlkPTRlOTQ0NGI0LTg0MTItNDY1MC1iZDY4LTgyNDIxN2YyZjRhMQ==/
+https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjEvMjAyNSA0OjQzOjEwIFBNJmhhc2hfdmFsdWU9TkdlcVhjWjc3b3YvbDRoTkRUVnJFUT09JnZhbGlkbWludXRlcz0xNDQwJmlkPWUzYjg4ODI5LWNmNDctNDQzYi05N2ViLTY2NTZmMWFlY2Y0NQ==/
 
 =====================❖======================== 
 🌈 CNN 𝙏𝙑𝙡 
@@ -170,7 +170,7 @@ https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tvipt/s
 https://github.com/thomraider12/canaistvpt/raw/main/m3u8s/cnnpt.m3u8?@iprtlk
 
 #EXTINF:-1 tvg-chno="25" cuid="24" tvg-name="CNN Portugal 🇵🇹" tvg-id="CNN.Portugal.HD.pt" tvg-logo="https://github.com/iprtl/p1/raw/master/logo/cnnpt.png" group-logo="https://cdn-icons-png.freepik.com/256/5395/5395694.png" group-title="News 🇵🇹🇧🇷",❖ CNN Portugal 🇵🇹
-https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjEvMjAyNSA0OjQxOjM5IFBNJmhhc2hfdmFsdWU9d2hLWHZ4THhTcU02bEs4SHZBbzBvUT09JnZhbGlkbWludXRlcz0xNDQwJmlkPTFmZGE5NjNkLWNlOWMtNDI4Zi1hZmQwLTE0N2I0NWRkODA0MQ==/
+https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjEvMjAyNSA0OjQzOjExIFBNJmhhc2hfdmFsdWU9Z0s5R2dWTXl0Uy96bGVrNnFlTTNWdz09JnZhbGlkbWludXRlcz0xNDQwJmlkPWQ5YjAzNDJlLWFjZmEtNDIyNS05YjIzLTFmZjNhYWM5ZjdiNw==/
 
 =====================❖======================== 
 🌈
