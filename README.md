@@ -94,7 +94,7 @@ Only FreeStreaming by (Pluto and more)...
 https://github.com/iprtl/m3u/raw/master/Pluto.m3u
 ```
 
-* AVISO: Esta lista é construida por fontes encontradas na Internet. Não me responsabilizo com possíveis instabilidades que os canais possam vir a ter nem a sua durabilidade e não alojo listas, e, muito menos tenho servidores para tal.
+* AVISO: Estas listas foram construidas por fontes encontradas na Internet. Não me responsabilizo com possíveis instabilidades que os canais possam vir a ter nem a sua durabilidade e não alojo listas, e, muito menos tenho servidores para tal.
 
 ---
 
@@ -1502,6 +1502,7 @@ No video files are stored in this repository. The repository simply contains use
 ## ⭐ GitHub stars
 
 [![Stargazers over time](https://starchart.cc/inspirationlinks/lista-tuga.svg)](https://starchart.cc/inspirationlinks/lista-tuga)
+
 
 
 
