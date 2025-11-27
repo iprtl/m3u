@@ -56,7 +56,7 @@ If you want to support me continuing the work, you can donate by clicking the do
 
 ## Índice
 
-- 📺 [Lista de Canais Freetv.m3u](#Playlist-Inspiration-Links)
+- 📺 [Lista de Canais Freetv & Pluto](#Playlist-Inspiration-Links)
 - 💬 [Legendas](#Legendas)
 - ⏳ [EPG](#EPG-used-in-Freetv-Inspiration)
 - 💬 [Discussions](#Discussions)
@@ -100,6 +100,8 @@ https://github.com/iprtl/m3u/raw/master/Pluto.m3u
 
 List of Channels (Freetv.m3u)
 
+🔹 CANAIS PORTUGUESES 🔹
+
 - Tv Portuguesa 🇵🇹🇧🇷
 - RTP Internacional ᴸᴼᵂ 🇵🇹
 - RTP1 🇵🇹
@@ -138,6 +140,9 @@ List of Channels (Freetv.m3u)
 - TVM Internacional ᴸᴼᵂ 🇲🇿
 - Fama tv 🇵🇹
 - Teledifusão de Macau 🇲🇴
+
+🔹 CANAIS LEGENDADOS (💬🇧🇷)🔹
+
 - Rakuten Top Movies (💬 🇧🇷)
 - FreeTv Drama (💬 🇧🇷)
 - FreeTv Crime (💬 🇧🇷)
@@ -160,6 +165,9 @@ List of Channels (Freetv.m3u)
 - Times Brasil 🇧🇷
 - Times Brasil 🇧🇷
 - 4POR4 🇧🇷
+
+🔹 WORLD NEWS 🔹
+
 - Celebrity Scene TV 🇺🇸
 - 24h 🇪🇸
 - 24h 🇪🇸
@@ -231,6 +239,9 @@ List of Channels (Freetv.m3u)
 - DW 🇬🇧
 - NHK World 🇬🇧
 - Channel News Asia
+
+🔹 METEOROLOGIA 🔹
+
 - Sky News Weather 🇺🇸
 - WeatherSpy 🇺🇸
 - Fox Weather 🇺🇸
@@ -238,6 +249,9 @@ List of Channels (Freetv.m3u)
 - WeatherNation TV 🇺🇸
 - The Weather Channel 🇺🇸🇨🇦
 - MeteoNews 🇦🇹
+
+🔹 ENTRETENIMENTO INTERNACIONAIS 🔹
+
 - Canal 5 (🔉🇪🇸🇬🇧)
 - Canal 5 🇲🇽⚽️
 - Univision 🇲🇽🇸🇻 ⚽️
@@ -300,6 +314,9 @@ List of Channels (Freetv.m3u)
 - The Addams Family 🇺🇸
 - Alfred Hitchcock Presents 🇺🇸
 - The Twilight Zone 🇺🇸
+
+🔹 DOCUMENTARIOS INTERNACIOAIS 🔹
+
 - Drone TV
 - WB Discovery 🇮🇹
 - WB HGTV 🇮🇹
@@ -336,6 +353,9 @@ List of Channels (Freetv.m3u)
 - Real Wild 🇺🇸
 - Wild Planet 🇺🇸
 - Love The Planet 🇮🇹
+
+🔹 SEM CATEGORIA | UNDEFINED 🔹
+  
 - ITV 1 🇬🇧
 - ITV 2 🇬🇧
 - ITV 3 🇬🇧
@@ -374,6 +394,9 @@ List of Channels (Freetv.m3u)
 - VOX 🇩🇪
 - 3sat 🇩🇪⚽️
 - NDR 🇩🇪
+
+🔹 DESPORTOS INTERNACIONAIS 🔹
+
 - FORMULA 1 Channel 🇺🇸 🏎️
 - Motorvision 🇧🇷🏎️
 - Racer Brasil 🇧🇷🏎️
@@ -457,174 +480,65 @@ List of Channels (Freetv.m3u)
 - TV2 Sport X 🇩🇰⚽️🤾‍
 - TV2 Sport 1 🇳🇴⚽️
 - TV2 Sport 2 🇳🇴🎾
-Wonder 80's
-ZigZag fm
-ONfm
-Tuga Fm
-Radio m80
-m80 80's
-M80Pop
-M80Rock
-M80Portugal
-Radio Comercial
-Comercial best 00's
-RFM
-RFM Dance
-RFM 80
-RFM Oceano Pacifico
-RFM On the Rock
-Radio Nostalgia
-Cidade fm
-Cidade Hoje fm
-Saudade Cidade fm
-Cidade Hip Hop fm
-Batida fm
-Radio Super FM
-Radio Oxigenio
-Radio Meo Sudoeste
-NovaEra
-Nove3cinco
-Hiper FM
-Rádio Mega Hits
-Radio Marginal
-Orbital
-Hip Hop Radio
-Smooth fm
-TSF
-RResnascenca
-Rádio Observador
-CMR
-Antena 1
-Antena 1
-Antena 1 Vida
-Antena 2 Jazzin
-Antena 3
-Radio brigantia
+
+🔹 RADIOS 🔹
+
+- Wonder 80's
+- ZigZag fm
+- ONfm
+- Tuga Fm
+- Radio m80
+- m80 80's
+- M80Pop
+- M80Rock
+- M80Portugal
+- Radio Comercial
+- Comercial best 00's
+- RFM
+- RFM Dance
+- RFM 80
+- RFM Oceano Pacifico
+- RFM On the Rock
+- Radio Nostalgia
+- Cidade fm
+- Cidade Hoje fm
+- Saudade Cidade fm
+- Cidade Hip Hop fm
+- Batida fm
+- Radio Super FM
+- Radio Oxigenio
+- Radio Meo Sudoeste
+- NovaEra
+- Nove3cinco
+- Hiper FM
+- Rádio Mega Hits
+- Radio Marginal
+- Orbital
+- Hip Hop Radio
+- Smooth fm
+- TSF
+- RResnascenca
+- Rádio Observador
+- CMR
+- Antena 1
+- Antena 1
+- Antena 1 Vida
+- Antena 2 Jazzin
+- Antena 3
+- Radio brigantia
 
 ---
+
 List of Channels (Pluto.m3u)
 
-  🔹 REALITY SHOWS 🔹
+🔹 REALITY SHOWS 🔹
 - RCN La Casa de los Famosos 🇨🇴
 - La Academia 🇲🇽
 - Secret Story 🇺🇸
 - Big Brother 🇨🇦
-  
-  🔹 CANAIS LEGENDADOS 🔹
-- Travelxp (💬 🇧🇷)
-- HALLO! Dorama (💬 🇧🇷)
-- Rakuten Top Movies (💬 🇧🇷)
-- FreeTv Drama (💬 🇧🇷)
-- FreeTv Crime (💬 🇧🇷)
-- DarkFlix (💬 🇧🇷)
-- CineMonde (💬 🇧🇷)
-- CineClub (💬 🇧🇷)
-- Cindie Lite (💬 🇧🇷)
-- My Time Movie Network (💬 🇧🇷)
-- Smithsonian Channel (💬 🇧🇷)
-- Pluto TV Documentários (💬 🇧🇷)
-  
-  🔹 METEOROLOGIA 🔹
-- Sky News Weather
-- MeteoNews 🇦🇹
-- WeatherSpy 🇺🇸
-- Fox Weather 🇺🇸
-- AccuWeather Network 🇺🇸
-- WeatherNation TV 🇺🇸
-- The Weather Channel 🇺🇸🇨🇦
-  
-  🔹 WORLD NEWS 🔹
-- Euronews 🇵🇹
-- Record News 🇧🇷
-- CNN Brasil 🇧🇷
-- CNN Money 🇧🇷
-- New Brasil 🇧🇷
-- Band News 🇧🇷
-- JP News 🇧🇷
-- BM&C News 🇧🇷
-- Times Brasil 🇧🇷
-- Avança Brasil 🇧🇷
-- 4POR4 🇧🇷
-- 24h 🇪🇸
-- El Pais 🇪🇸
-- Negócios tv 🇪🇸
-- El Confidencial 🇪🇸
-- Canal Sur Más Noticias 🇪🇸
-- Noticias Telemundo Ahora 🇺🇸🇲🇽
-- Telemundo 51 Florida 🇲🇽🇺🇸
-- Telemundo 52 California 🇲🇽🇺🇸
-- Noticias Univision 24/7 🇲🇽
-- Telemundo Al Día 🇲🇽
-- Estrella News 🇲🇽
-- Rai News 24 🇮🇹
-- TG Norba24 🇮🇹
-- Euronews 🇫🇷
-- France Info 🇫🇷
-- Cnews 🇫🇷
-- Tv5 Monde Info 🇫🇷
-- RDI Canada 🇨🇦🇫🇷
-- France24 🇫🇷🇬🇧
-- France 24 Fast 🇫🇷
-- Africa 24 🇫🇷
-- África News 🇺🇸🇫🇷
-- European Parliament tv 🇬🇧
-- Yahoo! Finance 🇺🇸
-- Bloomberg tv+ 🇺🇸
-- Bloomberg Quicktake 🇺🇸
-- Car Chase News 🇺🇸
-- CNN 🇺🇸
-- CNN Internacional 🇺🇸
-- CNN Highlights 🇺🇸
-- CNN XPRESS 🇲🇽
-- CNN Fast 🇺🇸
-- 60 Minutes 🇺🇸
-- Cheddar News 🇺🇸
-- Sky News 🇺🇸
-- Fox News Now 🇺🇸
-- FOX 5 Washington DC 🇺🇸
-- FOX 11 Los Angeles 🇺🇸
-- FOX 4 Dallas
-- FOX 12 New York 🇺🇸
-- GB News 🇬🇧
-- NBC San Francisco News 🇺🇸
-- NBC New York News 🇺🇸
-- NBC Washington News 🇺🇸
-- NBC Los Angeles News 🇺🇸
-- NBC News Now 🇺🇸
-- NBC News Now 🇺🇸
-- CBS News Boston 🇺🇸
-- CBS News Chicago 🇺🇸
-- CBS News Chicago 🇺🇸
-- CBS News Colorado 🇺🇸
-- CBS News Detroit 🇺🇸
-- CBS News Los Angeles 🇺🇸
-- CBS News Miami 🇺🇸
-- CBS News Minnesota 🇺🇸
-- CBS News New York 🇺🇸
-- CBS News Philadelphia 🇺🇸
-- CBS News Pittsburgh 🇺🇸
-- CBS News Sacramento 🇺🇸
-- CBS News 🇺🇸
-- CBS News Explore 🇺🇸
-- CBS News 24/7 🇺🇸
-- Global News Toronto
-- ABC News Australia 🇦🇺
-- ABC News Live 🇺🇸
-- BBC News 🇺🇸
-- BBC News₂ 🇬🇧
-- 🇺🇸
-- TRT World 🇬🇧
-- CGTN News 🇬🇧
-- The F1rt 🇺🇸
-- Press Tvᴸᴼᵂ 🇺🇸
-- Al Jazeera 🇬🇧
-- DW 🇬🇧
-- NHK World 🇬🇧
-- NDR 🇩🇪
-- Das Erste 🇩🇪
-- Channel News Asia
-  
-  🔹 INFANTIL 🔹
+
+🔹 INFANTIL 🔹
+
 - GLN 🇧🇷
 - Duck tv 🇧🇷
 - Pica Pau 🇧🇷
@@ -707,7 +621,8 @@ List of Channels (Pluto.m3u)
 - Anime Onegai₅ 🇧🇷
 - Ztv 🇨🇱
   
-  🔹 NOVELAS 🔹
+🔹 NOVELAS 🔹
+
 - Tela Brasil tv 🇧🇷
 - Reviva tv 🇧🇷
 - Multi Mix 🇧🇷
@@ -755,7 +670,8 @@ List of Channels (Pluto.m3u)
 - Comedy Central Animation 🇺🇸
 - The Pet Collective 🇺🇸🇲🇽
   
-  🔹 DESPORTOS 🔹
+🔹 DESPORTOS 🔹
+
 - B/R [vᴘɴ 🇺🇸]
 - Wedotv Sports 🇺🇸
 - CHV Deportes 🇨🇱
@@ -796,7 +712,8 @@ List of Channels (Pluto.m3u)
 - o2 Cпорт 🇷🇺
 - Turkmenistan Sport 🇹🇲
 
-🔹 FILMEA E SÉRIES  🔹
+🔹 FILMEA E SÉRIES 🔹
+
 - Channel 1 🇧🇷
 - 1980 Channel 🇧🇷
 - Ficção Científica 🇧🇷
@@ -943,6 +860,7 @@ List of Channels (Pluto.m3u)
 - Homes Under the Hammer 🇬🇧 [ᴠɪᴅᴀᴀ]
 
 🔹 FILMES SUSPENSE E TERROR 🔹
+
 - Assombrações 🇧🇷
 - Paranormal 🇧🇷
 - Clube de Terror 🇧🇷
@@ -978,6 +896,7 @@ List of Channels (Pluto.m3u)
 - Fear Zone 🇺🇸
 
 🔹 DOCUMENTÁRIOS 🔹
+
 - TV Investigação 🇧🇷
 - Pronto Socorro 🇧🇷
 - Curiosidade 🇧🇷
@@ -999,7 +918,6 @@ List of Channels (Pluto.m3u)
 - Intervention by A&E 🇺🇸
 - PBS Digital Studios 🇺🇸
 - The Titanic Channel 🇺🇸
-- 🇺🇸
 - Mysteries Worlds by WBtv 🇺🇸
 - Beyond History 🇺🇸
 - World War TV 🇺🇸
@@ -1019,6 +937,7 @@ List of Channels (Pluto.m3u)
 - Military 🇺🇸
 
 🔹 PETS 🔹
+
 - AKC Dogs tv 🇺🇸
 - Tv + Pet 🇧🇷
 - Pet Lovers tv 🇧🇷
@@ -1033,6 +952,7 @@ List of Channels (Pluto.m3u)
 - Cats 24/7 🇺🇸
 
 🔹 VIDA SELVAGEM 🔹
+
 - Docu+ 🇺🇸
 - Love Nature 🇪🇸
 - Love Nature 🇧🇷
@@ -1058,6 +978,7 @@ List of Channels (Pluto.m3u)
 - The Jack Hanna Channel 🇺🇸
 
 🔹 GASTRONOMIA 🔹
+
 - Love Wine 🇺🇸
 - CTV @ Home 🇬🇧
 - Hungry 🇺🇸
@@ -1074,6 +995,7 @@ List of Channels (Pluto.m3u)
 - Pluto Food 🇬🇧
 
 🔹 TRAVEL 🔹
+
 - Drone TV
 - Travel Escapes 🇺🇸
 - 4k Travel
@@ -1099,6 +1021,7 @@ List of Channels (Pluto.m3u)
 - Tastemade Home 🇺🇸
 
 🔹 LIFESTYLE 🔹
+
 - The Bob Ross Channel 🇺🇸
 - Escape to the Country 🇺🇸
 - 5 Minute Crafts 🇺🇸
@@ -1210,6 +1133,7 @@ List of Channels (Pluto.m3u)
 - C4 en Alerta
 
 🔹 GAMES 🔹
+
 - Ubisoft tv 🇧🇷 🎮
 - ESR Network 🇺🇸 🎮
 - Polidoro tv 🇧🇷
@@ -1219,7 +1143,8 @@ List of Channels (Pluto.m3u)
 - ESR Network 🇺🇸
 - ESports Max
 
-🔹 PESCA & CAÇA  🔹
+🔹 PESCA & CAÇA 🔹
+
 - Tv da Pesca 🇧🇷
 - Italian Fishing TV 🇮🇹
 - Fishing 🇺🇸
@@ -1235,6 +1160,7 @@ List of Channels (Pluto.m3u)
 - Waypoint TV 🇺🇸
 
 🔹 DESPORTO DIVERSOS 🔹
+
 - Canela Tv Deportes 🇲🇽
 - MUTV 🇬🇧
 - ACCDN 🇺🇸 [ғɪʀᴇᴛᴠ]
@@ -1309,7 +1235,6 @@ List of Channels (Pluto.m3u)
 - Pickleball TV 🇺🇸
 - PickleTV 🇺🇸
 - Court Sports Network 🇺🇸 🎾
-- 🇺🇸
 - GolfPass 🇺🇸
 - GolfPass 🇺🇸
 - Golf Nation 🇬🇧
@@ -1383,7 +1308,6 @@ List of Channels (Pluto.m3u)
 - Hard Knock Fighting 🇺🇸
 - Hard Knocks Fighting Championship 🇺🇸
 - Impact! Wrestling 🇺🇸
-- 🇺🇸
 - Triton Poker 🇺🇸
 - Faduel tv 🇬🇧
 - World Poker Tour 🇧🇷
@@ -1398,6 +1322,7 @@ List of Channels (Pluto.m3u)
 - Billiard TV ² 🇺🇸
 
 🔹 MUSICA 🔹
+
 - ONFM 🇵🇹
 - Rádio Sines 🇵🇹
 - NPC TV 🇵🇹
@@ -1513,62 +1438,7 @@ List of Channels (Pluto.m3u)
 - Stingray Pop Adult
 - Stingray Greatest Hits
 - Stingray Hot Country
-
-🔹 RÁDIOS 🔹
-- Wonder 80's
-- ZigZag fm
-- ONfm
-- Tuga Fm
-- Radio m80
-- m80 80's
-- M80pop
-- Radio Comercial
-- Comercial best 00's
-- RFM
-- RFM Dance
-- RFM 80
-- RFM Oceano Pacifico
-- RFM On the Rock
-- Radio Nostalgia
-- Cidade fm
-- Cidade Hoje fm
-- Saudade Cidade fm
-- Cidade Hip Hop fm
-- Batida fm
-- Radio Super FM
-- Radio Oxigenio
-- Radio Meo Sudoeste
-- NovaEra
-- Nove3cinco
-- Hiper FM
-- Rádio Mega Hits
-- Radio Marginal
-- Orbital
-- Hip Hop Radio
-- Smooth fm
-- TSF
-- RResnascenca
-- Rádio Observador
-- CMR
-- Antena 1
-- Antena 1
-- Antena 1 Vida
-- Antena 2 Jazzin
-- Antena 3
-- Radio brigantia
-- Diana fm (Évora)
-- Rádio Portalegre
-- Sertanejo
-- Hunter fm POP
-- Tropical
-- Hunter POP2
-- Miami TV
-- Miami TV Latino
-- Miami TV Jenny Live
-- Miami TV Music
-- Europulse
-- Babestation
-
+- 
 ---
 
 ## Legendas
@@ -1632,6 +1502,7 @@ No video files are stored in this repository. The repository simply contains use
 ## ⭐ GitHub stars
 
 [![Stargazers over time](https://starchart.cc/inspirationlinks/lista-tuga.svg)](https://starchart.cc/inspirationlinks/lista-tuga)
+
 
 
 
