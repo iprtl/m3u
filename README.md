@@ -100,32 +100,411 @@ https://github.com/iprtl/m3u/raw/master/Pluto.m3u
 
 List of Channels (Freetv.m3u)
 
-- Tv Portuguesa 🇵🇹🇧🇷
-- RTP Internacional 🇵🇹
-- RTP 1 🇵🇹
-- RTP 2 🇵🇹
-- RTP 3 🇵🇹
-- RTP Memoria 🇵🇹
-- RTP Açores 🇵🇹
-- RTP Madeira 🇵🇹
-- RTP África 🇵🇹
-- ARTV 🇵🇹
-- SIC 🇵🇹
-- SIC Noticias 🇵🇹
-- SIC Replay 🇵🇹
-- SIC Alta Definição 🇵🇹
-- TVI Internacionalᶠᴴᴰ 🇵🇹
-- TVI 🇵🇹
-- CNN Portugal 🇵🇹
-- V+ TVI 🇵🇹
-- TVI Ficção 🇵🇹
-- TVI África 🇵🇹
-- TVI Reality 🇵🇹
-- Porto Canal ⚽️ 🇵🇹
-- TVM Internacional 🇲🇿
-- Fama tv 🇵🇹
-- Teledifusão de Macau 🇲🇴
-  
+❖ Buy me a Coffee
+❖ Tv Portuguesa 🇵🇹🇧🇷
+❖ RTP Internacional ᴸᴼᵂ 🇵🇹
+❖ RTP1 🇵🇹
+❖ RTP1 🇵🇹
+❖ RTP 2 🇵🇹
+❖ RTP 2 🇵🇹
+❖ RTP Noticias_ 🇵🇹
+❖ RTP Noticias_ ᴸᴼᵂ 🇵🇹
+❖ RTP Memoria ᴸᴼᵂ 🇵🇹
+❖ RTP Açores 🇵🇹
+❖ RTP Madeira ᴸᴼᵂ 🇵🇹
+❖ RTP África ᴸᴼᵂ 🇵🇹
+❖ ARTV 🇵🇹
+❖ SIC 🇵🇹
+❖ SIC Noticias 🇵🇹
+❖ SIC Noticias 🇵🇹
+❖ SIC Replay 🇵🇹
+❖ SIC Alta Definição 🇵🇹
+❖ TVI Internacional 🇵🇹
+❖ TVI Internacional 🇵🇹
+❖ TVI 🇵🇹
+❖ TVI 🇵🇹
+❖ TVI 🇵🇹
+❖ CNN Portugal 🇵🇹
+❖ CNN Portugal 🇵🇹
+❖ CNN Portugal 🇵🇹
+❖ V+ TVI 🇵🇹
+❖ TVI Ficção 🇵🇹
+❖ TVI África ᴸᴼᵂ 🇵🇹
+❖ TVI Reality 🇵🇹
+❖ Porto Canal ⚽️ 🇵🇹
+❖ Globo ʙᴀ ⚽️ 🇧🇷
+❖ Record Internacional
+❖ Conectv Algarve 🇵🇹🇧🇷
+❖ Conta Lá 🇵🇹 (Youtube)
+❖ TVM Internacional ᴸᴼᵂ 🇲🇿
+❖ Fama tv 🇵🇹
+❖ Teledifusão de Macau 🇲🇴
+❖ Rakuten Top Movies (💬 🇧🇷)
+❖ FreeTv Drama (💬 🇧🇷)
+❖ FreeTv Crime (💬 🇧🇷)
+❖ DarkFlix (💬 🇧🇷)
+❖ CineMonde (💬 🇧🇷)
+❖ Cindie Lite (💬 🇧🇷)
+❖ My Time Movie Network (💬 🇧🇷)
+❖ Travelxp (💬 🇧🇷)
+❖ Smithsonian Channel (💬 🇧🇷)
+❖ Pluto TV Documentários (💬 🇧🇷)
+❖ KFood 🇧🇷
+❖ Euronews 🇵🇹
+❖ Euronews 🇵🇹
+❖ Record News 🇧🇷
+❖ CNN Brasil 🇧🇷
+❖ CNN Money 🇧🇷
+❖ New Brasil 🇧🇷
+❖ JP News 🇧🇷
+❖ BM&C News 🇧🇷
+❖ Times Brasil 🇧🇷
+❖ Times Brasil 🇧🇷
+❖ 4POR4 🇧🇷
+❖ Celebrity Scene TV 🇺🇸
+❖ 24h 🇪🇸
+❖ 24h 🇪🇸
+❖ Negócios tv 🇪🇸
+❖ Canal Sur Más Noticias 🇪🇸
+❖ Noticias Telemundo Ahora 🇺🇸🇲🇽
+❖ Telemundo 47 🇲🇽🇺🇸
+❖ Telemundo 51 Florida 🇲🇽🇺🇸
+❖ Telemundo 52 California 🇲🇽🇺🇸
+❖ Telemundo 60 Texas 🇲🇽🇺🇸
+❖ Noticias Univision 24/7 🇲🇽
+❖ Telemundo Al Día 🇲🇽
+❖ Estrella News 🇲🇽
+❖ Rai News 24 🇮🇹
+❖ Euronews 🇫🇷
+❖ France Info 🇫🇷
+❖ Cnews 🇫🇷
+❖ Tv5 Monde Info 🇫🇷
+❖ RDI Canada 🇨🇦🇫🇷
+❖ France 24 🇫🇷🇬🇧
+❖ France 24 Fast 🇫🇷
+❖ Africa 24 🇫🇷
+❖ África News 🇺🇸🇫🇷
+❖ European Parliament tv 🇬🇧
+❖ Yahoo! Finance 🇺🇸
+❖ Bloomberg tv+ 🇺🇸
+❖ Car Chase News 🇺🇸
+❖ CNN 🇺🇸
+❖ CNN Internacional 🇺🇸
+❖ CNN Highlights 🇺🇸
+❖ CNN XPRESS 🇲🇽
+❖ CNN Fast 🇺🇸
+❖ 60 Minutes 🇺🇸
+❖ NewsWord 🇺🇸
+❖ Cheddar News 🇺🇸
+❖ Sky News 🇺🇸
+❖ Sky News Now 🇺🇸
+❖ Fox News Now 🇺🇸
+❖ FOX 5 Washington DC 🇺🇸
+❖ FOX 11 Los Angeles 🇺🇸
+❖ News12 New York 🇺🇸
+❖ GB News 🇬🇧
+❖ NBC News Now 🇺🇸
+❖ NBC 6 🇺🇸
+❖ CBS News Bay Area 🇺🇸
+❖ CBS News 🇺🇸
+❖ CBS News 24/7 🇺🇸
+❖ CBS News Boston 🇺🇸
+❖ CBS News Minnesota 🇺🇸
+❖ CBS News Pittsburgh 🇺🇸
+❖ CBS News Chicago 🇺🇸
+❖ CBS News Colorado 🇺🇸
+❖ CBS News Detroit 🇺🇸
+❖ CBS News Los Angeles 🇺🇸
+❖ CBS News Miami 🇺🇸
+❖ CBS News New York 🇺🇸
+❖ CBS News Philadelphia 🇺🇸
+❖ CBS News Sacramento 🇺🇸
+❖ Global News Toronto
+❖ ABC News Australia 🇦🇺
+❖ ABC News Live 🇺🇸
+❖ BBC News 🇺🇸
+❖ BBC News 🇬🇧
+❖ TRT World 🇬🇧
+❖ TVP World 🇬🇧
+❖ CGTN News 🇬🇧
+❖ Press Tvᴸᴼᵂ 🇺🇸
+❖ Al Jazeera 🇬🇧
+❖ DW 🇬🇧
+❖ NHK World 🇬🇧
+❖ Channel News Asia
+❖ Sky News Weather 🇺🇸
+❖ WeatherSpy 🇺🇸
+❖ Fox Weather 🇺🇸
+❖ AccuWeather Network 🇺🇸
+❖ WeatherNation TV 🇺🇸
+❖ The Weather Channel 🇺🇸🇨🇦
+❖ MeteoNews 🇦🇹
+❖ Canal 5 (🔉🇪🇸🇬🇧)
+❖ Canal 5 🇲🇽⚽️
+❖ Univision 🇲🇽🇸🇻 ⚽️
+❖ Universal Premiere (🔉🇪🇸🇬🇧💬🇪🇸)
+❖ Universal Cinema 🇺🇾
+❖ Universal Comedy 🇺🇾
+❖ Universal Crime 🇺🇾
+❖ Universal Reality 🇺🇾
+❖ Film4 (💬🇬🇧)
+❖ Crave 1 (💬🇬🇧) 🇨🇦
+❖ Crave 2 (💬🇬🇧) 🇨🇦
+❖ Crave 3 (💬🇬🇧) 🇨🇦
+❖ Crave 4 (💬🇬🇧) 🇨🇦
+❖ USA Network East (💬🇬🇧) 🇺🇸 ⚽️
+❖ MeTV Toons 🇺🇸
+❖ MeTV 🇺🇸
+❖ BBC América 🇺🇸
+❖ AMC+ (💬🇬🇧) 🇺🇸
+❖ AMC (💬🇬🇧) 🇺🇸
+❖ AMC
+❖ TNT 🇺🇸
+❖ FX 🇺🇸
+❖ FXX 🇺🇸
+❖ MGM Celebrates Black Cinema 🇺🇸
+❖ MGM+ (💬🇬🇧) 🇺🇸
+❖ MGM+ Drive In (💬🇬🇧) 🇺🇸
+❖ MGM+ Hits (💬🇬🇧) 🇺🇸
+❖ MGM+ Marquee (💬🇬🇧) 🇺🇸
+❖ HBO West (💬🇬🇧) 🇺🇸
+❖HBO East (💬🇬🇧) 🇺🇸
+❖ HBO 🇺🇸🇵🇭
+❖ HBO + (🔉🇪🇸🇬🇧💬🇪🇸)
+❖ HBO 2 (💬🇬🇧) 🇺🇸
+❖ HBO Signature East (💬🇬🇧) 🇺🇸
+❖ HBO Signature 🇺🇸🇵🇭
+❖ HBO Comedy (💬🇬🇧) 🇺🇸
+❖ HBO Xtreme (🔉🇪🇸🇬🇧💬🇪🇸)
+❖ HBO Zone (💬🇬🇧) 🇺🇸
+❖ HBO Hits 🇺🇸🇵🇭
+❖ ActionMAX East (🔉🇪🇸🇬🇧💬🇬🇧) 🇺🇸
+❖ MoreMAX East (🔉🇪🇸🇬🇧💬🇬🇧) 🇺🇸
+❖ 5StarMAX East (🔉🇪🇸🇬🇧💬🇬🇧) 🇺🇸
+❖ Cinemax East 🇺🇸
+❖ Cinemax West (🔉🇪🇸🇬🇧💬🇬🇧) 🇺🇸
+❖ Warner Channel 🇺🇸🇵🇭
+❖ Amazon Movies (💬🇬🇧) 🇺🇸
+❖ Starz East (🔉🇪🇸🇬🇧💬🇬🇧) 🇺🇸
+❖ Starz West (🔉🇪🇸🇬🇧💬🇬🇧) 🇺🇸
+❖ Starz Encore Action (🔉🇪🇸🇬🇧💬🇬🇧) 🇺🇸
+❖ Starz Edge (🔉🇪🇸🇬🇧💬🇬🇧) 🇺🇸
+❖ Starz Encore (🔉🇪🇸🇬🇧💬🇬🇧) 🇺🇸
+❖ Starz Comedy (🔉🇪🇸🇬🇧💬🇬🇧) 🇺🇸
+❖ Starz Cinema (🔉🇪🇸🇬🇧💬🇬🇧) 🇺🇸
+❖ Starz Kids & Family (🔉🇪🇸🇬🇧💬🇬🇧) 🇺🇸
+❖ REELZ (🔉🇪🇸🇬🇧💬🇬🇧) 🇺🇸
+❖ Screenpix Action (🔉🇪🇸🇬🇧💬🇬🇧) 🇺🇸
+❖ Screenpix Westerns (🔉🇪🇸🇬🇧💬🇬🇧) 🇺🇸
+❖ Screenpix (🔉🇪🇸🇬🇧💬🇬🇧) 🇺🇸
+❖ &flix⚾
+❖ The Addams Family 🇺🇸
+❖ Alfred Hitchcock Presents 🇺🇸
+❖ The Twilight Zone 🇺🇸
+❖Drone TV
+❖ WB Discovery 🇮🇹
+❖ WB HGTV 🇮🇹
+❖ WB DMAX 🇮🇹
+❖Move Sportivi in Viaggio 🇮🇹
+❖ Ttvl Channel 🇺🇸🇵🇭
+❖ Travel+ 🇧🇷
+❖ Viagens
+❖ Vambora Channel 🇧🇷
+❖ Travel Escapes 🇺🇸
+❖ 4k Travel
+❖ Nautical channel 🇺🇸
+❖ Outdoor Channel 🇺🇸
+❖ A&E 🇺🇸
+❖ FYI
+❖ TLC
+❖ History 🇺🇸
+❖ History 🇺🇸🇵🇭
+❖ Discovery 🇺🇸
+❖ Discovery Channel 🇺🇸🇵🇭
+❖ Discovery Channel 🇷🇺
+❖ Discovery Science 🇭🇰
+❖ Discovery Science 🇮🇪
+❖ IDDiscovery
+❖ Crime & Investigation 🇺🇸
+❖ Crime & Investigation 🇺🇸🇵🇭
+❖ National Geographic 🇺🇸
+❖ National Geographic
+❖ Nat Geo Wild 🇺🇸
+❖ Animal Planet
+❖ Animal Planet 🇺🇸🇵🇭
+❖ Love Nature 🇺🇸
+❖ Love Nature 🇧🇷
+❖ Real Wild 🇺🇸
+❖ Wild Planet 🇺🇸
+❖ Love The Planet 🇮🇹
+❖ ITV 1 🇬🇧
+❖ ITV 2 🇬🇧
+❖ ITV 3 🇬🇧
+❖ ITV 4 🇬🇧
+❖ BBC 2 🇬🇧
+❖ BBC 3 🇬🇧
+❖ InglesTotal 🇬🇧🇪🇸
+❖ Love Wine 🇺🇸
+❖ Telemundo 🇲🇽⚽️
+❖ La 1 🇪🇸
+❖ La 2 🇪🇸
+❖ ETB 1 🇪🇸
+❖ ETB 2 🇪🇸
+❖ Galicia Europa 🇪🇸
+❖ Canal Sur Andalucía 🇪🇸
+❖ France 2 🇫🇷
+❖ France 3 🇫🇷
+❖ France 4 🇫🇷
+❖ France 5 🇫🇷
+❖ 6Ter 🇫🇷
+❖ W9 🇫🇷
+❖ TF1 🇫🇷
+❖ LCI 🇫🇷
+❖ TFX 🇫🇷
+❖ WB Frisbee 🇮🇹
+❖ WB NOVE 🇮🇹
+❖ WB Real time 🇮🇹
+❖ WB Giallo 🇮🇹
+❖ Mediaset Italia 🇮🇹
+❖ Mediaset Italia 1 🇮🇹
+❖ Mediaset Canale 5 🇮🇹 ⚽️
+❖ Italian Fishing TV 🇮🇹
+❖ Tv da Pesca 🇧🇷
+❖ Das Erste 🇩🇪
+❖ ZDF 🇩🇪
+❖ VOX 🇩🇪
+❖ 3sat 🇩🇪⚽️
+❖ NDR 🇩🇪
+❖ FORMULA 1 Channel 🇺🇸 🏎️
+❖ Motorvision 🇧🇷🏎️
+❖ Racer Brasil 🇧🇷🏎️
+❖ Garage TV 🇦🇷🏎️
+❖ We Love Cars 🇺🇸🏎️
+❖ Goltv 🇺🇸🇵🇦⚽️
+❖ Старт⚽️
+❖ Sportdigital Fussball 🇩🇪⚽️
+❖ ,Eleven Sports 1 🇵🇱⚽️
+❖ ,Eleven Sports 2 🇵🇱⚽️
+❖ ,Eleven Sports 3 🇵🇱⚽️
+❖ ,Eleven Sports 4 🇵🇱⚽️
+❖ NBA 🇺🇸🏀
+❖ Eurosport 1 (🔊🇬🇧🇨🇿)🎱⛷🚴
+❖ Eurosport 2 (🔊🇬🇧🇨🇿)🏌🏼‍⛷⛸️🐴
+❖ Cazetv 🇧🇷⚽️🎾
+❖ Cazetv (Eventos) 🇧🇷
+❖ Now Sports PL 1 🇬🇧⚽️
+❖ Sky Sport Premier League 🇬🇧⚽️
+❖ Premier Sport 1 (🔊🇬🇧🇨🇿) 🎾
+❖ Premier Sport 2 (🔊🇬🇧🇨🇿) 🎾
+❖ TNT Sports 1 🇬🇧⚽️🏉🎱🏏
+❖ TNT Sports 2 🇬🇧⚽️🐴🎱
+❖ TNT Sports 3 🇬🇧⚽️🏉⛷
+❖ TNT Sports 4 🇬🇧⚽️⚾🏏
+❖ Hub Premier 1 🇸🇬⚽️
+❖ Hub Premier 2 🇸🇬⚽️
+❖ Hub Premier 3 🇸🇬⚽️
+❖ Hub Premier 4 🇸🇬⚽️
+❖ ESPN 🇨🇴⚽️
+❖ ESPN 2 🇨🇴⚽️
+❖ ESPN 3 🇨🇴⚽️🏎️
+❖ ESPN 4 🇨🇴⚽️🎾🏒
+❖ ESPN 5 🇨🇴⚽️🏀
+❖ ESPN 6 🇨🇴🥊🏈
+❖ ESPN 7 🇨🇴⚽️🏈
+❖ RMC Sport 1 🇫🇷🥊🥋
+❖ Canal +Sport 🇫🇷🏉🏎️⛵
+❖ Canal +Sport360 🇫🇷🏍🎾
+❖ L'Equipe 🇫🇷
+❖ L'Equipe 1 🇫🇷
+❖ L'Equipe 2 🇫🇷
+❖ Bein Sports 1 🇫🇷⚽️🏉🏀
+❖ Bein Sports 2 🇫🇷🏈
+❖ Bein Sports 3 🇫🇷🎾🤾‍
+❖ Bein Sports MAX 5 🇫🇷⚽️🏀
+❖ Bein Sports MAX 6 🇫🇷⚽️🐴
+❖ Bein Sports MAX 7 🇫🇷⚽️🏒🐴
+❖ Bein Sports MAX 8 🇫🇷⚽️
+❖ Bein Sports MAX 9 🇫🇷⚽️🤾‍
+❖ Bein Sports MAX 10 🇫🇷⚽️
+❖ Ziggo Sport 🇳🇱⚽️🎾
+❖ Ziggo Sport 2 🇳🇱⚽️
+❖ Ziggo Sport 3 🇳🇱⚽️🏍🏎️
+❖ Ziggo Sport 5 🇳🇱⚽️
+❖ Ziggo Sport 6 🇳🇱⚽️🏌🏼‍
+❖ CANAL+ Sport 🇨🇿⚽️
+❖ CANAL+ Sport 2 🇨🇿⚽️🎾
+❖ CANAL+ Sport 3 🇨🇿⚽️
+❖ CANAL+ Sport 4 🇨🇿⚽️
+❖ CANAL+ Sport 5 🇨🇿⚽️
+❖ CANAL+ Sport 6 🇨🇿⚽️
+❖ CANAL+ Sport 7 🇨🇿⚽️
+❖ CANAL+ Sport 8 🇨🇿⚽️
+❖ Arena Sport 1 🇭🇷⚽️
+❖ Arena Sport 1 🇷🇸⚽️
+❖ Arena Sport 2 🇭🇷⚽️🏈
+❖ Arena Sport 2 🇷🇸⚽️
+❖ Arena Sport 3 🇭🇷⚽️
+❖ Arena Sport 3 🇷🇸⚽️
+❖ Arena Sport 4 🇭🇷⚽️
+❖ Arena Sport 4 🇷🇸⚽️
+❖ Arena Sport 5 🇭🇷⚽️🏅
+❖ Arena Sport 5 🇷🇸⚽️
+❖ Arena Sport 6 🇭🇷⚽️🏀
+❖ Arena Sport 7 🇭🇷⚽️
+❖ Arena Sport 8 🇭🇷⚽️🏈
+❖ Arena Sport 9 🇭🇷⚽️
+❖ Arena Sport 10 🇭🇷⚽️
+❖ TV2 Sport 🇩🇰🏸🤾‍
+❖ TV2 Sport X 🇩🇰⚽️🤾‍
+❖ TV2 Sport 1 🇳🇴⚽️
+❖ TV2 Sport 2 🇳🇴🎾
+Wonder 80's
+ZigZag fm
+ONfm
+Tuga Fm
+Radio m80
+m80 80's
+M80Pop
+M80Rock
+M80Portugal
+Radio Comercial
+Comercial best 00's
+RFM
+RFM Dance
+RFM 80
+RFM Oceano Pacifico
+RFM On the Rock
+Radio Nostalgia
+Cidade fm
+Cidade Hoje fm
+Saudade Cidade fm
+Cidade Hip Hop fm
+Batida fm
+Radio Super FM
+Radio Oxigenio
+Radio Meo Sudoeste
+NovaEra
+Nove3cinco
+Hiper FM
+Rádio Mega Hits
+Radio Marginal
+Orbital
+Hip Hop Radio
+Smooth fm
+TSF
+RResnascenca
+Rádio Observador
+CMR
+Antena 1
+Antena 1
+Antena 1 Vida
+Antena 2 Jazzin
+Antena 3
+Radio brigantia
+
+---
+List of Channels (Pluto.m3u)
+
   🔹 REALITY SHOWS 🔹
 - RCN La Casa de los Famosos 🇨🇴
 - La Academia 🇲🇽
@@ -1254,6 +1633,7 @@ No video files are stored in this repository. The repository simply contains use
 ## ⭐ GitHub stars
 
 [![Stargazers over time](https://starchart.cc/inspirationlinks/lista-tuga.svg)](https://starchart.cc/inspirationlinks/lista-tuga)
+
 
 
 
