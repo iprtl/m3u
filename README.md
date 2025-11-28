@@ -40,8 +40,8 @@ Obrigado pela visita! ✨ Vamos construir juntos algo incrível.
 
 Obrigado a todas as pessoas que já contribuíram para o inspirationlinks!
 
-<a href="https://github.com/inspirationlinks/m3u/graphs/contributors">
-  <img src="https://contributors-img.firebaseapp.com/image?repo=inspirationlinks/m3u" />
+<a href="https://github.com/iprtl/m3u/graphs/contributors">
+  <img src="https://contributors-img.firebaseapp.com/image?repo=iprtl/m3u" />
 </a>
 
 ---
@@ -1502,6 +1502,7 @@ No video files are stored in this repository. The repository simply contains use
 ## ⭐ GitHub stars
 
 [![Stargazers over time](https://starchart.cc/inspirationlinks/lista-tuga.svg)](https://starchart.cc/inspirationlinks/lista-tuga)
+
 
 
 
