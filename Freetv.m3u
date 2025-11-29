@@ -31,7 +31,7 @@ https://video09.logicahost.com.br/tvportuguesa/tvportuguesa/playlist.m3u8?@iprtl
 
 #EXTINF:-1 tvg-chno="1" cuid="2" tvg-name="RTP Internacional 🇵🇹" tvg-id="RTP.Internacional.pt" user-agent="Wink/1.31.1" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/RTPi.png" group-logo="https://cdn-icons-png.freepik.com/512/4482/4482879.png" group-title="Portugal",❖ RTP Internacional ᴸᴼᵂ 🇵🇹
 #EXTVLCOPT:http-user-agent=IE
-https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8?@iprtlk
+https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8
 
 =====================❖========================
 
@@ -40,17 +40,15 @@ https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8?@iprtlk
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=f80351a117ba3f17a26e0e8cd4dc00c4:a2226def4bc8f249de2daf36b7c12b1e
-https://streaming-live.rtp.pt/liverepeater/smil:rtp1HD.smil/playlist.m3u8?@iprtlk
 http://streaming-live-app.rtp.pt/liverepeater/rtpClean1HD.smil/manifest.mpd
+https://streaming-live.rtp.pt/liverepeater/smil:rtp1HD.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="3" cuid="4" tvg-name="RTP 1 🇵🇹" tvg-id="RTP.1.HD.pt" user-agent="Wink/1.31.1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/rtp-1-pt.png" group-logo="https://cdn-icons-png.freepik.com/512/4482/4482879.png" group-title="Portugal",❖ RTP1 🇵🇹
-https://streaming-live.rtp.pt/liverepeater/rtp1HD.smil/playlist.m3u8?@iprtlk
-
-
+https://streaming-live.rtp.pt/liverepeater/rtp1HD.smil/playlist.m3u8
 =====================❖========================
 
 #EXTINF:-1 tvg-chno="4" cuid="5" tvg-name="RTP 2 🇵🇹" tvg-id="RTP.2.HD.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/rtp-2-hd-pt.png" user-agent="Wink/1.31.1" group-logo="https://cdn-icons-png.freepik.com/512/4482/4482879.png" group-title="Portugal",❖ RTP 2 🇵🇹
-https://streaming-live.rtp.pt/liverepeater/rtp2HD.smil/playlist.m3u8?@iprtlk
+https://streaming-live.rtp.pt/liverepeater/rtp2HD.smil/playlist.m3u8
 https://streaming-live.rtp.pt/liverepeater/rtp2.smil/playlist.m3u8?@iprtlk
 
 #EXTINF:-1 tvg-chno="5" cuid="6" tvg-name="RTP 2" tvg-id="RTP.2.HD.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/rtp-2-hd-pt.png" group-logo="https://cdn-icons-png.freepik.com/512/4482/4482879.png" group-title="Portugal",❖ RTP 2 🇵🇹
