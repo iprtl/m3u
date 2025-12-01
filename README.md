@@ -87,11 +87,11 @@ If you want to support me continuing the work, you can donate by clicking the do
 ## Playlist Inspiration Links
 Streamings by Various Countries 🇵🇹🇧🇷🇲🇽🇪🇸🇨🇦🇫🇷🇪🇸🇬🇧🇺🇸
 ```bash
-https://github.com/iprtl/m3u/raw/master/Freetv.m3u
+https://github.com/iprtl/m3u/raw/live/Freetv.m3u
 ```
 Only FreeStreaming by (Pluto and more)...
 ```bash
-https://github.com/iprtl/m3u/raw/master/Pluto.m3u
+https://github.com/iprtl/m3u/raw/live/Pluto.m3u
 ```
 
 * AVISO: Estas listas foram construidas por fontes encontradas na Internet. Não me responsabilizo com possíveis instabilidades que os canais possam vir a ter nem a sua durabilidade e não alojo listas, e, muito menos tenho servidores para tal.
@@ -1502,6 +1502,7 @@ No video files are stored in this repository. The repository simply contains use
 ## ⭐ GitHub stars
 
 [![Stargazers over time](https://starchart.cc/inspirationlinks/lista-tuga.svg)](https://starchart.cc/inspirationlinks/lista-tuga)
+
 
 
 
