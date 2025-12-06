@@ -1,6 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2200000
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2700000
 http://g-med.xyz:25461/live/vernis@hasanovic/AjDEQ@mKtXq-AJ/332.m3u8
 http://g-med.xyz:25461/live/vernis@hasanovic/AjDEQ@mKtXq-AJ/333.m3u8?sk2
 http://g-med.xyz:25461/live/vernis@hasanovic/AjDEQ@mKtXq-AJ/334.m3u8?sk3
