@@ -1,4 +1,11 @@
 #EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2200000
+http://g-med.xyz:25461/live/vernis@hasanovic/AjDEQ@mKtXq-AJ/322.m3u8
+http://superintendent.whatevergos.com:2095/live/ABDULLAH/aHVzDrpCMh/186856.m3u8
+
+
+#EXTM3U
 #EXT-X-VERSION:1
 #EXT-X-MEDIA-SEQUENCE:1
 #EXT-X-TARGETDURATION:1
@@ -7,14 +14,3 @@
 #EXT-X-ALLOW-CACHE:NO
 #EXTINF:1,
 http://g-med.xyz:25461/live/vernis@hasanovic/AjDEQ@mKtXq-AJ/322.ts
-
-
-
-
-#EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2200000
-http://g-med.xyz:25461/live/vernis@hasanovic/AjDEQ@mKtXq-AJ/322.m3u8
-http://superintendent.whatevergos.com:2095/live/ABDULLAH/aHVzDrpCMh/186856.m3u8
-
-
