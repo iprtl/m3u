@@ -5,9 +5,9 @@
 # █ █▄ █ ▄▀▀ █▀▄ █ █▀▄ ▄▀▄ ▀█▀ █ ▄▀▄ █▄ █   █   █ █▄ █ █▄▀ ▄▀▀
 # █ █ ▀█ ▄██ █▀  █ █▀▄ █▀█  █  █ ▀▄▀ █ ▀█   █▄▄ █ █ ▀█ █ █ ▄██
 # ――――――――――――――――――――――――――――――――――――――――――――――
-# (●) Last Update: 🔄 2025-12-05 GMT+7 "
+# (●) Last Update: 🔄 2025-12-06 GMT+7 "
 # (●) Service: FREETV Inspiration Links
-# (●) Total Channels: 446
+# (●) Total Channels: 420
 
 
 ⚠️ Atenção: Todas as ligações de streams disponibilizados nas listas foram retiradas da Internet. Apenas as organizo, disponibiliza e partilha. Não detenho qualquer servidor e/ou transmitimos ou re-emitimos qualquer tipo de sinal.
@@ -140,17 +140,13 @@ https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/in
 =====================❖======================== 
 
 #EXTINF:-1 tvg-chno="14" cuid="15" tvg-name="SIC Noticias 🇵🇹" tvg-id="SIC.Notícias.HD.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/sic-noticias-pt.png" group-logo="https://cdn-icons-png.freepik.com/256/5395/5395694.png" group-title="News 🇵🇹🇧🇷",❖ SIC Noticias 🇵🇹
-http://kstv.us:8080/live/wsMud3Rf4V/00664869463/48494.ts
+https://github.com/iprtl/m3u/raw/live/Streams/sicnoticias.m3u8
+
+#EXTINF:-1 tvg-chno="15" cuid="16" tvg-name="SIC Noticias 🇵🇹" tvg-id="SIC.Notícias.HD.pt" user-agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.106 Safari/537.36 OPR/38.0.2220.41" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/sic-noticias-pt.png" group-logo="https://cdn-icons-png.freepik.com/256/5395/5395694.png" group-title="News 🇵🇹🇧🇷",❖ SIC Noticias 🇵🇹
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:144.0) Gecko/20100101 Firefox/144.0
 #EXTVLCOPT:http-origin=https://sicnoticias.pt
 #EXTVLCOPT:http-referrer=https://sicnoticias.pt/
 https://sicnot.live.impresa.pt/sicnot.m3u8
-
-#EXTINF:-1 tvg-chno="15" cuid="16" tvg-name="SIC Noticias 🇵🇹" tvg-id="SIC.Notícias.HD.pt" user-agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.106 Safari/537.36 OPR/38.0.2220.41" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/sic-noticias-pt.png" group-logo="https://cdn-icons-png.freepik.com/256/5395/5395694.png" group-title="News 🇵🇹🇧🇷",❖ SIC Noticias 🇵🇹
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:144.0) Gecko/20100101 Firefox/144.0
-#EXTVLCOPT:http-origin=https://sic.pt
-#EXTVLCOPT:http-referrer=https://sic.pt/
-+https://d277k9d1h9dro4.cloudfront.net/out/v1/293e7c3464824cbd8818ab8e49dc5fe9/index_4.m3u8?@iprtlk
 
 =====================❖======================== 
 
@@ -168,7 +164,7 @@ https://production-fast-sic.content.okast.tv/fa2e8c4385712f9aa54bbe52b1bd9b6b/ch
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tvipt/sh/tviint.m3u8?@iprtlk
 
 #EXTINF:-1 tvg-chno="19" cuid="20" tvg-name="TVI Internacionalᶠᴴᴰ)" tvg-id="tvi.internacional.pt" tvg-logo="https://logo.m3uassets.com/tviinternacional.png" group-logo="https://cdn-icons-png.freepik.com/512/4482/4482879.png" group-title="Portugal",❖ TVI Internacional 🇵🇹
-https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNi8yMDI1IDE6MTo0MSBQTSZoYXNoX3ZhbHVlPTN3TnpicWQyMlQ4T3ArY25kVjRtYmc9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD0yNTFhNWE0My1hNjM5LTRhNDctOTYyYS04MjA4YmEyMjI1ZDY=/
+https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?@iprtlk?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTUvMjAyNSA0OjQwOjM2IFBNJmhhc2hfdmFsdWU9RXVNTEo3L2JrenRUUldoYm1LVExRUT09JnZhbGlkbWludXRlcz0xNDQwJmlkPTIyYmU1MTQzLTlmNmUtNDY3My05MTYwLTAzMTM4YjAzN2M2Ng==/
 
 =====================❖======================== 
 🌈 𝙏𝙑𝙡 
@@ -181,7 +177,7 @@ https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tvipt/s
 https://github.com/thomraider12/canaistvpt/raw/main/m3u8s/tvi.m3u8?@iprtlk
 
 #EXTINF:-1 tvg-chno="22" cuid="22" tvg-name="TVI 🇵🇹" tvg-id="TVI.HD.pt" tvg-logo="https://github.com/iprtl/p1/raw/master/logo/tvi.webp" group-logo="https://cdn-icons-png.freepik.com/512/4482/4482879.png" group-title="Portugal",❖ TVI 🇵🇹
-https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNi8yMDI1IDE6MTo0MCBQTSZoYXNoX3ZhbHVlPWhxTm1HaThxOEF1RVZUM3NVWGFqSnc9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD1iZDViMjQ0ZC1jNjNhLTRhNzItOTgwOC1kYmRhOThhZDI4OTI=/
+https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?@iprtlk?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTUvMjAyNSA0OjQwOjM1IFBNJmhhc2hfdmFsdWU9ek1MVk9SUVBoM3BBbkYzWlBGc2RtUT09JnZhbGlkbWludXRlcz0xNDQwJmlkPWRmMTQwN2FlLTg0NTMtNDhmNC04YjZlLWE4NzJmNjlkZjMxMg==/
 
 =====================❖======================== 
 🌈 CNN 𝙏𝙑𝙡 
@@ -194,7 +190,7 @@ https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tvipt/s
 https://github.com/thomraider12/canaistvpt/raw/main/m3u8s/cnnpt.m3u8?@iprtlk
 
 #EXTINF:-1 tvg-chno="25" cuid="24" tvg-name="CNN Portugal 🇵🇹" tvg-id="CNN.Portugal.HD.pt" tvg-logo="https://github.com/iprtl/p1/raw/master/logo/cnnpt.png" group-logo="https://cdn-icons-png.freepik.com/256/5395/5395694.png" group-title="News 🇵🇹🇧🇷",❖ CNN Portugal 🇵🇹
-https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNi8yMDI1IDE6MTo0MCBQTSZoYXNoX3ZhbHVlPW1SOURadm5oUVJ4UVhXamwrOXY4Umc9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD0zOTk0ZWQ2Mi00OTlmLTQ1YTUtYjk5OS1iMTc0ZmJiZmFmYWE=/
+https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?@iprtlk?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTUvMjAyNSA0OjQwOjM1IFBNJmhhc2hfdmFsdWU9cm9ER0VYTTQrSmdEWU5ucndsK3k2QT09JnZhbGlkbWludXRlcz0xNDQwJmlkPTBkYWQ4MmYyLWQyYTgtNGM5YS1iOGIzLWYyNWE4MmUyMDg3Nw==/
 
 =====================❖======================== 
 🌈
@@ -241,6 +237,9 @@ https://dfr80qz435crc.cloudfront.net/IJKL/Amagi/Caras/CarasTV_BR/CarasTV.m3u8
 #EXTINF:-1 tvg-chno="36" cuid="35" tvg-name="TDM Macau" tvg-id="" tvg-logo="https://logo.m3uassets.com/tdmmacau.png" group-logo="https://cdn-icons-png.freepik.com/512/4482/4482879.png" group-title="Portugal",❖ Teledifusão de Macau 🇲🇴
 https://globallive.tdm.com.mo/ch2/ch2.live/playlist.m3u8?@iprtlk
 
+#EXTINF:-1 tvg-chno="034" cuid="033" tvg-name="TV Zimbo" tvg-id="TV.Zimbo.pt" tvg-logo="https://i.imgur.com/SFD8CBh.png"group-logo="https://cdn-icons-png.freepik.com/512/4482/4482879.png" group-title="Portugal",❖ TV Zimbo 🇦🇴
+https://sgn-cdn-video.vods2africa.com/Tv-Zimbo/index.fmp4.m3u8
+
 #EXTINF:-1 tvg-chno="34" cuid="33" tvg-name="TVM Internacional" tvg-id="TVM.HD.mt" tvg-logo="https://www.tvm.co.mz/templates/templatetvmmain/favicon.ico" group-logo="https://cdn-icons-png.freepik.com/512/4482/4482879.png" group-title="Portugal",❖ TVM Internacional ᴸᴼᵂ 🇲🇿
 http://online.tvm.co.mz:1935/live/Channel2.smil/playlist.m3u8?@iprtlk
 
@@ -256,6 +255,15 @@ https://stream01.msolutionbrasil.com.br/hls/conectv/live.m3u8?@iprtlk
 
 #EXTINF:-1 tvg-chno="35" cuid="34" tvg-name="Famatv" tvg-id="" tvg-logo="https://famaradio.tv/wp-content/uploads/2024/12/cropped-favicon-1-180x180.png" group-logo="https://cdn-icons-png.freepik.com/512/4482/4482879.png" group-title="Portugal",❖ Fama tv 🇵🇹
 https://tv2.fastcast4u.com:3310/live/famatvlive.m3u8?@iprtlk
+
+#EXTINF:-1 tvg-chno="033" cuid="1611" tvg-name="Assim é Portugal 🇵🇹" tvg-id="" tvg-logo="https://assimeportugal.com/wp-content/uploads/2020/10/lg-assim.png" group-logo="https://cdn-icons-png.freepik.com/512/4482/4482879.png" group-title="Portugal",❖ Assim é Portugal 🇵🇹
+https://video04.logicahost.com.br/assimeportugal/assimeportugal/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="035" cuid="034" tvg-name="RFPtv" tvg-id="" tvg-logo="https://www.rfptv.pt/storage/479/config/MYvhCGImba3MPCwmRu2pZgGkFhy2L6tkTLsSO3LN.png" group-logo="https://cdn-icons-png.freepik.com/512/4482/4482879.png" group-title="Portugal",❖ RFPtv ᴸᴼᵂ 🇵🇹
+#EXTVLCOPT:http-origin=https://player.logicahost.com.br/
+#EXTVLCOPT:http-referrer=https://player.logicahost.com.br/
+https://video03.logicahost.com.br/rfptv/rfptv/chunklist_w1252917060.m3u8
+https://video03.logicahost.com.br/rfptv/rfptv/playlist.m3u8
 
 
 
@@ -471,7 +479,7 @@ https://d25usgadhphvwi.cloudfront.net/hls/main.m3u8?@iprtlk
 #EXTINF:-1 tvg-chno="52" cuid="64" tvg-name="CNN Money 🇧🇷" tvg-id="CNNBRASILMONEY" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKV7KXWk2M9BZzGpmLwjLaEu3r0Khx_nsfgQ&s" group-logo="https://cdn-icons-png.freepik.com/256/5395/5395694.png" group-title="News 🇵🇹🇧🇷",❖ CNN Money 🇧🇷
 +https://amg01391-sbtinfast-amg01391c4-lg-br-4597.playouts.now.amagi.tv/playlist/amg01391-addigital-cnnbrasil-lgbr/playlist.m3u8?@iprtlk
 
-#EXTINF:-1 tvg-chno="53" cuid="65" tvg-name="New Brasil" tvg-id="645a99282858cb0008ea8378" tvg-logo="https://images.pluto.tv/channels/645a99282858cb0008ea8378/colorLogoPNG.png" group-logo="https://cdn-icons-png.freepik.com/256/5395/5395694.png" group-title="News 🇵🇹🇧🇷",❖ New Brasil 🇧🇷
+#EXTINF:-1 tvg-chno="53" cuid="65" tvg-name="New Brasil" tvg-id="New.Brasil.pt" tvg-logo="https://images.pluto.tv/channels/645a99282858cb0008ea8378/colorLogoPNG.png" group-logo="https://cdn-icons-png.freepik.com/256/5395/5395694.png" group-title="News 🇵🇹🇧🇷",❖ New Brasil 🇧🇷
 https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/NewCo/New_Brasil_BR/New_Brasil.m3u8?@iprtlk
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/645a99282858cb0008ea8378/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=iprtlk&deviceDNT=1
 
@@ -1943,6 +1951,9 @@ http://193.35.224.219:80/732187/index.m3u8?token=cmJEZmg1MmMyZFNZZ1pXcGZhMjNtTWZ
 
 #EXTINF:-1 tvg-chno="" cuid="411" tvg-name="FORMULA 1 Channel 🇺🇸 🏎️" tvg-id="65c69ee3d77d450008c80438" tvg-logo="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/F1Channel_1920x1080_Jan_2025.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="Desportos 🌎",❖ FORMULA 1 Channel 🇺🇸 🏎️
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/65c69ee3d77d450008c80438/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=github.com/inspirationlinks&deviceDNT=1
+
+#EXTINF:-1 tvg-chno="" cuid="0411" tvg-name="MotoGP Channel" tvg-id="US3500007C4" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US3500007C4_20251110T235106SQUARE.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="Desportos 🌎",❖ MotoGP Channel
+https://jmp2.uk/stvp-US3500007C4
 
 #EXTINF:-1 tvg-chno="" cuid="412" tvg-name="Motorvision 🇧🇷" tvg-id="Motorvision.HD.pt" tvg-logo="https://images.pluto.tv/channels/60e5ea9a9bb4200008376f76/colorLogoPNG.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="Desportos 🌎",❖ Motorvision 🇧🇷🏎️
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=758
