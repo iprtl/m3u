@@ -4,6 +4,10 @@
 http://stalker.klma2023.net:80/play/live.php?mac=00:1B:79:F8:59:0E&stream=32983&extension=m3u8
 #http://stalker.klma2023.net:80/play/live.php?mac=00:1B:79:F8:59:0E&stream=32985&extension=m3u8
 #http://stalker.klma2023.net:80/play/live.php?mac=00:1B:79:F8:59:0E&stream=32987&extension=m3u8
+
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2200000
 #http://g-med.xyz:25461/live/vernis@hasanovic/AjDEQ@mKtXq-AJ/335.m3u8
 #http://g-med.xyz:25461/live/vernis@hasanovic/AjDEQ@mKtXq-AJ/336.m3u8
 #http://g-med.xyz:25461/live/vernis@hasanovic/AjDEQ@mKtXq-AJ/337.m3u8
