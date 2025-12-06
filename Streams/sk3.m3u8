@@ -1,0 +1,4 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2700000
+http://stalker.klma2023.net:80/play/live.php?mac=00:1B:79:F8:59:0E&stream=32987&extension=m3u8
