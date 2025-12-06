@@ -7,15 +7,3 @@ http://stalker.klma2023.net:80/play/live.php?mac=00:1B:79:F8:59:0E&stream=32987&
 http://g-med.xyz:25461/live/vernis@hasanovic/AjDEQ@mKtXq-AJ/335.m3u8?sk4
 http://g-med.xyz:25461/live/vernis@hasanovic/AjDEQ@mKtXq-AJ/336.m3u8?sk5
 http://g-med.xyz:25461/live/vernis@hasanovic/AjDEQ@mKtXq-AJ/337.m3u8?sk6
-
-
-
-#EXTM3U
-#EXT-X-VERSION:1
-#EXT-X-MEDIA-SEQUENCE:1
-#EXT-X-TARGETDURATION:1
-#EXT-X-I-FRAMES-ONLY
-#EXT-X-DISCONTINUITY-SEQUENCE:2
-#EXT-X-ALLOW-CACHE:NO
-#EXTINF:1,
-http://g-med.xyz:25461/live/vernis@hasanovic/AjDEQ@mKtXq-AJ/322.ts
