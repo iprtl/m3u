@@ -2,5 +2,5 @@
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2700000
 http://stalker.klma2023.net:80/play/live.php?mac=00:1B:79:F8:59:0E&stream=32985&extension=m3u8
-http://v3tv.live:80/play/live.php?mac=00:1A:79:27:82:95&stream=32985&extension=m3u8
-http://ringo4532.xyz:80/play/live.php?mac=00:1A:79:D2:27:8C&stream=227233&extension=m3u8
+#http://v3tv.live:80/play/live.php?mac=00:1A:79:27:82:95&stream=32985&extension=m3u8
+#http://ringo4532.xyz:80/play/live.php?mac=00:1A:79:D2:27:8C&stream=227233&extension=m3u8
