@@ -1,0 +1,4 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2700000
+http://iptvsub1-4kplus.com:80/play/live.php?mac=00:1A:79:00:12:98&stream=1282760&extension=m3u8
