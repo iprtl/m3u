@@ -3,6 +3,7 @@
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2700000
 http://stalker.klma2023.net:80/play/live.php?mac=00:1B:79:F8:59:0E&stream=9083&extension=m3u8
 http://stalker.klma2023.net:80/play/live.php?mac=00:1A:79:10:D4:58&stream=9083&extension=m3u8
+http://iptvsub1-4kplus.com:80/play/live.php?mac=00:1A:79:00:12:98&stream=368055&extension=m3u8
 http://v3tv.live:80/play/live.php?mac=00:1A:79:27:82:95&stream=9083&extension=m3u8
 http://v3tv.live:80/play/live.php?mac=00:1A:79:F5:5F:02&stream=9083&extension=m3u8
 
