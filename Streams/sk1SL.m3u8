@@ -1,0 +1,4 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2700000
+http://telle.cc:80/play/live.php?mac=00:1A:79:7E:2F:ED&stream=1862128&extension=m3u8
