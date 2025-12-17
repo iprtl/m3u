@@ -299,9 +299,6 @@ https://stream.ichibantv.com:3764/hybrid/play.m3u8
 #EXTINF:-1 cuid="199" tvg-name="" tvg-id="63221bafdc6e110007b50270" tvg-logo="https://images.pluto.tv/channels/63221bafdc6e110007b50270/colorLogoPNG.png" group-logo="https://cdn-icons-png.freepik.com/512/3636/3636254.png" group-title="𝐏𝐥𝐮𝐭𝐨 ☆ Kids 🧒🌎",☆ Oggy e as Baratas Tontas 🇧🇷
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/63221bafdc6e110007b50270/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=github.com/inspirationlinks&deviceDNT=1
 
-#EXTINF:-1 cuid="200" tvg-name="" tvg-id="" tvg-logo="" group-logo="https://cdn-icons-png.freepik.com/512/3636/3636254.png" group-title="𝐏𝐥𝐮𝐭𝐨 ☆ Kids 🧒🌎",☆ 
-https://
-
 =====================❖======================== 
 🌈 𝙆𝙞𝙙𝙨 🧒 🇺🇸🇬🇧
 =====================❖======================== 
@@ -1411,6 +1408,52 @@ https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fa1612a669ba00007020
 #EXTINF:-1 cuid="1007" tvg-name="TMZ" tvg-id="" tvg-logo="https://canvas-lb.tubitv.com/opts/bX6Ju5cXjY5SMw==/ac6425fe-0808-4566-ba6a-066d22dc3829/CHgQeDoFMS4xLjZAAQ==" group-logo="https://cdn-icons-png.freepik.com/256/8020/8020259.png" group-logo="https://cdn-icons-png.freepik.com/256/8020/8020259.png" group-logo="https://cdn-icons-png.freepik.com/256/8020/8020259.png" group-title="𝐏𝐥𝐮𝐭𝐨 ☆ Tv • Celebrities 🤩",☆ The TMZ Channel 🇺🇸
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-tmz-lgus/playlist.m3u8
 
+
+
+#EXTINF:-1 tvg-chno="" cuid="246" tvg-id="ScreenPix.Action.HD.us2" tvg-logo="https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/ScreenPix_Action._SL170_FMpng_.png" group-logo="https://cdn-icons-png.freepik.com/512/17285/17285060.png" group-title="𝐏𝐥𝐮𝐭𝐨 ☆ Films 📽️",☆ Screenpix Action (🔉🇪🇸🇬🇧💬🇬🇧) 🇺🇸
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a340ce5a22ce1a5f54c2c5dd18e8fe7d:afa091d637e61d585ad036fd4b8a3235
+https://OTTB.live.cf.ww.aiv-cdn.net/PDX/clients/dash/enc/2bsytxoitz/out/v1/312e6d1e20e744c0a9bf25519f6da91b/cenc.mpd?@iprtlk
+
+#EXTINF:-1 tvg-chno="" cuid="247" tvg-id="ScreenPix.Western.HD.us2" tvg-logo="https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/ScreenPix_Westerns_HD._SL170_FMpng_.png" group-logo="https://cdn-icons-png.freepik.com/512/17285/17285060.png" group-title="𝐏𝐥𝐮𝐭𝐨 ☆ Films 📽️",☆ Screenpix Westerns (🔉🇪🇸🇬🇧💬🇬🇧) 🇺🇸
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=429d2a8c13dc9a40a13ef8d4e2325209:631892e5f5451b5596528e194c44d95b
+https://ottb.live.cf.ww.aiv-cdn.net/PDX/clients/dash/enc/ikqumnhhew/out/v1/1f50afbc65ba48e79f8325022bdb72a0/cenc.mpd?@iprtlk
+
+#EXTINF:-1 tvg-chno="" cuid="248" tvg-id="ScreenPix.HD.us2" tvg-logo="https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/ScreenPix._SL170_FMpng_.png" group-logo="https://cdn-icons-png.freepik.com/512/17285/17285060.png" group-title="𝐏𝐥𝐮𝐭𝐨 ☆ Films 📽️",☆ Screenpix (🔉🇪🇸🇬🇧💬🇬🇧) 🇺🇸
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=537cc6cb07fe4bcc63d06c3018d5e35c:7420e0237883a05e4d2ddafaf114b050
+https://ottb.live.cf.ww.aiv-cdn.net/PDX/clients/dash/enc/9lvpst0mpb/out/v1/ba33b946c96e4a60886e2d91156398cd/cenc.mpd?@iprtlk
+
+
+#EXTINF:-1 tvg-chno="37" cuid="41" tvg-name="Top.Movies.-.Rakuten" tvg-id="UK:.Top.Movies.-.Rakuten.TV.be" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork-negative/b92a85cc-d53a-4ccd-af24-b985ce3db702-width200-quality90.png" group-logo="https://cdn-icons-png.freepik.com/512/17285/17285060.png" group-title="𝐏𝐥𝐮𝐭𝐨 ☆ Films 📽️",☆ Rakuten Top Movies (💬 🇧🇷)
+https://top-movies-rakuten-tv-pt.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6741/master.m3u8?@iprtlk
+
+#EXTINF:-1 tvg-chno="38" cuid="42" tvg-name="FreeTv Drama 🇧🇷" tvg-id="plex.tv.FreeTV.Drama.plex" tvg-logo="https://provider-static.plex.tv/epg/cms/production/9a2c0242-bbe7-4cce-8cb3-aab334d39ea5/FreeTVDrama_Circle_1500x1000_-_Ralph_Campillo.png" group-logo="https://cdn-icons-png.freepik.com/512/17285/17285060.png" group-title="𝐏𝐥𝐮𝐭𝐨 ☆ Films 📽️",☆ FreeTv Drama (💬 🇧🇷)
+https://oly-ftvdrbr.otteravision.com/oly/ftvdrbr/ftvdrbr.m3u8?@iprtlk
+
+#EXTINF:-1 tvg-chno="39" cuid="44" tvg-name="FreeTv Crime 🇧🇷" tvg-id="plex.tv.FreeTV.Crime.plex" tvg-logo="https://provider-static.plex.tv/epg/cms/production/d31bf899-f1db-46d8-a1b8-bdc314a0497e/FreeTVCrime_Circle_1500x1000_-_Ralph_Campillo.png" group-logo="https://cdn-icons-png.freepik.com/512/17285/17285060.png" group-title="𝐏𝐥𝐮𝐭𝐨 ☆ Films 📽️",☆ FreeTv Crime (💬 🇧🇷)
+https://oly-ftvcbr.otteravision.com/oly/ftvcbr/ftvcbr.m3u8?@iprtlk
+
+#EXTINF:-1 tvg-chno="60" cuid="43" tvg-name="Dark Matter" tvg-id="plex.tv.Dark.Matter.TV.plex" tvg-logo="https://provider-static.plex.tv/epg/cms/production/8430bfd1-b119-4f3d-8992-8921cad397e2/dark_matter_tv_logo_dark.png" group-logo="https://cdn-icons-png.freepik.com/512/17285/17285060.png" group-title="𝐏𝐥𝐮𝐭𝐨 ☆ Films 📽️",☆ Dark Matter (💬 🇧🇷)
+https://d29h829bjuxghm.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_lgchannels-cdp-publica/ea98b139-7ef5-43a3-9b1f-2917cf4417fb/.m3u8
+https://d29h829bjuxghm.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992147&ads.xumo_streamId=99992147&ads.channelId=99992147&ads.csid=lgchannels_br_tricoasttvdarkmattertvportuguesebrazil_ssai&ads.channelName=tricoasttvdarkmattertvportuguesebrazil_br&ads.xumo_contentName=TricoastTVDarkMatterTVPortugueseBrazil&ads.xumo_contentId=2626&ads.xumo_providerName=TricoastTVDarkMatterTVPortugueseBrazil&ads.xumo_providerId=2626&ads.content_category=IAB1-5&ads.content_genre=movies&ads.content_language=en&ads.content_rating=tv-g&ads.coppa=0&ads.did=[IFA]&ads.is_lat=[LMT]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.appName=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_version=[APP_VERSION]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.app_storeurl=[APP_STOREURL]
+
+#EXTINF:-1 tvg-chno="40" cuid="45" tvg-name="DarkFlix 🇧🇷" tvg-logo="https://d14vd6r4ppsx57.cloudfront.net/media/brand/DARK_FLIX_-_logo_-_soul_reduzido_1EoBqbu.png" group-logo="https://cdn-icons-png.freepik.com/512/17285/17285060.png" group-title="𝐏𝐥𝐮𝐭𝐨 ☆ Films 📽️",☆ DarkFlix (💬 🇧🇷)
+https://video01.soultv.com.br/darkflix/darkflix/index.m3u8?@iprtlk
+
+#EXTINF:-1 tvg-chno="41" cuid="46" tvg-name="CineMonde 🇧🇷" tvg-logo="https://d14vd6r4ppsx57.cloudfront.net/media/brand/LOGO_fTt5hKq.png" group-logo="https://cdn-icons-png.freepik.com/512/17285/17285060.png" group-title="𝐏𝐥𝐮𝐭𝐨 ☆ Films 📽️",☆ CineMonde (💬🔊 🇧🇷)
+https://video01.soultv.com.br/cinemonde/cinemonde/playlist.m3u8?@iprtlk
+
+#EXTINF:-1 tvg-chno="42" cuid="48" tvg-name="Cindie Lite 🇧🇷" tvg-logo="https://d1y2dphb29uhu6.cloudfront.net/c/433/images/cqYA0kmQKlUvEWe95h6O7g.png" group-logo="https://cdn-icons-png.freepik.com/512/17285/17285060.png" group-title="𝐏𝐥𝐮𝐭𝐨 ☆ Films 📽️",☆ Cindie Lite (💬🔊 🇧🇷)
+https://cc-hqw8u5r1nshjc.akamaized.net/scheduler/scheduleMaster/352.m3u8?@iprtlk
+
+#EXTINF:-1 tvg-chno="43" cuid="49" tvg-name="My Time Movie Network 🇧🇷" tvg-id="USBC3900018K6" tvg-logo="https://github.com/iprtl/p1/raw/master/logo/myTimeMovie.webp" group-logo="https://cdn-icons-png.freepik.com/512/17285/17285060.png" group-title="𝐏𝐥𝐮𝐭𝐨 ☆ Films 📽️",☆ My Time Movie Network (💬 🇧🇷)
+https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8?@iprtlk
+
 =====================❖======================== 
 🌈RUNTIME
 =====================❖========================
@@ -1552,7 +1595,46 @@ https://d3is52sgpnlx4c.cloudfront.net/10901/88885508/hls/master.m3u8?withResolut
 #EXTINF:-1 cuid="1242" tvg-name="FilmRise Sci-Fi 🇺🇸" tvg-id="plex.tv.FilmRise.Sci-Fi.plex" tvg-logo="https://provider-static.plex.tv/epg/cms/production/0835a579-991e-4dd3-a8c3-9e66eede3f68/FilmRiseSciFi_Logo_Color.png" group-logo="https://cdn-icons-png.freepik.com/512/17285/17285060.png" group-title="𝐏𝐥𝐮𝐭𝐨 ☆ Films 📽️",☆ FilmRise Sci-Fi 🇺🇸
 https://d3is52sgpnlx4c.cloudfront.net/10901/88885513/hls/master.m3u8?withResolution=true&ads.xumo_channelId=88885513
 
-=====================❖======================== 🌈
+
+
+
+=====================🔹========================
+PLUTO MOVIES
+=====================🔹========================
+
+#EXTINF:-1 tvg-chno="" cuid="249" tvg-name="Universal Movies" tvg-id="Universal.Movies.us2" tvg-logo="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/UniversalMovies-72-dpi-1920-x-1080-16-9-logo-aplha-channel-freevee-PNG_Jan_2025.png" group-logo="https://cdn-icons-png.freepik.com/512/17285/17285060.png" group-title="𝐏𝐥𝐮𝐭𝐨 ☆ Films 📽️",☆ Universal Movies 🇺🇸
+https://d4whmvwm0rdvi.cloudfront.net/10007/99993051/hls/master.m3u8?ads.xumo_channelId=99993051&ads.asnw=169843&ads.afid=158702674&ads.sfid=16520667&ads.csid=lgchannels_us_rottentomatoesrttv_ssai_cro&ads._fw_is_lat=[LMT]&ads._fw_us_privacy=[US_PRIVACY]&ads._fw_coppa=0&ads._fw_did=[IFA]&ads._fw_vcid2=512116:[IFA]&ads._fw_app_bundle=[APP_BUNDLE]&ads._fw_app_store_url=[APP_STOREURL]&ads._fw_content_category=IAB1-7&ads._fw_content_genre=television&ads._fw_content_language=en&ads._fw_content_rating=tv-14&ads._fw_deviceMake=[DEVICE_MAKE]&ads._fw_device_model=[DEVICE_MODEL]&ads._fw_deviceType=3-Connected_TV&ads.appVersion=[APP_VERSION]&ads.appName=lgchannels&ads.xumo_contentId=2659&ads.xumo_contentName=RottenTomatoesRTTV&ads.xumo_providerId=2659&ads.xumo_providerName=RottenTomatoesRTTV&ads.channelId=99993051&ads._fw_ifa_type=dpid
+
+
+
+#EXTINF:-1 tvg-chno="" cuid="250" tvg-name="Samuel Goldwyn Films" tvg-id="plex.tv.Samuel.Goldwyn.Channel.plex" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a3e63712-9262-428d-9e1c-a00c179a5454/samuel-goldwyn-channel-logo.png" group-title="Entretenimento 🌎",❖ Samuel Goldwyn Films 🇺🇸
+https://samuelgoldwyn-films-1-us.roku.wurl.tv/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-chno="" cuid="251" tvg-name="" tvg-id="" tvg-logo="https://i.imgur.com/ETZqCII.png" group-logo="https://cdn-icons-png.freepik.com/512/17285/17285060.png" group-title="𝐏𝐥𝐮𝐭𝐨 ☆ Films 📽️",☆ Amazon Movies (💬🇬🇧) 🇺🇸
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3e429eb91a1791d55df2a554dc58dda7:2f688f94ef580a61eada6932598137e4
+https://abbfefcaaaaaaaamd5xd44ij4vbyj.a17d0dfbc05b48999f461f3f6cff0eb6.emt.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/oynu8tcxfa/out/v1/ab567b96658c4d84ae1fc6c67110987c/cenc.mpd?@iprtlk
+
+
+
+#EXTINF:-1 tvg-chno="" cuid="252" tvg-name="The Addams Family 🇺🇸" tvg-id="5d81607ab737153ea3c1c80e" tvg-logo="https://images.pluto.tv/channels/5d81607ab737153ea3c1c80e/colorLogoPNG.png" group-logo="https://cdn-icons-png.freepik.com/512/17285/17285060.png" group-title="𝐏𝐥𝐮𝐭𝐨 ☆ Films 📽️",☆ The Addams Family 🇺🇸
+https://stitcher.pluto.tv/stitch/hls/channel/5d81607ab737153ea3c1c80e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=cb5874fc-6948-11ef-b8e3-ea3db3d97a96
+
+
+
+#EXTINF:-1 tvg-chno="" cuid="253" tvg-name="Alfred Hitchcock Presents 🇺🇸" tvg-id="US1800014CG" tvg-logo="https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/alfred_hitchcock_presents_us.png" group-logo="https://cdn-icons-png.freepik.com/512/17285/17285060.png" group-title="𝐏𝐥𝐮𝐭𝐨 ☆ Films 📽️",☆ Alfred Hitchcock Presents 🇺🇸
+https://xumo-xumoent-ch825-ku23q.fast.nbcuni.com/live/master.m3u8?@iprtlk
+https://d3f4oii5n0oeqi.cloudfront.net/11701/88814618/hls/master.m3u8?ads.xumo_channelId=88814618&ads.xumo_streamId=88814618
+https://d24e5my1vwzi2w.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ss5zd16s2phyk/out/v1/2db37dd41ee44050a6edad58f9a283be/HLS_CMAF_DRM/index.m3u8?@iprtlk
+
+
+
+#EXTINF:-1 tvg-chno="" cuid="254" tvg-name="The Twilight Zone 🇺🇸" tvg-id="67352ed93a61d4000881f9fa" tvg-logo="https://images.pluto.tv/channels/67352ed93a61d4000881f9fa/colorLogoPNG.png" group-logo="https://cdn-icons-png.freepik.com/512/17285/17285060.png" group-title="𝐏𝐥𝐮𝐭𝐨 ☆ Films 📽️",☆ The Twilight Zone 🇺🇸
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/67352ed93a61d4000881f9fa/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&deviceMake=github.com/inspirationlinks&deviceDNT=1
+
+=====================❖========================
 
 #EXTINF:-1 cuid="1243" tvg-name="Movie Favorites By Lifetime 🇺🇸" tvg-id="63335b193583440007c859fb" tvg-logo="https://images.pluto.tv/channels/63335b193583440007c859fb/colorLogoPNG.png" group-logo="https://cdn-icons-png.freepik.com/512/17285/17285060.png" group-title="𝐏𝐥𝐮𝐭𝐨 ☆ Films 📽️",☆ Movie Favorites By Lifetime 🇺🇸
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/63335b193583440007c859fb/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&deviceMake=Revolucioniptv&deviceDNT=1
@@ -1602,17 +1684,11 @@ https://e6391536675d4e7f8ce0c849732f33b5.mediatailor.us-east-1.amazonaws.com/v1/
 
 =====================❖======================== 🌈
 
-#EXTINF:-1 cuid="1257" tvg-name="Samuel Goldwyn Films" tvg-id="plex.tv.Samuel.Goldwyn.Channel.plex" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a3e63712-9262-428d-9e1c-a00c179a5454/samuel-goldwyn-channel-logo.png" group-logo="https://cdn-icons-png.freepik.com/512/17285/17285060.png" group-title="𝐏𝐥𝐮𝐭𝐨 ☆ Films 📽️",☆ Samuel Goldwyn Films 🇺🇸
-https://samuelgoldwyn-films-1-us.roku.wurl.tv/playlist.m3u8
-
 #EXTINF:-1 cuid="1258" tvg-name="CW Gold" tvg-id="plex.tv.CW.Gold.plex" tvg-logo="https://images.cwtv.com/images_172358/masters/cw/universal/channels/cw-gold/channel-icon-unfocused.png" group-logo="https://cdn-icons-png.freepik.com/256/8633/8633669.png" group-title="𝐏𝐥𝐮𝐭𝐨 ☆ Tv • Series 📺",☆ CW Gold 🇺🇸
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01312-nexstarmediagro-cwgold-nondrmhlstsv2-cw/playlist.m3u8
 
 #EXTINF:-1 cuid="1259" tvg-name="CW Forever" tvg-id="plex.tv.CW.Forever.plex" tvg-logo="https://images.cwtv.com/images_172359/masters/cw/universal/channels/cw-forever/channel-icon-focused.png" group-logo="https://cdn-icons-png.freepik.com/256/8633/8633669.png" group-title="𝐏𝐥𝐮𝐭𝐨 ☆ Tv • Series 📺",☆ CW Forever 🇺🇸
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01312-nexstarmediagro-cwforever-nondrmhlstsv2-cw/playlist.m3u8
-
-#EXTINF:-1 cuid="1260" tvg-name="Universal Movies" tvg-id="" tvg-logo="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/UniversalMovies-72-dpi-1920-x-1080-16-9-logo-aplha-channel-freevee-PNG_Jan_2025.png" group-logo="https://cdn-icons-png.freepik.com/512/17285/17285060.png" group-title="𝐏𝐥𝐮𝐭𝐨 ☆ Films 📽️",☆ Universal Movies 🇺🇸
-https://d4whmvwm0rdvi.cloudfront.net/10007/99993051/hls/master.m3u8?ads.xumo_channelId=99993051&ads.asnw=169843&ads.afid=158702674&ads.sfid=16520667&ads.csid=lgchannels_us_rottentomatoesrttv_ssai_cro&ads._fw_is_lat=[LMT]&ads._fw_us_privacy=[US_PRIVACY]&ads._fw_coppa=0&ads._fw_did=[IFA]&ads._fw_vcid2=512116:[IFA]&ads._fw_app_bundle=[APP_BUNDLE]&ads._fw_app_store_url=[APP_STOREURL]&ads._fw_content_category=IAB1-7&ads._fw_content_genre=television&ads._fw_content_language=en&ads._fw_content_rating=tv-14&ads._fw_deviceMake=[DEVICE_MAKE]&ads._fw_device_model=[DEVICE_MODEL]&ads._fw_deviceType=3-Connected_TV&ads.appVersion=[APP_VERSION]&ads.appName=lgchannels&ads.xumo_contentId=2659&ads.xumo_contentName=RottenTomatoesRTTV&ads.xumo_providerId=2659&ads.xumo_providerName=RottenTomatoesRTTV&ads.channelId=99993051&ads._fw_ifa_type=dpid
 
 #EXTINF:-1 cuid="1261" tvg-name="Free tv 🇨🇱" tvg-id="FRBD4100002R7" tvg-logo="https://is.gd/iNTG8K" group-logo="https://cdn-icons-png.freepik.com/512/17285/17285060.png" group-title="𝐏𝐥𝐮𝐭𝐨 ☆ Films 📽️",☆ Popcorn Central 🇨🇱
 https://jmp2.uk/stvp-FRBD4100002R7
@@ -3077,6 +3153,7 @@ https://dfhsahpa45kk2.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25
 
 #EXTINF:-1 cuid="1419" tvg-name="Wired2Fish" tvg-id="66854521ca7468000880acfe" tvg-logo="https://provider-static.plex.tv/epg/cms/production/146827c9-ba03-4f25-86b2-d99c501e8227/wired2fish_white.png" group-logo="https://raw.githubusercontent.com/iprtl/p1/master/logosTv/iconsGrups/sports.png" group-title="𝐏𝐥𝐮𝐭𝐨 ☆ Sports • Hunt & Fishing 🐗🎣",☆ Wired2Fish 🇺🇸
 https://linear-80.frequency.stream/dist/localnow/80/hls/master/playlist.m3u8
+https://b0530716d58747539cefbb49fbcf833c.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-80-WIRED2FISH-SPORTSTRIBALTV/mt/sportstribaltv/80/hls/master/playlist.m3u8
 https://ssai.gumgum.com/gs/stream/master/navio/hls.m3u8?gg.ads.publisher_app_bundle=__APP_BUNDLE__&gg.ads.publisher_app_name=__APP_NAME__&gg.ads.publisher_app_url=__STORE_URL__&gg.ads.content_channel=Wired2fish%20TV&gg.ads.content_id=1680&gg.ads.content_title=Wired2fish%20TV&ads.deviceDNT=__LIMIT_AD_TRACKING__&ads.deviceId=__DEVICE_ID__&ads.deviceIdType=__DEVICE_ID_TYPE__&ads.gdpr=__IS_GDPR__&ads.gdprConsent=__GDPR_CONSENT__&stream_url=https%3A%2F%2Flinear-80.frequency.stream%2Fdist%2Fdistrotv%2F80%2Fhls%2Fmaster%2Fplaylist.m3u8&ads.islive=1&ads.streamtype=live&ads.vf=20251201
 
 #EXTINF:-1 cuid="1420" tvg-name="Darcizzle Offshore Fishing 🇺🇸" tvg-logo="https://github.com/iprtl/p1/raw/master/logo/DarcizzleFishing.webp" group-logo="https://raw.githubusercontent.com/iprtl/p1/master/logosTv/iconsGrups/sports.png" group-title="𝐏𝐥𝐮𝐭𝐨 ☆ Sports • Hunt & Fishing 🐗🎣",☆ Darcizzle Offshore Fishing 🇺🇸
