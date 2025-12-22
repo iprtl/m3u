@@ -2,7 +2,7 @@
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2700000
 http://stalker.klma2023.net:80/play/live.php?mac=00:1B:79:F8:59:0E&stream=73435&extension=m3u8
-http://telle.cc:80/play/live.php?mac=00:1A:79:7E:2F:ED&stream=91896&extension=m3u8
+#http://telle.cc:80/play/live.php?mac=00:1A:79:7E:2F:ED&stream=91896&extension=m3u8
 #http://stalker.klma2023.net/play/live.php?mac=00:1B:79:F8:59:0E&stream=73437&extension=m3u8
 #http://stalker.klma2023.net:80/play/live.php?mac=00:1A:79:10:D4:58&stream=73437&extension=m3u8
 #http://v3tv.live:80/play/live.php?mac=00:1A:79:27:82:95&stream=73437&extension=m3u8
