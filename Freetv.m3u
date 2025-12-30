@@ -5,9 +5,9 @@
 # █ █▄ █ ▄▀▀ █▀▄ █ █▀▄ ▄▀▄ ▀█▀ █ ▄▀▄ █▄ █   █   █ █▄ █ █▄▀ ▄▀▀
 # █ █ ▀█ ▄██ █▀  █ █▀▄ █▀█  █  █ ▀▄▀ █ ▀█   █▄▄ █ █ ▀█ █ █ ▄██
 # ――――――――――――――――――――――――――――――――――――――――――――――
-# (●) Last Update: 🔄 2025-12-28 GMT+7 "
+# (●) Last Update: 🔄 2025-12-25 GMT+7 "
 # (●) Service: FREETV Inspiration Links
-# (●) Total Channels: 536
+# (●) Total Channels: 450
 
 
 ⚠️ Atenção: Todas as ligações de streams disponibilizados nas listas foram retiradas da Internet. Apenas as organizo, disponibiliza e partilha. Não detenho qualquer servidor e/ou transmitimos ou re-emitimos qualquer tipo de sinal.
@@ -164,6 +164,7 @@ https://sicnot.live.impresa.pt/sicnot.m3u8
 
 
 
+
 #EXTINF:-1 tvg-chno="16" cuid="17" tvg-name="SIC Replay 🇵🇹" tvg-id="SIC.Replay.pt" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/SICReplay.webp" group-logo="https://cdn-icons-png.freepik.com/512/4482/4482879.png" group-title="Portugal...",❖ SIC Replay 🇵🇹
 https://production-fast-sic.content.okast.tv/fa2e8c4385712f9a7dce4ff2dcebac2e/channels/d9070446-8448-455e-8075-773b1ba12562/d47eae0f-ad77-414a-9a1d-2a6628ba18c3/media_.m3u8?@iprtlk
 
@@ -178,7 +179,7 @@ https://production-fast-sic.content.okast.tv/fa2e8c4385712f9aa54bbe52b1bd9b6b/ch
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tvipt/sh/tviint.m3u8?@iprtlk
 
 #EXTINF:-1 tvg-chno="19" cuid="20" tvg-name="TVI Internacionalᶠᴴᴰ)" tvg-id="tvi.internacional.pt" tvg-logo="https://logo.m3uassets.com/tviinternacional.png" group-logo="https://cdn-icons-png.freepik.com/512/4482/4482879.png" group-title="Portugal...",❖ TVI Internacional 🇵🇹
-https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMzAvMjAyNSA0OjQ5OjQxIFBNJmhhc2hfdmFsdWU9SjZEdk1lSW50VTBlNFRqUWdBckRkQT09JnZhbGlkbWludXRlcz0xNDQwJmlkPTlkYTQyNTc0LTFkYjItNGRiZi1iNjlkLTJiNmE4YWIyZDNlZQ==/
+https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjYvMjAyNSA0OjQ0OjQ0IFBNJmhhc2hfdmFsdWU9LytIdnBhSmVFUmlHcndxaHRIOVp1UT09JnZhbGlkbWludXRlcz0xNDQwJmlkPTNiOWRiZGViLWEwMTUtNDZjZi04Njc0LWYyMmMxMDQ4MTU3Mg==/
 
 
 
@@ -189,7 +190,7 @@ https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tvipt/s
 https://github.com/thomraider12/canaistvpt/raw/main/m3u8s/tvi.m3u8?@iprtlk
 
 #EXTINF:-1 tvg-chno="22" cuid="22" tvg-name="TVI 🇵🇹" tvg-id="TVI.HD.pt" tvg-logo="https://github.com/iprtl/p1/raw/master/logo/tvi.webp" group-logo="https://cdn-icons-png.freepik.com/512/4482/4482879.png" group-title="Portugal...",❖ TVI 🇵🇹
-https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMzAvMjAyNSA0OjQ5OjQwIFBNJmhhc2hfdmFsdWU9SlBBMHdtRzM0eTRQdThCVzlHRTVWQT09JnZhbGlkbWludXRlcz0xNDQwJmlkPWQ1OGVkYzFjLTcyM2EtNDlkNi04N2U0LWNiMzlmYmE0ZjU1MQ==/
+https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjYvMjAyNSA0OjQ0OjQyIFBNJmhhc2hfdmFsdWU9bW93NHh0bGdWY1VjdGhzSHZQeTV6dz09JnZhbGlkbWludXRlcz0xNDQwJmlkPTQzYjI5Y2MyLWFhM2ItNDgyYy05OTg4LWJhZDk3ZWNlOWJhZg==/
 
 
 
@@ -200,7 +201,7 @@ https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tvipt/s
 https://github.com/thomraider12/canaistvpt/raw/main/m3u8s/cnnpt.m3u8?@iprtlk
 
 #EXTINF:-1 tvg-chno="25" cuid="24" tvg-name="CNN Portugal 🇵🇹" tvg-id="CNN.Portugal.HD.pt" tvg-logo="https://github.com/iprtl/p1/raw/master/logo/cnnpt.png" group-logo="https://cdn-icons-png.freepik.com/256/5395/5395694.png" group-title="News 🇵🇹🇧🇷",❖ CNN Portugal 🇵🇹
-https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMzAvMjAyNSA0OjQ5OjQwIFBNJmhhc2hfdmFsdWU9cit4OEdZY2lsaFVObTgyYlVlMGRqZz09JnZhbGlkbWludXRlcz0xNDQwJmlkPTMzZWU4YTZjLWE5ZmQtNDc0My04ODg2LWVjNzBmMWIyNDhiNQ==/
+https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjYvMjAyNSA0OjQ0OjQzIFBNJmhhc2hfdmFsdWU9OGRNUTNmYXgzUmVFeHp4TWovSTdvQT09JnZhbGlkbWludXRlcz0xNDQwJmlkPWNiOTA0NGM3LTU5OGEtNGIwMy05NTgwLThhOGIwOGYwNzYzMQ==/
 
 
 
@@ -244,7 +245,7 @@ https://a128aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash/enc/ds9ertnhrl/
 +https://02.arlivre.online/globosp/index.m3u8?@iprtlk
 http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8?@iprtlk
 
-#EXTINF:-1 tvg-chno="031" cuid="030" tvg-name="+SBT" tvg-id="" tvg-logo="https://i.imgur.com/g47oQ4n.png" group-logo="https://cdn-icons-png.freepik.com/512/4482/4482879.png" group-title="Portugal...",❖ +SBT 🇧🇷
+#EXTINF:-1 tvg-chno="0031" cuid="0030" tvg-name="+SBT" tvg-id="" tvg-logo="https://i.imgur.com/g47oQ4n.png" group-logo="https://cdn-icons-png.freepik.com/512/4482/4482879.png" group-title="Portugal...",❖ +SBT 🇧🇷
 https://aovivo.maissbt.com/v1/manifest/215c0da80606fed29372070168106400a6ca7e1a/SSAI_TITAN_V3/ac63b34e-0615-4402-a359-892f205ccd70/5.m3u8
 
 #EXTINF:-1 tvg-chno="59" cuid="36" tvg-name="Record" tvg-id="Record.pt" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/recordtv.webp" group-logo="https://cdn-icons-png.freepik.com/512/4482/4482879.png" group-title="Portugal...",❖ Record Internacional 🇧🇷
@@ -1019,6 +1020,15 @@ https://viamotionhsi.netplus.ch/live/eds/film4/browser-dash/film4.mpd
 http://92.118.251.84:8080/film4/index.m3u8
 
 
+#EXTINF:-1 tvg-chno="" cuid="189" tvg-name="SkyPremiere" tvg-id="SkyPremiereHD.uk" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/SkyCinemaPremiere.webp" group-logo="https://logo.m3uassets.com/skypremier.png" group-title="Entretenimento 🌎",❖ Sky Cinema Premiere 🇬🇧
+http://cord-cutter.net:8080/live/rachelle@pilon/rachelle@2024/35256.ts
+#EXTINF:-1 tvg-chno="" cuid="0189" tvg-name="SkyPremiere" tvg-id="SkyPremiereHD.uk" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/SkyCinemaPremiere.webp" group-logo="https://logo.m3uassets.com/skypremier.png" group-title="Entretenimento 🌎",❖ Sky Cinema Premiere 🇬🇧
+https://a1xs.vip/210003
+
+#EXTINF:-1 tvg-chno="" cuid="190" tvg-name="Sky.ScFi/HorHD" tvg-id="Sky.ScFi/HorHD.uk" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/SkyCinemaFi%26Horror.webp" group-logo="https://cdn-icons-png.freepik.com/256/18310/18310951.png" group-title="Entretenimento 🌎",❖ Sky Cinema Scifi & Horror 🇬🇧
+http://cord-cutter.net:8080/live/rachelle@pilon/rachelle@2024/35248.ts
+
+
 
 
 #EXTINF:-1 tvg-chno="" cuid="398" tvg-name="Rock.Entertainment" tvg-id="Rock.Entertainment.id" tvg-logo="https://www.visionplus.id/images/repository/644/644-LOGO-m.png" group-logo="https://cdn-icons-png.freepik.com/256/18310/18310951.png" group-title="Entretenimento 🌎",❖ Rock Entertainment (🔉🇬🇧)🇮🇩
@@ -1121,6 +1131,7 @@ CANAIS 🇧🇷🇮🇩
 
 #EXTINF:-1 tvg-chno="" cuid="1100" tvg-name="" tvg-id="São.Paulo/SP..AMC.HD.br" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/amcpt.webp" group-logo="https://cdn-icons-png.freepik.com/256/18310/18310951.png" group-title="Entretenimento 🌎",❖ AMC 🇧🇷
 http://45.235.0.78/AMC/playlist.m3u8
+http://cord-cutter.net:8080//live/rachelle@pilon/rachelle@2024/164938.ts
 +http://onebox.sbs:80/tanaka/302718/7692327.m3u8
 
 #EXTINF:-1 tvg-chno="" cuid="1101" tvg-name="" tvg-id="São.Paulo/SP..Sony.br" tvg-logo="https://logo.m3uassets.com/sonychannel.png" group-logo="https://cdn-icons-png.freepik.com/256/18310/18310951.png" group-title="Entretenimento 🌎",❖ Canal Sony 🇧🇷
@@ -1208,6 +1219,7 @@ TNT 🇺🇸🇧🇷
 =====================🔹========================
 
 #EXTINF:-1 tvg-chno="" cuid="208" tvg-id="São.Paulo/SP..TNT.SÉRIES.HD.br" tvg-logo="https://logo.m3uassets.com/tntseries.png" group-logo="https://cdn-icons-png.freepik.com/256/18310/18310951.png" group-title="Entretenimento 🌎",❖ TNT Series 🇧🇷
+http://cord-cutter.net:8080//live/rachelle@pilon/rachelle@2024/164958.ts
 http://45.235.0.78/TNT_Series/index.m3u8 
 
 #EXTINF:-1 tvg-chno="" cuid="208" tvg-id="São.Paulo/SP..Tnt.novelas.br" tvg-logo="https://logo.m3uassets.com/tntnovelas.png" group-logo="https://cdn-icons-png.freepik.com/256/18310/18310951.png" group-title="Entretenimento 🌎",❖ TNT Novelas 🇧🇷
@@ -2125,6 +2137,7 @@ http://telle.cc:80/play/live.php?mac=00:1A:79:7E:2F:ED&stream=91896&extension=ts
 
 #EXTINF:-1 tvg-chno="" cuid="420" tvg-name="GolTv" tvg-id="Canal.Gol.TV.Estados.Unidos.sv" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/goltv.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="Desportos 🌎",❖ Goltv 🇺🇸🇵🇦
 #EXTGRP:Liga Portuguesa ⚽️
+http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/279431.m3u8
 http://189.50.210.3:8008/play/a06w/index.m3u8
 http://177.234.230.206:8011/play/a01s/index.m3u8
 
@@ -2162,11 +2175,9 @@ TIVIBU SPOR
 #EXTGRP:Liga Portuguesa ⚽️
 http://65.108.239.207/t1/index.m3u8
 
-
 #EXTINF:-1 tvg-chno="" cuid="601" tvg-id="TİVİBU.SPOR.2.tr" tvg-name="Tivibu Spor 2" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/tivibu.webp" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="Desportos 🌎",❖ Tivibu Spor 2 🇹🇷
 #EXTGRP:Liga Portuguesa ⚽️
 http://65.108.239.207/t2/index.m3u8
-
 
 #EXTINF:-1 tvg-chno="" cuid="601" tvg-id="TİVİBU.SPOR.2.tr" tvg-name="Tivibu Spor 2" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/tivibu.webp" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="Desportos 🌎",❖ Tivibu Spor 2 🇹🇷
 #EXTGRP:Liga Portuguesa ⚽️
@@ -2180,10 +2191,18 @@ http://65.108.239.207/t3/index.m3u8
 #EXTGRP:Liga Portuguesa ⚽️
 http://65.108.239.207/t4/index.m3u8
 
+
+
+
+#EXTINF:-1 tvg-chno="" cuid="604" tvg-name="Ring Bulgaria" tvg-id="RING.BG.bg" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/bulgaria/ring-bg.png" tvg-logo="https://iili.io/3DPOPG2.webp" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="Desportos 🌎",❖ Ring 🇧🇬
+#EXTGRP:Liga Portuguesa ⚽️
+http://x3m.li/live/C4bpRcSY/fuD6!VUc/558.m3u8
+
 #EXTINF:-1 tvg-chno="" cuid="604" tvg-name="Ring Bulgaria" tvg-id="RING.BG.bg" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/bulgaria/ring-bg.png" tvg-logo="https://iili.io/3DPOPG2.webp" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="Desportos 🌎",❖ Ring 🇧🇬
 #EXTGRP:Liga Portuguesa ⚽️
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://213.169.39.30:5210
+http://212.5.55.11:8000/play/a002
 
 =====================🔹========================
 EUROSPORTS
@@ -2198,6 +2217,7 @@ EUROSPORTS
 https://dash2.antik.sk/stream/nvidia_eurosport1/playlist_cenc.mpd?@iprtlk
 http://178.23.88.55/Eurosport_1/index.m3u8
 http://iptv.tvzatak.uk/HxnSbJgDPX/bhYQUR31B/seyJ1cmwiOiJodHRwOi8vN2FkMzhiZTAub3R0b2xvay5uZXQvaXB0di9ZNUdHVDNQV1hYTk05VkU5OThONEZFQUgvMjI4L2luZGV4Lm0zdTgiLCJpZCI6ODIwfQ%3D%3D/fast
+http://dvr2.kablova.tv/Eurosport_1/mpegts
 
 #EXTINF:-1 tvg-chno="" cuid="431" tvg-id="Eurosport.2.HD.ro" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/Eurosport2.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="Desportos 🌎",❖ Eurosport 2 (🔊🇬🇧🇨🇿)🏌🏼‍⛷⛸️🐴
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
@@ -2210,6 +2230,7 @@ http://178.23.88.55/Eurosport_2/index.m3u8
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%3B+rv%3A142.0%29+Gecko%2F20100101+Firefox%2F142.0&Accept-Encoding=gzip%2C+deflate%2C+br%2C+zstd&Accept=%2A%2F%2A
 #KODIPROP:inputstream.adaptive.manifest_headers=User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%3B+rv%3A142.0%29+Gecko%2F20100101+Firefox%2F142.0&Accept-Encoding=gzip%2C+deflate%2C+br%2C+zstd&Accept=%2A%2F%2A
 https://op.sajmi.org/play/Eurosport%202.m3u8
+http://dvr2.kablova.tv/Eurosport_2/mpegts
 
 =====================🔹========================
 NBA 🇺🇸 | TELEDEPORTE | Fox Sport 🇺🇸
@@ -2221,6 +2242,7 @@ NBA 🇺🇸 | TELEDEPORTE | Fox Sport 🇺🇸
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=84077d18bcf234a42de3745be106a87f:aee3069c062ec8ee6bfdd32985f287ef
 https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/2jbycgm3g3/out/v1/066dd9325648468c9ecdc8b272370931/cenc.mpd?@iprtlk
+https://a1xs.vip/40000031
 
 
 
@@ -2394,6 +2416,9 @@ SKY SPORTS 🇬🇧
 #EXTINF:-1 tvg-chno="" cuid="467" tvg-id="Now.Sports.Premier.League.1.hk" tvg-name="Now Sports PL 1" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/NowSportspl.webp" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="Desportos 🌎",❖ Now Sports PL 1 🇭🇰⚽️
 #EXTGRP:Engleses 🇬🇧
 http://109.61.81.147:1935/cdn7/767/mpegts?token=1d8c18a3d377f5418d2501aa54082b60
+
+#EXTINF:-1 tvg-chno="" cuid="467" tvg-id="Now.Sports.Premier.League.1.hk" tvg-name="Now Sports PL 1" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/NowSportspl.webp" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="Desportos 🌎",❖ Now Sports PL 1 🇭🇰⚽️
+#EXTGRP:Engleses 🇬🇧
 https://a1xs.vip/1100001
 
 
@@ -2474,6 +2499,10 @@ https://a1xs.vip/2000002
 #EXTGRP:Engleses 🇬🇧
 https://bd-streams.site/crx/master.php?id=skysme|Referer=https://bd-streams.site/crx/master.php?id=skyscric
 https://a1xs.vip/2000001
+
+#EXTINF:-1 tvg-chno="" cuid="804" tvg-id="SkySpMainEvHD.uk" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/SkySportsMainEvent.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="Desportos 🌎",❖ Sky Sport Main Event 🇬🇧
+#EXTGRP:Engleses 🇬🇧
+https://l.hilay.tv/skysportsmaineventud
 
 #EXTINF:-1 tvg-chno="" cuid="0804" tvg-id="Sky.Sport.Top.Event.de" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/SkySportsMainEvent.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="Desportos 🌎",❖ Sky Sport Top Event 🇩🇪
 #EXTGRP:Engleses 🇬🇧
@@ -2586,6 +2615,9 @@ https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/4yiko4it
 #KODIPROP:inputstream.adaptive.license_key=902e5ec0e3d05e665daa32fc23f4f59e:7b2322a273843921a43e2c61dac7cae3
 https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/6otiglnptp/out/v1/add7499679b0422cb6791f7701f95ecc/cenc.mpd?amznDtid=AOAGZA014O5RE&encoding=segmentBase
 
+#EXTINF:-1 tvg-chno="" cuid="428" tvg-name="Sportv" tvg-id="São.Paulo/SP..SporTV.3..br" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/Sportv3.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="Desportos 🌎",❖ Sportv 3 🇧🇷🥊
+#EXTGRP:Brasileiros 🇧🇷
+http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278944.m3u8
 
 
 
@@ -2600,6 +2632,10 @@ https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/6otiglnptp/
 #KODIPROP:inputstream.adaptive.license_key=56b79c1782b30e6b6fc973b0e8fd4104:fa38aaa865a57eda7c77444697ba8ed3
 https://abgqhhbaaaaaaaamgyske232j4one.otte.live.cf.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/nelfyucw9a/out/v1/6ffb2c365ad14f88b154591beb43d1f6/cenc.mpd
 http://45.235.0.78/Premiere_Clubes/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="" cuid="429" tvg-name="Sportv" tvg-id="São.Paulo/SP..Premiere.Clubes.br" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/Premiere.webp" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="Desportos 🌎",❖ Premiere Clubes 🇧🇷⚽️
+#EXTGRP:Brasileiros 🇧🇷
+http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278939.m3u8
 
 #EXTINF:-1 tvg-chno="" cuid="429" tvg-name="Sportv" tvg-id="São.Paulo/SP..Premiere.2.br" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/Premiere.webp" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="Desportos 🌎",❖ Premiere 2 🇧🇷⚽️
 #EXTGRP:Brasileiros 🇧🇷
@@ -2680,6 +2716,7 @@ ESPN COLOMBIA 🇨🇴
 #EXTGRP:Hispânicos 🇲🇽🇨🇴
 http://198.204.231.170:46201/stream/univisontelemundo/tudn/master.m3u8
 https://streaming-live-fcdn.api.prd.univisionnow.com/tudn/tudn.isml/hls/tudn.m3u8?(vpn🇺🇸)
+http://cord-cutter.net:8080/live/rachelle@pilon/rachelle@2024/82241.ts
 
 
 
@@ -2876,6 +2913,9 @@ https://a1xs.vip/140003
 #EXTGRP:Liga Portuguesa ⚽️
 #EXTVLCOPT:http-user-agent=Wink/1.31.1
 https://github.com/iprtl/m3u/raw/live/Streams/ziggo4.m3u8|User-Agent=Wink/1.31.1
+
+#EXTINF:-1 tvg-chno="" cuid="0492" tvg-name="Ziggo Sport 4" tvg-id="Ziggo.Sport.4.nl"  user-agent="Wink/1.31.1" tvg-logo="https://logo.m3uassets.com/ziggosport4.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="Desportos 🌎",❖ Ziggo Sport 4 🇳🇱⚽️🎾
+#EXTGRP:Liga Portuguesa ⚽️
 https://a1xs.vip/140004
 
 #EXTINF:-1 tvg-chno="" cuid="493" tvg-name="Ziggo Sport 5" tvg-id="Ziggo.Sport.5.nl" tvg-logo="https://logo.m3uassets.com/ziggosport5.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="Desportos 🌎",❖ Ziggo Sport 5 🇳🇱⚽️
@@ -3197,6 +3237,8 @@ Digi Sport 🇷🇴
 https://pulse1.zalmora.cfd/kuk1/usergendx472snx93kdgwqrnd.m3u8
 https://github.com/cattviptv2605/m3u8-world-/raw/refs/heads/main/primasport1.m3u8
 http://91.201.172.14:35005/
+http://103.161.35.76/RO-115/index.m3u8
+http://lb.wisp.cat/lb0/DigiSport_1_HD_RO/mpegts?token=JYtCLkiUhf
 
 #EXTINF:-1 tvg-chno="" cuid="558" tvg-id="Digi.Sport.2.HD.ro" tvg-chno="43" tvg-name="Digi Sport" tvg-logo="https://www.digisport.ro/static/theme-repo/bin/images/logo-digisport.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="Desportos 🌎",❖ Digi Sport 2 🇷🇴⚽️🤾‍
 #EXTGRP:Leste Europeu 🇺🇦🇨🇿🇷🇴🇭🇷🇷🇸
@@ -3206,12 +3248,22 @@ https://ultra2.falconx1.cfd/kuk2/usergendx0ul2J8tsDx9lgcddwqrnd.m3u8
 https://github.com/cattviptv2605/m3u8-world-/raw/refs/heads/main/primasport2.m3u8
 http://91.201.172.14:35006/
 
+#EXTINF:-1 tvg-chno="" cuid="558" tvg-id="Digi.Sport.2.HD.ro" tvg-chno="43" tvg-name="Digi Sport" tvg-logo="https://www.digisport.ro/static/theme-repo/bin/images/logo-digisport.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="Desportos 🌎",❖ Digi Sport 2 🇷🇴⚽️🤾‍
+#EXTGRP:Leste Europeu 🇺🇦🇨🇿🇷🇴🇭🇷🇷🇸
+http://103.161.35.76/RO-116/index.m3u8
+http://lb.wisp.cat/lb0/DigiSport_2_HD_RO/mpegts?token=JYtCLkiUhf
+
 #EXTINF:-1 tvg-chno="" cuid="559" tvg-id="Digi.Sport.3.HD.ro" tvg-chno="44" tvg-name="Digi Sport" tvg-logo="https://www.digisport.ro/static/theme-repo/bin/images/logo-digisport.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="Desportos 🌎",❖ Digi Sport 3 🇷🇴⚽️
 #EXTGRP:Leste Europeu 🇺🇦🇨🇿🇷🇴🇭🇷🇷🇸
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://ultra2.falconx1.cfd/000/
 https://ultra2.falconx1.cfd/kuk3/usergendx0slfk9QssDx9lgxlsdmqrnd.m3u8
 https://github.com/cattviptv2605/m3u8-world-/raw/refs/heads/main/primasport3.m3u8
+http://103.161.35.76/RO-117/index.m3u8
+
+#EXTINF:-1 tvg-chno="" cuid="559" tvg-id="Digi.Sport.3.HD.ro" tvg-chno="44" tvg-name="Digi Sport" tvg-logo="https://www.digisport.ro/static/theme-repo/bin/images/logo-digisport.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="Desportos 🌎",❖ Digi Sport 3 🇷🇴⚽️
+#EXTGRP:Leste Europeu 🇺🇦🇨🇿🇷🇴🇭🇷🇷🇸
+http://lb.wisp.cat/lb0/DigiSport3FHDRO/mpegts?token=JYtCLkiUhf
 
 #EXTINF:-1 tvg-chno="" cuid="560" tvg-id="Digi.Sport.4.HD.ro" tvg-chno="45" tvg-name="Digi Sport" tvg-logo="https://www.digisport.ro/static/theme-repo/bin/images/logo-digisport.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="Desportos 🌎",❖ Digi Sport 4 🇷🇴⚽️🤾‍
 #EXTGRP:Leste Europeu 🇺🇦🇨🇿🇷🇴🇭🇷🇷🇸
@@ -3220,19 +3272,39 @@ https://github.com/cattviptv2605/m3u8-world-/raw/refs/heads/main/primasport3.m3u
 https://kudos111.terranovax1.cfd/kuk4/usergendx0thc60skrdnnd.m3u8
 https://github.com/cattviptv2605/m3u8-world-/raw/refs/heads/main/primasport4.m3u8
 
+#EXTINF:-1 tvg-chno="" cuid="560" tvg-id="Digi.Sport.4.HD.ro" tvg-chno="45" tvg-name="Digi Sport" tvg-logo="https://www.digisport.ro/static/theme-repo/bin/images/logo-digisport.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="Desportos 🌎",❖ Digi Sport 4 🇷🇴⚽️🤾‍
+#EXTGRP:Leste Europeu 🇺🇦🇨🇿🇷🇴🇭🇷🇷🇸
+http://103.161.35.76/RO-118/index.m3u8
+http://lb.wisp.cat/lb0/DigiSport4FHDRO/mpegts?token=JYtCLkiUhf
+
 =====================🔹========================
 ARENA SPORT 🇭🇷🇷🇸
 =====================🔹========================
 
-#EXTINF:-1 tvg-chno="" cuid="561" tvg-id="Arena.Sport.1.HD.hr" tvg-name="" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/arena1.webp" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="Desportos 🌎",❖ Arena Sport 1 🇭🇷⚽️
+#EXTINF:-1 tvg-chno="" cuid="576" tvg-id="Arena.Premium.1.HD.(RS).rs" tvg-name="" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/arenapremium1.webp" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="Desportos 🌎",❖ Arena 1 Premium 🇷🇸⚽️
 #EXTGRP:Leste Europeu 🇺🇦🇨🇿🇷🇴🇭🇷🇷🇸
+https://hls8.ua3.wisp.cat/Arena_Sport_Premium_1/video.m3u8?token=JYtCLkiUhf
+
+#EXTINF:-1 tvg-chno="" cuid="577" tvg-id="Arena.Premium.2.HD.(RS).rs" tvg-name="" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/arenapremium2.webp" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="Desportos 🌎",❖ Arena 2 Premium 🇷🇸⚽️
+#EXTGRP:Leste Europeu 🇺🇦🇨🇿🇷🇴🇭🇷🇷🇸
+https://hls8.ua3.wisp.cat/Arena_Sport_Premium_2/video.m3u8?token=JYtCLkiUhf
+
+#EXTINF:-1 tvg-chno="" cuid="578" tvg-id="Arena.Premium.3.HD.(RS).rs" tvg-name="" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/arenapremium3.webp" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="Desportos 🌎",❖ Arena 3 Premium 🇷🇸⚽️
+#EXTGRP:Leste Europeu 🇺🇦🇨🇿🇷🇴🇭🇷🇷🇸
+https://hls8.ua3.wisp.cat/Arena_Sport_Premium_3/video.m3u8?token=JYtCLkiUhf
+
+
+
+
+#EXTINF:-1 tvg-chno="" cuid="561" tvg-id="Arena.Sport.1.HD.hr" tvg-name="" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/arena1.webp" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="Desportos 🌎",❖ Arena Sport 1 🇭🇷⚽️
+#EXTGRP:Liga Portuguesa ⚽️
 +http://185.166.252.230/Arena1/index.m3u8?@iprtlk
 
 #EXTINF:-1 tvg-chno="" cuid="562" tvg-id="Arena.Sport.1.HD.(RS).rs" tvg-name="" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/arena1.webp" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="Desportos 🌎",❖ Arena Sport 1 🇷🇸⚽️
-#EXTGRP:Leste Europeu 🇺🇦🇨🇿🇷🇴🇭🇷🇷🇸
+#EXTGRP:Liga Portuguesa ⚽️
 http://85.11.144.9:50999/21
 +http://78.108.251.7/Arena_Sport_1/index.m3u8?@iprtlk
-
+https://hls8.ua3.wisp.cat/ArenaSport1_HR/video.m3u8?token=JYtCLkiUhf
 
 #EXTINF:-1 tvg-chno="" cuid="563" tvg-id="Arena.Sport.2.HD.hr" tvg-name="" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/arena2.webp" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="Desportos 🌎",❖ Arena Sport 2 🇭🇷⚽️🏈
 #EXTGRP:Liga Portuguesa ⚽️
@@ -3242,6 +3314,7 @@ http://85.11.144.9:50999/21
 #EXTGRP:Liga Portuguesa ⚽️
 http://85.11.144.9:50999/22
 +http://78.108.251.7/Arena_Sport_2/index.m3u8?@iprtlk
+https://hls8.ua3.wisp.cat/ArenaSport2_HR/video.m3u8?token=JYtCLkiUhf
 
 
 #EXTINF:-1 tvg-chno="" cuid="565" tvg-id="Arena.Sport.3.HD.hr" tvg-name="" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/arena3.webp" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="Desportos 🌎",❖ Arena Sport 3 🇭🇷⚽️
@@ -3252,6 +3325,7 @@ http://85.11.144.9:50999/22
 #EXTGRP:Leste Europeu 🇺🇦🇨🇿🇷🇴🇭🇷🇷🇸
 http://85.11.144.9:50999/23
 +http://78.108.251.7/Arena_Sport_3/index.m3u8?@iprtlk
+https://hls8.ua3.wisp.cat/ArenaSport3_HR/video.m3u8?token=JYtCLkiUhf
 
 
 #EXTINF:-1 tvg-chno="" cuid="567" tvg-id="Arena.Sport.4.HD.hr" tvg-name="" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/arena4.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="Desportos 🌎",❖ Arena Sport 4 🇭🇷⚽️
@@ -3262,6 +3336,7 @@ http://85.11.144.9:50999/23
 #EXTGRP:Leste Europeu 🇺🇦🇨🇿🇷🇴🇭🇷🇷🇸
 http://85.11.144.9:50999/24
 +http://78.108.251.7/Arena_Sport_4/index.m3u8?@iprtlk
+https://hls8.ua3.wisp.cat/ArenaSport4_HR/video.m3u8?token=JYtCLkiUhf
 
 
 #EXTINF:-1 tvg-chno="" cuid="569" tvg-id="Arena.Sport.5.HD.hr" tvg-name="" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/arena5.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="Desportos 🌎",❖ Arena Sport 5 🇭🇷⚽️🏅
@@ -3272,6 +3347,7 @@ http://85.11.144.9:50999/24
 #EXTGRP:Leste Europeu 🇺🇦🇨🇿🇷🇴🇭🇷🇷🇸
 http://85.11.144.9:50999/25
 +http://78.108.251.7/Arena_Sport_5/index.m3u8?@iprtlk
+https://hls8.ua3.wisp.cat/ArenaSport5_HR/video.m3u8?token=JYtCLkiUhf
 
 
 #EXTINF:-1 tvg-chno="" cuid="571" tvg-id="Arena.Sport.6.HD.hr" tvg-name="" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/arena6.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="Desportos 🌎",❖ Arena Sport 6 🇭🇷⚽️🏀
@@ -3293,6 +3369,26 @@ http://85.11.144.9:50999/25
 #EXTINF:-1 tvg-chno="" cuid="575" tvg-id="Arena.Sport.10.HD.hr" tvg-name="" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/arena10.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="Desportos 🌎",❖ Arena Sport 10 🇭🇷⚽️
 #EXTGRP:Leste Europeu 🇺🇦🇨🇿🇷🇴🇭🇷🇷🇸
 +http://185.166.252.230/Arena10/index.m3u8?@iprtlk
+
+=====================🔹========================
+TRING SPORTS
+=====================🔹========================
+
+#EXTINF:-1 tvg-chno="" cuid="576" tvg-id="" tvg-name="Tring sport" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/Tringsport1.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="Desportos 🌎",❖ Tring Sport 1 🇦🇱
+#EXTGRP:Liga Portuguesa ⚽️
+http://195.181.169.152:8080/Tring_Sport_1_HD_AL/video.m3u8?token=test
+
+#EXTINF:-1 tvg-chno="" cuid="576" tvg-id="" tvg-name="Tring sport" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/Tringsport2.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="Desportos 🌎",❖ Tring Sport 2 🇦🇱
+#EXTGRP:Liga Portuguesa ⚽️
+http://195.181.169.152:8080/Tring_Sport_2_HD_AL/video.m3u8?token=test
+
+#EXTINF:-1 tvg-chno="" cuid="576" tvg-id="" tvg-name="Tring sport" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/Tringsport3.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="Desportos 🌎",❖ Tring Sport 3 🇦🇱
+#EXTGRP:Liga Portuguesa ⚽️
+http://195.181.169.152:8080/Tring_Sport_3_HD_AL/video.m3u8?token=test
+
+#EXTINF:-1 tvg-chno="" cuid="576" tvg-id="" tvg-name="Tring sport" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/Tringsport4.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="Desportos 🌎",❖ Tring Sport 4 🇦🇱
+#EXTGRP:Liga Portuguesa ⚽️
+http://195.181.169.152:8080/Tring_Sport_4_HD_AL/video.m3u8?token=test
 
 =====================🔹========================
 CANAIS NÓRDICOS
