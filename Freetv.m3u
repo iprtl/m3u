@@ -7,7 +7,7 @@
 # ――――――――――――――――――――――――――――――――――――――――――――――
 # (●) Last Update: 🔄 2026 GMT+7 "
 # (●) Service: FREETV Inspiration Links
-# (●) Total Channels: 594
+# (●) Total Channels: 450
 
 
 ⚠️ Atenção: Todas as ligações de streams disponibilizados nas listas foram retiradas da Internet. Apenas as organizo, disponibiliza e partilha. Não detenho qualquer servidor e/ou transmitimos ou re-emitimos qualquer tipo de sinal.
@@ -179,7 +179,7 @@ https://production-fast-sic.content.okast.tv/fa2e8c4385712f9aa54bbe52b1bd9b6b/ch
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tvipt/sh/tviint.m3u8?@iprtlk
 
 #EXTINF:-1 tvg-chno="19" cuid="20" tvg-name="TVI Internacionalᶠᴴᴰ)" tvg-id="tvi.internacional.pt" tvg-logo="https://logo.m3uassets.com/tviinternacional.png" group-logo="https://cdn-icons-png.freepik.com/512/4482/4482879.png" group-title="Portugal...",❖ TVI Internacional 🇵🇹
-https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8xMS8yMDI2IDE6Njo4IFBNJmhhc2hfdmFsdWU9amhXNmdJNU1kQVZLT0o1aDR1YkVpZz09JnZhbGlkbWludXRlcz0xNDQwJmlkPTgyZGIzNWZhLTMzNDAtNDVjNy05MTkyLTU5YjI3ZGZmNGZhNQ==/
+https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjYvMjAyNSA0OjQ0OjQ0IFBNJmhhc2hfdmFsdWU9LytIdnBhSmVFUmlHcndxaHRIOVp1UT09JnZhbGlkbWludXRlcz0xNDQwJmlkPTNiOWRiZGViLWEwMTUtNDZjZi04Njc0LWYyMmMxMDQ4MTU3Mg==/
 
 
 
@@ -190,7 +190,7 @@ https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tvipt/s
 https://github.com/thomraider12/canaistvpt/raw/main/m3u8s/tvi.m3u8?@iprtlk
 
 #EXTINF:-1 tvg-chno="22" cuid="22" tvg-name="TVI 🇵🇹" tvg-id="TVI.HD.pt" tvg-logo="https://github.com/iprtl/p1/raw/master/logo/tvi.webp" group-logo="https://cdn-icons-png.freepik.com/512/4482/4482879.png" group-title="Portugal...",❖ TVI 🇵🇹
-https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8xMS8yMDI2IDE6Njo3IFBNJmhhc2hfdmFsdWU9Wmc0NUZxaGlMNjU2dDA4dExwN2Z3UT09JnZhbGlkbWludXRlcz0xNDQwJmlkPTlhYTlkOGI3LWZmMjctNDU4My04NjkyLWVhNTk5N2E0MzllNA==/
+https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjYvMjAyNSA0OjQ0OjQyIFBNJmhhc2hfdmFsdWU9bW93NHh0bGdWY1VjdGhzSHZQeTV6dz09JnZhbGlkbWludXRlcz0xNDQwJmlkPTQzYjI5Y2MyLWFhM2ItNDgyYy05OTg4LWJhZDk3ZWNlOWJhZg==/
 
 
 
@@ -201,7 +201,7 @@ https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tvipt/s
 https://github.com/thomraider12/canaistvpt/raw/main/m3u8s/cnnpt.m3u8?@iprtlk
 
 #EXTINF:-1 tvg-chno="25" cuid="24" tvg-name="CNN Portugal 🇵🇹" tvg-id="CNN.Portugal.HD.pt" tvg-logo="https://github.com/iprtl/p1/raw/master/logo/cnnpt.png" group-logo="https://cdn-icons-png.freepik.com/256/5395/5395694.png" group-title="News 🇵🇹🇧🇷",❖ CNN Portugal 🇵🇹
-https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8xMS8yMDI2IDE6Njo4IFBNJmhhc2hfdmFsdWU9NEYwaHp4cGE5YVh0dEZZclNhUERlUT09JnZhbGlkbWludXRlcz0xNDQwJmlkPWE4ZWM3OTMyLTBiMTgtNDkxNC05NGE0LWM5YjNjNTVjZmM1ZA==/
+https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjYvMjAyNSA0OjQ0OjQzIFBNJmhhc2hfdmFsdWU9OGRNUTNmYXgzUmVFeHp4TWovSTdvQT09JnZhbGlkbWludXRlcz0xNDQwJmlkPWNiOTA0NGM3LTU5OGEtNGIwMy05NTgwLThhOGIwOGYwNzYzMQ==/
 
 
 
@@ -2147,45 +2147,45 @@ https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_hh/master.m3u8?@iprtlk
 AUTO VELOCIDADE
 =====================🔹========================
 
-#EXTINF:-1 tvg-chno="" cuid="411" tvg-name="MotoGP" tvg-id="Sky.Sport.MotoGP.it" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/SkySportMotoGP.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="Desportos 🌎",❖ Sky Sport MotoGP 🏍
+#EXTINF:-1 tvg-chno="" cuid="411" tvg-name="MotoGP" tvg-id="Sky.Sport.MotoGP.it" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/SkySportMotoGP.png" group-logo="https://cdn-icons-png.freepik.com/512/1714/1714340.png" group-title="Desportos 🌎",❖ Sky Sport MotoGP 🏍
 #EXTGRP:Auto 🏍🏎️ 
 #EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
 https://wahyu1ptv.pages.dev/SkySportMotoGP-HD.m3u8
 
-#EXTINF:-1 tvg-chno="" cuid="411" tvg-name="MotoGP" tvg-id="Sky.Sport.MotoGP.it" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/SkySportMotoGP.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="Desportos 🌎",❖ Sky Sport MotoGP 🏍
+#EXTINF:-1 tvg-chno="" cuid="411" tvg-name="MotoGP" tvg-id="Sky.Sport.MotoGP.it" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/SkySportMotoGP.png" group-logo="https://cdn-icons-png.freepik.com/512/1714/1714340.png" group-title="Desportos 🌎",❖ Sky Sport MotoGP 🏍
 #EXTGRP:Auto 🏍🏎️ 
 http://latino777.xyz:8080/live/crplaytv2025/MNB638ahI56/397194.m3u8
 
-#EXTINF:-1 tvg-chno="" cuid="0411" tvg-name="MotoGP Channel" tvg-id="US3500007C4" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US3500007C4_20251110T235106SQUARE.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="Desportos 🌎",❖ MotoGP Channel 🏍
+#EXTINF:-1 tvg-chno="" cuid="0411" tvg-name="MotoGP Channel" tvg-id="US3500007C4" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US3500007C4_20251110T235106SQUARE.png" group-logo="https://cdn-icons-png.freepik.com/512/1714/1714340.png" group-title="Desportos 🌎",❖ MotoGP Channel 🏍
 #EXTGRP:Auto 🏍🏎️ 
 https://jmp2.uk/stvp-US3500007C4
 
-#EXTINF:-1 tvg-chno="" cuid="409" tvg-name="sky sport f1" tvg-id="SkySp.F1.HD.uk" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/skySportF1.webp" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="Desportos 🌎",❖ Sky Sport F1 🇬🇧 🏎️
+#EXTINF:-1 tvg-chno="" cuid="409" tvg-name="sky sport f1" tvg-id="SkySp.F1.HD.uk" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/skySportF1.webp" group-logo="https://cdn-icons-png.freepik.com/512/1714/1714340.png" group-title="Desportos 🌎",❖ Sky Sport F1 🇬🇧 🏎️
 #EXTGRP:Auto 🏍🏎️ 
 #EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
 https://wahyu1ptv.pages.dev/SkySportF1-HD.m3u8
 http://193.35.224.219:80/732187/index.m3u8?token=cmJEZmg1MmMyZFNZZ1pXcGZhMjNtTWZXMUp5dnhyR3gzTG1WeUs2cng2L0RxNEduaVp1UnBxU2VlWmF0ZnRlRGxaMm1zNStDbnJOOXFZMlhtcStybmc9PQ==
 
-#EXTINF:-1 tvg-chno="" cuid="409" tvg-name="sky sport f1" tvg-id="SkySp.F1.HD.uk" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/skySportF1.webp" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="Desportos 🌎",❖ Sky Sport F1 🇬🇧 🏎️
+#EXTINF:-1 tvg-chno="" cuid="409" tvg-name="sky sport f1" tvg-id="SkySp.F1.HD.uk" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/skySportF1.webp" group-logo="https://cdn-icons-png.freepik.com/512/1714/1714340.png" group-title="Desportos 🌎",❖ Sky Sport F1 🇬🇧 🏎️
 #EXTGRP:Auto 🏍🏎️ 
 http://latino777.xyz:8080/live/crplaytv2025/MNB638ahI56/397185.m3u8
 
 
 
 
-#EXTINF:-1 tvg-chno="" cuid="410" tvg-name="FORMULA 1 Channel 🇺🇸 🏎️" tvg-id="65c69ee3d77d450008c80438" tvg-logo="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/F1Channel_1920x1080_Jan_2025.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="Desportos 🌎",❖ F1 tv 🇺🇸 🏎️
+#EXTINF:-1 tvg-chno="" cuid="410" tvg-name="FORMULA 1 Channel 🇺🇸 🏎️" tvg-id="65c69ee3d77d450008c80438" tvg-logo="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/F1Channel_1920x1080_Jan_2025.png" group-logo="https://cdn-icons-png.freepik.com/512/1714/1714340.png" group-title="Desportos 🌎",❖ F1 tv 🇺🇸 🏎️
 #EXTGRP:Auto 🏍🏎️ 
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/65c69ee3d77d450008c80438/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=github.com/inspirationlinks&deviceDNT=1
 
-#EXTINF:-1 tvg-chno="" cuid="408" tvg-name="Rally" tvg-id="IT1600005VM" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT1600005VM_20250729T045605SQUARE.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="Desportos 🌎",❖ Rally.tv Fast+ 🏎️
+#EXTINF:-1 tvg-chno="" cuid="408" tvg-name="Rally" tvg-id="IT1600005VM" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT1600005VM_20250729T045605SQUARE.png" group-logo="https://cdn-icons-png.freepik.com/512/1714/1714340.png" group-title="Desportos 🌎",❖ Rally.tv Fast+ 🏎️
 #EXTGRP:Auto 🏍🏎️ 
 https://jmp2.uk/stvp-IT1600005VM
 
-#EXTINF:-1 tvg-chno="" cuid="412" tvg-name="Motorvision 🇧🇷" tvg-id="Motorvision.HD.pt" tvg-logo="https://images.pluto.tv/channels/60e5ea9a9bb4200008376f76/colorLogoPNG.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="Desportos 🌎",❖ Motorvision 🇧🇷🏎️
+#EXTINF:-1 tvg-chno="" cuid="412" tvg-name="Motorvision 🇧🇷" tvg-id="Motorvision.HD.pt" tvg-logo="https://images.pluto.tv/channels/60e5ea9a9bb4200008376f76/colorLogoPNG.png" group-logo="https://cdn-icons-png.freepik.com/512/1714/1714340.png" group-title="Desportos 🌎",❖ Motorvision 🇧🇷🏎️
 #EXTGRP:Auto 🏍🏎️ 
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=758
 
-#EXTINF:-1 tvg-chno="" cuid="413" tvg-name="Racer Brasil 🇧🇷" tvg-id="65a6818c7bdc8d0008457b21" tvg-logo="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/RACER_Select_Logo_1920x1080_Apr_2025.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="Desportos 🌎",❖ Racer Brasil 🇧🇷🏎️
+#EXTINF:-1 tvg-chno="" cuid="413" tvg-name="Racer Brasil 🇧🇷" tvg-id="65a6818c7bdc8d0008457b21" tvg-logo="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/RACER_Select_Logo_1920x1080_Apr_2025.png" group-logo="https://cdn-icons-png.freepik.com/512/1714/1714340.png" group-title="Desportos 🌎",❖ Racer Brasil 🇧🇷🏎️
 #EXTGRP:Auto 🏍🏎️ 
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/65a6818c7bdc8d0008457b21/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=github.com/inspirationlinks&deviceDNT=1
 
@@ -2193,7 +2193,7 @@ https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/65a6818c7bdc8d0008457
 #EXTGRP:Auto 🏍🏎️ 
 https://stream1.sersat.com/hls/garagetv.m3u8?@iprtlk
 
-#EXTINF:-1 tvg-chno="" cuid="416" tvg-name="We Love Cars 🇺🇸" tvg-id="" tvg-logo="https://30a-tv.com/wp-content/uploads/2024/06/user-profile-30atv-2024.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="Desportos 🌎",❖ We Love Cars 🇺🇸🏎️
+#EXTINF:-1 tvg-chno="" cuid="416" tvg-name="We Love Cars 🇺🇸" tvg-id="" tvg-logo="https://30a-tv.com/wp-content/uploads/2024/06/user-profile-30atv-2024.png" group-logo="https://cdn-icons-png.freepik.com/512/1714/1714340.png" group-title="Desportos 🌎",❖ We Love Cars 🇺🇸🏎️
 #EXTGRP:Auto 🏍🏎️ 
 https://30a-tv.com/feeds/vidaa/cars.m3u8?@iprtlk
 
@@ -2391,7 +2391,7 @@ https://live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c
 
 #EXTINF:-1 tvg-chno="" cuid="435" tvg-name="Sky Sports Tennis" tvg-id="SkySp.Tennis.HD.uk" tvg-logo="https://i.imgur.com/ZNUDU1r.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="Desportos 🌎",❖ Sky Sports Tennis 🇬🇧
 #EXTGRP:Engleses 🇬🇧
-https://bd-streams.site/crx/master.php?id=skystennis|Referer=https://bd-streams.site/crx/master.php?id=skyscric
++https://bd-streams.site/crx/master.php?id=skystennis|Referer=https://bd-streams.site/crx/master.php?id=skyscric
 https://a1xs.vip/2000013
 +http://109.61.81.147:1935/cdn7/582/mpegts?token=11d5defc9396d7952957029a688f94af
 
@@ -2820,7 +2820,7 @@ http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278977.m3u8
 
 #EXTINF:-1 tvg-chno="" cuid="474" tvg-name="ESPN" tvg-id="Canal.ESPN.(México).sv" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/ESPN.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="Desportos 🌎",❖ ESPN 🇲🇽⚽️
 #EXTGRP:Hispânicos 🇲🇽🇨🇴🇨🇱
-http://latino777.xyz:8080/live/crplaytv2025/MNB638ahI56/68412.m3u8
++http://latino777.xyz:8080/live/crplaytv2025/MNB638ahI56/68412.m3u8
 
 
 
@@ -2927,17 +2927,18 @@ https://cdn-live.mundogo.cl/espn/espn.mpd
 
 #EXTINF:-1 tvg-id="Canal.ESPN.(Panamá).pa" tvg-name="ESPN" tvg-logo="https://i.ibb.co/k5WgfJ1/espn.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="Desportos 🌎",❖ ESPN 🇵🇦
 #EXTGRP:Hispânicos 🇲🇽🇨🇴🇨🇱
-http://latino777.xyz:8080/live/crplaytv2025/MNB638ahI56/525677.m3u8
++http://latino777.xyz:8080/live/crplaytv2025/MNB638ahI56/525677.m3u8
+
 
 
 #EXTINF:-1 tvg-id="Canal.ESPN.2.México.sv" tvg-name="ESPN 2" tvg-logo="https://spotlight-cl.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.cdn.telefonica.com%2Fstoragearea0%2FIMAGES%2F00%2F06%2F38%2F6383310_007CE9E18A928D1C.png&height=60&resize=RATIO&format=PNG" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="Desportos 🌎",❖ ESPN 2 🇲🇽
 #EXTGRP:Hispânicos 🇲🇽🇨🇴🇨🇱
-http://latino777.xyz:8080/live/crplaytv2025/MNB638ahI56/142.m3u8
++http://latino777.xyz:8080/live/crplaytv2025/MNB638ahI56/142.m3u8
 
 
 #EXTINF:-1 tvg-id="Canal.ESPN.2.(Panamá).pa" tvg-name="ESPN 2" tvg-logo="https://spotlight-cl.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.cdn.telefonica.com%2Fstoragearea0%2FIMAGES%2F00%2F06%2F38%2F6383310_007CE9E18A928D1C.png&height=60&resize=RATIO&format=PNG" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="Desportos 🌎",❖ ESPN 2 🇵🇦
 #EXTGRP:Hispânicos 🇲🇽🇨🇴🇨🇱
-http://latino777.xyz:8080/live/crplaytv2025/MNB638ahI56/525678.m3u8
++http://latino777.xyz:8080/live/crplaytv2025/MNB638ahI56/525678.m3u8
 
 #EXTINF:-1 tvg-id="Canal.ESPN.2.(Sur).sv" tvg-name="ESPN 2 Chile" tvg-logo="https://spotlight-cl.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.cdn.telefonica.com%2Fstoragearea0%2FIMAGES%2F00%2F06%2F38%2F6383310_007CE9E18A928D1C.png&height=60&resize=RATIO&format=PNG" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="Desportos 🌎",❖ ESPN 2 🇨🇱
 #EXTGRP:Hispânicos 🇲🇽🇨🇴🇨🇱
@@ -2945,9 +2946,11 @@ http://latino777.xyz:8080/live/crplaytv2025/MNB638ahI56/525678.m3u8
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"MBX9udpV3rVx2xQd2eaniA", "kid":"SnkFDrcQVyu8PPp1cGwUEQ" },{ "kty":"oct", "k":"PzMAJnCPwv3RovDiPO59BA", "kid":"br92QVgVVlixp2XC2Gg10w" },{ "kty":"oct", "k":"QsOr676t6NPMryh32xYvcw", "kid":"iIYJ/A2FUfO3jMAY/mby/g" } ], "type":"temporary" }
 https://cdn-live.mundogo.cl/espn2/espn2.mpd
 
+
+
 #EXTINF:-1 tvg-id="Canal.ESPN.3.(Panamá).pa" tvg-name="ESPN 3" tvg-logo="https://spotlight-cl.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.cdn.telefonica.com%2Fstoragearea0%2FIMAGES%2F00%2F06%2F38%2F6383311_78D38321059792D4.png&height=60&resize=RATIO&format=PNG" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="Desportos 🌎",❖ ESPN 3 🇵🇦
 #EXTGRP:Hispânicos 🇲🇽🇨🇴🇨🇱
-http://latino777.xyz:8080/live/crplaytv2025/MNB638ahI56/525679.m3u8
++http://latino777.xyz:8080/live/crplaytv2025/MNB638ahI56/525679.m3u8
 
 #EXTINF:-1 tvg-id="Canal.ESPN.3.(Sur).sv" tvg-name="ESPN 3 Andina" tvg-logo="https://spotlight-cl.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.cdn.telefonica.com%2Fstoragearea0%2FIMAGES%2F00%2F06%2F38%2F6383311_78D38321059792D4.png&height=60&resize=RATIO&format=PNG" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="Desportos 🌎",❖ ESPN 3 🇨🇱
 #EXTGRP:Hispânicos 🇲🇽🇨🇴🇨🇱
@@ -2962,6 +2965,9 @@ https://cdn-live.mundogo.cl/espn3/espn3.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"1FazyuiKt/2HupBGknthRg", "kid":"PMsKjc70Wkai/CTkv3vqjA" },{ "kty":"oct", "k":"+0r80+bO7sT5PpRAGi4bSg", "kid":"PXi3cmqtVAqgD9COfDRG9Q" },{ "kty":"oct", "k":"2e55A1+R0WZvp8QMAkkT6g", "kid":"nrRTndHSXkuRldhNVEooOw" } ], "type":"temporary" }
 https://cdn-live.mundogo.cl/espn4/espn4.mpd
+
+
+
 
 #EXTINF:-1 tvg-id="Canal.ESPN.5.(Sudamérica).sv" tvg-name="ESPN 5 CHILE" tvg-logo="https://spotlight-cl.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.cdn.telefonica.com%2Fstoragearea0%2FIMAGES%2F00%2F18%2F12%2F18120538_C879B6958D9AC767.png&height=60&resize=RATIO&format=PNG" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="Desportos 🌎",❖ ESPN 5 🇨🇱
 #EXTGRP:Hispânicos 🇲🇽🇨🇴🇨🇱
@@ -2980,7 +2986,8 @@ TUDN | FOX SPORTS 🇲🇽
 http://198.204.231.170:46201/stream/univisontelemundo/tudn/master.m3u8
 
 #EXTINF:-1 tvg-chno="" cuid="400" tvg-name="TUDN" tvg-id="TUDN.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/mexico/tudn-mx.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="Desportos 🌎",❖ TUDN 🇺🇸🇲🇽
-http://latino777.xyz:8080/live/crplaytv2025/MNB638ahI56/68657.m3u8
+#EXTGRP:Hispânicos 🇲🇽🇨🇴🇨🇱
++http://latino777.xyz:8080/live/crplaytv2025/MNB638ahI56/68657.m3u8
 
 #EXTINF:-1 tvg-chno="" cuid="400" tvg-name="TUDN" tvg-id="TUDN.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/mexico/tudn-mx.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="Desportos 🌎",❖ TUDN 🇺🇸🇲🇽 (vpn🇺🇸)
 #EXTGRP:Hispânicos 🇲🇽🇨🇴🇨🇱
@@ -3471,6 +3478,7 @@ https://hls8.ua3.wisp.cat/Arena_Sport_Premium_3/video.m3u8?token=JYtCLkiUhf
 
 #EXTINF:-1 tvg-chno="" cuid="561" tvg-id="Arena.Sport.1.HD.hr" tvg-name="" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/arena1.webp" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="Desportos 🌎",❖ Arena Sport 1 🇭🇷⚽️
 #EXTGRP:Liga Portuguesa ⚽️
+http://169.150.223.25/ArenaSport1HD/index.m3u8
 +http://185.166.252.230/Arena1/index.m3u8?@iprtlk
 
 #EXTINF:-1 tvg-chno="" cuid="562" tvg-id="Arena.Sport.1.HD.(RS).rs" tvg-name="" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/arena1.webp" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="Desportos 🌎",❖ Arena Sport 1 🇷🇸⚽️
@@ -3481,6 +3489,7 @@ https://hls8.ua3.wisp.cat/ArenaSport1_HR/video.m3u8?token=JYtCLkiUhf
 
 #EXTINF:-1 tvg-chno="" cuid="563" tvg-id="Arena.Sport.2.HD.hr" tvg-name="" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/arena2.webp" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="Desportos 🌎",❖ Arena Sport 2 🇭🇷⚽️🏈
 #EXTGRP:Liga Portuguesa ⚽️
+http://169.150.223.25/ArenaSport2HD/index.m3u8
 +http://185.166.252.230/Arena2/index.m3u8?@iprtlk
 
 #EXTINF:-1 tvg-chno="" cuid="564" tvg-id="Arena.Sport.2.HD.(RS).rs" tvg-name="" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/arena2.webp" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="Desportos 🌎",❖ Arena Sport 2 🇷🇸⚽️
@@ -3492,6 +3501,7 @@ https://hls8.ua3.wisp.cat/ArenaSport2_HR/video.m3u8?token=JYtCLkiUhf
 
 #EXTINF:-1 tvg-chno="" cuid="565" tvg-id="Arena.Sport.3.HD.hr" tvg-name="" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/arena3.webp" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="Desportos 🌎",❖ Arena Sport 3 🇭🇷⚽️
 #EXTGRP:Leste Europeu 🇺🇦🇨🇿🇷🇴🇭🇷🇷🇸
+http://169.150.223.25/ArenaSport3HD/index.m3u8
 +http://185.166.252.230/Arena3/index.m3u8?@iprtlk
 
 #EXTINF:-1 tvg-chno="" cuid="566" tvg-id="Arena.Sport.3.HD.(RS).rs" tvg-name="" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/arena3.webp" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="Desportos 🌎",❖ Arena Sport 3 🇷🇸⚽️
@@ -3503,6 +3513,7 @@ https://hls8.ua3.wisp.cat/ArenaSport3_HR/video.m3u8?token=JYtCLkiUhf
 
 #EXTINF:-1 tvg-chno="" cuid="567" tvg-id="Arena.Sport.4.HD.hr" tvg-name="" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/arena4.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="Desportos 🌎",❖ Arena Sport 4 🇭🇷⚽️
 #EXTGRP:Leste Europeu 🇺🇦🇨🇿🇷🇴🇭🇷🇷🇸
+http://169.150.223.25/ArenaSport4HD/index.m3u8
 +http://185.166.252.230/Arena4/index.m3u8?@iprtlk
 
 #EXTINF:-1 tvg-chno="" cuid="568" tvg-id="Arena.Sport.4.HD.(RS).rs" tvg-name="" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/arena4.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="Desportos 🌎",❖ Arena Sport 4 🇷🇸⚽️
@@ -3514,6 +3525,7 @@ https://hls8.ua3.wisp.cat/ArenaSport4_HR/video.m3u8?token=JYtCLkiUhf
 
 #EXTINF:-1 tvg-chno="" cuid="569" tvg-id="Arena.Sport.5.HD.hr" tvg-name="" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/arena5.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="Desportos 🌎",❖ Arena Sport 5 🇭🇷⚽️🏅
 #EXTGRP:Leste Europeu 🇺🇦🇨🇿🇷🇴🇭🇷🇷🇸
+http://169.150.223.25/ArenaSport5HD/index.m3u8
 +http://185.166.252.230/Arena5/index.m3u8?@iprtlk
 
 #EXTINF:-1 tvg-chno="" cuid="570" tvg-id="Arena.Sport.5.HD.(RS).rs" tvg-name="" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/arena5.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="Desportos 🌎",❖ Arena Sport 5 🇷🇸⚽️
@@ -3545,6 +3557,7 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/22R8F2UTVKMAYR/31610/ind
 
 #EXTINF:-1 tvg-chno="" cuid="575" tvg-id="Arena.Sport.10.HD.hr" tvg-name="" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/arena10.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="Desportos 🌎",❖ Arena Sport 10 🇭🇷⚽️
 #EXTGRP:Leste Europeu 🇺🇦🇨🇿🇷🇴🇭🇷🇷🇸
+http://169.150.223.25/ArenaSport10HD/index.m3u8
 +http://185.166.252.230/Arena10/index.m3u8?@iprtlk
 
 =====================🔹========================
