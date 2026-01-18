@@ -7,7 +7,7 @@
 # ――――――――――――――――――――――――――――――――――――――――――――――
 # (●) Last Update: 🔄 2026 GMT+7 "
 # (●) Service: FREETV Inspiration Links
-# (●) Total Channels: 602
+# (●) Total Channels: 450
 
 
 ⚠️ Atenção: Todas as ligações de streams disponibilizados nas listas foram retiradas da Internet. Apenas as organizo, disponibiliza e partilha. Não detenho qualquer servidor e/ou transmitimos ou re-emitimos qualquer tipo de sinal.
@@ -180,7 +180,7 @@ https://production-fast-sic.content.okast.tv/fa2e8c4385712f9aa54bbe52b1bd9b6b/ch
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tvipt/sh/tviint.m3u8?@iprtlk
 
 #EXTINF:-1 tvg-chno="19" cuid="20" tvg-name="TVI Internacionalᶠᴴᴰ)" tvg-id="tvi.internacional.pt" tvg-logo="https://logo.m3uassets.com/tviinternacional.png" group-logo="https://cdn-icons-png.freepik.com/512/4482/4482879.png" group-title="Portugal...",❖ TVI Internacional 🇵🇹
-https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8xOC8yMDI2IDg6NDY6MTUgQU0maGFzaF92YWx1ZT1jUDNJV1BFRTU2TG5ram1odHNxcUdBPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9NTUyYWYyYWUtNjEyOC00ZjFmLWI5NDYtNmU3YjQ5NWExNmY0/
+https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjYvMjAyNSA0OjQ0OjQ0IFBNJmhhc2hfdmFsdWU9LytIdnBhSmVFUmlHcndxaHRIOVp1UT09JnZhbGlkbWludXRlcz0xNDQwJmlkPTNiOWRiZGViLWEwMTUtNDZjZi04Njc0LWYyMmMxMDQ4MTU3Mg==/
 
 
 
@@ -191,7 +191,7 @@ https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tvipt/s
 https://github.com/thomraider12/canaistvpt/raw/main/m3u8s/tvi.m3u8?@iprtlk
 
 #EXTINF:-1 tvg-chno="22" cuid="22" tvg-name="TVI 🇵🇹" tvg-id="TVI.HD.pt" tvg-logo="https://github.com/iprtl/p1/raw/master/logo/tvi.webp" group-logo="https://cdn-icons-png.freepik.com/512/4482/4482879.png" group-title="Portugal...",❖ TVI 🇵🇹
-https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8xOC8yMDI2IDg6NDY6MTQgQU0maGFzaF92YWx1ZT1Ya1luMDlOTURPMWpkOG1iVkJuSlBRPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9NzI5NDQ3MTktZDQ0OS00NmFkLThlMTUtYzAzYjUyNjFkZGM4/
+https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjYvMjAyNSA0OjQ0OjQyIFBNJmhhc2hfdmFsdWU9bW93NHh0bGdWY1VjdGhzSHZQeTV6dz09JnZhbGlkbWludXRlcz0xNDQwJmlkPTQzYjI5Y2MyLWFhM2ItNDgyYy05OTg4LWJhZDk3ZWNlOWJhZg==/
 
 
 
@@ -202,7 +202,7 @@ https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tvipt/s
 https://github.com/thomraider12/canaistvpt/raw/main/m3u8s/cnnpt.m3u8?@iprtlk
 
 #EXTINF:-1 tvg-chno="25" cuid="24" tvg-name="CNN Portugal 🇵🇹" tvg-id="CNN.Portugal.HD.pt" tvg-logo="https://github.com/iprtl/p1/raw/master/logo/cnnpt.png" group-logo="https://cdn-icons-png.freepik.com/256/5395/5395694.png" group-title="News 🇵🇹🇧🇷",❖ CNN Portugal 🇵🇹
-https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8xOC8yMDI2IDg6NDY6MTUgQU0maGFzaF92YWx1ZT1PYXRHWTFwczBDWkN6VWZMK0VHSUlBPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9MDIwMmE3MjQtMWQzNi00MzRjLThiNWEtNjk5ZDFjNWQxZmVh/
+https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjYvMjAyNSA0OjQ0OjQzIFBNJmhhc2hfdmFsdWU9OGRNUTNmYXgzUmVFeHp4TWovSTdvQT09JnZhbGlkbWludXRlcz0xNDQwJmlkPWNiOTA0NGM3LTU5OGEtNGIwMy05NTgwLThhOGIwOGYwNzYzMQ==/
 
 
 
@@ -2253,6 +2253,7 @@ http://65.108.239.207/t1/index.m3u8
 
 
 #EXTINF:-1 tvg-chno="" cuid="600" tvg-id="TİVİBU.SPOR.1.tr" tvg-name="Tivibu Spor 1" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/tivibu.webp" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="Desportos 🌎",❖ Tivibu Spor 1 🇹🇷
+#EXTGRP:Liga Portuguesa ⚽️
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/W82B6MN5X9KLUG/19074/index.m3u8
 
 #EXTINF:-1 tvg-chno="" cuid="601" tvg-id="TİVİBU.SPOR.2.tr" tvg-name="Tivibu Spor 2" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/tivibu.webp" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="Desportos 🌎",❖ Tivibu Spor 2 🇹🇷
@@ -2260,6 +2261,7 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/W82B6MN5X9KLUG/19074/ind
 http://65.108.239.207/t2/index.m3u8
 
 #EXTINF:-1 tvg-chno="" cuid="601" tvg-id="TİVİBU.SPOR.2.tr" tvg-name="Tivibu Spor 2" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/tivibu.webp" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="Desportos 🌎",❖ Tivibu Spor 2 🇹🇷
+#EXTGRP:Liga Portuguesa ⚽️
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/W82B6MN5X9KLUG/19073/index.m3u8
 
 
@@ -2280,11 +2282,11 @@ http://65.108.239.207/t4/index.m3u8
 
 
 
-#EXTINF:-1 tvg-chno="" cuid="604" tvg-name="Ring Bulgaria" tvg-id="RING.BG.bg" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/bulgaria/ring-bg.png" tvg-logo="https://iili.io/3DPOPG2.webp" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="Desportos 🌎",❖ Ring 🇧🇬
+#EXTINF:-1 tvg-chno="" cuid="604" tvg-name="Ring Bulgaria" tvg-id="RING.BG.bg" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/bulgaria/ring-bg.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="Desportos 🌎",❖ Ring 🇧🇬
 #EXTGRP:Liga Portuguesa ⚽️
 http://x3m.li/live/C4bpRcSY/fuD6!VUc/558.m3u8
 
-#EXTINF:-1 tvg-chno="" cuid="604" tvg-name="Ring Bulgaria" tvg-id="RING.BG.bg" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/bulgaria/ring-bg.png" tvg-logo="https://iili.io/3DPOPG2.webp" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="Desportos 🌎",❖ Ring 🇧🇬
+#EXTINF:-1 tvg-chno="" cuid="604" tvg-name="Ring Bulgaria" tvg-id="RING.BG.bg" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/bulgaria/ring-bg.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="Desportos 🌎",❖ Ring 🇧🇬
 #EXTGRP:Liga Portuguesa ⚽️
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://213.169.39.30:5210
@@ -2596,12 +2598,12 @@ https://abe4mdzaaaaaaaampzanwc57oxzti.otte.live.cf.ww.aiv-cdn.net/lhr-nitro/live
 
 #EXTINF:-1 tvg-chno="" cuid="803"tvg-id="SkySp.PL.HD.uk" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/skysportpl.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="Desportos 🌎",❖ Sky Sport Premier League 🇬🇧
 #EXTGRP:Engleses 🇬🇧
-https://bd-streams.site/crx/master.php?id=skysprem|Referer=https://bd-streams.site/crx/master.php?id=skyscric
++https://bd-streams.site/crx/master.php?id=skysprem|Referer=https://bd-streams.site/crx/master.php?id=skyscric
 https://a1xs.vip/2000002
 
 #EXTINF:-1 tvg-chno="" cuid="804" tvg-id="SkySpMainEvHD.uk" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/SkySportsMainEvent.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="Desportos 🌎",❖ Sky Sport Main Event 🇬🇧
 #EXTGRP:Engleses 🇬🇧
-https://bd-streams.site/crx/master.php?id=skysme|Referer=https://bd-streams.site/crx/master.php?id=skyscric
++https://bd-streams.site/crx/master.php?id=skysme|Referer=https://bd-streams.site/crx/master.php?id=skyscric
 https://a1xs.vip/2000001
 
 #EXTINF:-1 tvg-chno="" cuid="804" tvg-id="SkySpMainEvHD.uk" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/SkySportsMainEvent.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="Desportos 🌎",❖ Sky Sport Main Event 🇬🇧
@@ -2620,12 +2622,12 @@ https://a1xs.vip/2000012
 
 #EXTINF:-1 tvg-chno="" cuid="806" tvg-id="SkySp.Fball.HD.uk" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/SkySportsFootball.webp" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="Desportos 🌎",❖ Sky Sport Football 🇬🇧
 #EXTGRP:Engleses 🇬🇧
-https://bd-streams.site/crx/master.php?id=skysfott|Referer=https://bd-streams.site/crx/master.php?id=skyscric
-https://a1xs.vip/2000003
++https://bd-streams.site/crx/master.php?id=skysfott|Referer=https://bd-streams.site/crx/master.php?id=skyscric
++https://a1xs.vip/2000003
 
 #EXTINF:-1 tvg-chno="" cuid="809" tvg-id="SkySp.Mix.HD.uk" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/skysportmix.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="Desportos 🌎",❖ Sky Sport Mix 🇬🇧
 #EXTGRP:Engleses 🇬🇧
-https://bd-streams.site/crx/master.php?id=skysmixx|Referer=https://bd-streams.site/crx/master.php?id=skyscric
++https://bd-streams.site/crx/master.php?id=skysmixx|Referer=https://bd-streams.site/crx/master.php?id=skyscric
 
 
 #EXTINF:-1 tvg-chno="" cuid="0809" tvg-id="Sky.Sport.Mix.de" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/skysportmix.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="Desportos 🌎",❖ Sky Sport Mix 🇩🇪
@@ -3035,6 +3037,11 @@ http://cord-cutter.net:8080/live/rachelle@pilon/rachelle@2024/82241.ts
 
 
 
+#EXTINF:-1 tvg-chno="" cuid="400" tvg-name="Canal.TyC.Sports" tvg-id="Canal.TyC.Sports.ar" tvg-logo="https://raw.githubusercontent.com/iprtl/tv-logos/main/countries/argentina/tyc-sports-ar.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="Desportos 🌎",❖ TYC Sports 🇦🇷
+#EXTGRP:Hispânicos 🇲🇽🇨🇴🇨🇱
+https://livetrx03.vodgc.net/tyc24/index.m3u8
+
+
 
 
 #EXTINF:-1 tvg-chno="" cuid="401" tvg-name="Fox Sports" tvg-id="Canal.Fox.Sports.(México).mx" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/FoxSports.webp" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="Desportos 🌎",❖ Fox Sports 1 🇲🇽
@@ -3158,32 +3165,32 @@ https://a1xs.vip/140006
 
 
 #EXTINF:-1 tvg-chno="" cuid="516" tvg-name="Ziggo Sport" tvg-id="Sky.Sport.1.nz" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/skysport.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="Desportos 🌎",❖ SKYSPORT 1 🇳🇱🏉
-https://github.com/cattviptv2605/m3u8-world-/raw/refs/heads/main/skysport1_nz.m3u8
++https://github.com/cattviptv2605/m3u8-world-/raw/refs/heads/main/skysport1_nz.m3u8
 https://a1xs.vip/700031
 
 #EXTINF:-1 tvg-chno="" cuid="517" tvg-name="Ziggo Sport" tvg-id="Sky.Sport.2.nz" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/skysport.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="Desportos 🌎",❖ SKYSPORT 2 🇳🇱⚽️🏎️
-https://github.com/cattviptv2605/m3u8-world-/raw/refs/heads/main/skysport2_nz.m3u8
++https://github.com/cattviptv2605/m3u8-world-/raw/refs/heads/main/skysport2_nz.m3u8
 https://a1xs.vip/700032
 
 #EXTINF:-1 tvg-chno="" cuid="518" tvg-name="Ziggo Sport" tvg-id="Sky.Sport.3.nz" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/skysport.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="Desportos 🌎",❖ SKYSPORT 3 🇳🇱⚽️🏉🥊
-https://github.com/cattviptv2605/m3u8-world-/raw/refs/heads/main/skysport3_nz.m3u8
++https://github.com/cattviptv2605/m3u8-world-/raw/refs/heads/main/skysport3_nz.m3u8
 https://a1xs.vip/700033
 
 #EXTINF:-1 tvg-chno="" cuid="519" tvg-name="Ziggo Sport" tvg-id="Sky.Sport.4.nz" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/skysport.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="Desportos 🌎",❖ SKYSPORT 4 🇳🇱⚽️🏌🏏
-https://github.com/cattviptv2605/m3u8-world-/raw/refs/heads/main/skysport4_nz.m3u8
++https://github.com/cattviptv2605/m3u8-world-/raw/refs/heads/main/skysport4_nz.m3u8
 https://a1xs.vip/700034
 
 #EXTINF:-1 tvg-chno="" cuid="520" tvg-name="Ziggo Sport" tvg-id="Sky.Sport.5.nz" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/skysport.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="Desportos 🌎",❖ SKYSPORT 5 🇳🇱🏍
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-https://github.com/cattviptv2605/m3u8-world-/raw/refs/heads/main/skysport5_nz.m3u8
++https://github.com/cattviptv2605/m3u8-world-/raw/refs/heads/main/skysport5_nz.m3u8
 https://a1xs.vip/700035
 
 #EXTINF:-1 tvg-chno="" cuid="521" tvg-name="Ziggo Sport" tvg-id="Sky.Sport.6.nz" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/skysport.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="Desportos 🌎",❖ SKYSPORT 6 🇳🇱🏌🏏 
-https://github.com/cattviptv2605/m3u8-world-/raw/refs/heads/main/skysport6_nz.m3u8
++https://github.com/cattviptv2605/m3u8-world-/raw/refs/heads/main/skysport6_nz.m3u8
 https://a1xs.vip/700036
 
 #EXTINF:-1 tvg-chno="" cuid="522" tvg-name="Ziggo Sport" tvg-id="Sky.Sport.7.nz" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/skysport.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="Desportos 🌎",❖ SKYSPORT 7 🇳🇱⚽️
-https://github.com/cattviptv2605/m3u8-world-/raw/refs/heads/main/skysport7_nz.m3u8
++https://github.com/cattviptv2605/m3u8-world-/raw/refs/heads/main/skysport7_nz.m3u8
 https://a1xs.vip/700037
 
 #EXTINF:-1 tvg-chno="" cuid="523" tvg-name="Ziggo Sport" tvg-id="Sky.Sport.8.nz" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/skysport.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="Desportos 🌎",❖ SKYSPORT 8 🇳🇱⚽️
@@ -3199,8 +3206,8 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/lequipe/la-cha
 +https://tvradiozap.eu/tools/dm-m3u8.php/x2lefik.m3u8
 
 #EXTINF:-1 tvg-chno="" cuid="530" tvg-id="RMC.Sport.1.fr" tvg-name="CANAL+SPORT" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/RMC1.webp" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="Desportos 🌎",❖ RMC Sport 1 🇫🇷🥊🥋
-http://5.9.119.146:8883/rmc1/index.m3u8
-http://178.33.239.54:8080/524/index.m3u8?@iprtlk
++http://5.9.119.146:8883/rmc1/index.m3u8
++http://178.33.239.54:8080/524/index.m3u8?@iprtlk
 
 #EXTINF:-1 tvg-chno="" cuid="531" tvg-id="CANAL+SPORT.fr" tvg-name="CANAL+SPORT" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/+canalsport.webp" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="Desportos 🌎",❖ Canal +Sport 🇫🇷🏉🏎️⛵
 http://151.80.18.177:86/Canal+_sport_HD/index.m3u8?@iprtlk
@@ -3607,19 +3614,19 @@ TRING SPORTS
 
 #EXTINF:-1 tvg-chno="" cuid="576" tvg-id="" tvg-name="Tring sport" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/Tringsport1.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="Desportos 🌎",❖ Tring Sport 1 🇦🇱
 #EXTGRP:Liga Portuguesa ⚽️
-http://195.181.169.152:8080/Tring_Sport_1_HD_AL/video.m3u8?token=test
++http://195.181.169.152:8080/Tring_Sport_1_HD_AL/video.m3u8?token=test
 
 #EXTINF:-1 tvg-chno="" cuid="576" tvg-id="" tvg-name="Tring sport" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/Tringsport2.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="Desportos 🌎",❖ Tring Sport 2 🇦🇱
 #EXTGRP:Liga Portuguesa ⚽️
-http://195.181.169.152:8080/Tring_Sport_2_HD_AL/video.m3u8?token=test
++http://195.181.169.152:8080/Tring_Sport_2_HD_AL/video.m3u8?token=test
 
 #EXTINF:-1 tvg-chno="" cuid="576" tvg-id="" tvg-name="Tring sport" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/Tringsport3.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="Desportos 🌎",❖ Tring Sport 3 🇦🇱
 #EXTGRP:Liga Portuguesa ⚽️
-http://195.181.169.152:8080/Tring_Sport_3_HD_AL/video.m3u8?token=test
++http://195.181.169.152:8080/Tring_Sport_3_HD_AL/video.m3u8?token=test
 
 #EXTINF:-1 tvg-chno="" cuid="576" tvg-id="" tvg-name="Tring sport" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/Tringsport4.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="Desportos 🌎",❖ Tring Sport 4 🇦🇱
 #EXTGRP:Liga Portuguesa ⚽️
-http://195.181.169.152:8080/Tring_Sport_4_HD_AL/video.m3u8?token=test
++http://195.181.169.152:8080/Tring_Sport_4_HD_AL/video.m3u8?token=test
 
 =====================🔹========================
 CANAIS NÓRDICOS
