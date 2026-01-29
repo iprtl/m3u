@@ -13,13 +13,6 @@ Obrigado pela visita! ✨ Vamos construir juntos algo incrível.
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iprtl&show_icons=true&theme=dark" width="400">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=iprtl&theme=dark&hide_border=true" width="400">
-</p>
-
----
-
 [![GitHub followers](https://img.shields.io/github/followers/iprtl?logo=GitHub&style=for-the-badge)](https://github.com/iprtl) [![GitHub Sponsors](https://img.shields.io/github/sponsors/iprtl?color=BF4B8A&logo=githubsponsors&style=for-the-badge&label=Sponsor%20on%20Github)](https://github.com/sponsors/iprtl)
 
 ---
@@ -1502,6 +1495,7 @@ No video files are stored in this repository. The repository simply contains use
 ## ⭐ GitHub stars
 
 [![Stargazers over time](https://starchart.cc/inspirationlinks/lista-tuga.svg)](https://starchart.cc/inspirationlinks/lista-tuga)
+
 
 
 
