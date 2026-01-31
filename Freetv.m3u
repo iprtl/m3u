@@ -2197,7 +2197,7 @@ https://live03p-seg.msf.cdn.mediaset.net/live/ch-i1/i1-dash-widevine.isml/manife
 #KODIPROP:inputstream.adaptive.license_key=00f9f3c0783536b8ce4a30a01a52e082:e926f7d45af4f7d154c990eae6a2d937
 https://live03p-seg.msf.cdn.mediaset.net/live/ch-c5/c5-dash-widevine.isml/manifest.mpd
 
-#EXTINF:-1 cuid="711" tvg-name="La7d" tvg-id="LA7D.it" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/La7d.webp" group-logo="https://cdn-icons-png.freepik.com/512/10710/10710379.png" group-title="Undefined 🌎",La7d 🇮🇹
+#EXTINF:-1 cuid="711" tvg-name="La7d" tvg-id="LA7D.it" tvg-logo="https://logo.m3uassets.com/la7d.png" group-logo="https://cdn-icons-png.freepik.com/512/10710/10710379.png" group-title="Undefined 🌎",La7d 🇮🇹
 #EXTGRP: Channels 🇮🇹
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
