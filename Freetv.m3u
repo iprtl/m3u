@@ -37,10 +37,7 @@ https://cdn.livespanel.com/portaltvportuguesa6356/live/playlist.m3u8?wowzasessio
 https://streaming-live.rtp.pt/liverepeater/rtpi.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="1" cuid="2" tvg-name="RTP Internacional 🇵🇹" tvg-id="RTP.Internacional.pt" user-agent="Wink/1.31.1" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/RTPi.png" group-logo="https://cdn-icons-png.freepik.com/512/4482/4482879.png" group-title="Portugal 🇵🇹",RTP Internacional ᴸᴼᵂ 🇵🇹
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=Firefox
-https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8
+https://viamotionhsi.netplus.ch/live/eds/rtpi/browser-dash/rtpi.mpd
 
 
 
@@ -181,7 +178,7 @@ https://production-fast-sic.content.okast.tv/fa2e8c4385712f9aa54bbe52b1bd9b6b/ch
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tvipt/sh/tviint.m3u8?wowzasessionid=@iprtlk
 
 #EXTINF:-1 tvg-chno="19" cuid="20" tvg-name="TVI Internacionalᶠᴴᴰ)" tvg-id="tvi.internacional.pt" tvg-logo="https://logo.m3uassets.com/tviinternacional.png" group-logo="https://cdn-icons-png.freepik.com/512/4482/4482879.png" group-title="Portugal 🇵🇹",TVI Internacional 🇵🇹
-https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNi8yMDI2IDU6Nzo0NCBQTSZoYXNoX3ZhbHVlPXZGZEgySGVwYXh2MVJTWHlnRUJXd1E9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD1kOGEwY2U4MS0wNzdiLTRlNzgtYjM5ZS04MDQyMmVmY2UwZTg=/
+https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjYvMjAyNSA0OjQ0OjQ0IFBNJmhhc2hfdmFsdWU9LytIdnBhSmVFUmlHcndxaHRIOVp1UT09JnZhbGlkbWludXRlcz0xNDQwJmlkPTNiOWRiZGViLWEwMTUtNDZjZi04Njc0LWYyMmMxMDQ4MTU3Mg==/
 
 
 
@@ -192,7 +189,7 @@ https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tvipt/s
 https://github.com/thomraider12/canaistvpt/raw/main/m3u8s/tvi.m3u8?wowzasessionid=@iprtlk
 
 #EXTINF:-1 tvg-chno="22" cuid="21" tvg-name="TVI 🇵🇹" tvg-id="TVI.HD.pt" tvg-logo="https://github.com/iprtl/p1/raw/master/logo/tvi.webp" group-logo="https://cdn-icons-png.freepik.com/512/4482/4482879.png" group-title="Portugal 🇵🇹",TVI 🇵🇹
-https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNi8yMDI2IDU6Nzo0MyBQTSZoYXNoX3ZhbHVlPTVzYW5NM05iTld0bFJkclpubnlYSEE9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD01Yzg1ZDJjOS0zOWNjLTQyMzItYWUxMS1hMTNkNzRiMTIzY2M=/
+https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjYvMjAyNSA0OjQ0OjQyIFBNJmhhc2hfdmFsdWU9bW93NHh0bGdWY1VjdGhzSHZQeTV6dz09JnZhbGlkbWludXRlcz0xNDQwJmlkPTQzYjI5Y2MyLWFhM2ItNDgyYy05OTg4LWJhZDk3ZWNlOWJhZg==/
 
 
 
@@ -203,7 +200,7 @@ https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tvipt/s
 https://github.com/thomraider12/canaistvpt/raw/main/m3u8s/cnnpt.m3u8?wowzasessionid=@iprtlk
 
 #EXTINF:-1 tvg-chno="25" cuid="23" tvg-name="CNN Portugal 🇵🇹" tvg-id="CNN.Portugal.HD.pt" tvg-logo="https://github.com/iprtl/p1/raw/master/logo/cnnpt.png" group-logo="https://cdn-icons-png.freepik.com/256/5395/5395694.png" group-title="News 🇵🇹🇧🇷",CNN Portugal 🇵🇹
-https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNi8yMDI2IDU6Nzo0NCBQTSZoYXNoX3ZhbHVlPWIzNlZsSVFVTFZ6MFBIOWFXbGNHdlE9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD1mYTYxOGVkZC0xODhkLTRlZjYtODhkOC03OTMwNzlkN2QxMWI=/
+https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjYvMjAyNSA0OjQ0OjQzIFBNJmhhc2hfdmFsdWU9OGRNUTNmYXgzUmVFeHp4TWovSTdvQT09JnZhbGlkbWludXRlcz0xNDQwJmlkPWNiOTA0NGM3LTU5OGEtNGIwMy05NTgwLThhOGIwOGYwNzYzMQ==/
 
 
 
@@ -3647,11 +3644,11 @@ https://cors-proxy.rdpsell01.workers.dev/https://otte.live.fly.ww.aiv-cdn.net/ia
 World Sports 🌎
 =====================🔹========================
 
-#EXTINF:-1 tvg-chno="" cuid="1398" tvg-id="M+.Liga.de.Campeones.es" tvg-name="M+.Liga.de.Campeones" tvg-logo="https://logo.m3uassets.com/ligadecampeones.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="World Sports 🌎",M. Liga de Campeones 🇪🇸
+#EXTINF:-1 tvg-chno="" cuid="1398" tvg-id="M+.Liga.de.Campeones.es" tvg-name="M+.Liga.de.Campeones" tvg-logo="https://github.com/iprtl/p1/raw/master/logo/M%2BLigaCampeones.webp" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="World Sports 🌎",M. Liga de Campeones 🇪🇸
 #EXTGRP:World Sports 🌎;champions league⚽️
 http://klaratv.com:80/play/live.php?mac=00:1A:79:24:15:C9&stream=1777911&extension=ts|User-Agent=Wink/1.31.1
 
-#EXTINF:-1 tvg-chno="" cuid="1399" tvg-id="M+.Liga.de.Campeones.2.es" tvg-name="M+.Liga.de.Campeones" tvg-logo="https://logo.m3uassets.com/ligadecampeones2.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="World Sports 🌎",M. Liga de Campeones 2 🇪🇸
+#EXTINF:-1 tvg-chno="" cuid="1399" tvg-id="M+.Liga.de.Campeones.2.es" tvg-name="M+.Liga.de.Campeones" tvg-logo="https://github.com/iprtl/tv-logos/raw/main/countries/spain/liga-de-campeones-2-uhd-por-movistar-plus-es.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="World Sports 🌎",M. Liga de Campeones 2 🇪🇸
 #EXTGRP:World Sports 🌎;champions league⚽️
 http://klaratv.com:80/play/live.php?mac=00:1A:79:24:15:C9&stream=1777910&extension=ts|User-Agent=Wink/1.31.1
 
@@ -3762,28 +3759,29 @@ http://185.112.249.46:9981/stream/channelid/2020429400?profile=pass
 =====================🔹========================
 
 #EXTINF:-1 tvg-chno="" cuid="1415" tvg-name="Fox Sports 503 🇦🇺" tvg-id="FoxSports503.au" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https://i.imgur.com/5PUsSnn.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="World Sports 🌎",Fox Sports 503 🇦🇺
-+https://a1xs.vip/700003
+https://7pal.short.gy/fox503au
+
 #EXTINF:-1 tvg-chno="" cuid="1416" tvg-name="Fox Sports 504 🇦🇺" tvg-id="FoxFooty.au" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https://i.imgur.com/aEoU7gf.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="World Sports 🌎",Fox Sports 504 🇦🇺
-+https://a1xs.vip/700004
+https://github.com/cattviptv2605/sportworld/raw/main/foxsport504.m3u8
 #EXTINF:-1 tvg-chno="" cuid="1417" tvg-name="Fox Sports 505 🇦🇺" tvg-id="FoxSports505.au" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https://i.imgur.com/angJkah.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="World Sports 🌎",Fox Sports 505 🇦🇺
-+https://a1xs.vip/700005
+https://github.com/cattviptv2605/sportworld/raw/main/foxsport505.m3u8
 #EXTINF:-1 tvg-chno="" cuid="1418" tvg-name="Fox Sports 506 🇦🇺" tvg-id="FoxSports506.au" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https://i.imgur.com/eA1hiR0.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="World Sports 🌎",Fox Sports 506 🇦🇺
-+https://a1xs.vip/700006
+https://github.com/cattviptv2605/sportworld/raw/main/foxsport506.m3u8
 #EXTINF:-1 tvg-chno="" cuid="1419" tvg-name="Fox Sports 507 🇦🇺" tvg-id="FoxSportsMore.au" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https://i.imgur.com/kGm7Ts1.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="World Sports 🌎",Fox Sports 507 🇦🇺
-+https://a1xs.vip/700007
+https://github.com/cattviptv2605/sportworld/raw/main/foxsport507.m3u8
 
 =====================🔹========================
 TNT SPORT 🇬🇧 LIGA INGLESA E COMPETIÇÕES EUROPEIAS
 =====================🔹========================
 
-#EXTINF:-1 tvg-chno="" cuid="459" tvg-id="TNT.Sports.1.HD.uk" tvg-name="TNT SPORTS 01" tvg-logo="http://145.239.7.84/logos/TNTSports1_Logo_White_RGB_Logo.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="World Sports 🌎",TNT Sports 1 🇬🇧⚽️🏉🎱🏏
-#EXTGRP:World Sports 🌎;champions league⚽️
+#EXTINF:-1 tvg-chno="" cuid="1500" tvg-id="TNT.Sports.1.HD.uk" tvg-name="TNT SPORTS 01" tvg-logo="http://145.239.7.84/logos/TNTSports1_Logo_White_RGB_Logo.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="World Sports 🌎",TNT Sports 1 🇬🇧⚽️🏉🎱🏏
+#EXTGRP:World Sports 🌎;champions league⚽️;Europa League⚽️
+https://7pal.short.gy/tntspts1
 http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:cb:6d:d7&stream=1917626&extension=ts|User-Agent=Wink/1.31.1
 
-#EXTINF:-1 tvg-chno="" cuid="459" tvg-id="TNT.Sports.1.HD.uk" tvg-name="TNT SPORTS 01" tvg-logo="http://145.239.7.84/logos/TNTSports1_Logo_White_RGB_Logo.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="World Sports 🌎",TNT Sports 1 🇬🇧⚽️🏉🎱🏏
-#EXTGRP:World Sports 🌎;champions league⚽️
+#EXTINF:-1 tvg-chno="" cuid="1501" tvg-id="TNT.Sports.1.HD.uk" tvg-name="TNT SPORTS 01" tvg-logo="http://145.239.7.84/logos/TNTSports1_Logo_White_RGB_Logo.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="World Sports 🌎",TNT Sports 1 🇬🇧⚽️🏉🎱🏏
+#EXTGRP:World Sports 🌎;champions league⚽️;Europa League⚽️
 http://slayerteam.in.rs:80/play/live.php?mac=00:1B:79:F0:81:7F&stream=79486&extension=ts|User-Agent=Wink/1.31.1
-
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -3791,8 +3789,8 @@ http://slayerteam.in.rs:80/play/live.php?mac=00:1B:79:F0:81:7F&stream=79486&exte
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd?wowzasessionid=@iprtlk
 https://tiger-hub.vercel.app/TNT-Sports_1/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-chno="" cuid="460" tvg-id="TNT.Sports.1.HD.uk" tvg-name="TNT SPORTS 01" tvg-logo="http://145.239.7.84/logos/TNTSports1_Logo_White_RGB_Logo.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="World Sports 🌎",TNT Sports 1 🇬🇧⚽️🏉🎱🏏
-#EXTGRP:World Sports 🌎;champions league⚽️
+#EXTINF:-1 tvg-chno="" cuid="1502" tvg-id="TNT.Sports.1.HD.uk" tvg-name="TNT SPORTS 01" tvg-logo="http://145.239.7.84/logos/TNTSports1_Logo_White_RGB_Logo.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="World Sports 🌎",TNT Sports 1 🇬🇧⚽️🏉🎱🏏
+#EXTGRP:World Sports 🌎;champions league⚽️;Europa League⚽️
 http://58.65.205.171:8000/play/a07b
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -3801,8 +3799,9 @@ https://a129aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/dash/enc/bsaaetko8v/
 
 
 
-#EXTINF:-1 tvg-chno="" cuid="461" tvg-id="TNT.Sports.2.HD.uk" tvg-name="TNT SPORTS 02" tvg-logo="http://145.239.7.84/logos/TNTSports2_Logo_White_RGB_Logo.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="World Sports 🌎",TNT Sports 2 🇬🇧⚽️🐴🎱
+#EXTINF:-1 tvg-chno="" cuid="1503" tvg-id="TNT.Sports.2.HD.uk" tvg-name="TNT SPORTS 02" tvg-logo="http://145.239.7.84/logos/TNTSports2_Logo_White_RGB_Logo.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="World Sports 🌎",TNT Sports 2 🇬🇧⚽️🐴🎱
 #EXTGRP:World Sports 🌎
+https://7pal.short.gy/tntspts2
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -3810,7 +3809,7 @@ https://a129aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/dash/enc/bsaaetko8v/
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/f0qvkrra8j/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd?wowzasessionid=@iprtlk
 
 
-#EXTINF:-1 tvg-chno="" cuid="462" tvg-id="TNT.Sports.2.HD.uk" tvg-name="TNT SPORTS 02" tvg-logo="http://145.239.7.84/logos/TNTSports2_Logo_White_RGB_Logo.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="World Sports 🌎",TNT Sports 2 🇬🇧⚽️🐴🎱
+#EXTINF:-1 tvg-chno="" cuid="1504" tvg-id="TNT.Sports.2.HD.uk" tvg-name="TNT SPORTS 02" tvg-logo="http://145.239.7.84/logos/TNTSports2_Logo_White_RGB_Logo.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="World Sports 🌎",TNT Sports 2 🇬🇧⚽️🐴🎱
 #EXTGRP:World Sports 🌎
 http://58.65.205.171:8000/play/a072
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -3820,8 +3819,9 @@ https://a129aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/dash/enc/f0qvkrra8j/
 
 
 
-#EXTINF:-1 tvg-chno="" cuid="463" tvg-id="TNT.Sports.3.HD.uk" tvg-name="TNT SPORTS 03" tvg-logo="http://145.239.7.84/logos/TNTSports3_Logo_White_RGB_Logo.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="World Sports 🌎",TNT Sports 3 🇬🇧⚽️🏉⛷
+#EXTINF:-1 tvg-chno="" cuid="1505" tvg-id="TNT.Sports.3.HD.uk" tvg-name="TNT SPORTS 03" tvg-logo="http://145.239.7.84/logos/TNTSports3_Logo_White_RGB_Logo.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="World Sports 🌎",TNT Sports 3 🇬🇧⚽️🏉⛷
 #EXTGRP:World Sports 🌎
+https://7pal.short.gy/tntspts3
 http://slayerteam.in.rs:80/play/live.php?mac=00:1B:79:F0:81:7F&stream=79484&extension=ts&play_token=KtVK7zKudO
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -3830,7 +3830,7 @@ http://slayerteam.in.rs:80/play/live.php?mac=00:1B:79:F0:81:7F&stream=79484&exte
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/lsdasbvglv/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd?wowzasessionid=@iprtlk
 
 
-#EXTINF:-1 tvg-chno="" cuid="464" tvg-id="TNT.Sports.3.HD.uk" tvg-name="TNT SPORTS 03" tvg-logo="http://145.239.7.84/logos/TNTSports3_Logo_White_RGB_Logo.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="World Sports 🌎",TNT Sports 3 🇬🇧⚽️🏉⛷
+#EXTINF:-1 tvg-chno="" cuid="1506" tvg-id="TNT.Sports.3.HD.uk" tvg-name="TNT SPORTS 03" tvg-logo="http://145.239.7.84/logos/TNTSports3_Logo_White_RGB_Logo.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="World Sports 🌎",TNT Sports 3 🇬🇧⚽️🏉⛷
 #EXTGRP:World Sports 🌎
 http://58.65.205.171:8000/play/a075
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -3840,21 +3840,22 @@ https://a129aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/dash/enc/lsdasbvglv/
 
 
 
-#EXTINF:-1 tvg-chno="" cuid="465" tvg-id="TNT.Sports.4.HD.uk" tvg-name="TNT SPORTS 04" tvg-logo="http://145.239.7.84/logos/TNTSports4_Logo_White_RGB_Logo.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="World Sports 🌎",TNT Sports 4 🇬🇧⚽️⚾🏏
+#EXTINF:-1 tvg-chno="" cuid="1507" tvg-id="TNT.Sports.4.HD.uk" tvg-name="TNT SPORTS 04" tvg-logo="http://145.239.7.84/logos/TNTSports4_Logo_White_RGB_Logo.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="World Sports 🌎",TNT Sports 4 🇬🇧⚽️⚾🏏
 #EXTGRP:World Sports 🌎
-http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:cb:6d:d7&stream=1917623&extension=ts&play_token=cFpTIEE6ZB
+https://7pal.short.gy/tntspts4
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=192b1115da041585c77200128549efa1:634e10efe4abbb14be400a3ccbac0258
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/i2pcjr4pe5/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd?wowzasessionid=@iprtlk
 
-#EXTINF:-1 tvg-chno="" cuid="465" tvg-id="TNT.Sports.4.HD.uk" tvg-name="TNT SPORTS 04" tvg-logo="http://145.239.7.84/logos/TNTSports4_Logo_White_RGB_Logo.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="World Sports 🌎",TNT Sports 4 🇬🇧⚽️⚾🏏
+#EXTINF:-1 tvg-chno="" cuid="1508" tvg-id="TNT.Sports.4.HD.uk" tvg-name="TNT SPORTS 04" tvg-logo="http://145.239.7.84/logos/TNTSports4_Logo_White_RGB_Logo.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="World Sports 🌎",TNT Sports 4 🇬🇧⚽️⚾🏏
 #EXTGRP:World Sports 🌎
 https://a1xs.vip/2000024
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:cb:6d:d7&stream=1917623&extension=ts&play_token=cFpTIEE6ZB
 https://tiger-hub.vercel.app/TNT-Sports_4/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-chno="" cuid="466" tvg-id="TNT.Sports.4.HD.uk" tvg-name="TNT SPORTS 04" tvg-logo="http://145.239.7.84/logos/TNTSports4_Logo_White_RGB_Logo.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="World Sports 🌎",TNT Sports 4 🇬🇧⚽️⚾🏏
+#EXTINF:-1 tvg-chno="" cuid="1509" tvg-id="TNT.Sports.4.HD.uk" tvg-name="TNT SPORTS 04" tvg-logo="http://145.239.7.84/logos/TNTSports4_Logo_White_RGB_Logo.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="World Sports 🌎",TNT Sports 4 🇬🇧⚽️⚾🏏
 #EXTGRP:World Sports 🌎
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -3865,7 +3866,7 @@ https://a129aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/dash/enc/i2pcjr4pe5/
 World Sports 🌎🇮🇩
 =====================🔹========================
 
-#EXTINF:-1 tvg-chno="" cuid="802" tvg-id="" tvg-logo="https://iili.io/KWCtSja.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="World Sports 🌎",Premier League Agenda 🇬🇧
+#EXTINF:-1 tvg-chno="" cuid="1510" tvg-id="" tvg-logo="https://iili.io/KWCtSja.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="World Sports 🌎",Premier League Agenda 🇬🇧
 #EXTGRP:World Sports 🌎
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -3875,11 +3876,11 @@ World Sports 🌎🇮🇩
 
 
 
-#EXTINF:-1 tvg-chno="" cuid="467" tvg-id="Soccer.Channel.id" tvg-name="Soccer.Channel" tvg-logo="https://logo.m3uassets.com/soccerchannel.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="World Sports 🌎",Soccer Channel 🇮🇩
+#EXTINF:-1 tvg-chno="" cuid="1511" tvg-id="Soccer.Channel.id" tvg-name="Soccer.Channel" tvg-logo="https://logo.m3uassets.com/soccerchannel.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="World Sports 🌎",Soccer Channel 🇮🇩
 #EXTGRP:World Sports 🌎;Bundesliga⚽️
 http://alpha5-bx.me/play/live.php?mac=00:1A:79:00:04:10&stream=1919399&extension=ts|User-Agent=Wink/1.31.1
 
-#EXTINF:-1 tvg-chno="" cuid="467" tvg-id="Soccer.Channel.id" tvg-name="Soccer.Channel" tvg-logo="https://logo.m3uassets.com/soccerchannel.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="World Sports 🌎",Soccer Channel 🇮🇩
+#EXTINF:-1 tvg-chno="" cuid="1512" tvg-id="Soccer.Channel.id" tvg-name="Soccer.Channel" tvg-logo="https://logo.m3uassets.com/soccerchannel.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="World Sports 🌎",Soccer Channel 🇮🇩
 #EXTGRP:World Sports 🌎;Bundesliga⚽️
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
@@ -3889,7 +3890,7 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/in
 
 ---
 
-#EXTINF:-1 tvg-chno="" cuid="807" tvg-id="" tvg-logo="https://iili.io/KWn2Z0u.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="World Sports 🌎",Fancode Live₁ 🇬🇧
+#EXTINF:-1 tvg-chno="" cuid="1513" tvg-id="" tvg-logo="https://iili.io/KWn2Z0u.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="World Sports 🌎",Fancode Live₁ 🇬🇧
 #EXTGRP:World Sports 🌎;La Liga⚽️
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -3898,7 +3899,7 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/in
 https://a166aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/clients/dash/enc/inpyms8ezu/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd
 
 
-#EXTINF:-1 tvg-chno="" cuid="808" tvg-id="" tvg-logo="https://iili.io/KWn2Z0u.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="World Sports 🌎",Fancode Live₂ 🇬🇧
+#EXTINF:-1 tvg-chno="" cuid="1514" tvg-id="" tvg-logo="https://iili.io/KWn2Z0u.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="World Sports 🌎",Fancode Live₂ 🇬🇧
 #EXTGRP:World Sports 🌎
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -3908,7 +3909,7 @@ https://a204aivottepl-a.akamaihd.net/sin-nitro/live/clients/dash/enc/fdb3pubmek/
 
 ---
 
-#EXTINF:-1 tvg-chno="" cuid="467" tvg-id="Fubo.Sports.us" tvg-name="Fubo Sports" tvg-logo="https://logo.m3uassets.com/fubosportsnetwork.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="World Sports 🌎",Fubo Sports 🇺🇸
+#EXTINF:-1 tvg-chno="" cuid="1515" tvg-id="Fubo.Sports.us" tvg-name="Fubo Sports" tvg-logo="https://logo.m3uassets.com/fubosportsnetwork.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="World Sports 🌎",Fubo Sports 🇺🇸
 #EXTGRP:World Sports 🌎;Serie A⚽️;Ligue 1⚽️
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -3919,30 +3920,30 @@ https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/
 ASTRO SPORTS 🇲🇾
 =====================🔹========================
 
-#EXTINF:-1 tvg-chno="" cuid="467" tvg-id="Astro.Grandstand.my" tvg-name="Astro Grandstand" tvg-logo="https://github.com/iprtl/tv-logos/raw/main/countries/malaysia/astro-grandstand-my.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="World Sports 🌎",Astro Grandstand 🇲🇾
+#EXTINF:-1 tvg-chno="" cuid="1516" tvg-id="Astro.Grandstand.my" tvg-name="Astro Grandstand" tvg-logo="https://github.com/iprtl/tv-logos/raw/main/countries/malaysia/astro-grandstand-my.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="World Sports 🌎",Astro Grandstand 🇲🇾
 #EXTGRP:World Sports 🌎;Premier League⚽️
 #EXTVLCOPT:http-referrer=https://github.com/
 https://github.com/cattviptv2605/m3u8-world-/raw/refs/heads/main/astrograndstand.m3u8
 
-#EXTINF:-1 tvg-chno="" cuid="467" tvg-id="Astro.Football.my" tvg-name="Astro Football" tvg-logo="https://github.com/iprtl/tv-logos/raw/main/countries/malaysia/astro-football-my.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="World Sports 🌎",Astro Football 🇲🇾
+#EXTINF:-1 tvg-chno="" cuid="1517" tvg-id="Astro.Football.my" tvg-name="Astro Football" tvg-logo="https://github.com/iprtl/tv-logos/raw/main/countries/malaysia/astro-football-my.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="World Sports 🌎",Astro Football 🇲🇾
 #EXTGRP:World Sports 🌎;Premier League⚽️
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; M2010J19CG Build/SKQ1.211202.001) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6998.108 Mobile Safari/537.36
 #EXTVLCOPT:http-Referer=https://demo.zplayer.xyz/
 https://dl.dropboxusercontent.com/scl/fi/7hhnrp7jcd8yhgozlodtn/Event.m3u8?rlkey=0v16t8nzl7ubjahcsgj8be1w6&dl=0|Referer=https://demo.crunchyrolll.xyz/
 
-#EXTINF:-1 tvg-chno="" cuid="467" tvg-id="Astro.Football.my" tvg-name="Astro Football" tvg-logo="https://github.com/iprtl/tv-logos/raw/main/countries/malaysia/astro-football-my.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="World Sports 🌎",Astro Football 🇲🇾
+#EXTINF:-1 tvg-chno="" cuid="1518" tvg-id="Astro.Football.my" tvg-name="Astro Football" tvg-logo="https://github.com/iprtl/tv-logos/raw/main/countries/malaysia/astro-football-my.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="World Sports 🌎",Astro Football 🇲🇾
 #EXTGRP:World Sports 🌎;Premier League⚽️
 #EXTVLCOPT:http-referrer=https://github.com/
 https://github.com/cattviptv2605/m3u8-world-/raw/refs/heads/main/astrofootball.m3u8
 
-#EXTINF:-1 tvg-chno="" cuid="467" tvg-id="Astro.Premier.League.my" tvg-name="Astro.Premier.League" tvg-logo="https://github.com/iprtl/tv-logos/raw/main/countries/malaysia/astro-premier-league-my.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="World Sports 🌎",Astro Premier League 🇲🇾
+#EXTINF:-1 tvg-chno="" cuid="1519" tvg-id="Astro.Premier.League.my" tvg-name="Astro.Premier.League" tvg-logo="https://github.com/iprtl/tv-logos/raw/main/countries/malaysia/astro-premier-league-my.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="World Sports 🌎",Astro Premier League 🇲🇾
 #EXTGRP:World Sports 🌎;Premier League⚽️
 https://github.com/cattviptv2605/m3u8-world-/raw/main/astropremierleague.m3u8
 
 
-#EXTINF:-1 tvg-chno="" cuid="467" tvg-id="Astro.Premier.League.my" tvg-name="Astro.Premier.League" tvg-logo="https://github.com/iprtl/tv-logos/raw/main/countries/malaysia/astro-premier-league-my.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="World Sports 🌎",Astro Arena 2 🇲🇾
+#EXTINF:-1 tvg-chno="" cuid="1520" tvg-id="Astro.Premier.League.my" tvg-name="Astro.Premier.League" tvg-logo="https://github.com/iprtl/tv-logos/raw/main/countries/malaysia/astro-premier-league-my.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="World Sports 🌎",Astro Arena 2 🇲🇾
 #EXTGRP:World Sports 🌎;Premier League⚽️
-http://mytv-extra.com:80/live/V713SWTY/D8T8KGTL/33329.m3u8
+http://mytv-extra.com:80/live/V713SWTY/D8T8KGTL/33329.ts
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; M2010J19CG Build/SKQ1.211202.001) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6998.108 Mobile Safari/537.36
 #EXTVLCOPT:http-Referer=https://demo.zplayer.xyz/
 https://dl.dropboxusercontent.com/scl/fi/0wyehmctwvbzvvapip3eu/Event2.m3u8?rlkey=o1yiu1m4zdpwx16fqv3tr09y0&dl=0|Referer=https://demo.crunchyrolll.xyz/
@@ -3951,15 +3952,15 @@ https://dl.dropboxusercontent.com/scl/fi/0wyehmctwvbzvvapip3eu/Event2.m3u8?rlkey
 NOW SPORTS 🇭🇰
 =====================🔹========================
 
-#EXTINF:-1 tvg-chno="" cuid="467" tvg-id="Now.Sports.Premier.League.1.hk" tvg-name="Now Sports Premier League 1" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/NowSportspl.webp" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="World Sports 🌎",Now Sports PL 1 🇭🇰⚽️
+#EXTINF:-1 tvg-chno="" cuid="1521" tvg-id="Now.Sports.Premier.League.1.hk" tvg-name="Now Sports Premier League 1" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/NowSportspl.webp" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="World Sports 🌎",Now Sports PL 1 🇭🇰⚽️
 #EXTGRP:World Sports 🌎;Premier League⚽️
 https://7pal.short.gy/nowhkp1
 
-#EXTINF:-1 tvg-chno="" cuid="467" tvg-id="Now.Sports.Premier.League.2.hk" tvg-name="Now Sports PL 2" tvg-logo="https://i.imgur.com/Gr1qxbC.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="World Sports 🌎",Now Sports PL 2 🇭🇰⚽️
+#EXTINF:-1 tvg-chno="" cuid="1522" tvg-id="Now.Sports.Premier.League.2.hk" tvg-name="Now Sports PL 2" tvg-logo="https://i.imgur.com/Gr1qxbC.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="World Sports 🌎",Now Sports PL 2 🇭🇰⚽️
 #EXTGRP:World Sports 🌎;Premier League⚽️
 https://7pal.short.gy/nowhkp2
 
-#EXTINF:-1 tvg-chno="" cuid="467" tvg-id="Now.Sports.Premier.League.3.hk" tvg-name="Now Sports PL 3" tvg-logo="https://i.imgur.com/kKFsIHz.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="World Sports 🌎",Now Sports PL 3 🇭🇰⚽️
+#EXTINF:-1 tvg-chno="" cuid="1523" tvg-id="Now.Sports.Premier.League.3.hk" tvg-name="Now Sports PL 3" tvg-logo="https://i.imgur.com/kKFsIHz.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="World Sports 🌎",Now Sports PL 3 🇭🇰⚽️
 #EXTGRP:World Sports 🌎;Premier League⚽️
 https://7pal.short.gy/nowhkp3
 
@@ -3967,7 +3968,7 @@ https://7pal.short.gy/nowhkp3
 PremierSports 🇬🇧
 =====================🔹========================
 
-#EXTINF:-1 tvg-chno="" cuid="800" tvg-id="Premier.Sports.1.HD.ie" tvg-logo="https://iili.io/KWnBoiB.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="World Sports 🌎",PremierSports 1 🇬🇧
+#EXTINF:-1 tvg-chno="" cuid="1524" tvg-id="Premier.Sports.1.HD.ie" tvg-logo="https://iili.io/KWnBoiB.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="World Sports 🌎",PremierSports 1 🇬🇧
 #EXTGRP:World Sports 🌎;Serie A⚽️;La Liga⚽️
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -3975,17 +3976,17 @@ PremierSports 🇬🇧
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://abizzcbaaaaaaaamlniubkrls2bb7.otte.live.cf.ww.aiv-cdn.net/fra-nitro/live/dash/enc/vwq77hfgzw/out/v1/b858e0b845c64cec953887bd4269e4ea/cenc.mpd
 
-#EXTINF:-1 tvg-chno="" cuid="800" tvg-id="Premier.Sports.1.HD.ie" tvg-logo="https://iili.io/KWnBoiB.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="World Sports 🌎",PremierSports 1 🇬🇧
+#EXTINF:-1 tvg-chno="" cuid="1525" tvg-id="Premier.Sports.1.HD.ie" tvg-logo="https://iili.io/KWnBoiB.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="World Sports 🌎",PremierSports 1 🇬🇧
 #EXTGRP:World Sports 🌎;Serie A⚽️;La Liga⚽️
+https://7pal.short.gy/prsport1
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f
 https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd
-https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd
-https://7pal.short.gy/prsport1
 
-#EXTINF:-1 tvg-chno="" cuid="800" tvg-id="Premier.Sports.1.HD.ie" tvg-logo="https://iili.io/KWnBoiB.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="World Sports 🌎",PremierSports 1 🇬🇧
+
+#EXTINF:-1 tvg-chno="" cuid="1526" tvg-id="Premier.Sports.1.HD.ie" tvg-logo="https://iili.io/KWnBoiB.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="World Sports 🌎",PremierSports 1 🇬🇧
 #EXTGRP:World Sports 🌎;Serie A⚽️;La Liga⚽️
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f
@@ -3993,7 +3994,7 @@ https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/clients/dash/enc/vwq
 
 
 
-#EXTINF:-1 tvg-chno="" cuid="801" tvg-chno="" cuid="470" tvg-id="Premier.Sports.2.ie" tvg-logo="https://iili.io/KWnCF1I.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="World Sports 🌎",PremierSports 2 🇬🇧
+#EXTINF:-1 tvg-chno="" cuid="1527" tvg-chno="" cuid="470" tvg-id="Premier.Sports.2.ie" tvg-logo="https://iili.io/KWnCF1I.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="World Sports 🌎",PremierSports 2 🇬🇧
 #EXTGRP:World Sports 🌎;Rugby&NFL🏈🏉;La Liga⚽️
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -4001,30 +4002,32 @@ https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/clients/dash/enc/vwq
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://abizzcbaaaaaaaaml3dau5ew7oiof.otte.live.cf.ww.aiv-cdn.net/fra-nitro/live/dash/enc/w34nznx0bz/out/v1/1c6639b9af994c75847def2249302066/cenc.mpd
 
-#EXTINF:-1 tvg-chno="" cuid="801" tvg-chno="" cuid="470" tvg-id="Premier.Sports.2.ie" tvg-logo="https://iili.io/KWnCF1I.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="World Sports 🌎",PremierSports 2 🇬🇧
+#EXTINF:-1 tvg-chno="" cuid="1528" tvg-chno="" cuid="470" tvg-id="Premier.Sports.2.ie" tvg-logo="https://iili.io/KWnCF1I.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="World Sports 🌎",PremierSports 2 🇬🇧
 #EXTGRP:World Sports 🌎;Rugby&NFL🏈🏉;La Liga⚽️
+https://7pal.short.gy/prsport2
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19
 https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd
-https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd
-https://7pal.short.gy/prsport2
 
-#EXTINF:-1 tvg-chno="" cuid="801" tvg-chno="" cuid="470" tvg-id="Premier.Sports.2.ie" tvg-logo="https://iili.io/KWnCF1I.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="World Sports 🌎",PremierSports 2 🇬🇧
+
+#EXTINF:-1 tvg-chno="" cuid="1529" tvg-chno="" cuid="470" tvg-id="Premier.Sports.2.ie" tvg-logo="https://iili.io/KWnCF1I.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="World Sports 🌎",PremierSports 2 🇬🇧
 #EXTGRP:World Sports 🌎;Rugby&NFL🏈🏉;La Liga⚽️
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19
 https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd
 
 
-#EXTINF:-1 tvg-chno="" cuid="801" tvg-chno="" cuid="470" tvg-id="Premier.Sports.Rugby.my" tvg-logo="https://iili.io/KWnCF1I.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="World Sports 🌎",Premier Sports Rugby 🇬🇧🏉
+#EXTINF:-1 tvg-chno="" cuid="1530" tvg-chno="" cuid="470" tvg-id="Premier.Sports.Rugby.my" tvg-logo="https://iili.io/KWnCF1I.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="World Sports 🌎",Premier Sports Rugby 🇬🇧🏉
 #EXTGRP:World Sports 🌎;Rugby&NFL🏈🏉
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4751472d3ac45e95e44b5e75480e53de:5f989e3de354630ec7973980f129ed01
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/fapyi0fj1o/out/v1/6fe7ef7bb5de4033a2b202d9ca62151a/cenc.mpd
 
-#EXTINF:-1 tvg-chno="" cuid="801" tvg-chno="" cuid="470" tvg-id="Premier.Sports.Rugby.my" tvg-logo="https://iili.io/KWnCF1I.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="World Sports 🌎",Premier Sports Rugby 🇬🇧🏉
+
+
+#EXTINF:-1 tvg-chno="" cuid="1531" tvg-chno="" cuid="470" tvg-id="Premier.Sports.Rugby.my" tvg-logo="https://iili.io/KWnCF1I.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="World Sports 🌎",Premier Sports Rugby 🇬🇧🏉
 #EXTGRP:World Sports 🌎;Rugby&NFL🏈🏉
 http://195.128.27.141:80/play/live.php?mac=00:1A:79:24:1B:18&stream=138787&extension=ts
 
@@ -4032,14 +4035,14 @@ http://195.128.27.141:80/play/live.php?mac=00:1A:79:24:1B:18&stream=138787&exten
 SKY SPORTS 🇬🇧
 =====================🔹========================
 
-#EXTINF:-1 tvg-chno="" cuid="803" tvg-id="SkySp.News.HD.uk" tvg-logo="https://raw.githubusercontent.com/iprtl/tv-logos/main/countries/united-kingdom/sky-sports-news-uk.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="World Sports 🌎",Sky Sport News 🇬🇧
+#EXTINF:-1 tvg-chno="" cuid="1532" tvg-id="SkySp.News.HD.uk" tvg-logo="https://raw.githubusercontent.com/iprtl/tv-logos/main/countries/united-kingdom/sky-sports-news-uk.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="World Sports 🌎",Sky Sport News 🇬🇧
 #EXTGRP:World Sports 🌎
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
 https://7pal.short.gy/ssportsnw
 http://195.128.27.141:80/play/live.php?mac=00:1A:79:24:1B:18&stream=1236217&extension=ts
 http://fortv.cc:8080/54514663/54514663/35241
 
-#EXTINF:-1 tvg-chno="" cuid="0809" tvg-id="Sky.Sport.Bundesliga.de" tvg-logo="https://logo.m3uassets.com/skysportbundesliga.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="World Sports 🌎",Sky Sport Bundesliga 🇩🇪
+#EXTINF:-1 tvg-chno="" cuid="1533" tvg-id="Sky.Sport.Bundesliga.de" tvg-logo="https://logo.m3uassets.com/skysportbundesliga.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="World Sports 🌎",Sky Sport Bundesliga 🇩🇪
 #EXTGRP:World Sports 🌎;Bundesliga⚽️
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -4048,45 +4051,45 @@ https://abe4mdzaaaaaaaampzanwc57oxzim.otte.live.cf.ww.aiv-cdn.net/lhr-nitro/live
 
 ---
 
-#EXTINF:-1 tvg-chno="" cuid="0803" tvg-id="Sky.Sport.Premier.League.de" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/skysportpl.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="World Sports 🌎",Sky Sport Premier League 🇩🇪
+#EXTINF:-1 tvg-chno="" cuid="1534" tvg-id="Sky.Sport.Premier.League.de" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/skysportpl.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="World Sports 🌎",Sky Sport Premier League 🇩🇪
 #EXTGRP:World Sports 🌎;Premier League⚽️
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ca4316630f56d6f33e9ff73b7ad211d1:72c54e5646055f444e99bc1123919e89
 https://abe4mdzaaaaaaaampzanwc57oxzti.otte.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/9o6jmlyjpm/out/v1/ad80a9bfecc6438f82f2af41c58d7fb8/cenc.mpd
 
-#EXTINF:-1 tvg-chno="" cuid="803" tvg-id="SkySp.PL.HD.uk" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/skysportpl.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="World Sports 🌎",Sky Sport Premier League 🇬🇧
+#EXTINF:-1 tvg-chno="" cuid="1535" tvg-id="SkySp.PL.HD.uk" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/skysportpl.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="World Sports 🌎",Sky Sport Premier League 🇬🇧
 #EXTGRP:World Sports 🌎;Premier League⚽️
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
 https://7pal.short.gy/ssportspl
 https://a1xs.vip/2000002
 
-#EXTINF:-1 tvg-chno="" cuid="803" tvg-id="SkySp.PL.HD.uk" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/skysportpl.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="World Sports 🌎",Sky Sport Premier League 🇬🇧
+#EXTINF:-1 tvg-chno="" cuid="1536" tvg-id="SkySp.PL.HD.uk" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/skysportpl.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="World Sports 🌎",Sky Sport Premier League 🇬🇧
 #EXTGRP:World Sports 🌎;Premier League⚽️
 http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:cb:6d:d7&stream=1917630&extension=ts|User-Agent=Wink/1.31.1
 
 ---
 
-#EXTINF:-1 tvg-chno="" cuid="804" tvg-id="SkySpMainEvHD.uk" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/SkySportsMainEvent.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="World Sports 🌎",Sky Sport Main Event 🇬🇧
+#EXTINF:-1 tvg-chno="" cuid="1537" tvg-id="SkySpMainEvHD.uk" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/SkySportsMainEvent.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="World Sports 🌎",Sky Sport Main Event 🇬🇧
 #EXTGRP:World Sports 🌎;Premier League⚽️
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
 https://7pal.short.gy/SkSpMainE
 
-#EXTINF:-1 tvg-chno="" cuid="804" tvg-id="SkySpMainEvHD.uk" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/SkySportsMainEvent.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="World Sports 🌎",Sky Sport Main Event 🇬🇧
+#EXTINF:-1 tvg-chno="" cuid="1538" tvg-id="SkySpMainEvHD.uk" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/SkySportsMainEvent.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="World Sports 🌎",Sky Sport Main Event 🇬🇧
 #EXTGRP:World Sports 🌎;Premier League⚽️
 https://a1xs.vip/2000001
 http://fortv.cc:8080/54514663/54514663/35243
 
-#EXTINF:-1 tvg-chno="" cuid="804" tvg-id="SkySpMainEvHD.uk" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/SkySportsMainEvent.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="World Sports 🌎",Sky Sport Main Event 🇬🇧
+#EXTINF:-1 tvg-chno="" cuid="1539" tvg-id="SkySpMainEvHD.uk" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/SkySportsMainEvent.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="World Sports 🌎",Sky Sport Main Event 🇬🇧
 #EXTGRP:World Sports 🌎;Premier League⚽️
-http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:cb:6d:d7&stream=1917636&extension=ts|User-Agent=Wink/1.31.1
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:cb:6d:d7&stream=1917636&extension=ts|User-Agent=Wink/1.31.1
 http://109.61.81.147:1935/cdn7/709/video.m3u8?token=c7699290670503beda37c4c4f6fd8251
 https://l.hilay.tv/skysportsmaineventud
 
 
 
-#EXTINF:-1 tvg-chno="" cuid="0804" tvg-id="Sky.Sport.Top.Event.de" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/SkySportsMainEvent.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="World Sports 🌎",Sky Sport Top Event 🇩🇪
+#EXTINF:-1 tvg-chno="" cuid="1540" tvg-id="Sky.Sport.Top.Event.de" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/SkySportsMainEvent.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="World Sports 🌎",Sky Sport Top Event 🇩🇪
 #EXTGRP:World Sports 🌎
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -4094,37 +4097,39 @@ https://l.hilay.tv/skysportsmaineventud
 https://otte.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/jglxtfgzxa/out/v1/28a70425aec84b55bb9d29ccd5d53f45/cenc.mpd
 
 
-#EXTINF:-1 tvg-chno="" cuid="805" tvg-id="SkySp+.uk" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/SkySportsplus.webp" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="World Sports 🌎",Sky Sport+ 🇬🇧
+#EXTINF:-1 tvg-chno="" cuid="1541" tvg-id="SkySp+.uk" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/SkySportsplus.webp" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="World Sports 🌎",Sky Sport+ 🇬🇧
 #EXTGRP:World Sports 🌎;Tennis🎾
+https://a1xs.vip/2000012
 http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:cb:6d:d7&stream=1917631&extension=ts|User-Agent=Wink/1.31.1
 
-#EXTINF:-1 tvg-chno="" cuid="805" tvg-id="SkySp+.uk" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/SkySportsplus.webp" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="World Sports 🌎",Sky Sport+ 🇬🇧
+#EXTINF:-1 tvg-chno="" cuid="1542" tvg-id="SkySp+.uk" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/SkySportsplus.webp" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="World Sports 🌎",Sky Sport+ 🇬🇧
 #EXTGRP:World Sports 🌎;Tennis🎾
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
 http://109.61.81.147:1935/cdn7/4161/mpegts?token=f0cf1e6d037daf201238b459de5d3ec9
-https://a1xs.vip/2000012
 
+---
 
-#EXTINF:-1 tvg-chno="" cuid="806" tvg-id="SkySp.Fball.HD.uk" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/SkySportsFootball.webp" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="World Sports 🌎",Sky Sport Football 🇬🇧
+#EXTINF:-1 tvg-chno="" cuid="1543" tvg-id="SkySp.Fball.HD.uk" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/SkySportsFootball.webp" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="World Sports 🌎",Sky Sport Football 🇬🇧
 #EXTGRP:World Sports 🌎
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
+https://a1xs.vip/2000003
 http://178.33.239.54:8080/500a/index.m3u8
 
-#EXTINF:-1 tvg-chno="" cuid="806" tvg-id="SkySp.Fball.HD.uk" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/SkySportsFootball.webp" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="World Sports 🌎",Sky Sport Football 🇬🇧
+#EXTINF:-1 tvg-chno="" cuid="1544" tvg-id="SkySp.Fball.HD.uk" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/SkySportsFootball.webp" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="World Sports 🌎",Sky Sport Football 🇬🇧
 #EXTGRP:World Sports 🌎
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
 https://7pal.short.gy/ssportsfb
 +https://bd-streams.site/crx/master.php?id=skysfott|Referer=https://bd-streams.site/crx/master.php?id=skyscric
-+https://a1xs.vip/2000003
 
+---
 
-#EXTINF:-1 tvg-chno="" cuid="809" tvg-id="SkySp.Mix.HD.uk" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/skysportmix.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="World Sports 🌎",Sky Sport Mix 🇬🇧
+#EXTINF:-1 tvg-chno="" cuid="1545" tvg-id="SkySp.Mix.HD.uk" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/skysportmix.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="World Sports 🌎",Sky Sport Mix 🇬🇧
 #EXTGRP:World Sports 🌎
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
 http://178.33.239.54:8080/507a/index.m3u8
 +https://bd-streams.site/crx/master.php?id=skysmixx|Referer=https://bd-streams.site/crx/master.php?id=skyscric
 
-#EXTINF:-1 tvg-chno="" cuid="0809" tvg-id="Sky.Sport.Mix.de" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/skysportmix.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="World Sports 🌎",Sky Sport Mix 🇩🇪
+#EXTINF:-1 tvg-chno="" cuid="1546" tvg-id="Sky.Sport.Mix.de" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/skysportmix.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="World Sports 🌎",Sky Sport Mix 🇩🇪
 #EXTGRP:World Sports 🌎
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3c393a1661a7a0c306ed4b2d3f8c7b7e:74583ae652f0ed1bed5fc713f577fe1e
@@ -4132,32 +4137,30 @@ https://otte.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/tjz3qplazr/o
 
 
 
-#EXTINF:-1 tvg-chno="" cuid="435" tvg-name="Sky Sports Tennis" tvg-id="SkySp.Tennis.HD.uk" tvg-logo="https://i.imgur.com/ZNUDU1r.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="World Sports 🌎",Sky Sports Tennis 🇬🇧
+#EXTINF:-1 tvg-chno="" cuid="1547" tvg-name="Sky Sports Tennis" tvg-id="SkySp.Tennis.HD.uk" tvg-logo="https://i.imgur.com/ZNUDU1r.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="World Sports 🌎",Sky Sports Tennis 🇬🇧
 #EXTGRP:World Sports 🌎;Tennis🎾
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8a7c8437ab14cb75f8522fd0d4b7f2f8:dc9be1750410e91be85f96ef0efdacd7
 https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/n7k8iy6fcq/out/v1/b58874d47be74695806ce7b9e58fe48b/cenc.mpd
 
-#EXTINF:-1 tvg-chno="" cuid="435" tvg-name="Sky Sports Tennis" tvg-id="SkySp.Tennis.HD.uk" tvg-logo="https://i.imgur.com/ZNUDU1r.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="World Sports 🌎",Sky Sports Tennis 🇬🇧
+#EXTINF:-1 tvg-chno="" cuid="1548" tvg-name="Sky Sports Tennis" tvg-id="SkySp.Tennis.HD.uk" tvg-logo="https://i.imgur.com/ZNUDU1r.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="World Sports 🌎",Sky Sports Tennis 🇬🇧
 #EXTGRP:World Sports 🌎;Tennis🎾
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
 https://7pal.short.gy/ssportstn
-+https://bd-streams.site/crx/master.php?id=skystennis|Referer=https://bd-streams.site/crx/master.php?id=skyscric
-https://a1xs.vip/2000013
-+http://109.61.81.147:1935/cdn7/582/mpegts?token=11d5defc9396d7952957029a688f94af
 
+---
 
-#EXTINF:-1 tvg-chno="" cuid="436" tvg-name="SkySp.Golf" tvg-id="SkySp.Golf.HD.uk" tvg-logo="https://i.imgur.com/6h5V23t.webp" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="World Sports 🌎",Sky Sports Golf 🇬🇧
+#EXTINF:-1 tvg-chno="" cuid="1549" tvg-name="SkySp.Golf" tvg-id="SkySp.Golf.HD.uk" tvg-logo="https://i.imgur.com/6h5V23t.webp" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="World Sports 🌎",Sky Sports Golf 🇬🇧
 #EXTGRP:World Sports 🌎;Golf🏌
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
 http://193.35.224.138:80/2793116/index.m3u8?token=c1lHcnQ4YVpxYVNWZk1xc2diR0l5OG5iMko2QWxiQ3VyNHVibDZla3lvTERxNEduaVp1UnBxU2VlWmF0ZnRlRGxaMm1zNStDbnJOOXFZMlhtcStybmc9PQ==
 
 
-#EXTINF:-1 tvg-chno="" cuid="436" tvg-name="SkySp.Action" tvg-id="SkySp.ActionHD.uk" tvg-logo="https://i.imgur.com/i1yzHZj.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="World Sports 🌎",Sky Sports Action/NFL 🇬🇧
+#EXTINF:-1 tvg-chno="" cuid="1550" tvg-name="SkySp.Action" tvg-id="SkySp.ActionHD.uk" tvg-logo="https://i.imgur.com/i1yzHZj.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="World Sports 🌎",Sky Sports Action/NFL 🇬🇧
 #EXTGRP:World Sports 🌎;Rugby&NFL🏈🏉
 https://a1xs.vip/2000011
-#EXTINF:-1 tvg-chno="" cuid="436" tvg-name="SkySp.Action" tvg-id="SkySp.ActionHD.uk" tvg-logo="https://i.imgur.com/i1yzHZj.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="World Sports 🌎",Sky Sports Action/NFL 🇬🇧
+#EXTINF:-1 tvg-chno="" cuid="1551" tvg-name="SkySp.Action" tvg-id="SkySp.ActionHD.uk" tvg-logo="https://i.imgur.com/i1yzHZj.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="World Sports 🌎",Sky Sports Action/NFL 🇬🇧
 #EXTGRP:World Sports 🌎;Rugby&NFL🏈🏉
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
 https://7pal.short.gy/ssportsat
@@ -4167,82 +4170,83 @@ http://67.159.24.66:443/3289/tracks-v1a1/mono.ts.m3u8?token=efe77837af411e7423d6
 HUB SPORTS PREMIER 🇸🇬
 =====================🔹========================
 
-#EXTINF:-1 tvg-chno="" cuid="" tvg-name="Hub Premier 1 🇦🇺" tvg-id="Hub.Sports.1.HD.sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/201_1920x1080_HTV.png?w=272" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="World Sports 🌎",Hub Sports 1 🇸🇬
+#EXTINF:-1 tvg-chno="" cuid="1560" tvg-name="Hub Premier 1 🇦🇺" tvg-id="Hub.Sports.1.HD.sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/201_1920x1080_HTV.png?w=272" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="World Sports 🌎",Hub Sports 1 🇸🇬
 #EXTGRP:World Sports 🌎;Tennis🎾;Premier League⚽️
 https://012v4.goiptv.us.ci/stream/starhub/hubsports1hd/
 
-#EXTINF:-1 tvg-chno="" cuid="470" tvg-name="Hub Premier 1 🇦🇺" tvg-id="Hub.Sports.1.HD.sg" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/singapore/hub-premier-1-sg.png?raw=true" group-logo="https://poster.starhubgo.com/Linear_channels2/201_1920x1080_HTV.png?w=272" group-title="World Sports 🌎",Hub Sports 1 🇸🇬⚽️
+#EXTINF:-1 tvg-chno="" cuid="1561" tvg-name="Hub Premier 1 🇦🇺" tvg-id="Hub.Sports.1.HD.sg" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/singapore/hub-premier-1-sg.png?raw=true" group-logo="https://poster.starhubgo.com/Linear_channels2/201_1920x1080_HTV.png?w=272" group-title="World Sports 🌎",Hub Sports 1 🇸🇬⚽️
 #EXTGRP:World Sports 🌎;Premier League⚽️
 https://raw.githubusercontent.com/B-inal-123/s-asia/inal-22/Hubsport1.m3u8
 
 
 
-#EXTINF:-1 tvg-chno="" cuid="" tvg-name="Hub Premier 1 🇦🇺" tvg-id="Hub.Sports.2.HD.sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/202_1920x1080_HTV.png?w=272" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="World Sports 🌎",Hub Sports 2 🇸🇬
+#EXTINF:-1 tvg-chno="" cuid="1562" tvg-name="Hub Premier 1 🇦🇺" tvg-id="Hub.Sports.2.HD.sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/202_1920x1080_HTV.png?w=272" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="World Sports 🌎",Hub Sports 2 🇸🇬
 #EXTGRP:World Sports 🌎;Premier League⚽️
 https://012v4.goiptv.us.ci/stream/starhub/hubsports2hd/
 
-#EXTINF:-1 tvg-chno="" cuid="" tvg-name="Hub Premier 1 🇦🇺" tvg-id="Hub.Sports.3.HD.sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/203_1920x1080_HTV.png?w=272" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="World Sports 🌎",Hub Sports 3 🇸🇬
+#EXTINF:-1 tvg-chno="" cuid="1563" tvg-name="Hub Premier 1 🇦🇺" tvg-id="Hub.Sports.3.HD.sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/203_1920x1080_HTV.png?w=272" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="World Sports 🌎",Hub Sports 3 🇸🇬
 #EXTGRP:World Sports 🌎;Premier League⚽️
 http://54.36.162.3/pr3/index.m3u8
-#EXTINF:-1 tvg-chno="" cuid="" tvg-name="Hub Premier 1 🇦🇺" tvg-id="Hub.Sports.3.HD.sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/203_1920x1080_HTV.png?w=272" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="World Sports 🌎",Hub Sports 3 🇸🇬
+#EXTINF:-1 tvg-chno="" cuid="1564" tvg-name="Hub Premier 1 🇦🇺" tvg-id="Hub.Sports.3.HD.sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/203_1920x1080_HTV.png?w=272" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="World Sports 🌎",Hub Sports 3 🇸🇬
 #EXTGRP:World Sports 🌎
 https://012v4.goiptv.us.ci/stream/starhub/hubsports3hd/
 
-#EXTINF:-1 tvg-chno="" cuid="" tvg-name="Hub Premier 1 🇦🇺" tvg-id="Hub.Sports.4.HD.sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/204_1920x1080_HTV.png?w=272" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="World Sports 🌎",Hub Sports 4 🇸🇬
+#EXTINF:-1 tvg-chno="" cuid="1565" tvg-name="Hub Premier 1 🇦🇺" tvg-id="Hub.Sports.4.HD.sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/204_1920x1080_HTV.png?w=272" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="World Sports 🌎",Hub Sports 4 🇸🇬
 #EXTGRP:World Sports 🌎;Premier League⚽️
 https://012v4.goiptv.us.ci/stream/starhub/hubsports4hd/
-#EXTINF:-1 tvg-chno="" cuid="" tvg-name="Hub Premier 1 🇦🇺" tvg-id="Hub.Sports.5.HD.sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/205_1920x1080_HTV.png?w=272" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="World Sports 🌎",Hub Sports 5 🇸🇬
+
+#EXTINF:-1 tvg-chno="" cuid="1566" tvg-name="Hub Premier 1 🇦🇺" tvg-id="Hub.Sports.5.HD.sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/205_1920x1080_HTV.png?w=272" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="World Sports 🌎",Hub Sports 5 🇸🇬
 #EXTGRP:World Sports 🌎
 https://012v4.goiptv.us.ci/stream/starhub/hubsports5hd/
 
-#EXTINF:-1 tvg-chno="" cuid="" tvg-name="Hub Premier 1 🇦🇺" tvg-id="Hub.Sports.6.HD.sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/206_1920x1080_HTV.png?w=272" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="World Sports 🌎",Hub Sports 6 🇸🇬
+#EXTINF:-1 tvg-chno="" cuid="1567" tvg-name="Hub Premier 1 🇦🇺" tvg-id="Hub.Sports.6.HD.sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/206_1920x1080_HTV.png?w=272" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="World Sports 🌎",Hub Sports 6 🇸🇬
 #EXTGRP:World Sports 🌎
 https://012v4.goiptv.us.ci/stream/starhub/hubsports6hd/
 
-#EXTINF:-1 tvg-chno="" cuid="" tvg-name="Hub Premier 1 🇦🇺" tvg-id="Hub.Sports.7.HD.sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/207_1920x1080_HTV.png?w=272" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="World Sports 🌎",Hub Sports 7 🇸🇬
+#EXTINF:-1 tvg-chno="" cuid="1568" tvg-name="Hub Premier 1 🇦🇺" tvg-id="Hub.Sports.7.HD.sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/207_1920x1080_HTV.png?w=272" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="World Sports 🌎",Hub Sports 7 🇸🇬
 #EXTGRP:World Sports 🌎
 https://012v4.goiptv.us.ci/stream/starhub/hubsports7hd/
 
 ---
 
-#EXTINF:-1 tvg-chno="" cuid="" tvg-name="Hub Premier 1 🇦🇺" tvg-id="Hub.Premier.1.sg" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/singapore/hub-premier-1-sg.png?raw=true" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="World Sports 🌎",Hub Premier 1 🇸🇬⚽️
+#EXTINF:-1 tvg-chno="" cuid="1569" tvg-name="Hub Premier 1 🇦🇺" tvg-id="Hub.Premier.1.sg" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/singapore/hub-premier-1-sg.png?raw=true" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="World Sports 🌎",Hub Premier 1 🇸🇬⚽️
 #EXTGRP:World Sports 🌎;Premier League⚽️
 https://7pal.short.gy/HPremier1
 http://filex.me:8080/live/MAS101A/MAS101AABB/495230.ts
 
-#EXTINF:-1 tvg-chno="" cuid="" tvg-name="Hub Premier 1 🇦🇺" tvg-id="Hub.Premier.1.sg" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/singapore/hub-premier-1-sg.png?raw=true" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="World Sports 🌎",Hub Premier 1 🇸🇬⚽️
+#EXTINF:-1 tvg-chno="" cuid="1570" tvg-name="Hub Premier 1 🇦🇺" tvg-id="Hub.Premier.1.sg" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/singapore/hub-premier-1-sg.png?raw=true" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="World Sports 🌎",Hub Premier 1 🇸🇬⚽️
 #EXTGRP:World Sports 🌎;Premier League⚽️
 http://a1xs.vip/1100041
 
 
 
-#EXTINF:-1 tvg-chno="" cuid="471" tvg-name="Hub Premier 2 🇦🇺" tvg-id="Hub.Premier.2.sg" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/singapore/hub-premier-2-sg.png?raw=true" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="World Sports 🌎",Hub Premier 2 🇸🇬⚽️
+#EXTINF:-1 tvg-chno="" cuid="1571" tvg-name="Hub Premier 2 🇦🇺" tvg-id="Hub.Premier.2.sg" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/singapore/hub-premier-2-sg.png?raw=true" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="World Sports 🌎",Hub Premier 2 🇸🇬⚽️
 #EXTGRP:World Sports 🌎;Premier League⚽️
 https://7pal.short.gy/HPremier2
 http://195.128.27.141:80/play/live.php?mac=00:1A:79:24:1B:18&stream=264397&extension=ts
 
-#EXTINF:-1 tvg-chno="" cuid="471" tvg-name="Hub Premier 2 🇦🇺" tvg-id="Hub.Premier.2.sg" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/singapore/hub-premier-2-sg.png?raw=true" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="World Sports 🌎",Hub Premier 2 🇸🇬⚽️
+#EXTINF:-1 tvg-chno="" cuid="1572" tvg-name="Hub Premier 2 🇦🇺" tvg-id="Hub.Premier.2.sg" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/singapore/hub-premier-2-sg.png?raw=true" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="World Sports 🌎",Hub Premier 2 🇸🇬⚽️
 #EXTGRP:World Sports 🌎;Premier League⚽️
 https://a1xs.vip/1100042
 
 
 
-#EXTINF:-1 tvg-chno="" cuid="472" tvg-name="Hub Premier 3 🇦🇺" tvg-id="Hub.Premier.3.sg" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/singapore/hub-premier-3-sg.png?raw=true" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="World Sports 🌎",Hub Premier 3 🇸🇬⚽️
+#EXTINF:-1 tvg-chno="" cuid="1573" tvg-name="Hub Premier 3 🇦🇺" tvg-id="Hub.Premier.3.sg" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/singapore/hub-premier-3-sg.png?raw=true" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="World Sports 🌎",Hub Premier 3 🇸🇬⚽️
 #EXTGRP:World Sports 🌎;Premier League⚽️
 https://7pal.short.gy/HPremier3
 http://195.128.27.141:80/play/live.php?mac=00:1A:79:24:1B:18&stream=264398&extension=ts
 
-#EXTINF:-1 tvg-chno="" cuid="472" tvg-name="Hub Premier 3 🇦🇺" tvg-id="Hub.Premier.3.sg" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/singapore/hub-premier-3-sg.png?raw=true" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="World Sports 🌎",Hub Premier 3 🇸🇬⚽️
+#EXTINF:-1 tvg-chno="" cuid="1574" tvg-name="Hub Premier 3 🇦🇺" tvg-id="Hub.Premier.3.sg" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/singapore/hub-premier-3-sg.png?raw=true" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="World Sports 🌎",Hub Premier 3 🇸🇬⚽️
 #EXTGRP:World Sports 🌎;Premier League⚽️
 https://a1xs.vip/1100043
 
 
 
-#EXTINF:-1 tvg-chno="" cuid="473" tvg-name="Hub Premier 4 🇦🇺" tvg-id="Hub.Premier.4.sg" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/singapore/hub-premier-4-sg.png?raw=true" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="World Sports 🌎",Hub Premier 4 🇸🇬⚽️
+#EXTINF:-1 tvg-chno="" cuid="1575" tvg-name="Hub Premier 4 🇦🇺" tvg-id="Hub.Premier.4.sg" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/singapore/hub-premier-4-sg.png?raw=true" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="World Sports 🌎",Hub Premier 4 🇸🇬⚽️
 #EXTGRP:World Sports 🌎;Premier League⚽️
 http://195.128.27.141:80/play/live.php?mac=00:1A:79:24:1B:18&stream=264399&extension=ts
 
-#EXTINF:-1 tvg-chno="" cuid="473" tvg-name="Hub Premier 4 🇦🇺" tvg-id="Hub.Premier.4.sg" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/singapore/hub-premier-4-sg.png?raw=true" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="World Sports 🌎",Hub Premier 4 🇸🇬⚽️
+#EXTINF:-1 tvg-chno="" cuid="1576" tvg-name="Hub Premier 4 🇦🇺" tvg-id="Hub.Premier.4.sg" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/singapore/hub-premier-4-sg.png?raw=true" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="World Sports 🌎",Hub Premier 4 🇸🇬⚽️
 #EXTGRP:World Sports 🌎;Premier League⚽️
 https://a1xs.vip/1100044
 
@@ -4250,7 +4254,7 @@ https://a1xs.vip/1100044
 CAZETV & SPORTV PREMIERE 🇧🇷
 =====================🔹========================
 
-#EXTINF:-1 tvg-chno="" cuid="423" tvg-name="Cazétv" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/cazetv.webp" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="World Sports 🌎",Cazetv 🇧🇷⚽️🎾🏐
+#EXTINF:-1 tvg-chno="" cuid="1600" tvg-name="Cazétv" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/cazetv.webp" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="World Sports 🌎",Cazetv 🇧🇷⚽️🎾🏐
 #EXTGRP:Sports 🇧🇷
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8?wowzasessionid=@iprtlk
 
@@ -4533,7 +4537,7 @@ https://cdn-live.mundogo.cl/espn/espn.mpd
 ---
 
 #EXTINF:-1 tvg-chno="" cuid="475" tvg-name="ESPN 2" tvg-id="ESPN.2.co" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/espn2white.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="World Sports 🌎",ESPN 2 🇨🇴⚽️
-#EXTGRP:World Sports 🌎;La Liga⚽️
+#EXTGRP:World Sports 🌎;La Liga⚽️;Europa League⚽️
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.6723.73 Mobile Safari/537.36
 #EXTVLCOPT--http-reconnect=true
@@ -4999,19 +5003,20 @@ CANAIS FRANCESES 🇫🇷
 #EXTINF:-1 tvg-chno="" cuid="529" tvg-name="L'Equipe 1 🇫🇷" tvg-id="La.chaine.l’Équipe.fr" tvg-logo="https://logo.m3uassets.com/lequipe.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="World Sports 🌎;Rugby&NFL🏈🏉",la chaine L'Equipe 🇫🇷
 https://dshn8inoshngm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gac2i63dmu8b7/LEquipe_FR.m3u8
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/lequipe/la-chaine-l-equipe-en-direct-dm.m3u8
+https://viamotionhsi.netplus.ch/live/eds/lequipe21/browser-dash/lequipe21.mpd
 +https://tvradiozap.eu/tools/dm-m3u8.php/x2lefik.m3u8
 
-#EXTINF:-1 tvg-chno="" cuid="530" tvg-id="RMC.Sport.1.fr" tvg-name="CANAL+SPORT" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/RMC1.webp" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="World Sports 🌎",RMC Sport 1 🇫🇷🥊🥋
+#EXTINF:-1 tvg-chno="" cuid="530" tvg-id="RMC.Sport.1.fr" tvg-name="RMC Sport" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/RMC1.webp" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="World Sports 🌎",RMC Sport 1 🇫🇷🥊🥋
 +http://5.9.119.146:8883/rmc1/index.m3u8
 +http://178.33.239.54:8080/524/index.m3u8?wowzasessionid=@iprtlk
 
 
 
-#EXTINF:-1 tvg-chno="" cuid="531" tvg-id="Canal+.Foot.fr" tvg-name="CANAL+SPORT" tvg-logo="https://logo.m3uassets.com/canal+foot.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="World Sports 🌎;Premier League⚽️;Rugby&NFL🏈🏉",Canal +Foot 🇫🇷
+#EXTINF:-1 tvg-chno="" cuid="531" tvg-id="Canal+.Foot.fr" tvg-name="CANAL+SPORT" tvg-logo="https://logo.m3uassets.com/canal+foot.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="World Sports 🌎;Premier League⚽️;Rugby&NFL🏈🏉;Europa League⚽️",Canal +Foot 🇫🇷
 http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:cb:6d:d7&stream=1917483&extension=ts&play_token=euOLa7NTm0
 
 
-#EXTINF:-1 tvg-chno="" cuid="531" tvg-id="Canal+.Sport.fr" tvg-name="CANAL+SPORT" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/+canalsport.webp" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="World Sports 🌎;Rugby&NFL🏈🏉",Canal +Sport 🇫🇷🏉🏎️⛵
+#EXTINF:-1 tvg-chno="" cuid="531" tvg-id="Canal+.Sport.fr" tvg-name="CANAL+SPORT" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/+canalsport.webp" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="World Sports 🌎;Rugby&NFL🏈🏉;Europa League⚽️",Canal +Sport 🇫🇷🏉🏎️⛵
 http://151.80.18.177:86/Canal+_sport_HD/index.m3u8?wowzasessionid=@iprtlk
 http://178.33.239.54:8080/541/index.m3u8?wowzasessionid=@iprtlk
 
@@ -5317,7 +5322,7 @@ https://api-proxad.dc2.oqee.net/playlist/v1/live/978/1/live.mpd
 #EXTINF:-1 tvg-chno="" cuid="550" tvg-name="sk1" tvg-id="SK.1.HD.(HR).ba" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/Sportklub.webp" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="World Sports 🌎",Sport Klub 1 🇭🇷 
 #EXTGRP:Liga Betclic⚽️;World Sports 🌎
 #EXTVLCOPT:http-referrer=https://github.com/
-+https://github.com/cattviptv2605/sportworld/raw/refs/heads/main/sportklub1.m3u8
+https://github.com/cattviptv2605/sportworld/raw/main/sportklub1.m3u8
 +http://1gotv.org:8080/4601052318213410/4601052318213410/320419
 +http://stalker.klma2023.net:80/play/live.php?mac=00:1B:79:F8:59:0E&stream=227232&extension=ts
 
@@ -5326,33 +5331,33 @@ https://api-proxad.dc2.oqee.net/playlist/v1/live/978/1/live.mpd
 #EXTGRP:Liga Betclic⚽️;World Sports 🌎
 #EXTVLCOPT:http-user-agent=Wink/1.31.1
 +http://telle.cc:80/play/live.php?mac=00:1A:79:7E:2F:ED&stream=1862128&extension=ts|User-Agent=Wink/1.31.1
-+https://github.com/iprtl/m3u/raw/live/Streams/sk1SL.m3u8|User-Agent=Wink/1.31.1
 
 
 #EXTINF:-1 tvg-chno="" cuid="551" tvg-name="sk2" tvg-id="SK2.ba" user-agent="Wink/1.31.1" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/Sportklub.webp" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="World Sports 🌎",Sport Klub 2 🇸🇮 
 #EXTGRP:Liga Betclic⚽️;World Sports 🌎
 #EXTVLCOPT:http-user-agent=Wink/1.31.1
 #EXTVLCOPT:http-referrer=https://github.com/
-+https://github.com/cattviptv2605/sportworld/raw/refs/heads/main/sportklub2.m3u8
+https://github.com/cattviptv2605/sportworld/raw/main/sportklub2.m3u8
 
 
 
 #EXTINF:-1 tvg-chno="" cuid="551" tvg-name="sk2" tvg-id="SK.2.HR.(Portals).ba" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/Sportklub.webp" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="World Sports 🌎",Sport Klub 2 🇭🇷 
 #EXTGRP:Liga Betclic⚽️;World Sports 🌎
-+http://filex.me:8080/live/MAS101A/MAS101AABB/303036.ts
-+https://github.com/iprtl/m3u/raw/live/Streams/sk2.m3u8
+http://filex.me:8080/live/MAS101A/MAS101AABB/303036.ts
+
+
+
 
 #EXTINF:-1 tvg-chno="" cuid="552" tvg-name="sk3" tvg-id="SK.3.HR.(Portals).ba" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/Sportklub.webp" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="World Sports 🌎",Sport Klub 3 🇭🇷 
 #EXTGRP:Liga Betclic⚽️;World Sports 🌎
 #EXTVLCOPT:http-referrer=https://github.com/
-+https://github.com/cattviptv2605/sportworld/raw/refs/heads/main/sportklub3.m3u8
+https://github.com/cattviptv2605/sportworld/raw/main/sportklub3.m3u8
 +http://stalker.klma2023.net:80/play/live.php?mac=00:1B:79:F8:59:0E&stream=227271&extension=ts
 +https://github.com/iprtl/m3u/raw/live/Streams/sk3.m3u8
 
-#EXTINF:-1 tvg-chno="" cuid="552" tvg-name="sk3" tvg-id="SK3.ba" user-agent="Wink/1.31.1" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/Sportklub.webp" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="World Sports 🌎",Sport Klub 3 🇸🇮 
+#EXTINF:-1 tvg-chno="" cuid="552" tvg-name="sk3" tvg-id="SK4.ba" user-agent="Wink/1.31.1" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/Sportklub.webp" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="World Sports 🌎",Sport Klub 4 🇸🇮 
 #EXTGRP:Liga Betclic⚽️;World Sports 🌎
-#EXTVLCOPT:http-user-agent="Wink/1.31.1"
-+http://filex.me:8080/live/MAS101A/MAS101AABB/317484.ts
+https://github.com/cattviptv2605/sportworld/raw/main/sportklub4.m3u8
 
 =====================🔹========================
 SETANTA SPORTS
@@ -5412,6 +5417,9 @@ https://v4-pan-m3-cdn-02.live.cdn.cgates.lt/live/dash/561209/index.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
 https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd
+
+#EXTINF:-1 tvg-chno="" cuid="555" tvg-name="Sport1" tvg-id="Sport1.cz" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/SPORT1_CZ.webp" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="World Sports 🌎",Sport 1 🇨🇿⚽️🎯
+#EXTGRP:World Sports 🌎;Serie A⚽️
 http://88.212.15.19/live/test_sport1_25p/playlist.m3u8
 http://178.23.88.55/Sport1/index.m3u8
 
@@ -5429,6 +5437,9 @@ https://estreams.tv.nej.cz/dash/CH_SPORT1_Portable.ism/playlist.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
 https://dash2.antik.sk/stream/nvidia_sport2/playlist_cenc.mpd
+
+#EXTINF:-1 tvg-chno="" cuid="556" tvg-name="Sport2" tvg-id="Sport2.cz" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/SPORT2_CZ.webp" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="World Sports 🌎",Sport 2 🇨🇿⚽️🎾🃏
+#EXTGRP:World Sports 🌎
 http://88.212.15.19/live/test_sport_2/playlist.m3u8
 
 ---
