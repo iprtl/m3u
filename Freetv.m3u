@@ -3626,7 +3626,7 @@ http://190.92.10.66:4000/play/a006/index.m3u8
 
 #EXTINF:-1 tvg-chno="" cuid="1404" tvg-id="" tvg-name="Sky Sport Laliga" tvg-logo="https://github.com/iprtl/p1/raw/master/logo/SkySportsLaLiga.webp" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="World Sports 🌎",Sky Sports laliga 🇲🇽
 #EXTGRP:World Sports 🌎;La Liga⚽️
-http://live.proyectoxpro.com:8080/live/DAoo00O123sSes3sEstrella/Sfrd9a3SZ5/9601.ts
+http://108.181.135.111:9090/286229_.m3u8
 
 #EXTINF:-1 tvg-chno="" cuid="1405" tvg-id="" tvg-name="Sky Sport Laliga" tvg-logo="https://github.com/iprtl/p1/raw/master/logo/SkySportsLaLiga.webp" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="World Sports 🌎",Sky Sports laliga 🇲🇽
 #EXTGRP:World Sports 🌎;La Liga⚽️
@@ -4043,8 +4043,6 @@ https://7pal.short.gy/ssportsfb
 
 #EXTINF:-1 tvg-chno="" cuid="1545" tvg-id="SkySp.Mix.HD.uk" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/skysportmix.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="World Sports 🌎",Sky Sport Mix 🇬🇧
 #EXTGRP:World Sports 🌎
-http://108.181.135.111:9090/286229_.m3u8
-http://178.33.239.54:8080/507a/index.m3u8
 +https://bd-streams.site/crx/master.php?id=skysmixx|Referer=https://bd-streams.site/crx/master.php?id=skyscric
 
 #EXTINF:-1 tvg-chno="" cuid="1546" tvg-id="Sky.Sport.Mix.de" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/skysportmix.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="World Sports 🌎",Sky Sport Mix 🇩🇪
@@ -4151,19 +4149,19 @@ https://raw.githubusercontent.com/B-inal-123/s-asia/inal-22/Hubsport1.m3u8
 
 #EXTINF:-1 tvg-chno="" cuid="1565" tvg-name="Hub Premier 1 🇦🇺" tvg-id="Hub.Sports.4.HD.sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/204_1920x1080_HTV.png?w=272" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="World Sports 🌎",Hub Sports 4 🇸🇬
 #EXTGRP:World Sports 🌎;Premier League⚽️
-https://012v4.goiptv.us.ci/stream/starhub/hubsports4hd/
++https://012v4.goiptv.us.ci/stream/starhub/hubsports4hd/
 
 #EXTINF:-1 tvg-chno="" cuid="1566" tvg-name="Hub Premier 1 🇦🇺" tvg-id="Hub.Sports.5.HD.sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/205_1920x1080_HTV.png?w=272" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="World Sports 🌎",Hub Sports 5 🇸🇬
 #EXTGRP:World Sports 🌎
-https://012v4.goiptv.us.ci/stream/starhub/hubsports5hd/
++https://012v4.goiptv.us.ci/stream/starhub/hubsports5hd/
 
 #EXTINF:-1 tvg-chno="" cuid="1567" tvg-name="Hub Premier 1 🇦🇺" tvg-id="Hub.Sports.6.HD.sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/206_1920x1080_HTV.png?w=272" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="World Sports 🌎",Hub Sports 6 🇸🇬
 #EXTGRP:World Sports 🌎
-https://012v4.goiptv.us.ci/stream/starhub/hubsports6hd/
++https://012v4.goiptv.us.ci/stream/starhub/hubsports6hd/
 
 #EXTINF:-1 tvg-chno="" cuid="1568" tvg-name="Hub Premier 1 🇦🇺" tvg-id="Hub.Sports.7.HD.sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/207_1920x1080_HTV.png?w=272" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="World Sports 🌎",Hub Sports 7 🇸🇬
 #EXTGRP:World Sports 🌎
-https://012v4.goiptv.us.ci/stream/starhub/hubsports7hd/
++https://012v4.goiptv.us.ci/stream/starhub/hubsports7hd/
 
 ---
 
@@ -4666,7 +4664,7 @@ http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278570.m3u8
 http://tv14s.xyz:8080/FxQ7fU/508292/11885
 http://198.204.231.170:46201/stream/univisontelemundo/tudn/master.m3u8
 
-#EXTINF:-1 tvg-chno="" cuid="1681" tvg-name="TUDN" tvg-id="Canal.TUDN.(México).mx" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/mexico/tudn-mx.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="World Sports 🌎",TUDN 🇺🇸
+#EXTINF:-1 tvg-chno="" cuid="1681" tvg-name="TUDN" tvg-id="Canal.TUDN.(México).mx" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/mexico/tudn-mx.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="World Sports 🌎",TUDN 🇲🇽
 #EXTGRP:World Sports 🌎
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -4850,7 +4848,7 @@ ELEVEN SPORTS POLACOS 🇵🇱
 #EXTINF:-1 tvg-chno="" cuid="1710" tvg-id="Eleven.Sports.1.pl" tvg-name="Eleven Sports 1 Poland" tvg-logo="https://logo.m3uassets.com/elevensport1.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="World Sports 🌎",Eleven Sports 1 🇵🇱⚽️
 #EXTGRP:Liga Betclic⚽️;World Sports 🌎;Serie A⚽️
 #EXTVLCOPT:http-user-agent=Wink/1.31.1
-http://klaratv.com:80/play/live.php?mac=00:1A:79:24:15:C9&stream=880457&extension=ts
++http://klaratv.com:80/play/live.php?mac=00:1A:79:24:15:C9&stream=880457&extension=ts
 https://wahyu1ptv.pages.dev/ElevenSports1-HD.m3u8
 
 
@@ -4885,7 +4883,6 @@ http://protzpwcf1.top:8080/live/pro2391767719725/26fc9bf426c3/847.ts
 #EXTINF:-1 tvg-chno="" cuid="1716" tvg-name="️" tvg-id="Eleven.Sports.4.pl" tvg-name="Eleven Sports 2 Poland" tvg-logo="https://logo.m3uassets.com/elevensport4.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="World Sports 🌎",Eleven Sports 4 🇵🇱 
 #EXTGRP:Liga Betclic⚽️;World Sports 🌎;Serie A⚽️
 http://klaratv.com:80/play/live.php?mac=00:1A:79:24:15:C9&stream=880454&extension=ts|User-Agent=Wink/1.31.1
-+https://wahyu1ptv.pages.dev/ElevenSports4-HD.m3u8
 
 #EXTINF:-1 tvg-chno="" cuid="1717" tvg-name="️" tvg-id="Eleven.Sports.4.pl" tvg-name="Eleven Sports 2 Poland" tvg-logo="https://logo.m3uassets.com/elevensport4.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="World Sports 🌎",Eleven Sports 4 🇵🇱 
 #EXTGRP:Liga Betclic⚽️;World Sports 🌎;Serie A⚽️
@@ -5380,8 +5377,6 @@ http://1gotv.org:8080/4626128589099887/4626128589099887/320419
 #EXTVLCOPT:http-referrer=https://github.com/
 https://github.com/cattviptv2605/sportworld/raw/main/sportklub2.m3u8
 
-
-
 #EXTINF:-1 tvg-chno="" cuid="551" tvg-name="sk2" tvg-id="SK.2.HR.(Portals).ba" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/Sportklub.webp" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="World Sports 🌎",Sport Klub 2 🇭🇷 
 #EXTGRP:Liga Betclic⚽️;World Sports 🌎;Tennis🎾
 #EXTVLCOPT:http-user-agent=Wink/1.31.1
@@ -5394,6 +5389,7 @@ http://filex.me:8080/live/MAS101A/MAS101AABB/303036.ts
 #EXTINF:-1 tvg-chno="" cuid="552" tvg-name="sk3" tvg-id="SK.3.HR.(Portals).ba" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/Sportklub.webp" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="World Sports 🌎",Sport Klub 3 🇭🇷 
 #EXTGRP:Liga Betclic⚽️;World Sports 🌎
 #EXTVLCOPT:http-user-agent=Wink/1.31.1
+#EXTVLCOPT:http-referrer=https://github.com/
 https://github.com/cattviptv2605/sportworld/raw/main/sportklub3.m3u8
 +http://stalker.klma2023.net:80/play/live.php?mac=00:1B:79:F8:59:0E&stream=227271&extension=ts
 +https://github.com/iprtl/m3u/raw/live/Streams/sk3.m3u8
@@ -5402,6 +5398,8 @@ https://github.com/cattviptv2605/sportworld/raw/main/sportklub3.m3u8
 
 #EXTINF:-1 tvg-chno="" cuid="552" tvg-name="sk3" tvg-id="SK4.ba" user-agent="Wink/1.31.1" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/Sportklub.webp" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="World Sports 🌎",Sport Klub 4 🇸🇮 
 #EXTGRP:Liga Betclic⚽️;World Sports 🌎;Tennis🎾
+#EXTVLCOPT:http-user-agent=Wink/1.31.1
+#EXTVLCOPT:http-referrer=https://github.com/
 https://github.com/cattviptv2605/sportworld/raw/main/sportklub4.m3u8
 
 
