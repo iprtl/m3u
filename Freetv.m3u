@@ -1157,10 +1157,10 @@ https://a181aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/zew
 #EXTINF:-1 tvg-chno="" cuid="237" tvg-id="Cinemax.Spanish.HD.us2" tvg-logo="https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/CINEMAX_WEST_WHITE_1920x1080_f._SL170_FMpng_.png" group-logo="https://cdn-icons-png.freepik.com/256/18310/18310951.png" group-title="Entertainment 🌎",Cinemax (🔉🇪🇸🇬🇧💬🇬🇧)
 http://45.167.1.136:8000/play/a04m
 
-#EXTINF:-1 tvg-chno="" cuid="237" tvg-id="Cinemax.Spanish.HD.us2" tvg-logo="https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/CINEMAX_WEST_WHITE_1920x1080_f._SL170_FMpng_.png" group-logo="https://cdn-icons-png.freepik.com/256/18310/18310951.png" group-title="Entertainment 🌎",Cinemax (🔉🇪🇸🇬🇧💬🇬🇧)
+#EXTINF:-1 tvg-chno="" cuid="238" tvg-id="Cinemax.Spanish.HD.us2" tvg-logo="https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/CINEMAX_WEST_WHITE_1920x1080_f._SL170_FMpng_.png" group-logo="https://cdn-icons-png.freepik.com/256/18310/18310951.png" group-title="Entertainment 🌎",Cinemax (🔉🇪🇸🇬🇧💬🇬🇧)
 http://158.69.118.175:25461/salamlink58465/ttb3j5wXnz/32869
 
-#EXTINF:-1 tvg-chno="" cuid="340" tvg-name="Rock.Entertainment" tvg-id="Rock.Entertainment.id" tvg-logo="https://www.visionplus.id/images/repository/644/644-LOGO-m.png" group-logo="https://cdn-icons-png.freepik.com/256/18310/18310951.png" group-title="Channels 🇺🇸,Rock Entertainment (🔉🇬🇧)🇮🇩
+#EXTINF:-1 tvg-chno="" cuid="340" tvg-name="Rock.Entertainment" tvg-id="Rock.Entertainment.id" tvg-logo="https://www.visionplus.id/images/repository/644/644-LOGO-m.png" group-logo="https://cdn-icons-png.freepik.com/256/18310/18310951.png" group-title="Channels 🇺🇸",Rock Entertainment (🔉🇬🇧)🇮🇩
 https://cdn10jtedge.indihometv.com/atm/DASH/rock_entertainment/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a44cd51b688a458d97f534c286e58243:d62302543075463e472e23d7e947f10b
