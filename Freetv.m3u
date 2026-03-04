@@ -5505,24 +5505,21 @@ https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/561402/index.mpd
 #EXTGRP:World Sports 🌎;Serie A⚽️
 https://bl.rutube.ru/livestream/11bbbec75a2ceb8cf446ad16813c6eec/index.m3u8?s=UgevADJNNWBFOqad7wr5Ug&e=2071401301&scheme=https
 http://185.46.48.18:80/match/mono.m3u8
+http://tv.tuva.ru/machtv/index.m3u8
 
 
 
 #EXTINF:-1 tvg-chno="" cuid="" group-title="WORLD SPORTS" tvg-id="Матч! Футбол 1.ru" tvg-logo="https://github.com/iprtl/p1/raw/master/logo/%D0%9C%D0%B0%D1%82%D1%87!%D0%A4%D1%83%D1%82%D0%B1%D0%BE%D0%BB1.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png",Матч!Футбол 1 🇷🇺
 #EXTGRP:World Sports 🌎
 #EXTM3U x-tvg-url="https://warningfm.github.io/x1/epg/guide.xml.gz"
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9145a6e0f778e61866f573d4944dd533:d02173d40515fea5c83944f21d0f3114
-https://video.beeline.tv/live/d/channel319.isml/manifest-stb.mpd
+http://ip1.orgip.net/202/video.m3u8?token=A37feb3eec
+http://ott.server-iptv.live/202/video.m3u8?token=A0c5dffe26&21yo=0
 
 #EXTINF:-1 tvg-chno="" cuid="" group-title="WORLD SPORTS" tvg-id="Матч! Футбол 2.ru" tvg-logo="https://github.com/iprtl/p1/raw/master/logo/%D0%9C%D0%B0%D1%82%D1%87!%D0%A4%D1%83%D1%82%D0%B1%D0%BE%D0%BB2.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png",Матч!Футбол 2 🇷🇺
 #EXTGRP:World Sports 🌎
 #EXTM3U x-tvg-url="https://warningfm.github.io/x1/epg/guide.xml.gz"
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ce7cf9b28d1a8d874accebc44d7e1fcd:cda18d4d20abd5cc778315abe277feb9
-https://video.beeline.tv/live/d/channel320.isml/manifest-stb.mpd
+http://ip1.orgip.net/203/video.m3u8?token=A37feb3eec
+http://45.145.32.13:20440/match_football2/index.m3u8?token=test
 
 #EXTINF:-1 tvg-chno="" cuid="" group-title="WORLD SPORTS" tvg-id="Матч! Футбол 3.ru" tvg-logo="https://github.com/iprtl/p1/raw/master/logo/%D0%9C%D0%B0%D1%82%D1%87!%D0%A4%D1%83%D1%82%D0%B1%D0%BE%D0%BB3.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png",Матч!Футбол 3 🇷🇺
 #EXTGRP:World Sports 🌎
