@@ -145,7 +145,7 @@ https://playout175.livextend.cloud/livenlin4/2liveartvpub2/playlist.m3u8?wowzase
 =====================❖======================== 
 
 #EXTINF:-1 tvg-chno="13" cuid="014" tvg-name="SIC 🇵🇹" tvg-id="SIC.International.br" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/sicinternacional.webp" group-logo="https://cdn-icons-png.freepik.com/512/4482/4482879.png" group-title="Portugal 🇵🇹",SIC Internacional ᴸᴼᵂ 🇵🇹
-http://45.235.0.78/SIC_Internacional/playlist.m3u8
++http://45.235.0.78/SIC_Internacional/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="13" cuid="14" tvg-name="SIC 🇵🇹" tvg-id="SIC.HD.pt" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/portugal/sic-pt.png" group-logo="https://cdn-icons-png.freepik.com/512/4482/4482879.png" group-title="Portugal 🇵🇹",SIC 🇵🇹
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:144.0) Gecko/20100101 Firefox/144.0
@@ -179,7 +179,7 @@ https://production-fast-sic.content.okast.tv/fa2e8c4385712f9aa54bbe52b1bd9b6b/ch
 https://github.com/thomraider12/canaistvpt/raw/main/m3u8s/tviint.m3u8
 
 #EXTINF:-1 tvg-chno="19" cuid="20" tvg-name="TVI Internacionalᶠᴴᴰ)" tvg-id="tvi.internacional.pt" tvg-logo="https://logo.m3uassets.com/tviinternacional.png" group-logo="https://cdn-icons-png.freepik.com/512/4482/4482879.png" group-title="Portugal 🇵🇹",TVI Internacional 🇵🇹
-https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My84LzIwMjYgODo1Mjo0OSBBTSZoYXNoX3ZhbHVlPWJLeDdkZnZnU1ZtZTF1cHZ2UlRWaFE9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD0zZmFlZjgzMS0zMjRlLTQyNDctOWFhZC1jNmRhNTc0NzE0YjA=/
+https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xLzIwMjYgNDo0ODo1MCBQTSZoYXNoX3ZhbHVlPWJJVTZPUWhnekxaUzhHMkUvNXBXZFE9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD03YjkzN2E4Zi0xMmU0LTRhNDEtODg5Mi03MDc3ZGUwNTZlMjc=/
 
 
 
@@ -190,14 +190,14 @@ https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlis
 https://github.com/thomraider12/canaistvpt/raw/main/m3u8s/tvi.m3u8?wowzasessionid=@iprtlk
 
 #EXTINF:-1 tvg-chno="22" cuid="23" tvg-name="TVI 🇵🇹" tvg-id="TVI.HD.pt" tvg-logo="https://github.com/iprtl/p1/raw/master/logo/tvi.webp" group-logo="https://cdn-icons-png.freepik.com/512/4482/4482879.png" group-title="Portugal 🇵🇹",TVI 🇵🇹
-https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My84LzIwMjYgODo1Mjo0OCBBTSZoYXNoX3ZhbHVlPUhLMnVQcDRiclNkMmJVQnJyVVF3eVE9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD1kZmVlYzA4Yy1jODQyLTQzYTYtYjA2NC03YmI4ZjlkYzBkNWE=/
+https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xLzIwMjYgNDo0ODo0OCBQTSZoYXNoX3ZhbHVlPXprRFFUWEpxcVFqMFBoVTc0cG82cmc9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD1hZDBhZTI4Yy0xNDAwLTRlNGEtYTU0My1lZjUyNjU3OGIwMGQ=/
 
 
 #EXTINF:-1 tvg-chno="24" cuid="24" tvg-name="CNN Portugal 🇵🇹" tvg-id="CNN.Portugal.HD.pt" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/cnnpt.png" group-logo="https://cdn-icons-png.freepik.com/256/5395/5395694.png" group-title="News 🇵🇹🇧🇷",CNN Portugal 🇵🇹
 https://github.com/thomraider12/canaistvpt/raw/main/m3u8s/cnnpt.m3u8?wowzasessionid=@iprtlk
 
 #EXTINF:-1 tvg-chno="25" cuid="24" tvg-name="CNN Portugal 🇵🇹" tvg-id="CNN.Portugal.HD.pt" tvg-logo="https://github.com/iprtl/p1/raw/master/logo/cnnpt.png" group-logo="https://cdn-icons-png.freepik.com/256/5395/5395694.png" group-title="News 🇵🇹🇧🇷",CNN Portugal 🇵🇹
-https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My84LzIwMjYgODo1Mjo0OSBBTSZoYXNoX3ZhbHVlPTZOVGlreUVJQ29JQ2E2cXFab0RtMHc9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD05YWRkZmQwNC1lMzlmLTQzMmItYmExZS04YTliZGMyZTc2ZGM=/
+https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xLzIwMjYgNDo0ODo0OSBQTSZoYXNoX3ZhbHVlPURNeXFaYTlidFpTKzlUTXFmUTBuL1E9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD0wNjA1NWRhZS04ZDUxLTQwZGQtYTkzMi0wMDY3YWU2NzdmYTU=/
 
 
 
@@ -1335,7 +1335,7 @@ http://185.98.211.8:81/history/index.m3u8?token=test
 ---
 
 #EXTINF:-1 tvg-chno="" cuid="278" tvg-name="H2" tvg-id="São.Paulo/SP..History.2.HD.br" tvg-logo="https://logo.m3uassets.com/h2.png" group-logo="https://cdn-icons-png.freepik.com/256/11471/11471416.png" group-title="Documentaries 🌎",H2 🇧🇷
-http://live.proyectoxpro.com:8080/live/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/175769.ts
++http://live.proyectoxpro.com:8080/live/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/175769.ts
 
 #EXTINF:-1 tvg-chno="" cuid="280" tvg-name="History" tvg-id="Canal.History.2.(México).mx" tvg-logo="https://logo.m3uassets.com/h2.png" group-logo="https://cdn-icons-png.freepik.com/256/11471/11471416.png" group-title="Documentaries 🌎",H2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1357,7 +1357,7 @@ http://23.237.104.106:8080/USA_DISCOVERY/index.m3u8?wowzasessionid=@iprtlk
 
 #EXTINF:-1 tvg-chno="" cuid="283" tvg-name="Discovery.Channel" tvg-id="Discovery.Channel.br" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hd/discovery-channel-icon-hd-us.png" group-logo="https://cdn-icons-png.freepik.com/256/11471/11471416.png" group-title="Documentaries 🌎",Discovery 🇧🇷
 http://hls1.sua.tv:80/live/discoverychannelfhd/s.m3u8
-http://45.235.0.78/Discovery_Channel/index.m3u8
++http://45.235.0.78/Discovery_Channel/index.m3u8
 
 #EXTINF:-1 tvg-chno="" cuid="284" tvg-name="Discovery.Channel" tvg-id="DISCOVERY.CHANNEL.HD.ph" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hd/discovery-channel-icon-hd-us.png" group-logo="https://cdn-icons-png.freepik.com/256/11471/11471416.png" group-title="Documentaries 🌎",Discovery Channel (🔉🇬🇧)🇵🇭
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1455,7 +1455,7 @@ Animal Planet 🇺🇸
 =====================🔹========================
 
 #EXTINF:-1 tvg-chno="" cuid="302" tvg-name="Animal Planet US East" tvg-id="Animal.Planet.br" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hd/animal-planet-hd-us.png" group-logo="https://cdn-icons-png.freepik.com/256/11471/11471416.png" group-title="Documentaries 🌎",Animal Planet 🇧🇷
-http://45.235.0.78/Animal_Planet/playlist.m3u8
++http://45.235.0.78/Animal_Planet/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="" cuid="303" tvg-name="Animal Planet" tvg-id="Canal.Animal.Planet.(México).sv" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hd/animal-planet-hd-us.png" group-logo="https://cdn-icons-png.freepik.com/256/11471/11471416.png" group-title="Documentaries 🌎",Animal Planet 🇲🇽
 http://158.69.118.175:25461/live/salamlink58465/ttb3j5wXnz/32825.m3u8
@@ -1575,13 +1575,17 @@ CANAIS 🇧🇷
 #EXTINF:-1 tvg-chno="029" cuid="328" tvg-name="A Fazenda" tvg-id="" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/AFAZENDA.png" group-logo="https://cdn-icons-png.freepik.com/512/4087/4087498.png" group-title="Channels 🇧🇷",A Fazenda 🇧🇷
 +https://
 
+
+
 #EXTINF:-1 tvg-chno="029" cuid="329" tvg-name="BBB26" tvg-id="" tvg-logo="https://github.com/iprtl/p1/raw/master/logo/BBBrasil.webp" group-logo="https://cdn-icons-png.freepik.com/512/4087/4087498.png" group-title="Channels 🇧🇷",BBB 26 Mosaico 🇧🇷
+https://image-storage-51.imgcontent.xyz/live/bbb26-3/index.m3u8
 http://209.14.88.42:80/10203470/68892705/4681017.ts
 
 #EXTINF:-1 tvg-chno="029" cuid="330" tvg-name="BBB26" tvg-id="" tvg-logo="https://github.com/iprtl/p1/raw/master/logo/BBBrasil.webp" group-logo="https://cdn-icons-png.freepik.com/512/4087/4087498.png" group-title="Channels 🇧🇷",BBB 26 🇧🇷
 #EXTGRP:Channels 🇧🇷
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/11000.m3u8
-http://xonis.fun:80/saulofont/J5Y3fWs2hRja/280736
+https://image-storage-51.imgcontent.xyz/live/bbb26/index.m3u8
+
 
 ---
 
@@ -1645,47 +1649,52 @@ https://dfr80qz435crc.cloudfront.net/IJKL/Amagi/Caras/CarasTV_BR/CarasTV.m3u8?wo
 
 #EXTINF:-1 tvg-chno="" cuid="342" tvg-name="" tvg-id="São.Paulo/SP..AMC.br" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/amcpt.webp" group-logo="https://cdn-icons-png.freepik.com/512/4087/4087498.png" group-title="Entertainment 🌎",AMC 🇧🇷
 #EXTGRP: Channels 🇧🇷
-http://45.235.0.78/AMC/playlist.m3u8
+http://148.113.160.49:14209/AMC
+http://185.246.208.74:14944/TNTSERIES
 http://cord-cutter.net:8080//live/rachelle@pilon/rachelle@2024/164938.ts
-+http://onebox.sbs:80/tanaka/302718/7692327.m3u8
+http://cord-cutter.net:8080//live/Gizvid192@giz.com/1234@4321/164938.ts
+http://cord-cutter.net:8080//live/atothf15@hotmail.com/PhzSUS2qbZ/164938.ts
+http://cord-cutter.net:8080//live/1WBnMT/859673/164938.ts
+
 
 #EXTINF:-1 tvg-chno="" cuid="343" tvg-name="" tvg-id="São.Paulo/SP..Sony.br" tvg-logo="https://logo.m3uassets.com/sonychannel.png" group-logo="https://cdn-icons-png.freepik.com/512/4087/4087498.png" group-title="Entertainment 🌎",Canal Sony 🇧🇷
 #EXTGRP: Channels 🇧🇷
-http://45.235.0.78/Canal_Sony/playlist.m3u8
-+http://onebox.sbs:80/tanaka/302718/7692299.m3u8
+http://89.187.190.167:14912/CanalSony
 
 #EXTINF:-1 tvg-chno="" cuid="344" tvg-name="" tvg-id="Warner.Channel.br" tvg-logo="https://logo.m3uassets.com/warner.png" group-logo="https://cdn-icons-png.freepik.com/512/4087/4087498.png" group-title="Entertainment 🌎",Warner Channel 🇧🇷
 #EXTGRP: Channels 🇧🇷
-http://45.235.0.78/Warner_Channel/playlist.m3u8
-+http://onebox.sbs:80/tanaka/302718/7692264.m3u8
+http://79.127.238.228:14647/WarnerChannel
 
 #EXTINF:-1 tvg-chno="" cuid="345" tvg-name="" tvg-id="Lifetime.br" tvg-logo="https://logo.m3uassets.com/lifetime.png" group-logo="https://cdn-icons-png.freepik.com/512/4087/4087498.png" group-title="Entertainment 🌎",Lifetime 🇧🇷
 #EXTGRP: Channels 🇧🇷
 +http://onebox.sbs:80/tanaka/302718/7698383.m3u8
-http://45.235.0.78/Lifetime/index.m3u8 
++http://45.235.0.78/Lifetime/index.m3u8 
 
 #EXTINF:-1 tvg-chno="" cuid="346" tvg-name="" tvg-id="São.Paulo/SP...Universal.TV.HD.br" tvg-logo="https://logo.m3uassets.com/universal.png" group-logo="https://cdn-icons-png.freepik.com/512/4087/4087498.png" group-title="Entertainment 🌎",Universal tv 🇧🇷
 #EXTGRP: Channels 🇧🇷
-http://45.235.0.78/Universal_TV/playlist.m3u8
+http://185.246.208.74:14947/UNIVERSALTV
++http://45.235.0.78/Universal_TV/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="" cuid="347" tvg-name="" tvg-id="São.Paulo/SP..Studio.Universal.HD.br" tvg-logo="https://logo.m3uassets.com/studiouniversal.png" group-logo="https://cdn-icons-png.freepik.com/512/4087/4087498.png" group-title="Entertainment 🌎",Studio Universal 🇧🇷
 #EXTGRP: Channels 🇧🇷
-+http://onebox.sbs:80/tanaka/302718/7692291.m3u8
-+http://45.235.0.78/Studio_Universal/playlist.m3u8
+http://185.236.183.118:16661/StudioUniversal
 
 #EXTINF:-1 tvg-chno="" cuid="348" tvg-name="" tvg-id="São.Paulo/SP..TCM.br" tvg-logo="https://logo.m3uassets.com/tcm.png" group-logo="https://cdn-icons-png.freepik.com/512/4087/4087498.png" group-title="Entertainment 🌎",TCM 🇧🇷
 #EXTGRP: Channels 🇧🇷
-http://45.235.0.78/TCM/index.m3u8 
+http://185.246.208.74:14936/TCM
++http://45.235.0.78/TCM/index.m3u8 
 
 #EXTINF:-1 tvg-chno="" cuid="349" tvg-name="" tvg-id="São.Paulo/SP..Space.br" tvg-logo="https://logo.m3uassets.com/space.png" group-logo="https://cdn-icons-png.freepik.com/512/4087/4087498.png" group-title="Entertainment 🌎",Space 🇧🇷
 #EXTGRP: Channels 🇧🇷
-http://streaming.sattvgo.com.br/SPACE_HD/index.m3u8
-http://45.235.0.78/Space/playlist.m3u8
++http://streaming.sattvgo.com.br/SPACE_HD/index.m3u8
++http://45.235.0.78/Space/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="" cuid="350" tvg-id="São.Paulo/SP..Cinemax.br" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/Cinemax.webp" group-logo="https://cdn-icons-png.freepik.com/512/4087/4087498.png" group-title="Entertainment 🌎",Cinemax 🇧🇷
 #EXTGRP: Channels 🇧🇷
-http://live.proyectoxpro.com:8080/live/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/175764.ts
-+http://45.235.0.78/Cinemax/playlist.m3u8
+http://148.113.160.49:14198/
+http://185.246.208.74:14915/
++http://live.proyectoxpro.com:8080/live/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/175764.ts
+++http://45.235.0.78/Cinemax/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="" cuid="351" tvg-id="São.Paulo/SP..Megapix.br" tvg-logo="https://logo.m3uassets.com/megapix.png" group-logo="https://cdn-icons-png.freepik.com/512/4087/4087498.png" group-title="Entertainment 🌎",Megapix 🇧🇷
 #EXTGRP: Channels 🇧🇷
@@ -1698,7 +1707,7 @@ https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/21ilsertww/
 #EXTINF:-1 tvg-chno="" cuid="352" tvg-id="São.Paulo/SP..AXN.br" tvg-logo="https://www.visionplus.id/images/repository/638/638-LOGO-m.png" group-logo="https://cdn-icons-png.freepik.com/512/4087/4087498.png" group-title="Entertainment 🌎",AXN 🇧🇷
 #EXTGRP: Channels 🇧🇷
 +http://onebox.sbs:80/tanaka/302718/7692323.m3u8
-http://45.235.0.78/AXN/playlist.m3u8
++http://45.235.0.78/AXN/playlist.m3u8
 
 =====================🔹========================
 HBO 🇧🇷
@@ -1706,31 +1715,42 @@ HBO 🇧🇷
 
 #EXTINF:-1 tvg-chno="" cuid="353" tvg-name="HBO" tvg-id="São.Paulo/SP..HBO.HD.2.³.br" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/hbo.png" group-logo="https://cdn-icons-png.freepik.com/512/4087/4087498.png" group-title="Entertainment 🌎",HBO 🇧🇷
 #EXTGRP: Channels 🇧🇷
-http://streaming.sattvgo.com.br/HBO/index.m3u8
+http://148.113.160.49:14188/HBO
+http://185.246.208.74:14201/HBO
+http://cord-cutter.net:8080//live/1WBnMT/859673/164950.ts
+http://cord-cutter.net:8080//live/Gizvid192@giz.com/1234@4321/164950.ts
+http://cord-cutter.net:8080//live/rachelle@pilon/rachelle@2024/164950.ts
+http://cord-cutter.net:8080//live/Gizvid192@giz.com/1234@4321/164950.ts
+http://cord-cutter.net:8080//live/atothf15@hotmail.com/PhzSUS2qbZ/164950.ts
+http://cord-cutter.net:8080//live/BRIDGITS@YAHOO.COM/BRIDGITS@2022/164950.ts
+
 
 #EXTINF:-1 tvg-chno="" cuid="354" tvg-name="HBO" tvg-id="São.Paulo/SP..HBO.2.br" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/hbo2.png" group-logo="https://cdn-icons-png.freepik.com/512/4087/4087498.png" group-title="Entertainment 🌎",HBO 2 🇧🇷
 #EXTGRP: Channels 🇧🇷
-http://streaming.sattvgo.com.br/HBO2/index.m3u8
+http://sinalmycn.com:80/632035/GqGcFV4ntu/14003
++http://streaming.sattvgo.com.br/HBO2/index.m3u8
 
 #EXTINF:-1 tvg-chno="" cuid="355" tvg-name="HBO" tvg-id="São.Paulo/SP..HBO.Family.br" tvg-logo="https://github.com/iprtl/tv-logos/raw/main/countries/brazil/hbo-family-br.png" group-logo="https://cdn-icons-png.freepik.com/512/4087/4087498.png" group-title="Entertainment 🌎",HBO Family 🇧🇷
 #EXTGRP: Channels 🇧🇷
-http://streaming.sattvgo.com.br/HBO_FAMILY/index.m3u8
+http://148.113.160.49:14190/HBOFAMILY
 
 #EXTINF:-1 tvg-chno="" cuid="356" tvg-name="HBO" tvg-id="São.Paulo/SP..Hbo.Pop.br" tvg-logo="https://github.com/iprtl/tv-logos/raw/main/countries/brazil/hbo-pop-br.png" group-logo="https://cdn-icons-png.freepik.com/512/4087/4087498.png" group-title="Entertainment 🌎",HBO Pop 🇧🇷
 #EXTGRP: Channels 🇧🇷
-http://streaming.sattvgo.com.br/HBO_POP_HD/index.m3u8
+http://sinalmycn.com:80/632035/GqGcFV4ntu/14015
++http://streaming.sattvgo.com.br/HBO_POP_HD/index.m3u8
 
 #EXTINF:-1 tvg-chno="" cuid="357" tvg-name="HBO" tvg-id="São.Paulo/SP..HBO.MUNDI.HD.br" tvg-logo="https://github.com/iprtl/tv-logos/raw/main/countries/brazil/hbo-mundi-br.png" group-logo="https://cdn-icons-png.freepik.com/512/4087/4087498.png" group-title="Entertainment 🌎",HBO Mundi 🇧🇷
 #EXTGRP: Channels 🇧🇷
-http://streaming.sattvgo.com.br/HBO_MUNDI_HD/index.m3u8
+http://148.113.160.49:14185/HBOMUNDI
 
 #EXTINF:-1 tvg-chno="" cuid="358" tvg-name="HBO" tvg-id="São.Paulo/SP..HBO.Signature.br" tvg-logo="https://github.com/iprtl/tv-logos/raw/main/countries/brazil/hbo-signature-br.png" group-logo="https://cdn-icons-png.freepik.com/512/4087/4087498.png" group-title="Entertainment 🌎",HBO Signature 🇧🇷
 #EXTGRP: Channels 🇧🇷
-http://streaming.sattvgo.com.br/HBO_SIGNATURE/index.m3u8
+http://sinalmycn.com:80/632035/GqGcFV4ntu/14018
++http://streaming.sattvgo.com.br/HBO_SIGNATURE/index.m3u8
 
 #EXTINF:-1 tvg-chno="" cuid="359" tvg-name="HBO" tvg-id="São.Paulo/SP..HBO.Xtreme.br" tvg-logo="https://github.com/iprtl/tv-logos/raw/main/countries/brazil/hbo-xtreme-br.png" group-logo="https://cdn-icons-png.freepik.com/512/4087/4087498.png" group-title="Entertainment 🌎",HBO Xtreme 🇧🇷
 #EXTGRP: Channels 🇧🇷
-http://streaming.sattvgo.com.br/HBO_EXTREME_HD/index.m3u8
+http://185.236.183.118:16597/HBOEXTREME
 
 =====================🔹========================
 TELECINES 🇧🇷
@@ -1738,30 +1758,29 @@ TELECINES 🇧🇷
 
 #EXTINF:-1 tvg-chno="" cuid="360" tvg-name="" tvg-id="São.Paulo/SP..Telecine.Premium.br" tvg-logo="https://logo.m3uassets.com/telecinepremium.png" group-logo="https://cdn-icons-png.freepik.com/512/4087/4087498.png" group-title="Entertainment 🌎",Telecine Premium 🇧🇷
 #EXTGRP: Channels 🇧🇷
-+http://onebox.sbs:80/tanaka/302718/7750002.m3u8
-http://45.235.0.78/Telecine_Premium/playlist.m3u8
+http://89.187.190.167:14113/TelecinePremium
 
 #EXTINF:-1 tvg-chno="" cuid="361" tvg-name="" tvg-id="São.Paulo/SP..Telecine.Pipoca.br" tvg-logo="https://logo.m3uassets.com/telecinepipoca.png" group-logo="https://cdn-icons-png.freepik.com/512/4087/4087498.png" group-title="Entertainment 🌎",Telecine Pipoca 🇧🇷
 #EXTGRP: Channels 🇧🇷
-+http://onebox.sbs:80/tanaka/302718/7749999.m3u8
-http://45.235.0.78/Telecine_Pipoca/playlist.m3u8
+http://89.187.190.167:14110/TelecinePipoca
 
 #EXTINF:-1 tvg-chno="" cuid="362" tvg-name="" tvg-id="São.Paulo/SP..Telecine.Fun.br" tvg-logo="https://logo.m3uassets.com/telecinefun.png" group-logo="https://cdn-icons-png.freepik.com/512/4087/4087498.png" group-title="Entertainment 🌎",Telecine Fun 🇧🇷
 #EXTGRP: Channels 🇧🇷
-http://45.235.0.78/Telecine_Fun/playlist.m3u8
+http://89.187.190.167:14107/TelecineFun
 
 #EXTINF:-1 tvg-chno="" cuid="363" tvg-name="" tvg-id="São.Paulo/SP..Telecine.Cult.br" tvg-logo="https://logo.m3uassets.com/telecinecult.png" group-logo="https://cdn-icons-png.freepik.com/512/4087/4087498.png" group-title="Entertainment 🌎",Telecine Cult 🇧🇷
 #EXTGRP: Channels 🇧🇷
-http://45.235.0.78/Telecine_Cult/playlist.m3u8
+http://89.187.190.167:14104/TelecineCult
 
 #EXTINF:-1 tvg-chno="" cuid="364" tvg-name="" tvg-id="São.Paulo/SP..Telecine.Touch.br" tvg-logo="https://logo.m3uassets.com/telecinetouch.png" group-logo="https://cdn-icons-png.freepik.com/512/4087/4087498.png" group-title="Entertainment 🌎",Telecine Touch 🇧🇷
 #EXTGRP: Channels 🇧🇷
-http://45.235.0.78/Telecine_Touch/playlist.m3u8
+http://89.187.190.167:14652/TelecineTouchFHD
+http://89.187.190.167:14116/TelecineTouch
 
 #EXTINF:-1 tvg-chno="" cuid="365" tvg-name="" tvg-id="São.Paulo/SP..Telecine.Action.br" tvg-logo="https://logo.m3uassets.com/telecineaction.png" group-logo="https://cdn-icons-png.freepik.com/512/4087/4087498.png" group-title="Entertainment 🌎",Telecine Action 🇧🇷
 #EXTGRP: Channels 🇧🇷
-+http://onebox.sbs:80/tanaka/302718/7749997.m3u8
-http://45.235.0.78/Telecine_Action/playlist.m3u8 
+http://46.151.196.223:14326/TelecineAction
+http://89.187.190.167:14101/TelecineAction
 
 =====================🔹========================
 TNT 🇺🇸🇧🇷
@@ -1769,17 +1788,22 @@ TNT 🇺🇸🇧🇷
 
 #EXTINF:-1 tvg-chno="" cuid="366" tvg-name="TNT ᴸᴼᵂ 🇧🇷 ⚽️" tvg-id="São.Paulo/SP..TNT.br" tvg-logo="https://logo.m3uassets.com/tnt.png" group-logo="https://cdn-icons-png.freepik.com/512/4087/4087498.png" group-title="Entertainment 🌎",TNT 🇧🇷⚽️
 #EXTGRP: Channels 🇧🇷
-http://streaming.sattvgo.com.br/TNT_HD/index.m3u8
-http://45.235.0.78/TNT/playlist.m3u8
+http://89.187.190.167:14938/TNT
 
 #EXTINF:-1 tvg-chno="" cuid="367" tvg-id="São.Paulo/SP..TNT.SÉRIES.HD.br" tvg-logo="https://logo.m3uassets.com/tntseries.png" group-logo="https://cdn-icons-png.freepik.com/512/4087/4087498.png" group-title="Entertainment 🌎",TNT Series 🇧🇷
 #EXTGRP: Channels 🇧🇷
-http://live.proyectoxpro.com:8080/live/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/175774.ts
+http://185.246.208.74:14944/TNTSERIES
 http://cord-cutter.net:8080//live/rachelle@pilon/rachelle@2024/164958.ts
+http://cord-cutter.net:8080//live/Gizvid192@giz.com/1234@4321/164958.m3u8
+http://cord-cutter.net:8080//live/atothf15@hotmail.com/PhzSUS2qbZ/164958.ts
+http://cord-cutter.net:8080//live/1WBnMT/859673/164958.ts
+http://xxip9.top:8080/live/Gizvid192@giz.com/1234@4321/164938.m3u8
+
 
 #EXTINF:-1 tvg-chno="" cuid="368" tvg-id="São.Paulo/SP..Tnt.novelas.br" tvg-logo="https://logo.m3uassets.com/tntnovelas.png" group-logo="https://cdn-icons-png.freepik.com/512/4087/4087498.png" group-title="Entertainment 🌎",TNT Novelas 🇧🇷
 #EXTGRP: Channels 🇧🇷
-http://45.235.0.78/TNT_Novelas/index.m3u8
+http://185.246.208.74:14941/TNTNOVRLAS
++http://45.235.0.78/TNT_Novelas/index.m3u8
 
 #EXTINF:-1 tvg-chno="" cuid="369" tvg-name="" tvg-id="" tvg-logo="https://github.com/iprtl/p1/raw/master/logo/tvdapesca.webp" group-logo="https://cdn-icons-png.freepik.com/256/3687/3687668.png" group-title="Uncategorized 🌎",Tv da Pesca 🇧🇷
 #EXTGRP: Channels 🇧🇷
@@ -1876,7 +1900,7 @@ http://origin.thetvapp.to/hls/metv-toons/index.m3u8?wowzasessionid=@iprtlk
 
 
 #EXTINF:-1 tvg-chno="" cuid="375" tvg-name="MeTV Wjlp New Jerseynew York" tvg-id="Me.TV.Network.us2" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/MeTV.webp" group-logo="https://github.com/iprtl/p1/raw/master/iconsGrups/USA.png" group-title="Channels 🇺🇸",MeTV 🇺🇸
-http://fl2.moveonjoy.com/ME_TV/index.m3u8?wowzasessionid=@iprtlk
+http://cord-cutter.net:8080//live/rachelle@pilon/rachelle@2024/16149.ts
 #EXTINF:-1 tvg-chno="" cuid="376" tvg-name="MeTV Wjlp New Jerseynew York" tvg-id="Me.TV.Network.us2" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/MeTV.webp" group-logo="https://github.com/iprtl/p1/raw/master/iconsGrups/USA.png" group-title="Channels 🇺🇸",MeTV 🇺🇸
 http://origin.thetvapp.to/hls/metv-wjlp-new-jerseynew-york/index.m3u8?wowzasessionid=@iprtlk
 
@@ -1899,9 +1923,11 @@ https://bcovlive-a.akamaihd.net/ba853de442c140b7b3dc020001597c0a/us-east-1/62458
 #KODIPROP:inputstream.adaptive.license_key={"59a51164c2c915352f04066a06f6e807":"eba5cc362d1d63c0fe6460febca0fd11"}
 https://a148aivottlinear-a.akamaihd.net/OTTB/PDX/clients/dash/enc/0f5clvxn6o/out/v1/d5a953bb19734fa3baa1776266887fcb/cenc.mpd
 
+---
 
 #EXTINF:-1 tvg-chno="" cuid="380" tvg-name="" tvg-id="AMC.HD.us2" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/amcpt.webp" group-logo="https://github.com/iprtl/p1/raw/master/iconsGrups/USA.png" group-title="Channels 🇺🇸",AMC (💬🇬🇧) 🇺🇸
-https://fl1.moveonjoy.com/AMC_NETWORK/index.m3u8?wowzasessionid=@iprtlk
+http://cord-cutter.net:8080//live/rachelle@pilon/rachelle@2024/18925.ts
+
 #EXTINF:-1 tvg-chno="" cuid="381" tvg-name="" tvg-id="AMC.HD.us2" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/amcpt.webp" group-logo="https://github.com/iprtl/p1/raw/master/iconsGrups/USA.png" group-title="Channels 🇺🇸",AMC (💬🇬🇧) 🇺🇸
 http://origin.thetvapp.to/hls/AMCEast/index.m3u8?wowzasessionid=@iprtlk
 http://190.11.225.124:5000/live/amc_hd/playlist.m3u8
@@ -1910,10 +1936,10 @@ http://190.11.225.124:5000/live/amc_hd/playlist.m3u8
 TNT 🇺🇸
 =====================🔹========================
 
-#EXTINF:-1 tvg-chno="" cuid="382" tvg-name="" tvg-id="TNT.HD.us2" tvg-logo="https://logo.m3uassets.com/tnt.png" group-logo="https://github.com/iprtl/p1/raw/master/iconsGrups/USA.png" group-title="Channels 🇺🇸",TNT 🇺🇸
-http://origin.thetvapp.to/hls/AMCEast/index.m3u8?wowzasessionid=@iprtlk
+#EXTINF:-1 tvg-chno="" cuid="382" tvg-name="" tvg-id="TNT.HD.us2" tvg-logo="https://logo.m3uassets.com/tnt.png" group-logo="https://github.com/iprtl/p1/raw/master/iconsGrups/USA.png" group-title="Channels 🇺🇸",TNT East 🇺🇸
+http://origin.thetvapp.to/hls/TNTEast/index.m3u8?wowzasessionid=@iprtlk
 
-#EXTINF:-1 tvg-chno="" cuid="383" tvg-name="" tvg-id="TNT.HD.us2" tvg-logo="https://logo.m3uassets.com/tnt.png" group-logo="https://github.com/iprtl/p1/raw/master/iconsGrups/USA.png" group-title="Channels 🇺🇸",TNT 🇺🇸
+#EXTINF:-1 tvg-chno="" cuid="383" tvg-name="" tvg-id="TNT.HD.us2" tvg-logo="https://logo.m3uassets.com/tnt.png" group-logo="https://github.com/iprtl/p1/raw/master/iconsGrups/USA.png" group-title="Channels 🇺🇸",TNT East 🇺🇸
 https://a1xs.vip/300001
 https://raw.githubusercontent.com/insolencewillow/insolencetvgo/main/streams/tnteast.us.m3u8
 
@@ -1929,10 +1955,10 @@ FX 🇺🇸
 http://23.237.104.106:8080/USA_FX/index.m3u8?wowzasessionid=@iprtlk
 
 #EXTINF:-1 tvg-chno="" cuid="386" tvg-name="FX" tvg-id="FX.HD.us2" tvg-logo="https://logo.m3uassets.com/fx.png" group-logo="https://github.com/iprtl/p1/raw/master/iconsGrups/USA.png" group-title="Channels 🇺🇸",FX 🇺🇸
-http://fl2.moveonjoy.com/FX/index.m3u8
+http://cord-cutter.net:8080//live/rachelle@pilon/rachelle@2024/46690.ts
 
 #EXTINF:-1 tvg-chno="" cuid="387" tvg-name="FX" tvg-id="FX.HD.us2" tvg-logo="https://logo.m3uassets.com/fx.png" group-logo="https://github.com/iprtl/p1/raw/master/iconsGrups/USA.png" group-title="Channels 🇺🇸",FX 🇺🇸
-http://143.244.60.97/FX/index.m3u8
++http://143.244.60.97/FX/index.m3u8
 
 
 #EXTINF:-1 tvg-chno="" cuid="388" tvg-id="FXX.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/united-states/fxx-us.png" group-logo="https://github.com/iprtl/p1/raw/master/iconsGrups/USA.png" group-title="Channels 🇺🇸",FXX 🇺🇸
@@ -1940,11 +1966,7 @@ http://23.237.104.106:8080/USA_FXX/index.m3u8?wowzasessionid=@iprtlk
 
 
 #EXTINF:-1 tvg-chno="" cuid="390" tvg-name="Fuse" tvg-id="Fuse.HD.us2" tvg-logo="https://logo.m3uassets.com/fuse.png" group-logo="https://github.com/iprtl/p1/raw/master/iconsGrups/USA.png" group-title="Channels 🇺🇸",Fuse
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://dtv-wv.b-cdn.net/channel?ccid=365
-https://dtv.vingt.qzz.io/dtv/365/master.m3u8
+http://cord-cutter.net:8080//live/rachelle@pilon/rachelle@2024/46701.ts
 
 =====================🔹========================
 A&E & FYI 🇺🇸
@@ -1964,6 +1986,7 @@ TBS | TRUTV  🇺🇸
 
 #EXTINF:-1 tvg-chno="" cuid="395" tvg-id="TBS.HD.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/tbs-us.png" group-logo="https://github.com/iprtl/p1/raw/master/iconsGrups/USA.png" group-title="Channels 🇺🇸",TBS East 🇺🇸
 http://212.102.60.231:80/TBS/index.m3u8
+http://cord-cutter.net:8080//live/rachelle@pilon/rachelle@2024/20867.ts
 
 #EXTINF:-1 tvg-chno="" cuid="396" tvg-id="TBS.HD.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/tbs-us.png" group-logo="https://github.com/iprtl/p1/raw/master/iconsGrups/USA.png" group-title="Channels 🇺🇸",TBS East 🇺🇸
 https://raw.githubusercontent.com/InsolenceWillow/insolencetvgo/refs/heads/main/streams/tbseast.us.m3u8
@@ -1973,7 +1996,7 @@ https://raw.githubusercontent.com/InsolenceWillow/insolencetvgo/refs/heads/main/
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.license_type=widevine
 #KODIPROP:inputstream.adaptive.license_key=https://dtv-wv.b-cdn.net/channel?ccid=2603
-https://dtv.vingt.qzz.io/dtv/2603/master.m3u8
++https://dtv.vingt.qzz.io/dtv/2603/master.m3u8
 
 
 
@@ -1988,26 +2011,16 @@ CINEMAX 🇺🇸
 =====================🔹========================
 
 #EXTINF:-1 tvg-chno="" cuid="400" tvg-id="ActionMAX.HD.us2" tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/903490ef7b5effa45b2fdba457ac3bea95d9fb2fbc1ef8b62fee61317125a270._SL170_FMpng_.png" group-logo="https://github.com/iprtl/p1/raw/master/iconsGrups/USA.png" group-title="Channels 🇺🇸",ActionMAX East (🔉🇬🇧💬🇬🇧) 🇺🇸
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=136a75130b82cdf89cb5f05d739b663f:0ef360ff75bb11b7f0982a86b86d39ae
-https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/995zvakyej/out/v1/3fa049c0afea4a83bb5f508f1859f160/cenc.mpd?wowzasessionid=@iprtlk
-http://51.79.81.69:8080/live/tVoIdcGo63/3k9huT771I/98.m3u8
+http://cord-cutter.net:8080//live/rachelle@pilon/rachelle@2024/21013.ts
 
 #EXTINF:-1 tvg-chno="" cuid="401" tvg-id="ActionMAX.HD.us2" tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/903490ef7b5effa45b2fdba457ac3bea95d9fb2fbc1ef8b62fee61317125a270._SL170_FMpng_.png" group-logo="https://github.com/iprtl/p1/raw/master/iconsGrups/USA.png" group-title="Channels 🇺🇸",ActionMAX East (🔉🇬🇧💬🇬🇧) 🇺🇸
 http://51.79.81.69:8080/live/tVoIdcGo63/3k9huT771I/98.m3u8
 
 #EXTINF:-1 tvg-chno="" cuid="402" tvg-id="MoreMax.HD.us2" tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/e6fc1034cd2bca0c407eb6f89257ff40fd433dadd62393cda9a5f3b597d3fa90._SL170_FMpng_.png" group-logo="https://github.com/iprtl/p1/raw/master/iconsGrups/USA.png" group-title="Channels 🇺🇸",MoreMAX East (🔉🇪🇸🇬🇧💬🇬🇧) 🇺🇸
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=046c374a3db594dfb32cba86d2e4f72f:04c00a6ed0fc4ce37841210a42eeeb35
-https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bw5g1vx3k9/out/v1/6913f190498b44c8a705e91728401769/cenc.mpd?wowzasessionid=@iprtlk
+http://cord-cutter.net:8080//live/rachelle@pilon/rachelle@2024/17776.ts
 
 #EXTINF:-1 tvg-chno="" cuid="403" tvg-id="5.StarMAX.HD.East.us2" tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/185d71f2eac4aeacfb475655ef9625e382b26245d8e65ef994bc0efc520b8565._SL170_FMpng_.png" group-logo="https://github.com/iprtl/p1/raw/master/iconsGrups/USA.png" group-title="Channels 🇺🇸",5StarMAX East (🔉🇪🇸🇬🇧💬🇬🇧) 🇺🇸
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=81a74ef0cf71e28d5d9bc55d5fd7921a:884e89f90a9f5cbaaa5c2a451e1d8f86
-https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/yfo5p7nmtt/out/v1/fdce98358ffb47c9b6314feb9cfeda3f/cenc.mpd?wowzasessionid=@iprtlk
+http://cord-cutter.net:8080//live/rachelle@pilon/rachelle@2024/13381.ts
 
 =====================🔹========================
 CINEMAX & Starz Encore Wester
@@ -2737,9 +2750,6 @@ http://178.33.239.54:8080/317/index.m3u8
 #EXTGRP: Channels 🇫🇷
 https://d1qvkge2x4ev90.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-8q6p9i1t9dw2k/tvfvo.m3u8
 
-#EXTINF:-1 tvg-chno="" cuid="547" tvg-name="netflix" tvg-id="" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/NETFLIX.png" group-logo="https://cdn-icons-png.freepik.com/512/2490/2490481.png" group-title="Entertainment 🌎",Netflix 24/7 🇫🇷
-#EXTGRP: Channels 🇫🇷
-http://178.33.239.54:8080/381/index.m3u8
 
 
 
@@ -3358,12 +3368,12 @@ http://213.169.39.30:5211
 #EXTINF:-1 tvg-chno="" cuid="1203" tvg-id="Eurosport.1.fr" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/Eurosport1.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="World Sports 🌎",Eurosport 1 🇫🇷🎱⛷🚴
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"15b830e0b73b0b8ef99786121997d5f5":"51646d5e500648c6a4e319c7861e963f"}
-https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/at8teepvrn/out/v1/ab8d59a847f046c88f07a7f3d115d7fe/cenc.mpd
++https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/at8teepvrn/out/v1/ab8d59a847f046c88f07a7f3d115d7fe/cenc.mpd
 
 #EXTINF:-1 tvg-chno="" cuid="430" tvg-id="Eurosport.1.ro" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/Eurosport1.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="World Sports 🌎",Eurosport 1 🇨🇿
 http://23.88.66.93/Eurosport1/index.m3u8
 
-
+---
 
 #EXTINF:-1 tvg-chno="" cuid="1204" tvg-id="Eurosport.2.fr" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/Eurosport2.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="World Sports 🌎",Eurosport 2 🇫🇷🏌🏼‍⛷⛸️🐴
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -3384,7 +3394,7 @@ https://v4-kun-v13-cdn-02.live.cdn.cgates.lt/live/dash/561705/index.mpd
 https://dash2.antik.sk/stream/nvidia_eurosport2/playlist_cenc.mpd?wowzasessionid=@iprtlk
 
 #EXTINF:-1 tvg-chno="" cuid="1207" tvg-id="Eurosport.2.HD.ro" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/Eurosport2.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="World Sports 🌎",Eurosport 2 🇨🇿🏌🏼‍⛷⛸️🐴
-http://23.88.66.93/Eurosport2/index.m3u8
++http://23.88.66.93/Eurosport2/index.m3u8
 
 
 
@@ -3428,36 +3438,35 @@ NBA CHANNELS 🌎
 
 #EXTINF:-1 tvg-chno="" cuid="1300" tvg-id="NBA.TV.HD.us2" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/Nba.webp" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="World Sports 🌎",NBA 🇺🇸🏀
 #EXTGRP:Sports 🇺🇸
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=84077d18bcf234a42de3745be106a87f:aee3069c062ec8ee6bfdd32985f287ef
-https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/2jbycgm3g3/out/v1/066dd9325648468c9ecdc8b272370931/cenc.mpd?wowzasessionid=@iprtlk
 https://a1xs.vip/40000031
 
 #EXTINF:-1 tvg-chno="" cuid="1301" tvg-id="NBA.TV.HD.us2" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/Nba.webp" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="World Sports 🌎",NBA 🇺🇸🏀
 #EXTGRP:Sports 🇺🇸
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=08f8fb6d69482c151f73dd8461dca352:8aea016cd974cb95e8bf030b196f4818
-https://nog-live1-ott.izzigo.tv/7/out/u/dash/NBAHDH265/default.mpd
+http://212.102.60.231:80/NBA_TV/index.m3u8
 
 #EXTINF:-1 tvg-chno="" cuid="1302" tvg-id="NBA.TV.HD.us2" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/Nba.webp" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="World Sports 🌎",NBA 🇺🇸🏀
 #EXTGRP:Sports 🇺🇸
-http://fl2.moveonjoy.com/NBA_TV/index.m3u8
-http://212.102.60.231:80/NBA_TV/index.m3u8
++http://fl2.moveonjoy.com/NBA_TV/index.m3u8
 
+=====================🔹========================
+ESPN CHANNELS 🇺🇸
+=====================🔹========================
 
-#EXTINF:-1 tvg-chno="" cuid="1303" tvg-id="Cgnl.Nba.ph" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/Nba.webp" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="Sports 🇺🇸",NBA TV Philippines 🇵🇭🏀
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c5e51f41ceac48709d0bdcd9c13a4d88:20b91609967e472c27040716ef6a8b9a
-https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cgnl_nba/default/index.mpd
+#EXTINF:-1 tvg-chno="" cuid="1303" tvg-id="ESPN.HD.us2" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/espnwhite.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="World Sports 🌎",ESPN 🇺🇸
+#EXTGRP:Sports 🇺🇸
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://pixelsport.tv/
+#EXTVLCOPT:http-icy-metadata=1
+https://hd.pixelhd.online:443/play/pAVJjXWDXadNqa4ml_eoyMqgFOqlTe9h0iTA4jf8kBw/.m3u8
 
 
 #EXTINF:-1 tvg-chno="" cuid="1304" tvg-id="ESPN2.HD.us2" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/espn2white.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="World Sports 🌎",ESPN 2 🇺🇸
 #EXTGRP:Sports 🇺🇸
-http://fl2.moveonjoy.com/ESPN_2/index.m3u8
++http://fl2.moveonjoy.com/ESPN_2/index.m3u8
 
+=====================🔹========================
+MLB CHANNELS 🇺🇸
+=====================🔹========================
 
 #EXTINF:-1 tvg-chno="" cuid="1305" tvg-id="MLB.Network.HD.us2" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s62079_h15_aa.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="World Sports 🌎",MLB Network 🇺🇸
 #EXTGRP:Sports 🇺🇸
@@ -3470,6 +3479,9 @@ https://hd.pixelhd.online:443/play/pAVJjXWDXadNqa4ml_eoyDzDyUTZLQ2k4HO44SlpIZE/.
 #EXTGRP:Sports 🇺🇸
 http://origin.thetvapp.to/hls/MLBNetwork/index.m3u8
 
+=====================🔹========================
+NFL CHANNELS 🇺🇸
+=====================🔹========================
 
 #EXTINF:-1 tvg-chno="" cuid="1307" tvg-id="NFL.Network.HD.us2" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s34710_h15_aa.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="World Sports 🌎",NFL Network 🇺🇸
 #EXTGRP:Sports 🇺🇸;Rugby&NFL🏈🏉
@@ -3487,6 +3499,9 @@ http://origin.thetvapp.to/hls/NFLNetwork/index.m3u8
 #EXTGRP:Sports 🇺🇸
 http://origin.thetvapp.to/hls/NFLRedZone/index.m3u8
 
+=====================🔹========================
+NHL CHANNELS 🇺🇸
+=====================🔹========================
 
 #EXTINF:-1 tvg-chno="" cuid="1310" tvg-id="NHL.Network.HD.us2" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s58570_h15_ab.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="World Sports 🌎",NHL Network 🇺🇸
 #EXTGRP:Sports 🇺🇸;NHL🏒
@@ -3499,15 +3514,19 @@ https://hd.pixelhd.online:443/play/pAVJjXWDXadNqa4ml_eoyBm1tjwf410ZtSaskuuj5bo/.
 #EXTGRP:Sports 🇺🇸;NHL🏒
 http://origin.thetvapp.to/hls/NHLNetwork/index.m3u8
 
----
+=====================🔹========================
+CBS SPORTS 🇺🇸
+=====================🔹========================
 
 #EXTINF:-1 tvg-chno="" cuid="1312" tvg-id="CBS.Sports.Network.HD.us2" tvg-logo="https://logo.m3uassets.com/cbssportsnetwork.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="World Sports 🌎",CBS Sports 🇺🇸
 #EXTGRP:Sports 🇺🇸;Serie A⚽️;champions league⚽️;Europa League⚽️
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
 https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd
-https://a1xs.vip/4000009
-https://l.hilay.tv/golazo
+
+=====================🔹========================
+FS CHANNELS 🇺🇸
+=====================🔹========================
 
 #EXTINF:-1 tvg-chno="" cuid="1313" tvg-id="FS1.HD.us2" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/FS1.webp" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="World Sports 🌎",FS1 🇺🇸
 #EXTGRP:Sports 🇺🇸
@@ -3515,11 +3534,11 @@ http://origin.thetvapp.to/hls/FoxSports1/index.m3u8
 
 #EXTINF:-1 tvg-chno="" cuid="1314" tvg-id="FS1.HD.us2" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/FS1.webp" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="World Sports 🌎",FS1 🇺🇸
 #EXTGRP:Sports 🇺🇸
-http://fl2.moveonjoy.com/FOX_Sports_1/index.m3u8
++http://fl2.moveonjoy.com/FOX_Sports_1/index.m3u8
 
 #EXTINF:-1 tvg-chno="" cuid="1315" tvg-id="FS1.HD.us2" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/FS1.webp" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="World Sports 🌎",FS1 🇺🇸
 #EXTGRP:Sports 🇺🇸
-http://212.102.60.231:80/FOX_Sports_1/index.m3u8
++http://212.102.60.231:80/FOX_Sports_1/index.m3u8
 
 #EXTINF:-1 tvg-chno="" cuid="1316" tvg-id="FS1.HD.us2" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/FS1.webp" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="World Sports 🌎",FS1 🇺🇸
 #EXTGRP:Sports 🇺🇸
@@ -3528,6 +3547,7 @@ http://212.102.60.231:80/FOX_Sports_1/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key=5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tmpzbbdj9y/out/v1/962736723a534ba294e7592fef49827b/cenc.mpd
 
+---
 
 #EXTINF:-1 tvg-chno="" cuid="1317" tvg-id="FS2.HD.us2" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/FS2.webp" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="World Sports 🌎",FS2 🇺🇸
 #EXTGRP:Sports 🇺🇸
@@ -3600,11 +3620,10 @@ https://github.com/cattviptv2605/sportworld/raw/refs/heads/main/supersportfootba
 
 #EXTINF:-1 tvg-chno="" cuid="1402" tvg-id="" tvg-name="Sky Sport Laliga" tvg-logo="https://github.com/iprtl/p1/raw/master/logo/SkySportBundesliga.webp" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="World Sports 🌎",Sky Sports Bundesliga 🇲🇽
 #EXTGRP:World Sports 🌎;Bundesliga⚽️
-http://104.194.8.54:9090/281188_.m3u8
 http://190.92.10.66:4000/play/a006/index.m3u8
+http://104.194.8.54:9090/281188_.m3u8
 
 ---
-
 
 #EXTINF:-1 tvg-chno="" cuid="1403" tvg-id="" tvg-name="Sky Sport Laliga" tvg-logo="https://github.com/iprtl/p1/raw/master/logo/SkySportsLaLiga.webp" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="World Sports 🌎",Sky Sports laliga 🇲🇽
 #EXTGRP:World Sports 🌎;La Liga⚽️
@@ -3637,7 +3656,6 @@ https://a166aivottlinear-a.akamaihd.net/OTTB/dub-nitro/live/clients/dash/enc/k0d
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"K5uoEenFrq/IrhtxzcpNag", "kid":"Yg5RuCWWR1UXonqkJcUigA" } ], "type":"temporary" }
 https://abclxdjaaaaaaaamkqb6y4p6ie2zk.ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/k0duzgfejg/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd
-https://bd-streams.site/crx/master.php?id=laligauk|Referer=https://bd-streams.site/crx/master.php?id=skyscric
 
 
 #EXTINF:-1 tvg-chno="" cuid="1408" tvg-id="LALIGA.TV.HYPERMOTION.es" tvg-name="Laliga TV" tvg-logo="https://github.com/iprtl/tv-logos/raw/main/countries/spain/laliga-tv-hypermotion-es.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="World Sports 🌎",Dazn laliga hypermotion 🇪🇸
@@ -4258,7 +4276,7 @@ https://hplay.tv:443/augetv/12396547488/6733.m3u8
 
 #EXTINF:-1 tvg-chno="" cuid="1605" tvg-name="Band Sports" tvg-id="São.Paulo/SP..Band.Sports.br" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/bandsports.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="World Sports 🌎",Band Sports 🇧🇷 🏎️ 
 #EXTGRP:Sports 🇧🇷
-http://45.235.0.78/Band_Sports/playlist.m3u8
++http://45.235.0.78/Band_Sports/playlist.m3u8
 
 ---
 
@@ -4328,7 +4346,7 @@ http://sinalmycn.com:80/live/632035/GqGcFV4ntu/19006.m3u8
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=56b79c1782b30e6b6fc973b0e8fd4104:fa38aaa865a57eda7c77444697ba8ed3
 https://abgqhhbaaaaaaaamgyske232j4one.otte.live.cf.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/nelfyucw9a/out/v1/6ffb2c365ad14f88b154591beb43d1f6/cenc.mpd
-http://45.235.0.78/Premiere_Clubes/playlist.m3u8
++http://45.235.0.78/Premiere_Clubes/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="" cuid="1617" tvg-name="Sportv" tvg-id="São.Paulo/SP..Premiere.Clubes.br" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/Premiere.webp" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="World Sports 🌎",Premiere Clubes 🇧🇷⚽️
 #EXTGRP:Sports 🇧🇷
@@ -4357,7 +4375,7 @@ https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/oy6rp0jwmf/
 
 #EXTINF:-1 tvg-chno="" cuid="1621" tvg-name="Sportv" tvg-id="São.Paulo/SP..Premiere.2.br" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/Premiere.webp" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="World Sports 🌎",Premiere 2 🇧🇷⚽️
 #EXTGRP:Sports 🇧🇷
-http://45.235.0.78/Premiere_2/playlist.m3u8
++http://45.235.0.78/Premiere_2/playlist.m3u8
 
 ---
 
@@ -4372,7 +4390,7 @@ https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/6onrfniyry/
 
 #EXTINF:-1 tvg-chno="" cuid="1623" tvg-name="Sportv" tvg-id="São.Paulo/SP..Premiere.3.br" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/Premiere.webp" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="World Sports 🌎",Premiere 3 🇧🇷⚽️
 #EXTGRP:Sports 🇧🇷
-http://45.235.0.78/Premiere_3/playlist.m3u8
++http://45.235.0.78/Premiere_3/playlist.m3u8
 
 ---
 
@@ -4387,7 +4405,7 @@ https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/tirjor64kh/
 
 #EXTINF:-1 tvg-chno="" cuid="1625" tvg-name="Sportv" tvg-id="São.Paulo/SP..Premiere.4.br" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/Premiere.webp" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="World Sports 🌎",Premiere 4 🇧🇷⚽️
 #EXTGRP:Sports 🇧🇷
-http://45.235.0.78/Premiere_4/playlist.m3u8
++http://45.235.0.78/Premiere_4/playlist.m3u8
 
 ---
 
@@ -4402,7 +4420,7 @@ https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/1obktrybht/
 
 #EXTINF:-1 tvg-chno="" cuid="1627" tvg-name="Sportv" tvg-id="São.Paulo/SP..Premiere.5.br" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/Premiere.webp" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="World Sports 🌎",Premiere 5 🇧🇷⚽️
 #EXTGRP:Sports 🇧🇷
-http://45.235.0.78/Premiere_5/playlist.m3u8
++http://45.235.0.78/Premiere_5/playlist.m3u8
 
 =====================🔹========================
  ESPN BRASIL 🇧🇷
@@ -4419,14 +4437,14 @@ https://02.arlivre.online/espn/index.m3u8
 
 #EXTINF:-1 tvg-chno="" cuid="1632" tvg-id="ESPN.br" tvg-name="ESPN" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/ESPN.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="World Sports 🌎",ESPN 🇧🇷
 #EXTGRP:Liga Betclic⚽️;Sports 🇧🇷;Premier League⚽️;Serie A⚽️
-http://45.235.0.78/ESPN/playlist.m3u8
++http://45.235.0.78/ESPN/playlist.m3u8
 
 ---
 
 #EXTINF:-1 tvg-chno="" cuid="1633" tvg-id="ESPN.2.br" tvg-name="ESPN" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/ESPN2.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="World Sports 🌎",ESPN 2 🇧🇷
 #EXTGRP:Liga Betclic⚽️;Sports 🇧🇷;La Liga⚽️
 https://02.arlivre.online/espn2/index.m3u8
-http://45.235.0.78/ESPN_2/playlist.m3u8
++http://45.235.0.78/ESPN_2/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="" cuid="1634" tvg-id="ESPN.2.br" tvg-name="ESPN" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/ESPN2.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="World Sports 🌎",ESPN 2 🇧🇷
 #EXTGRP:Liga Betclic⚽️;Sports 🇧🇷;La Liga⚽️
@@ -4446,7 +4464,7 @@ https://raw.githubusercontent.com/embedplay/linkplay/refs/heads/main/Streams/ESP
 
 #EXTINF:-1 tvg-chno="" cuid="1637" tvg-id="ESPN.3.br" tvg-name="ESPN" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/ESPN3.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="World Sports 🌎",ESPN 3 🇧🇷
 #EXTGRP:Liga Betclic⚽️;Sports 🇧🇷;La Liga⚽️
-http://45.235.0.78/ESPN_3/playlist.m3u8
++http://45.235.0.78/ESPN_3/playlist.m3u8
 
 ---
 
@@ -4460,7 +4478,7 @@ https://raw.githubusercontent.com/embedplay/linkplay/refs/heads/main/Streams/ESP
 
 #EXTINF:-1 tvg-chno="" cuid="1640" tvg-id="ESPN.4.br" tvg-name="ESPN" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/ESPN4.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="World Sports 🌎",ESPN 4 🇧🇷
 #EXTGRP:Sports 🇧🇷;La Liga⚽️;Liga Betclic⚽️;Premier League⚽️
-http://45.235.0.78/ESPN_4/playlist.m3u8
++http://45.235.0.78/ESPN_4/playlist.m3u8
 
 ---
 
@@ -4474,7 +4492,7 @@ http://sinalmycn.com:80/live/632035/GqGcFV4ntu/22012.m3u8
 
 #EXTINF:-1 tvg-chno="" cuid="1643" tvg-id="ESPN.5.br" tvg-name="ESPN5" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/ESPN5.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="World Sports 🌎",ESPN 5 🇧🇷
 #EXTGRP:Sports 🇧🇷
-http://45.235.0.78/Fox_Sports_2/playlist.m3u8
++http://45.235.0.78/Fox_Sports_2/playlist.m3u8
 
 ---
 
@@ -4644,8 +4662,8 @@ TUDN | FOX SPORTS | TYC SPORTS 🇲🇽
 
 #EXTINF:-1 tvg-chno="" cuid="1680" tvg-name="TUDN" tvg-id="TUDN.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/mexico/tudn-mx.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="World Sports 🌎",TUDN 🇺🇸🇲🇽
 #EXTGRP:World Sports 🌎;Europa League⚽️;champions league⚽️
+http://cord-cutter.net:8080//live/rachelle@pilon/rachelle@2024/11885.ts
 http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278570.m3u8
-http://tv14s.xyz:8080/FxQ7fU/508292/11885
 http://198.204.231.170:46201/stream/univisontelemundo/tudn/master.m3u8
 
 #EXTINF:-1 tvg-chno="" cuid="1681" tvg-name="TUDN" tvg-id="Canal.TUDN.(México).mx" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/mexico/tudn-mx.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="World Sports 🌎",TUDN 🇲🇽
@@ -4661,7 +4679,7 @@ http://cord-cutter.net:8080/live/rachelle@pilon/rachelle@2024/82241.ts
 #EXTGRP:World Sports 🌎
 http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278559.m3u8
 https://streaming-live-fcdn.api.prd.univisionnow.com/tudn/tudn.isml/hls/tudn.m3u8
-http://live.proyectoxpro.com:8080/live/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/9603.ts
++http://live.proyectoxpro.com:8080/live/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/9603.ts
 
 
 
@@ -4885,10 +4903,7 @@ https://mag03.tvx.prd.tv.odido.nl/wh7f454c46tw75168188_-627298088/PLTV/86/224/32
 
 #EXTINF:-1 tvg-chno="" cuid="1731" tvg-name="Ziggo Sport 2" tvg-id="Ziggo.Sport.2.nl" tvg-logo="https://logo.m3uassets.com/ziggosport2.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="World Sports 🌎",Ziggo Sport 2 🇳🇱⚽️
 #EXTGRP:World Sports 🌎;Liga Betclic⚽️;La Liga⚽️;champions league⚽️;Europa League⚽️;Serie A⚽️
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3cfa8625f650406ebf6a4d1ea737f572:0534e747c70b364aa7210e1bf3191df0
-https://mag03.tvx.prd.tv.odido.nl/wh7f454c46tw266117884_-1972819316/PLTV/86/224/3221241560/3221241560.mpd?accountinfo=~~V2.0~OhA1DF4svOZppKxb-t-Ngw144cce44121c63284a33d5453493e5c8~1_Fmlu5PevHMYnEi9Z_HX2goKAd0VHSuxZMoIcAXcawYvG1meqGp2eQ2Ibhjvh7e59e7f6df3d57f23a32024ad67f0f19dc:UTC,
-http://78.130.250.2:8023/play/a00f/index.m3u8
+https://a1xs.vip/140003
 https://zekonew.newkso.ru/zeko/premium398/mono.m3u8|Referer=https%3A%2F%2Falldownplay.xyz%2F&User-Agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&Origin=https%3A%2F%2Falldownplay.xyz
 
 #EXTINF:-1 tvg-chno="" cuid="1732" tvg-name="Ziggo Sport 3" tvg-id="Ziggo.Sport.3.nl" tvg-logo="https://logo.m3uassets.com/ziggosport3.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="World Sports 🌎",Ziggo Sport 3 🇳🇱⚽️🏍🏎️
@@ -4902,15 +4917,17 @@ https://a1xs.vip/140003
 #EXTINF:-1 tvg-chno="" cuid="1733" tvg-name="Ziggo Sport 4" tvg-id="Ziggo.Sport.4.nl"  user-agent="Wink/1.31.1" tvg-logo="https://logo.m3uassets.com/ziggosport4.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="World Sports 🌎",Ziggo Sport 4 🇳🇱⚽️🎾
 #EXTGRP:World Sports 🌎;Liga Betclic⚽️;Tennis🎾;Europa League⚽️;champions league⚽️
 #EXTVLCOPT:http-user-agent=Wink/1.31.1
+http://195.128.27.141:80/play/live.php?mac=00:1A:79:24:1B:18&stream=4851&extension=ts
 #EXTVLCOPT:http-referrer=https://github.com/
 https://github.com/cattviptv2605/sportworld/raw/refs/heads/main/ziggosport4.m3u8
-http://195.128.27.141:80/play/live.php?mac=00:1A:79:24:1B:18&stream=4851&extension=ts
+
 
 
 #EXTINF:-1 tvg-chno="" cuid="1734" tvg-name="Ziggo Sport 4" tvg-id="Ziggo.Sport.4.nl"  user-agent="Wink/1.31.1" tvg-logo="https://logo.m3uassets.com/ziggosport4.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="World Sports 🌎",Ziggo Sport 4 🇳🇱⚽️🎾
 #EXTGRP:World Sports 🌎;Liga Betclic⚽️;Tennis🎾;Europa League⚽️;champions league⚽️
-http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:cb:6d:d7&stream=1282760&extension=ts|User-Agent=Wink/1.31.1
 https://a1xs.vip/140004
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:cb:6d:d7&stream=1282760&extension=ts|User-Agent=Wink/1.31.1
+
 
 #EXTINF:-1 tvg-chno="" cuid="1735" tvg-name="Ziggo Sport 5" tvg-id="Ziggo.Sport.5.nl" tvg-logo="https://logo.m3uassets.com/ziggosport5.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="World Sports 🌎",Ziggo Sport 5 🇳🇱⚽️
 #EXTGRP:World Sports 🌎;Liga Betclic⚽️;Europa League⚽️;champions league⚽️
@@ -4961,8 +4978,7 @@ https://a1xs.vip/700031
 
 
 #EXTINF:-1 tvg-chno="" cuid="1782" tvg-name="Ziggo Sport" tvg-id="Sky.Sport.2.nz" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/skysport.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="World Sports 🌎;Rugby&NFL🏈🏉",Sky Sport 2 🇳🇱⚽️🏎️
-http://45.139.122.199:2095/live/uEhrs33y/aMgpJfY/482875.ts|User-Agent=Wink/1.31.1
-https://github.com/cattviptv2605/m3u8-world-/raw/refs/heads/main/skysport2_nz.m3u8
+https://github.com/cattviptv2605/m3u8-world-/raw/refs/heads/main/skysport2_nz.m3u8|User-Agent=Wink/1.31.1
 
 #EXTINF:-1 tvg-chno="" cuid="1783" tvg-name="Ziggo Sport" tvg-id="Sky.Sport.2.nz" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/skysport.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="World Sports 🌎;Rugby&NFL🏈🏉",Sky Sport 2 🇳🇱⚽️🏎️
 https://a1xs.vip/700032
