@@ -3724,6 +3724,11 @@ TNT SPORT 🇬🇧 LIGA INGLESA E COMPETIÇÕES EUROPEIAS
 
 #EXTINF:-1 tvg-chno="" cuid="1500" tvg-id="TNT.Sports.1.HD.uk" tvg-name="TNT SPORTS 01" tvg-logo="http://145.239.7.84/logos/TNTSports1_Logo_White_RGB_Logo.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="World Sports 🌎",TNT Sports 1 🇬🇧⚽️🏉🎱🏏
 #EXTGRP:World Sports 🌎;champions league⚽️;Europa League⚽️
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=294b5761cefc22d0c6312939e13d8278:52148f1042d238849f0a7813f1da8a7b
+https://qw.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
 https://l.hilay.tv/tnt1
 
 
@@ -3741,6 +3746,11 @@ http://slayerteam.in.rs:80/play/live.php?mac=00:1B:79:F0:81:7F&stream=79486&exte
 
 #EXTINF:-1 tvg-chno="" cuid="1503" tvg-id="TNT.Sports.2.HD.uk" tvg-name="TNT SPORTS 02" tvg-logo="http://145.239.7.84/logos/TNTSports2_Logo_White_RGB_Logo.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="World Sports 🌎",TNT Sports 2 🇬🇧⚽️🐴🎱
 #EXTGRP:World Sports 🌎
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f288380ca4cef9ad3f27a92a08e9bb8b:9f18d26291d9230833501f7f822f6875
+https://qw.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/fb6jy4pxts/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
 https://l.hilay.tv/tnt2
 https://7pal.short.gy/tntspts2
 
@@ -3757,6 +3767,11 @@ https://7pal.short.gy/tntspts3
 
 #EXTINF:-1 tvg-chno="" cuid="1506" tvg-id="TNT.Sports.3.HD.uk" tvg-name="TNT SPORTS 03" tvg-logo="http://145.239.7.84/logos/TNTSports3_Logo_White_RGB_Logo.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="World Sports 🌎",TNT Sports 3 🇬🇧⚽️🏉⛷
 #EXTGRP:World Sports 🌎;Europa League⚽️
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1d96ab366bbe6451edf7407b58e2fa16:0116201f4a63ac5bf5787d2c610c41a7
+https://qw.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/5sxuux529k/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=1311901&extension=ts&play_token=071rXDdEx4
 
 ---
@@ -3767,6 +3782,11 @@ https://7pal.short.gy/tntspts4
 
 #EXTINF:-1 tvg-chno="" cuid="1508" tvg-id="TNT.Sports.4.HD.uk" tvg-name="TNT SPORTS 04" tvg-logo="http://145.239.7.84/logos/TNTSports4_Logo_White_RGB_Logo.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="World Sports 🌎",TNT Sports 4 🇬🇧⚽️⚾🏏
 #EXTGRP:World Sports 🌎
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=192b1115da041585c77200128549efa1:634e10efe4abbb14be400a3ccbac0258
+https://qw.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/pnu10tp36z/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd
 https://l.hilay.tv/tnt4
 https://a1xs.vip/2000024
 
