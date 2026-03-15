@@ -3807,7 +3807,7 @@ TNT SPORT 🇬🇧 LIGA INGLESA E COMPETIÇÕES EUROPEIAS
 =====================🔹========================
 
 #EXTINF:-1 tvg-chno="" cuid="1500" tvg-id="TNT.Sports.1.HD.uk" tvg-name="TNT SPORTS 01" tvg-logo="http://145.239.7.84/logos/TNTSports1_Logo_White_RGB_Logo.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="World Sports 🌎",TNT Sports 1 🇬🇧⚽️🏉🎱🏏
-#EXTGRP:World Sports 🌎;champions league⚽️;Europa League⚽️
+#EXTGRP:World Sports 🌎;champions league⚽️;Europa League⚽️;Serie A⚽️
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -3817,12 +3817,12 @@ https://l.hilay.tv/tnt1
 
 
 #EXTINF:-1 tvg-chno="" cuid="1501" tvg-id="TNT.Sports.1.HD.uk" tvg-name="TNT SPORTS 01" tvg-logo="http://145.239.7.84/logos/TNTSports1_Logo_White_RGB_Logo.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="World Sports 🌎",TNT Sports 1 🇬🇧⚽️🏉🎱🏏 (CodecVLC)
-#EXTGRP:World Sports 🌎;champions league⚽️;Europa League⚽️
+#EXTGRP:World Sports 🌎;champions league⚽️;Europa League⚽️;Serie A⚽️
 https://7pal.short.gy/tntspts1
 
 
 #EXTINF:-1 tvg-chno="" cuid="1502" tvg-id="TNT.Sports.1.HD.uk" tvg-name="TNT SPORTS 01" tvg-logo="http://145.239.7.84/logos/TNTSports1_Logo_White_RGB_Logo.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="World Sports 🌎",TNT Sports 1 🇬🇧⚽️🏉🎱🏏
-#EXTGRP:World Sports 🌎;champions league⚽️;Europa League⚽️
+#EXTGRP:World Sports 🌎;champions league⚽️;Europa League⚽️;Serie A⚽️
 https://n5.sanwalyaarpya.com:1686/hls/bbtsp1.m3u8?md5=uN4b59lja3KSOV16mJt8yA&expires=1773510757
 
 ---
@@ -4067,7 +4067,7 @@ http://cord-cutter.net:8080//live/rachelle@pilon/rachelle@2024/35241.ts
 
 #EXTINF:-1 tvg-chno="" cuid="1534" tvg-id="SkySp.PL.HD.uk" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/skysportpl.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="World Sports 🌎",Sky Sport Premier League 🇬🇧
 #EXTGRP:World Sports 🌎;Premier League⚽️
-https://planetary.lovecdn.ru/skysportspremierleague/tracks-v1a1/mono.m3u8?token=c2t5c3BvcnRzcHJlbWllcmxlYWd1ZXxub19jaGVja19pcHwxNzczNjAwNjUz.b9cce98eaa8f53aa856c5a58447ca6ee63085ef6db487ed468f6fba2d9bc8426
++https://planetary.lovecdn.ru/skysportspremierleague/tracks-v1a1/mono.m3u8?token=c2t5c3BvcnRzcHJlbWllcmxlYWd1ZXxub19jaGVja19pcHwxNzczNjAwNjUz.b9cce98eaa8f53aa856c5a58447ca6ee63085ef6db487ed468f6fba2d9bc8426
 
 #EXTINF:-1 tvg-chno="" cuid="1535" tvg-id="SkySp.PL.HD.uk" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/skysportpl.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="World Sports 🌎",Sky Sport Premier League 🇬🇧
 #EXTGRP:World Sports 🌎;Premier League⚽️
@@ -4084,7 +4084,7 @@ http://37.187.115.146:25461/JOIN-FOR-MORE/forum.tfms.xyz/152
 #EXTINF:-1 tvg-chno="" cuid="1537" tvg-id="SkySpMainEvHD.uk" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/SkySportsMainEvent.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="World Sports 🌎",Sky Sport Main Event 🇬🇧
 #EXTGRP:World Sports 🌎;Premier League⚽️
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
-https://planetary.lovecdn.ru/skysportsmainevent/index.m3u8?token=c2t5c3BvcnRzbWFpbmV2ZW50fG5vX2NoZWNrX2lwfDE3NzM2MDEwNzE=.05b84ca21a900252bbee86722d57ec419cb51ea0408ce1e5c61fa8ef67f71b7a
++https://planetary.lovecdn.ru/skysportsmainevent/index.m3u8?token=c2t5c3BvcnRzbWFpbmV2ZW50fG5vX2NoZWNrX2lwfDE3NzM2MDEwNzE=.05b84ca21a900252bbee86722d57ec419cb51ea0408ce1e5c61fa8ef67f71b7a
 +https://7pal.short.gy/SkSpMainE
 
 #EXTINF:-1 tvg-chno="" cuid="1538" tvg-id="SkySpMainEvHD.uk" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/SkySportsMainEvent.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="World Sports 🌎",Sky Sport Main Event 🇬🇧
@@ -4112,7 +4112,7 @@ http://cord-cutter.net:8080//live/rachelle@pilon/rachelle@2024/35243.ts
 
 #EXTINF:-1 tvg-chno="" cuid="1542" tvg-id="SkySp+.uk" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/SkySportsplus.webp" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="World Sports 🌎",Sky Sport+ 🇬🇧
 #EXTGRP:World Sports 🌎;Tennis🎾
-https://n5.sanwalyaarpya.com:1686/hls/skysare.m3u8?md5=FYlt1RrJBAyhFnW5matB_Q&expires=1773510759
++https://n5.sanwalyaarpya.com:1686/hls/skysare.m3u8?md5=FYlt1RrJBAyhFnW5matB_Q&expires=1773510759
 +http://109.61.81.147:1935/cdn7/4161/mpegts?token=f0cf1e6d037daf201238b459de5d3ec9
 
 ---
@@ -4120,14 +4120,12 @@ https://n5.sanwalyaarpya.com:1686/hls/skysare.m3u8?md5=FYlt1RrJBAyhFnW5matB_Q&ex
 #EXTINF:-1 tvg-chno="" cuid="1543" tvg-id="SkySp.Fball.HD.uk" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/SkySportsFootball.webp" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="World Sports 🌎",Sky Sport Football 🇬🇧
 #EXTGRP:World Sports 🌎;Bundesliga⚽️
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
-https://planetary.lovecdn.ru/SkySportsFootballUK/index.m3u8?token=U2t5U3BvcnRzRm9vdGJhbGxVS3xub19jaGVja19pcHwxNzczNjAwODkw.9cabeaf65b93dff41a75ca60a60db433575bdbb8c3f39568a99e8229ca9de89f
 https://a1xs.vip/2000003
-http://178.33.239.54:8080/500a/index.m3u8
+
 
 #EXTINF:-1 tvg-chno="" cuid="1544" tvg-id="SkySp.Fball.HD.uk" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/SkySportsFootball.webp" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="World Sports 🌎",Sky Sport Football 🇬🇧
 #EXTGRP:World Sports 🌎;Bundesliga⚽️
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
-+https://n3.sanwalyaarpya.com:1686/hls/skysfott.m3u8?md5=1Cb3wBSTWXR6Zwvnixms1A&expires=1773510759
 https://7pal.short.gy/ssportsfb
 
 ---
@@ -4164,11 +4162,11 @@ http://193.35.224.138:80/2793116/index.m3u8?token=c1lHcnQ4YVpxYVNWZk1xc2diR0l5OG
 
 #EXTINF:-1 tvg-chno="" cuid="1550" tvg-name="SkySp.Action" tvg-id="SkySp.ActionHD.uk" tvg-logo="https://i.imgur.com/i1yzHZj.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="World Sports 🌎",Sky Sports Action/NFL 🇬🇧
 #EXTGRP:World Sports 🌎;Rugby&NFL🏈🏉
-https://a1xs.vip/2000011
++https://a1xs.vip/2000011
 #EXTINF:-1 tvg-chno="" cuid="1551" tvg-name="SkySp.Action" tvg-id="SkySp.ActionHD.uk" tvg-logo="https://i.imgur.com/i1yzHZj.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="World Sports 🌎",Sky Sports Action/NFL 🇬🇧
 #EXTGRP:World Sports 🌎;Rugby&NFL🏈🏉
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
-https://7pal.short.gy/ssportsat
++https://7pal.short.gy/ssportsat
 
 
 
