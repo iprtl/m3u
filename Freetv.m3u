@@ -6024,16 +6024,16 @@ https://github.com/cattviptv2605/sportworld/raw/main/arenasport1.m3u8
 
 
 #EXTINF:-1 tvg-chno="" cuid="563" tvg-id="Arena.Sport.2.HD.(RS).rs" tvg-name="" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/arena2.webp" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="World Sports 🌎",Arena Sport 2 🇭🇷⚽️🏈
-#EXTGRP:Liga Betclic⚽️;World Sports 🌎;Bundesliga⚽️;Europa League⚽️;Serie A
+#EXTGRP:Liga Betclic⚽️;World Sports 🌎;Bundesliga⚽️;Europa League⚽️;Serie A⚽️
 +https://github.com/cattviptv2605/sportworld/raw/main/arenasport2.m3u8
 
 #EXTINF:-1 tvg-chno="" cuid="563" tvg-id="Arena.Sport.2.HD.(RS).rs" tvg-name="" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/arena2.webp" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="World Sports 🌎",Arena Sport 2 🇭🇷⚽️🏈
-#EXTGRP:Liga Betclic⚽️;World Sports 🌎;Europa League⚽️;Serie A
+#EXTGRP:Liga Betclic⚽️;World Sports 🌎;Europa League⚽️;Serie A⚽️
 http://roi-tv.net:9000/live/total.iptv/Skype-18-11-2019-TOTAL.TV/226.ts
 +http://79.127.207.193:80/ArenaSport2HD/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="" cuid="564" tvg-id="Arena.Sport.2.HD.(RS).rs" tvg-name="" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/arena2.webp" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="World Sports 🌎",Arena Sport 2 🇷🇸⚽️
-#EXTGRP:Liga Betclic⚽️;World Sports 🌎;Europa League⚽️;Serie A
+#EXTGRP:Liga Betclic⚽️;World Sports 🌎;Europa League⚽️;Serie A⚽️
 +http://85.11.144.9:50999/22
 +http://78.108.251.7/Arena_Sport_2/index.m3u8?wowzasessionid=@iprtlk
 +https://hls8.ua3.wisp.cat/ArenaSport2_HR/video.m3u8?token=JYtCLkiUhf
