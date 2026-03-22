@@ -36,13 +36,13 @@ https://cdn-5.nxplay.com.br/HGTV_BR_NX/tracks-v2a1/mono.m3u8
 #EXTINF:0 tvg-id="ext" group-title="NXPLAY TV",LIFETIME
 https://cdn-5.nxplay.com.br/LIFE_TIME_TK/tracks-v2a1/mono.m3u8
 #EXTINF:0 tvg-id="ext" group-title="NXPLAY TV",MUSIC BOX
-http://cdn-3.nxplay.com.br/MUSIC_HD/tracks-v2a1/mono.m3u8
+https://cdn-5.nxplay.com.br/MUSIC_HD/tracks-v2a1/mono.m3u8
 #EXTINF:0 tvg-id="ext" group-title="NXPLAY TV",TLC
 https://cdn-5.nxplay.com.br/TLC_BR_NX/tracks-v2a1/mono.m3u8
 #EXTINF:0 tvg-id="ext" group-title="NXPLAY TV",TRACE BRASIL
 https://cdn-5.nxplay.com.br/TRACE_BRAZUCA/tracks-v2a1/mono.m3u8
 #EXTINF:0 tvg-id="ext" group-title="NXPLAY TV",TRAVEL BOX
-http://cdn-3.nxplay.com.br/TRAVEL_HD/tracks-v1a1/mono.m3u8
+https://cdn-5.nxplay.com.br/TRAVEL_HD/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-id="ext" group-title="NXPLAY TV",WOOHOO
 https://cdn-5.nxplay.com.br/WOOHOO_TK/tracks-v2a1/mono.m3u8
 #EXTINF:0 tvg-id="ext" group-title="NXPLAY TV",WOOHOO SURF
@@ -74,7 +74,7 @@ https://cdn-5.nxplay.com.br/HISTORY_2_TK/tracks-v2a1/mono.m3u8
 #EXTINF:0 tvg-id="ext" group-title="NXPLAY TV",SBT
 https://cdn-5.nxplay.com.br/SBT_HD_TK/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-id="ext" group-title="NXPLAY TV",BAND
-http://cdn-3.nxplay.com.br/BAND_HD_PFZ_NX/tracks-v2a1/mono.m3u8
+https://cdn-5.nxplay.com.br/BAND_HD_PFZ_NX/tracks-v2a1/mono.m3u8
 #EXTINF:0 tvg-id="ext" group-title="NXPLAY TV",RECORD SP
 https://cdn-5.nxplay.com.br/RECORD_PAULISTA_PFZ_NXPLAY_01/tracks-v2a1/mono.m3u8
 #EXTINF:0 tvg-id="ext" group-title="NXPLAY TV",COM BRASIL
@@ -83,6 +83,8 @@ https://cdn-5.nxplay.com.br/COM_BRASIL/tracks-v2a1/mono.m3u8
 https://cdn-5.nxplay.com.br/CANCAO_NOVA_TK/tracks-v2a1/mono.m3u8
 #EXTINF:0 tvg-id="ext" group-title="NXPLAY TV",CARTOON NETWORK
 https://cdn-5.nxplay.com.br/CARTOON_NETWORK_TK/tracks-v2a1/mono.m3u8
+#EXTINF:0 tvg-id="ext" group-title="NXPLAY TV",CARTOONITO
+https://cdn-5.nxplay.com.br/CARTOONITO_TK/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="NXPLAY TV",DISCOVERY KIDS
 https://cdn-5.nxplay.com.br/DISCOVERY_KIDS_NX/tracks-v2a1/mono.m3u8
 #EXTINF:0 tvg-id="ext" group-title="NXPLAY TV",TOONCAST
@@ -92,7 +94,7 @@ https://cdn-5.nxplay.com.br/ZOOMOO_HD_NX_TK/tracks-v2a1/mono.m3u8
 #EXTINF:0 tvg-id="ext" group-title="NXPLAY TV",GLOBO SP
 https://cdn-5.nxplay.com.br/GLOBO_SP_TK/tracks-v2a1/mono.m3u8
 #EXTINF:0 tvg-id="ext" group-title="NXPLAY TV",TV TEM GLOBO
-http://cdn-3.nxplay.com.br/TV_TEM_TK/tracks-v2a1/mono.m3u8
+https://cdn-5.nxplay.com.br/TV_TEM_TK/tracks-v2a1/mono.m3u8
 #EXTINF:0 tvg-id="ext" group-title="NXPLAY TV",AGROMAIS
 https://cdn-5.nxplay.com.br/AGROMAIS_HD/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-id="ext" group-title="NXPLAY TV",E-MUSIC BLACK
@@ -114,7 +116,7 @@ https://cdn-5.nxplay.com.br/RECORD_NEWS/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-id="ext" group-title="NXPLAY TV",TV BRASIL
 https://cdn-5.nxplay.com.br/TV_BRASIL_NX_/tracks-v2a1/mono.m3u8
 #EXTINF:0 tvg-id="ext" group-title="NXPLAY TV",CANAL GOV
-http://cdn-3.nxplay.com.br/TV_BRASIL_2/tracks-v2a1/mono.m3u8
+https://cdn-5.nxplay.com.br/TV_BRASIL_2/tracks-v2a1/mono.m3u8
 #EXTINF:0 tvg-id="ext" group-title="NXPLAY TV",TV SENADO
 https://cdn-5.nxplay.com.br/TV_SENADO/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-id="ext" group-title="NXPLAY TV",TV JUSTIÇA
@@ -132,7 +134,7 @@ https://cdn-5.nxplay.com.br/CATVE/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-id="ext" group-title="NXPLAY TV",CATVE FM
 https://cdn-5.nxplay.com.br/CATVE_2/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-id="ext" group-title="NXPLAY TV",ARTE 1
-http://cdn-3.nxplay.com.br/ARTE1/tracks-v1a1/index.m3u8
+https://cdn-5.nxplay.com.br/ARTE1/tracks-v1a1/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="NXPLAY TV",MUSIC BOX
 https://cdn-5.nxplay.com.br/MUSIC_HD/tracks-v2a1/mono.m3u8
 #EXTINF:0 tvg-id="ext" group-title="NXPLAY TV",BAND SPORTS
@@ -172,19 +174,19 @@ https://cdn-5.nxplay.com.br/HTO_DOCS/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-id="ext" group-title="NXPLAY TV",HTO NITRO
 https://cdn-5.nxplay.com.br/HTO_NITRO/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-id="ext" group-title="NXPLAY TV",CNN BRASIL
-http://cdn-3.nxplay.com.br/CNN_BR/tracks-v2a1/mono.m3u8
+https://cdn-5.nxplay.com.br/CNN_BR/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="NXPLAY TV",CNN BRASIL SD
 https://cdn-5.nxplay.com.br/CNN_FAST/tracks-v2a1/mono.m3u8
 #EXTINF:0 tvg-id="ext" group-title="NXPLAY TV",FUEL TV
-http://cdn-3.nxplay.com.br/FUEL_TV_BROADPEAK/tracks-v2a1/mono.m3u8
+https://cdn-5.nxplay.com.br/FUEL_TV_BROADPEAK/tracks-v2a1/mono.m3u8
 #EXTINF:0 tvg-id="ext" group-title="NXPLAY TV",H! MAIS
 https://cdn-5.nxplay.com.br/PLAYOUT_02_HMAIS/mono.m3u8
 #EXTINF:0 tvg-id="ext" group-title="NXPLAY TV",REDE VIDA
 https://cdn-5.nxplay.com.br/REDE_VIDA/tracks-v1a1/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="NXPLAY TV",TV APARECIDA
-http://cdn-3.nxplay.com.br/TV_APARECIDA/tracks-v1a1/mono.m3u8
+https://cdn-5.nxplay.com.br/TV_APARECIDA/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-id="ext" group-title="NXPLAY TV",FUTURA
-http://cdn-3.nxplay.com.br/FUTURA_NX/tracks-v1a1/mono.m3u8
+https://cdn-5.nxplay.com.br/FUTURA_NX/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-id="ext" group-title="NXPLAY TV",HALLO MOVIES
 https://cdn-5.nxplay.com.br/HALLOMOVIES/tracks-v3a1/mono.m3u8
 #EXTINF:0 tvg-id="ext" group-title="NXPLAY TV",HALLO CLASSIC
