@@ -929,11 +929,18 @@ https://cdn.teveo.cu/live/video/A36pWmuWvZBQskuZ/ngrp:gppfydfzpSUn9Udy.stream/pl
 #KODIPROP:inputstream.adaptive.license_key=93bf10f6398139ff9bf0f28c641fd371:9945fc9d36616ec453f3942b45f196c4
 https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(WNEU)/master.mpd
 
+---
+
 #EXTINF:-1 tvg-chno="" cuid="170" tvg-name="" tvg-id="UNIVERSO.HD.us2" tvg-logo="https://img.nbc.com/files/images/2019/4/25/Universo-logos-templateUniverso-Logo-White-450x228.png" group-logo="https://cdn-icons-png.freepik.com/256/18310/18310951.png" group-title="Hispanics Entertainment 🌎",Universo 🇲🇽⚽️
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=96b67fa09140329a89b7a1ead134eda3:c618d32c56cdc6cad8330eb98507ca3f
 https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(universo-east)/master.mpd
 http://yoshiro.cu.ma/deportivo111/72.m3u8
+
+#EXTINF:-1 tvg-chno="" cuid="170" tvg-name="" tvg-id="UNIVERSO.HD.us2" tvg-logo="https://img.nbc.com/files/images/2019/4/25/Universo-logos-templateUniverso-Logo-White-450x228.png" group-logo="https://cdn-icons-png.freepik.com/256/18310/18310951.png" group-title="Hispanics Entertainment 🌎",Universo West 🇲🇽⚽️
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=069f3495380f3d25a8c03477067f7d1b:7d9dbf8134535e1665e914fb7134ce47
+https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(universo-west)/master.mpd
 
 #EXTINF:-1 tvg-chno="" cuid="171" tvg-name="" tvg-id="Canal.TNT.Novelas.(México).mx" tvg-logo="https://logo.m3uassets.com/tntnovelas.png" group-logo="https://cdn-icons-png.freepik.com/256/18310/18310951.png" group-title="Hispanics Entertainment 🌎",TNT Novelas 🇲🇽
 http://200.229.147.142:8000/play/a01a/index.m3u8
@@ -5391,11 +5398,11 @@ http://179.63.6.12:9000/play/a01k
 
 #EXTINF:-1 tvg-chno="" cuid="1697" tvg-name="" tvg-id="Win.Sports+.co" tvg-logo="https://www.winsportsmas.com/sites/default/files/inline-images/WinfutbolNaranja.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="World Sports 🌎",WIN Sports+ 🇨🇴
 #EXTGRP:World Sports 🌎
-http://38.252.213.12:8000/play/a06r
+http://170.254.229.225:8000/play/a067/index.m3u8
 
 #EXTINF:-1 tvg-chno="" cuid="1698" tvg-name="" tvg-id="Win.Sports+.co" tvg-logo="https://www.winsportsmas.com/sites/default/files/inline-images/WinfutbolNaranja.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="World Sports 🌎",WIN Sports+ 🇨🇴
 #EXTGRP:World Sports 🌎
-http://179.63.6.12:9000/play/a06r
+http://190.2.213.220:8000/play/a0c7/index.m3u8
 
 
 
