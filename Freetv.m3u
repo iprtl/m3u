@@ -7,7 +7,7 @@
 # ――――――――――――――――――――――――――――――――――――――――――――――
 # (●) Last Update: 🔄 2026 GMT+7 "
 # (●) Service: FREETV Inspiration Links
-# (●) Total Channels: 961
+# (●) Total Channels: 926
 
 
 ⚠️ Atenção: Todas as ligações de streams disponibilizados nas listas foram retiradas da Internet. Apenas as organizo, disponibiliza e partilha. Não detenho qualquer servidor e/ou transmitimos ou re-emitimos qualquer tipo de sinal.
@@ -179,7 +179,7 @@ https://production-fast-sic.content.okast.tv/fa2e8c4385712f9aa54bbe52b1bd9b6b/ch
 https://github.com/thomraider12/canaistvpt/raw/main/m3u8s/tviint.m3u8
 
 #EXTINF:-1 tvg-chno="19" cuid="20" tvg-name="TVI Internacionalᶠᴴᴰ)" tvg-id="tvi.internacional.pt" tvg-logo="https://logo.m3uassets.com/tviinternacional.png" group-logo="https://cdn-icons-png.freepik.com/512/4482/4482879.png" group-title="Portugal 🇵🇹",TVI Internacional 🇵🇹
-https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC81LzIwMjYgNTowOjMyIFBNJmhhc2hfdmFsdWU9cVVMOWtxNzdrQnhpeUpPSDVZZEFTUT09JnZhbGlkbWludXRlcz0xNDQwJmlkPTlkYzNmODZjLTQ3YzItNDI2Mi04ZmEzLTNkMWRiNzQ3ZTk5ZQ==/
+https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xLzIwMjYgNDo0ODo1MCBQTSZoYXNoX3ZhbHVlPWJJVTZPUWhnekxaUzhHMkUvNXBXZFE9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD03YjkzN2E4Zi0xMmU0LTRhNDEtODg5Mi03MDc3ZGUwNTZlMjc=/
 
 
 
@@ -190,14 +190,14 @@ https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlis
 https://github.com/thomraider12/canaistvpt/raw/main/m3u8s/tvi.m3u8?wowzasessionid=@iprtlk
 
 #EXTINF:-1 tvg-chno="22" cuid="23" tvg-name="TVI 🇵🇹" tvg-id="TVI.HD.pt" tvg-logo="https://github.com/iprtl/p1/raw/master/logo/tvi.webp" group-logo="https://cdn-icons-png.freepik.com/512/4482/4482879.png" group-title="Portugal 🇵🇹",TVI 🇵🇹
-https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC81LzIwMjYgNTowOjMxIFBNJmhhc2hfdmFsdWU9QnMzM2J5ZFF6bUFacjdmaG9lWnJaQT09JnZhbGlkbWludXRlcz0xNDQwJmlkPWM3MzhiYzQ4LTI5MDAtNDkxYi05NzU1LTlhYmRjODQ4OThhYg==/
+https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xLzIwMjYgNDo0ODo0OCBQTSZoYXNoX3ZhbHVlPXprRFFUWEpxcVFqMFBoVTc0cG82cmc9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD1hZDBhZTI4Yy0xNDAwLTRlNGEtYTU0My1lZjUyNjU3OGIwMGQ=/
 
 
 #EXTINF:-1 tvg-chno="24" cuid="24" tvg-name="CNN Portugal 🇵🇹" tvg-id="CNN.Portugal.HD.pt" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/cnnpt.png" group-logo="https://cdn-icons-png.freepik.com/256/5395/5395694.png" group-title="News 🇵🇹🇧🇷",CNN Portugal 🇵🇹
 https://github.com/thomraider12/canaistvpt/raw/main/m3u8s/cnnpt.m3u8?wowzasessionid=@iprtlk
 
 #EXTINF:-1 tvg-chno="25" cuid="24" tvg-name="CNN Portugal 🇵🇹" tvg-id="CNN.Portugal.HD.pt" tvg-logo="https://github.com/iprtl/p1/raw/master/logo/cnnpt.png" group-logo="https://cdn-icons-png.freepik.com/256/5395/5395694.png" group-title="News 🇵🇹🇧🇷",CNN Portugal 🇵🇹
-https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC81LzIwMjYgNTowOjMyIFBNJmhhc2hfdmFsdWU9YW5veU96Z0RuZnRTUWd3T1FtQjA2UT09JnZhbGlkbWludXRlcz0xNDQwJmlkPWQ1YTY5MWU0LTZkYWEtNDhhOS1hYThhLTZlOTk3NGIwNTgyMQ==/
+https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xLzIwMjYgNDo0ODo0OSBQTSZoYXNoX3ZhbHVlPURNeXFaYTlidFpTKzlUTXFmUTBuL1E9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD0wNjA1NWRhZS04ZDUxLTQwZGQtYTkzMi0wMDY3YWU2NzdmYTU=/
 
 
 
@@ -5438,11 +5438,11 @@ SUPERSPORTS
 =====================🔹========================
 
 #EXTINF:-1 tvg-chno="" cuid="1714" tvg-name="️" tvg-id="SuperSport.2.al" tvg-name="SuperSport.2" tvg-logo="https://logo.m3uassets.com/supersport2.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="World Sports 🌎",Super Sports 2 🇦🇱
-#EXTGRP:Liga Betclic⚽️;World Sports 🌎;Serie A⚽️
+#EXTGRP:World Sports 🌎;Serie A⚽️
 http://93.93.113.95:25461/live/TV-Berati/XtreamCodes/495.m3u8
 
 #EXTINF:-1 tvg-chno="" cuid="1714" tvg-name="️" tvg-id="SuperSport.3.al" tvg-name="SuperSport.3" tvg-logo="https://logo.m3uassets.com/supersport3.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="World Sports 🌎",Super Sports 3 🇦🇱 
-#EXTGRP:Liga Betclic⚽️;World Sports 🌎;Serie A⚽️
+#EXTGRP:World Sports 🌎;Serie A⚽️
 http://93.93.113.95:25461/live/TV-Berati/XtreamCodes/496.m3u8
 
 =====================🔹========================
@@ -6105,13 +6105,12 @@ GO3 SPORT 🇱🇾
 ARENA SPORT  🇨🇿
 =====================🔹========================
 
-#EXTINF:-1 tvg-chno="" cuid="1888" tvg-id="Arena.Sport.1.cz" tvg-logo="https://github.com/iprtl/p1/raw/master/logo/ArenaSport1.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png",Arena Sport 1 🇨🇿 🏍🏎️ 
-#EXTGRP:World Sports 🌎;Liga Betclic⚽️
+#EXTINF:-1 tvg-chno="" cuid="1888" tvg-id="Arena.Sport.1.cz" tvg-logo="https://github.com/iprtl/p1/raw/master/logo/ArenaSport1.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="World Sports 🌎;Liga Betclic⚽️",Arena Sport 1 🇨🇿 🏍🏎️ 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 https://estreams.tv.nej.cz/dash/CH_ARENASPORT1_Portable.ism/playlist.mpd
 
-#EXTINF:-1 tvg-chno="" cuid="1889" tvg-id="Arena.Sport.1.cz" tvg-logo="https://github.com/iprtl/p1/raw/master/logo/ArenaSport1.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png",Arena Sport 1 🇨🇿 🏍🏎️ 
+#EXTINF:-1 tvg-chno="" cuid="1889" tvg-id="Arena.Sport.1.cz" tvg-logo="https://github.com/iprtl/p1/raw/master/logo/ArenaSport1.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="World Sports 🌎",Arena Sport 1 🇨🇿 🏍🏎️ 
 #EXTGRP:World Sports 🌎;Liga Betclic⚽️
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
