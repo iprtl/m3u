@@ -1293,15 +1293,6 @@ https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main
 🌈 DISCOVERY CHANNELS 🌎
 =====================🔹========================
 
-#EXTINF:-1 tvg-chno="" cuid="282" tvg-name="Discovery.Channel" tvg-id="Discovery.Channel.HD.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hd/discovery-channel-icon-hd-us.png" group-logo="https://cdn-icons-png.freepik.com/256/11471/11471416.png" group-title="Documentaries 🌎",Discovery 🇺🇸
-http://23.237.104.106:8080/USA_DISCOVERY/index.m3u8?wowzasessionid=@iprtlk
-http://84.17.50.102/discovery/index.m3u8
-http://89.105.221.127/Discovery/index.m3u8?token=test
-
-#EXTINF:-1 tvg-chno="" cuid="283" tvg-name="Discovery.Channel" tvg-id="Discovery.Channel.br" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hd/discovery-channel-icon-hd-us.png" group-logo="https://cdn-icons-png.freepik.com/256/11471/11471416.png" group-title="Documentaries 🌎",Discovery 🇧🇷
-http://hls1.sua.tv:80/live/discoverychannelfhd/s.m3u8
-+http://45.235.0.78/Discovery_Channel/index.m3u8
-
 #EXTINF:-1 tvg-chno="" cuid="284" tvg-name="Discovery.Channel" tvg-id="DISCOVERY.CHANNEL.HD.ph" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hd/discovery-channel-icon-hd-us.png" group-logo="https://cdn-icons-png.freepik.com/256/11471/11471416.png" group-title="Documentaries 🌎",Discovery Channel (🔉💬🇬🇧)🇵🇭
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"0e5b4f0f0bf641029b2b2000665a8b49":"152408adb88d19b5bfac04ccb6c493bb"}
@@ -1314,14 +1305,6 @@ https://dash2.antik.sk/stream/hisi_discovery/playlist_cbcs.mpd
 
 ---
 
-#EXTINF:-1 tvg-chno="" cuid="291" tvg-name="True Crime" tvg-id="São.Paulo/SP..Discovery.Home.and.Health.br" tvg-logo="https://logo.m3uassets.com/discoveryh&h.png" group-logo="https://cdn-icons-png.freepik.com/256/11471/11471416.png" group-title="Documentaries 🌎",Discovery h&h 🇧🇷
-http://hls1.sua.tv:80/live/discoveryhehfhd/s.m3u8
-
----
-
-#EXTINF:-1 tvg-chno="" cuid="286" tvg-name="Discovery.Science" tvg-id="Science.Channel.HD.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/discovery-science-us.png" group-logo="https://cdn-icons-png.freepik.com/256/11471/11471416.png" group-title="Documentaries 🌎",Discovery Science 🇺🇸
-http://origin.thetvapp.to/hls/Science/index.m3u8?wowzasessionid=@iprtlk
-
 #EXTINF:-1 tvg-chno="" cuid="287" tvg-name="Discovery.Science" tvg-id="Discovery.Science.hk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/discovery-science-us.png" group-logo="https://cdn-icons-png.freepik.com/256/11471/11471416.png" group-title="Documentaries 🌎",Discovery Science (🔉💬🇬🇧)🇭🇰
 #EXTHTTP:{"origin":"https://tunex.space","referer":"https://tunex.space/","User-Agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"}
 https://hide.skygoplus.workers.dev/discovery-science.m3u8?wowzasessionid=@iprtlk
@@ -1331,10 +1314,6 @@ https://hide.skygoplus.workers.dev/discovery-science.m3u8?wowzasessionid=@iprtlk
 #KODIPROP:inputstream.adaptive.license_key=5458f45efedb4d6f8aa6ac76c85b621b:dbf8a0a306a64525ba3012fd225370c0
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Discoveryscience2/default/manifest.mpd?wowzasessionid=@iprtlk
 
----
-
-#EXTINF:-1 tvg-chno="" cuid="289" tvg-name="IDDiscovery" tvg-id="Investigation.Discovery.HD.us2" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/ID.webp" group-logo="https://cdn-icons-png.freepik.com/256/11471/11471416.png" group-title="Documentaries 🌎",IDDiscovery 🇺🇸
-http://origin.thetvapp.to/hls/InvestigationDiscoveryEast/index.m3u8?wowzasessionid=@iprtlk
 
 #EXTINF:-1 tvg-chno="" cuid="290" tvg-name="IDDiscovery" tvg-id="Investigation.Discovery.lt" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/ID.webp" group-logo="https://cdn-icons-png.freepik.com/256/11471/11471416.png" group-title="Documentaries 🌎",IDDiscovery
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1344,10 +1323,6 @@ https://v4-pan-m3-cdn-02.live.cdn.cgates.lt/live/dash/561805/index.mpd?wowzasess
 =====================🔹========================
 CRIME & INVESTIGATION 🇺🇸
 =====================🔹========================
-
-#EXTINF:-1 tvg-chno="" cuid="292" tvg-id="Crime.and.Investigation.Network.HD.us2" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/Crime+Investigation.png" group-logo="https://cdn-icons-png.freepik.com/256/11471/11471416.png" group-title="Documentaries 🌎",Crime & Investigation 🇺🇸
-http://23.237.104.106:8080/USA_CRIME_INVESTIGATION/mpegts
-http://origin.thetvapp.to/hls/CrimePlusInvestigation/index.m3u8?wowzasessionid=@iprtlk
 
 #EXTINF:-1 tvg-chno="" cuid="293" tvg-id="Crime.Investigation.ph" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/Crime+Investigation.png" group-logo="https://cdn-icons-png.freepik.com/256/11471/11471416.png" group-title="Documentaries 🌎",Crime & Investigation (🔉💬🇬🇧)🇵🇭
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1611,35 +1586,6 @@ https://2-fss-2.streamhoster.com/pl_138/amlst:201814-1291584/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="" cuid="460" tvg-name="" tvg-id="WETA-DT.us_locals1" tvg-logo="https://github.com/iprtl/p1/raw/master/logo/pbsmpt2.png" group-logo="https://github.com/iprtl/p1/raw/master/iconsGrups/USA.png" group-title="Channels 🇺🇸",PBS mpt 2 Annapolis 🇺🇸
 https://2-fss-1.streamhoster.com/pl_122/amlst:201814-2122456/playlist.m3u8
-
-=====================🔹========================
-CRAVES CHANNELS 🇨🇦 AND UK
-=====================🔹========================
-
-#EXTINF:-1 tvg-chno="" cuid="461" tvg-name="" tvg-id="Crave1.ca2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/crave-1-ca.png" group-logo="https://github.com/iprtl/p1/raw/master/iconsGrups/USA.png" group-title="Channels 🇺🇸",Crave 1  🇨🇦
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4a107945066f45a9af2c32ea88be60f4:df97e849d68479ec16e395feda7627d0
-+https://live-crave.video.9c9media.com/137c6e2e72e1bf67b82614c7c9b216d6f3a8c8281748505659713/fe/f/crave/crave1/manifest.mpd?wowzasessionid=@iprtlk
-
-#EXTINF:-1 tvg-chno="" cuid="462" tvg-name="" tvg-id="Crave2.HD.ca2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/crave-2-ca.png" group-logo="https://github.com/iprtl/p1/raw/master/iconsGrups/USA.png" group-title="Channels 🇺🇸",Crave 2  🇨🇦
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4ac6eaaf0e5e4f94987cbb5b243b54e8:8bb3f2f421f6afd025fa46c784944ad6
-+https://live-crave.video.9c9media.com/ab4332c60e19b6629129eeb38a2a6ac6db5df2571721750022187/fe/f/crave/crave2/manifest.mpd?wowzasessionid=@iprtlk
-
-#EXTINF:-1 tvg-chno="" cuid="463" tvg-id="Crave3.HD.ca2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/crave-3-ca.png" group-logo="https://github.com/iprtl/p1/raw/master/iconsGrups/USA.png" group-title="Channels 🇺🇸",Crave 3  🇨🇦
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=eac7cd7979f04288bc335fc1d88fa344:0fca71cf91b3c4931ad3cf66c631c24c
-+https://live-crave.video.9c9media.com/58def7d65f59ffaf995238981dd0e276d5a8fe8d1748593014588/fe/f/crave/crave3/manifest.mpd?wowzasessionid=@iprtlk
-
-#EXTINF:-1 tvg-chno="" cuid="464" tvg-id="Crave4.ca2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/crave-4-ca.png" group-logo="https://github.com/iprtl/p1/raw/master/iconsGrups/USA.png" group-title="Channels 🇺🇸",Crave 4  🇨🇦
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a7242a7026ff45609114ee1f3beb34dc:65c32ada65548203a3683d5d37dd3a06
-+https://live-crave.video.9c9media.com/c5875a31f178e038f7cc572b1aa0defb996ce7171748593186018/fe/f/crave/crave4/manifest.mpd?wowzasessionid=@iprtlk
-
-
-
-
-
 
 
 
