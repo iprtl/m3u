@@ -77,18 +77,829 @@ If you want to support me continuing the work, you can donate by clicking the do
 
 ---
 
-## Playlist Inspiration Links
-Streamings by Various Countries 🇵🇹🇧🇷🇲🇽🇪🇸🇨🇦🇫🇷🇪🇸🇬🇧🇺🇸
-```bash
-https://github.com/iprtl/m3u/raw/live/Freetv.m3u
-```
 Only FreeStreaming by (Pluto and more)...
 ```bash
 https://github.com/iprtl/m3u/raw/live/Pluto.m3u
 ```
 
+🔹 NOVELAS 🔹
+
+- Tela Brasil tv ᴸᴼᵂ 🇧🇷
+- Multi Mix 🇧🇷
+- A terra Prometida 🇧🇷
+- Os Dez Mandamentos 🇧🇷
+- Minha Identidade e Beleza de Gangnam 🇧🇷
+- Wedo tv Amor 🇧🇷
+- Malhação Fast 🇧🇷
+- Rakuten viki 🇺🇸🇰🇷
+- Rakuten viki 🇲🇽🇰🇷
+- Asia Crush 🇺🇸🇰🇷
+- Fréquence Novelas 🇫🇷
+- TeleNovela tv
+- Novela Channel 🇫🇷
+- Televisa Telenovelas 🇫🇷
+- Passion Novelas 🇫🇷
+- Stormcast Novelas 🇫🇷
+- Canela tv 🇲🇽
+- Novelas México 🇲🇽
+- Azteca Corazon 🇲🇽
+- Stormcast Novelas 🇪🇸
+- Canela Novelas 🇦🇷
+- TV Novelas 🇻🇪
+- Novelas Colombia 🇨🇴
+- Novelisima 🇲🇽
+- Novelas Dramas 🇲🇽
+- Novelas Romance 🇲🇽
+- Canela Novelas 🇲🇽
+- Todo Novelas 🇲🇽 [ᴘʟᴇx]
+- Sony One Novelas 🇲🇽
+- Novelas Turcas 🇺🇸🇲🇽
+- ViX Novelas de Romance 🇺🇸🇲🇽
+- Telemundo Novelas Clasicas 🇵🇷
+- 13 Teleseries 🇨🇱
+
+🔹 INFANTIL 🔹
+
+- GLN 🇧🇷
+- Duck tv 🇧🇷
+- Pica Pau 🇧🇷
+- De Criança para Criança 🇧🇷
+- HTO Kids 🇧🇷
+- kuriakos kids 🇵🇹
+- Rakuten Família 🇵🇹
+- Pocoyo 🇧🇷
+- Léo e Lully 🇧🇷
+- Patrulha Canina 🇧🇷
+- Os Padrinhos Mágicos 🇧🇷
+- Tom & Jerry 🇧🇷
+- Popeye 🇧🇷
+- Nickelodeon Bob Esponja 🇧🇷
+- Toon Goggles 🇧🇷
+- Cineminha 🇧🇷
+- Teletubbies 🇧🇷
+- Moranguinho 🇧🇷
+- Kids Club 🇧🇷
+- O Reino Infantil 🇧🇷
+- BabyFirst 🇧🇷
+- Nick Jr. Club 🇧🇷
+- Nickelodeon iCarly 🇧🇷
+- Nickelodeon Rocker Power TV 🇧🇷
+- Nickelodeon Clássico 🇧🇷
+- As Tartarugas Ninja 🇧🇷
+- Retro Cartoon 🇧🇷
+- Desenhos Clássicos 🇧🇷
+- Turma da Mônica 🇧🇷
+- Kids Mais 🇧🇷
+- FoX Kids 🇧🇷
+- Geekdot 🇧🇷
+- Oggy e as Baratas Tontas 🇧🇷
+- Animation+ 🇺🇸
+- BBC Kids 🇺🇸
+- Camp Spoopy 🇺🇸
+- TG Junior Kids 🇺🇸
+- Barbie and Friends 🇺🇸
+- Xtrema Cartoons 🇦🇷
+- Nicktoons 🇬🇧
+- Nickelodeon 🇬🇧
+- Moonbug 🇺🇸 [ʀᴏkυ]
+- Tortues Ninja 🇺🇸
+- GoGO Gadget 🇺🇸
+- Inspector Gadget 🇺🇸
+- 90's Kids 🇺🇸
+- Smurf tv 🇺🇸
+- Sonic the Hedgehog 🇺🇸
+- Sonic the Hedgehog 🇺🇸
+- PBS Kids 🇺🇸
+- Beano tv 🇺🇸
+- ZooMoo 🇺🇸
+- Lego Kids 🇺🇸
+- Garfield and Friends 🇺🇸
+- Duck tv 🇺🇸
+- Duck tv 🇪🇸
+- Locomotion 🇪🇸
+- Boing 🇮🇹
+- Clan 🇪🇸
+- Os Simpsons 🇧🇷
+- Animax
+- TVG Xabarin 🇪🇸
+- Mr.Bean 🇪🇸 (ʀᴀkυᴛᴇɴ)
+- Mr.Bean 🇫🇷 (ʀᴀkυᴛᴇɴ)
+- Torococo TV 🇻🇪
+- Pequeradio TV 🇪🇸
+- South Park (Coleção Cartman) 🇧🇷
+- South Park (Coleção Kenny) 🇧🇷
+- South Park (Coleção Kyle) 🇧🇷
+- South Park (Coleção Stan) 🇧🇷
+- Comedy Central South Park 🇧🇷
+
+🔹 ANIMES 🔹
+
+- Anime Max 🇪🇸
+- loading tv 🇧🇷
+- Geekdot 🇧🇷
+- Anime Ação 🇧🇷
+- Hallo! Anime 🇧🇷
+- Anime Onegai₁ 🇧🇷
+- Anime Onegai₂ 🇧🇷
+- Anime Onegai₃ 🇧🇷
+- Anime Onegai₄ 🇧🇷
+- Anime Onegai₅ 🇧🇷
+
+🔹 LOL CHANNELS 🔹
+
+- LOL! Standup
+- LOL! Network
+- Porta dos Fundos 🇧🇷
+- Always Funny 🇺🇸
+- Comedy Central Roast 🇺🇸
+- Comedy Central Animation 🇺🇸
+- The Pet Collective 🇺🇸🇲🇽
+
+🔹 FOOD AND TRAVEL 🔹
+
+- CTV @ Home 🇬🇧
+- Hungry 🇺🇸
+- Come Dine With Me 🇬🇧
+- The Jamie Oliver Channel 🇺🇸
+- Tastemade 🇧🇷
+- Tastemade 🇪🇸 [xɪᴀᴏᴍɪ]
+- Andalucía Cocina 🇪🇸
+- Cocina Familiar 🇪🇸
+- Tv Cocina 🇪🇸
+- BBC Food 🇺🇸
+- BR IN TV
+- Travel + Adventure WBtv 🇺🇸
+- Journy 🇺🇸
+- Mundo Viajero 🇪🇸
+- Andalucía Turismo 🇪🇸
+- The Beach Show 🇺🇸
+- Life Down Under 🇺🇸
+- Montagna! 🇮🇹
+- Travel & Living 🇮🇹
+- Travelxp 🇩🇪🇬🇧 [xɪᴀᴏᴍɪ]
+- Jamaica Travel Channel 🇺🇸
+- Autentic Travel
+- Tastemade Travel 🇺🇸 [ᴛᴀʙʟᴏ]
+- GoUSA 🇺🇸
+- Trips Marter 🇺🇸
+- Tastemade Home 🇺🇸
+
+🔹 LIFESTLES AND CELEBRITIES 🔹
+
+- The Bob Ross Channel 🇺🇸
+- Escape to the Country 🇺🇸
+- 5 Minute Crafts 🇺🇸
+- Bravo The Real HouseWives Vault 🇺🇸
+- AWE 🇺🇸
+- Superyacht tv 🇺🇸
+- Architectural Digest 🇺🇸
+- ¡HOLA! Play 🇪🇸
+- Imagen TV+ 🇲🇽
+- ET Live Entertainment Tonight 🇺🇸
+- Celeb Reality 🇺🇸
+- Hollywire 🇺🇸
+- Young Hollywood tv 🇺🇸
+- Sidewalks 🇺🇸
+- E! Keeping Up 🇺🇸
+- Made In Hollywood 🇺🇸
+- Incroyables Transformations 🇫🇷
+- Vogue 🇺🇸
+- The Boat Show 🇮🇹
+- Popstar! TV 🇺🇸
+- Fashion Secrets 🇺🇸
+- Fashion Paris 🇺🇸
+
+🔹 TV SHOWS 🔹
+
+- Conan O'Brien TV 🇺🇸
+- BBC Top Gear 🇬🇧
+- The ChatShow 🇬🇧
+- The Graham Norton Show 🇬🇧
+- Best of The Drew Barrymore Show 🇺🇸
+- Letterman TV 🇨🇦🇺🇸
+- The Ed Sullivan Show 🇧🇷🇺🇸
+- Johnny Carson TV 🇺🇸
+
+🔹 TV SERIES AND FILMS 🔹
+
+- Sony One Emoções 🇧🇷
+- Hallo! Doc 🇧🇷
+- Sony One Clássicos 🇧🇷
+- BET 🇧🇷
+- NCIS 🇧🇷
+- CSI Miami 🇧🇷
+- Urban Series 🇧🇷
+- FilmRise Séries Gratuitas 🇧🇷
+- Old Series 🇧🇷
+- Pluto TV Sherlock 🇬🇧
+- ABC Entertains 🇬🇧
+- Midsomer Murders 🇬🇧
+- Crime ThrillHer by Lifetime 🇺🇸
+- OuterSphere 🇺🇸
+- Outlaw 🇺🇸
+- Comedy Central Animation 🇺🇸
+- Entertainment Hub 🇬🇧
+- Vice 🇺🇸
+- National Lampoon 🇺🇸
+- Murder She Wrote 🇺🇸
+- The Love Boat 🇺🇸
+- Dynasty 🇺🇸
+- Family Ties 🇺🇸
+- ALF 🇺🇸
+- Classic TV Drama 🇺🇸
+- Little House on the Prairie (💬 🇺🇸)
+- The Dick Van Dyke Show 🇺🇸
+- Series con Ñ 🇦🇷
+- XPTV 2 🇺🇸
+- XPTVUS 🇺🇸
+- IFC Portlandia 🇺🇸
+- Z Nation 🇧🇷
+- Z Nation 🇪🇸
+- FilmRise Z Nation 🇺🇸
+- The Walking Dead Universe 🇺🇸 [ᴘʟᴇx]
+- More NCIS 🇺🇸
+- CSI 🇺🇸
+- Criminal Minds 🇺🇸
+- BritBox Mysteries 🇬🇧
+- Circle Country 🇺🇸
+- Bet Pluto tv 🇺🇸
+- Ebony Drama by Lionsgate 🇺🇸
+- her Sphere by Lionsgate 🇺🇸
+- ION 🇺🇸
+- ION Plus 🇺🇸 [ᴛᴀʙʟᴏ]
+- ION Mystery⁴ᵏ 🇺🇸
+- Universal Crime 🇦🇷
+- Nonstop Drama 🇺🇸
+- MHz Now 🇺🇸
+- BBC Drama 🇪🇸
+- Stories By AMC 🇺🇸 [ᴘʟᴇx]
+- FilmRise Made in Canada (ᴠᴘɴ 🇨🇦)
+- Live PD Presents 🇺🇸
+- 5 Emergency Rescue 🇬🇧
+- U&Real Heroes 🇬🇧
+- Backstage (vᴘɴ 🇺🇸)
+- Wedo Big Stories 🇺🇸
+- The Challenge 🇺🇸
+- NBC Lx Home 🇺🇸
+- Storage Wars by A&E 🇺🇸
+- Million Dollar Listing Vault 🇺🇸
+- HomeFul 🇺🇸 [ᴠɪzɪᴏ]
+- All Weddings WE TV 🇺🇸
+- All Reality WE TV [ᴘʟᴇx]
+- The Amazing Race 🇺🇸
+- This Old House 🇺🇸
+- DCC Making the Team 🇺🇸
+- AX Men 🇺🇸
+- BBC Home & Garden 🇬🇧
+- Homes Under the Hammer 🇬🇧 [ᴠɪᴅᴀᴀ]
+- Welcome Home by WB 🇺🇸
+- Beach Day by WB 🇺🇸
+- Channel 1 🇧🇷
+- 1980 Channel 🇧🇷
+- Ficção Científica 🇧🇷
+- Filmes Aventura 🇧🇷
+- Filmelier TV 🇧🇷
+- Netmovies TV 🇧🇷
+- Cine Classicos 🇧🇷
+- The TMZ Channel 🇺🇸
+- Rakuten Top Movies (💬 🇧🇷)
+- FreeTv Drama (💬 🇧🇷)
+- FreeTv Crime (💬 🇧🇷)
+- Dark Matter (💬 🇧🇷)
+- DarkFlix (💬 🇧🇷)
+- CineMonde (💬🔊 🇧🇷)
+- Cindie Lite (💬🔊 🇧🇷)
+- My Time Movie Network (💬 🇧🇷)
+- Runtime Tv & Filmes 🇧🇷
+- Runtime Família 🇧🇷
+- Runtime Comedia 🇧🇷
+- Runtime CinEspanto 🇧🇷
+- Runtime Crime 🇧🇷
+- Runtime Action 🇧🇷
+- Pluto Comédia 🇧🇷
+- Tv Club 🇧🇷
+- Europa+ 🇧🇷
+- TV Filmes Nacionais 🇧🇷
+- Sou+Pop Tv 🇧🇷
+- Trailers Rakuten 🇪🇸
+- Popflix 🇬🇧
+- Family Movie Club 🇬🇧
+- CineMadame 🇮🇹
+- Tubi Originals 🇺🇸
+- Viafree Movies 🇺🇸
+- Freebie tv 🇺🇸
+- Pelis Y Popcorn 🇪🇸
+- Urban Movies 🇧🇷
+- CinePride 🇺🇸
+- Cine Drama 🇪🇸
+- Pluto Comedy 🇺🇸
+- Pluto TV Movies 🇺🇸
+- Pluto TV Icons 🇺🇸
+- Pluto Action 🇺🇸
+- Pluto Fantastic Movies 🇺🇸
+- Pluto Crime Movies 🇺🇸
+- Pluto Reaction Movies 🇺🇸
+- Pluto Action Movies 🇺🇸
+- Pluto SCI FI 🇺🇸
+- Trending Now 🇺🇸
+- Trending Now₂ 🇺🇸
+- Miramax Movies Cnannel 🇺🇸
+- FilmRise 🇺🇸
+- FilmRise Free Movies 🇨🇦
+- FilmRise Free Movies 🇺🇸
+- FilmRise Action 🇨🇦
+- FilmRise Action
+- FilmRise Sci-Fi 🇺🇸
+- Universal Movies 🇺🇸
+- Samuel Goldwyn Films 🇺🇸
+- The Addams Family 🇺🇸
+- Alfred Hitchcock Presents 🇺🇸
+- The Twilight Zone 🇺🇸
+- Movie Favorites By Lifetime 🇺🇸
+- Gravitas Movies 🇺🇸
+- Paramount Movie Channel 🇺🇸
+- MovieSphere 🇺🇸
+- MovieSphere by Lionsgate 🇺🇸
+- gu immortali van Damme vs lunogreen 🇮🇹
+- MovieDome 🇬🇧
+- Now Fantasy Action SCI FI 🇺🇸
+- CineLife 🇺🇸
+- Hallmark Movies & More 🇺🇸
+- Movie Italy Channel 🇺🇸🇮🇹
+- Midnight Pulp 🇺🇸🇰🇷
+- New KMovies 🇪🇸🇰🇷
+- CW Gold 🇺🇸
+- CW Forever 🇺🇸
+- Popcorn Central 🇨🇱
+- 24 Hour Free Movies 🇺🇸
+- Bigtime Peliculas Gratis 🇲🇽
+- Movies! 🇺🇸
+- Movies Action 🇺🇸
+- Movies Thriller 🇺🇸
+
+🔹 PARANORMAL AND FILMS TERROR 🔹
+
+- Assombrações 🇧🇷
+- Paranormal 🇧🇷
+- Clube de Terror 🇧🇷
+- Cine Terror 🇧🇷
+- Terror Trash 🇧🇷
+- Dark Matter 🇺🇸
+- Trailers From Hell 🇺🇸
+- Nightmare Network
+- Horror by ALTER 🇺🇸
+- Wedo Movies 🇬🇧 [xɪᴀᴏᴍɪ]
+- IFC Films Picks 🇺🇸
+- AMC Thrillers 🇺🇸
+- American Horrors 🇺🇸
+- Bizzarro Movies 🇮🇹🇺🇸
+- Scream Box tv 🇺🇸
+- ScreamIN 🇫🇷
+- Watch it Scream 🇺🇸
+- TCL Horror 🇺🇸
+- Pluto Terror 🇺🇸
+- Pluto Horror 🇺🇸
+- FrightFlix 🇺🇸
+- Horror Machine 🇺🇸
+- MGM Presents Horror 🇺🇸
+- The Asylum 🇪🇸
+- Horror Club 🇮🇹
+- Cine Friki 🇪🇸 (vᴘɴ 🇺🇸)
+- TVs Horror 🇺🇸
+- Dread TV 🇺🇸
+- Scares by Shudder
+- Cult Films 🇺🇸
+- Filmrise Horror 🇺🇸
+- Filmrise Horror₂ 🇺🇸
+- Fear Zone 🇺🇸
+
+🔹 CLASSIC FILMS 🔹
+
+- Nost Network
+- Icon Films Classics 🇬🇧
+- Samuel Goldwyn Classics 🇺🇸
+- FilmRise Western 🇺🇸
+- FilmRise Classic TV 🇨🇦
+- FilmRise Classic TV 🇺🇸
+- 00S REPLAY 🇬🇧
+- 90S Throwback 🇬🇧
+- 80S Rewind 🇬🇧
+- Non-Stop '90s 🇺🇸 [ʟᴏcᴀʟɴᴏw]
+- Western Bound 🇺🇸
+- SHOUT! TV 🇺🇸
+- Universal Monsters 🇺🇸
+- Cinevault 80s 🇺🇸
+- Cinevault Classics 🇺🇸
+- Urban Retro 🇧🇷
+- Action Hollywood Movies 🇺🇸
+- Lassie 🇺🇸
+- RCM 🇮🇹🇺🇸
+- Charlie Silence Movie 🇺🇸
+- TVS Drive in Movie 🇺🇸🇮🇹
+- Pluto Classic Movies 🇺🇸
+- Cowboy Movie Channel
+- CineWestern 🇺🇸🇮🇹
+- Cinevault Westerns 🇺🇸
+- LoneStar 🇺🇸
+- Wild West tv 🇺🇸
+- TVs Classic Movies 🇺🇸
+- TVs Western Movies 🇺🇸🇮🇹
+
+🔹 HISTORY ANS DOCUMENTARIES 🔹
+
+- TV Investigação 🇧🇷
+- Pronto Socorro 🇧🇷
+- Curiosidade 🇧🇷
+- Quebrando o Tabu 🇧🇷
+- Docs Ville 🇺🇸 [localnow]
+- True History
+- Urban Doc 🇧🇷
+- Filmzie Doc 🇺🇸
+- Docu Vision
+- True Lives By Tv Studios 🇺🇸
+- Biography The Icons 🇺🇸
+- CGTN Documentary 🇺🇸
+- REELZ Famous & Infamous 🇺🇸
+- Real Disaster Channel 🇺🇸
+- Real Disaster Channel² 🇺🇸
+- Declassified 🇺🇸
+- Music Legends 🇺🇸
+- Intervention by A&E 🇺🇸
+- PBS Digital Studios 🇺🇸
+- The Titanic Channel 🇺🇸
+- TUDiscovery by WB 🇲🇽🇺🇸
+- Mysteries Worlds by WBtv 🇺🇸
+- Beyond History 🇺🇸
+- World War TV 🇺🇸
+- Wonder tv 🇺🇸
+- Inwonder tv 🇺🇸 [xɪᴀᴏᴍɪ]
+- Smithsonian Channel Selects 🇺🇸
+- Doc+ 🇺🇸
+- Documentary+ 🇨🇦
+- Documentary+ 🇺🇸
+- Docu+ 🇺🇸
+- Historias de Ultratumba 🇲🇽
+- History 🇲🇽
+- History 🇺🇸
+- Autentic History 🇺🇸
+- Xtreme Outdoor by History 🇺🇸
+- Modern Marvels by History 🇺🇸
+- Military 🇺🇸
+- Unidentified 🇺🇸
+- Pluto Paranormal 🇺🇸
+- Paranormal by WBtv 🇺🇸
+- Ghosts Are real by WBtv 🇺🇸
+- UnXplained Zone 🇺🇸
+- Beyond Belief Fact or Fiction 🇺🇸
+- Ghost Dimension 🇺🇸
+- Ghost Hunters 🇺🇸
+- Haunt tv 🇺🇸
+- Mystery TV 🇺🇸
+- tv Paranormal 🇺🇸
+- Paranormal State 🇺🇸
+- Alien Nation 🇺🇸
+- Love Crime & History (vᴘɴ 🇺🇸🇫🇷)
+- Chasing Criminals by WBtv (vᴘɴ 🇺🇸)
+- I Survived… 🇺🇸
+- The First 48 🇺🇸
+- Living With Evil by WBtv 🇺🇸
+- Court tv 🇺🇸
+- Law & Crime 🇺🇸
+- TruBlue 🇺🇸
+- COPS 🇺🇸
+- FilmRise Evil Killers 🇺🇸
+- JAIL 🇺🇸
+- Cold Case Files by A&E 🇺🇸
+- Crime 360 by A&E 🇺🇸
+- American Crimes 🇺🇸
+- True Crime UK 🇬🇧
+- More tv Crime 🇺🇸
+- Crime & Justice 🇬🇧
+- World's Wildest Police Videos 🇺🇸
+- Filmrise America's Dumbest Criminals 🇺🇸
+- Filmrise True Crime 🇺🇸
+- Filmrise Forensic Files 🇺🇸
+- FilmRise World’s Most Evil Killers 🇺🇸
+- FilmRise Unsolved Mysteries 🇺🇸
+- Crime Investigation Australia 🇦🇺
+- Total Crime 🇺🇸
+- Inside Crime 🇺🇸
+- Oxygen True Crime Archives 🇺🇸
+- TV One Crime & Justice 🇺🇸
+- Aftershock 🇺🇸
+- Aftershock Real Crime 🇺🇸
+- The New Detectives 🇺🇸
+- Crime Investigation 🇺🇸
+- The FBI Files 🇺🇸
+
+🔹 CATS AND DOGS 🔹
+
+- AKC Dogs tv 🇺🇸
+- Tv + Pet 🇧🇷
+- Pet Lovers tv 🇧🇷
+- Vivir con Perros 🇪🇸
+- Vivir con Gatos 🇪🇸
+- Love Pets 🇺🇸
+- Pet Club tv 🇺🇸 [xɪᴀᴏᴍɪ]
+- Barktv 🇺🇸
+- Lucky Dog 🇺🇸
+- Dog Whisperer 🇺🇸
+- Unleashed by DOGTV 🇺🇸
+- Cats 24/7 🇺🇸
+
+🔹 NATUREZA AND WILD ANIMAL 🔹
+
+- Curiosity Now
+- WildEarth 🇺🇸
+- Clarity⁴ᴷ 🇺🇸
+- Spike Outdoors 🇬🇧
+- TV Backcountry 🇺🇸
+- BBC Earth 🇬🇧
+- Wild Nature 🇬🇧
+- Earthday 365 🇺🇸
+- Xtrema Animal 🇦🇷
+- Earth Touch tv 🇺🇸
+- Inwild tv 🇺🇸
+- Nature Time 🇺🇸
+- Adventure Earth 🇺🇸
+- Animals tv 🇺🇸
+- Wild life tv 🇺🇸
+- Animaux 🇫🇷
+- Xplore 🇩🇪
+- The Jack Hanna Channel 🇺🇸
+
+🔹 MOTORS 🔹
+
+- Auto TV 🇧🇷
+- TV Turbo 🇧🇷
+- Urban Drive 🇧🇷
+- TV Esporte 🇧🇷
+- Acelerados 🇧🇷
+- FloRacing 24/7 🇺🇸
+- Discovery Turbo tv 🇺🇸
+- Discovery Turbo tv 🇮🇹
+- Hagerty 🇺🇸
+- Speed Sport 1 🇺🇸 🏎️
+- Velocidad 🇪🇸
+- Nascar
+- Monster Jam 🇺🇸
+- Torque Presented By History 🇺🇸
+- MotorTrend Fast TV 🇺🇸
+- Warner Bros TV Motorheads 🇺🇸
+- Drive tv
+- MotorRacing 🇬🇧
+- NHRA tv 🇺🇸 [ᴏᴛᴛᴇʀᴀ]
+- Mtrspt1 🇬🇧
+- PowerNation 🇺🇸
+- Motorvision 🇺🇸
+- Choppertown 🇺🇸 [ᴘʟᴇx]
+- Red Bull TV Motorsport 🇺🇸 🏍
+- In The Garage by WB 🇺🇸
+- Canal Motor tv 🇺🇸
+- Classic Car Auctions by History 🇬🇧
+
+🔹 VARIOS SPORTS 🔹
+
+- GE TV 🇧🇷
+- N SPORTS 🇧🇷
+- Desimpedidos 🇧🇷
+- B/R [vᴘɴ 🇺🇸]
+- Wedotv Sports 🇺🇸
+- Canela Tv Deportes 🇲🇽
+- ACCDN 🇺🇸 [ғɪʀᴇᴛᴠ]
+- Fanduel tv Extra 🇺🇸
+- RightNow TV
+- Big 12 Studios 🇺🇸
+- Fox Sports
+- CBS UEFA Champions League 🇺🇸
+- CBS Sports HQ 🇺🇸
+- DFB Play TV 🇬🇧🇪🇸
+- Fubo Sports Network [vᴘɴ 🇺🇸]
+- Unbeaten Sports Channel 🇺🇸
+- European League of Football 🇺🇸
+- RugbyZone tv 🇫🇷 🏉
+- More Than Sports 🇬🇧🇩🇪 🏉
+- NBC Sports 🇺🇸
+- MLB 🇺🇸
+- NFL 🇺🇸
+- NBC NHL 🇺🇸 [ғɪʀᴇᴛᴠ]
+- Pac 12 Insider 🇺🇸
+- Origin Sports 🇺🇸
+- Trace Sport Stars 🇺🇸
+- DAZN tv (vᴘɴ 🇺🇸)
+- DAZN Darts 🇩🇪
+- DAZN Fast+
+- Women's Sports Network 🇺🇸 [ᴘʟᴇx]
+- Women's Sports Network 🇺🇸
+- NBA Fast Channel 🇺🇸
+- Scooore 🇩🇪
+- Cricket Gold 🇬🇧
+- PLL Network 🇺🇸 [ʟᴏcᴀʟɴᴏw]
+- Sports Grid 🇺🇸
+- MSG SportsZone 🇺🇸
+- Sports Grid₃ 🇺🇸
+- Lacrosse Channel 🇺🇸
+- Lacrosse Channel 🇺🇸
+- Campuslore Sports 🇺🇸 [ʟᴏcᴀʟɴᴏw]
+- RugbyPass TV 🇺🇸
+- Foosball TV 🇺🇸
+- Table Soccer
+- AWSN 🇺🇸
+- Yahoo! Sports Network 🇺🇸
+- Ryz Sports Network 🇺🇸
+- Fox Deportes 🇺🇸
+- Zona TUDN 🇲🇽
+- TV Azteca Deportes Premium 🇲🇽
+- La liga Inside 🇪🇸
+- La Liga tv 🇪🇸
+- TYC Sports Play 🇦🇷
+- Futbol Network
+- ITV Deportes
+- Futsalmafer.tv 🇪🇸
+- Bowling TV
+- Tigo Sports 🇬🇹
+- Fifa+ 🇲🇽
+- Ubisoft tv 🇧🇷
+- ESR Network 🇺🇸
+- Polidoro tv 🇧🇷
+- E Sports 🇪🇸
+- Team Liquid 🇺🇸
+- Pixel tv
+- ESports Max
+- Tv da Pesca 🇧🇷
+- Italian Fishing TV 🇮🇹
+- Just.Fishing 🇺🇸
+- Hunt Fish TV 🇺🇸
+- Wild TV 🇨🇦
+- Wired2Fish 🇺🇸
+- Darcizzle Offshore Fishing 🇺🇸
+- Pursuit Up 🇺🇸
+- Outdoor Channel 🇺🇸
+- Outdoor Action tv 🇺🇸 [xɪᴀᴏᴍɪ]
+- Outdoor America 🇺🇸
+- MeatEater 🇺🇸
+- Waypoint TV 🇺🇸
+- Tennis Channel 🇺🇸 🎾
+- T2 🇺🇸 🎾
+- Tennis+ 🇺🇸
+- Pickleball TV 🇺🇸
+- PickleTV 🇺🇸
+- Court Sports Network 🇺🇸 🎾
+- 🇺🇸
+- GolfPass 🇺🇸
+- DP World Tour 🇺🇸
+- Golf Nation 🇬🇧
+- Golf Television
+- PGA Tour 🇺🇸
+- One Golf 🇺🇸
+- Golf Kingdom
+- N Golf Network 🇯🇵
+- Fuel tv 🇧🇷
+- Fuel tv 🇺🇸
+- Team USA TV 🇺🇸
+- X Games Tv 🇺🇸
+- Nautical Channel 🇺🇸
+- Red Bull TV 🇺🇸
+- Infast 🇺🇸
+- TV Adventure 🇺🇸
+- Outside TV 🇺🇸
+- Horizon Sports 🇺🇸
+- Snowy Mountains Television 🇺🇸
+- Snowy River Tv 🇺🇸
+- Surfing+ 🇺🇸 🏄
+- Surfer 🇺🇸 🏄
+- Surf Channel 🇪🇸 🏄
+- World Surf League 🇺🇸 🏄
+- UFC 🇺🇸
+- WOW Women of Wrestling 🇺🇸
+- DAZN Ringside 🇺🇸 [ᴛυʙɪ]
+- DAZN Combat 🇺🇸
+- SFT Combat 🇧🇷🇺🇸
+- One Championship tv 🇧🇷🇺🇸
+- HBO Boxing by WBtv 🇺🇸
+- Combatv 🇺🇸
+- Swerve Combat 🇺🇸
+- PFL Professional Fighters League 🇺🇸
+- PFL MMA 🇺🇸
+- Unbeaten Sports Channel 🇺🇸
+- Strongman Champion League 🇺🇸
+- XFC MMA 🇺🇸
+- Fite 24/7 🇺🇸
+- Hard Knock 🇺🇸
+- TNA Wrestling Channel 🇺🇸
+- Triton Poker 🇺🇸
+- Faduel tv Extra 🇬🇧
+- World Poker Tour 🇧🇷
+- WPT 🇺🇸
+- PokerGo 🇺🇸
+- Kozoom 🇺🇸
+- Billiards+ 🇺🇸
+- World Billiards tv 🇺🇸
+- Billiard TV 🇺🇸
+- Billiard TV ² 🇺🇸
+
+🔹 MUSIC 🔹
+
+- Movie Music
+- Qello Concerts
+- TIKTOK Radio by Stingray
+- Tomorroland Radio
+- Clubbing tv
+- Live Music
+- Love Songs
+- Mais Um
+- Surf Roots TV 🇺🇸
+- AfrobeatsTV
+- Qwest Playlist
+- Stingray dJAZZ
+- Bluestnᴸᴼᵂ 🇺🇸
+- California Music Channel 🇺🇸
+- CMC USA
+- CMT Equal Play
+- Génération TV 🇫🇷
+- VH1 Classic
+- VH1+Back To 90'S
+- VH1+Rock
+- VH1+Music Legends
+- NOW 70' 🇬🇧
+- NOW 80' 🇬🇧
+- NOW 90s00s 🇬🇧
+- NOW ROCK 🇬🇧
+- Vevo 80s 🇬🇧
+- Vevo 90s 🇬🇧
+- Vevo '90s & '00 🇬🇧
+- Vevo Retro Rock 🇬🇧
+- Vevo '70s & '80
+- Vevo Pop
+- Vevo 2k
+- Vevo Country
+- XITE Celebrates
+- XITE Hits
+- XITE Rock X Metal
+- MegaBox
+- Cool Summer Channel
+- Top Mix tv Pop
+- Extra tv 🇮🇹
+- Vintage tv 🇧🇷
+- MTV Biggest Pop
+- MTV Pluto 🇬🇧
+- MTV Best Off 🇬🇧
+- MTV Rock 🇬🇧
+- MTV Spankin' New 🇬🇧
+- MTV Classic 🇬🇧
+- MTV Unplugged
+- MTV Made in Spain
+- MTV Flow Latino 🇪🇸
+- Trace Latina
+- Trace UK
+- Trace Brasil 🇧🇷
+- Trace Urban²
+- Deluxe Music 🇩🇪
+- Deluxe Rap 🇩🇪
+- Deluxe Rock 🇩🇪
+- Deluxe Summertime 🇩🇪
+- TV 538
+- Rockola tv
+- Recuerdos Retro 🇪🇸
+- Italianissimo 🇮🇹
+- Cantina tv 🇻🇪
+- Bom Channel 🇮🇹
+- Love tv 🇲🇰
+- Juice tv 🇳🇱
+- JuiceX Melo 🇳🇱
+- Melody 🇫🇷
+- SoniCentric/Island Escape (Relax)
+- SoniCentric/Fireplace Lounge (Relax)
+- SoniCentric/Relaxing Rain (Relax)
+- SoniCentric/Spring Escape (Relax)
+- SoniCentric/Tranquil Thunderstorms (Relax)
+- SoniCentric/Fish Tank (Relax)
+- SoniCentric/Relaxing Winterscapes (Relax)
+- SoniCentric/Autumn Escape (Relax)
+- Stingray Easy Listening
+- Stingray Rock Alternative
+- Stingray Hit List
+- Stingray Smooth Jazz
+- Stingray Y2K
+- Stingray Today's K-Pop
+- Stingray Nothing' But 90s
+- Stingray Remember 80s
+- Stingray Flashback 70s
+- Stingray Classic Rock
+- Stingray Éxitos del Momento
+- Stingray Pop Adult
+- Stingray Greatest Hits
+- Stingray Hot Country
+
+---
+
 * AVISO: Estas listas foram construidas por fontes encontradas na Internet. Não me responsabilizo com possíveis instabilidades que os canais possam vir a ter nem a sua durabilidade e não alojo listas, e, muito menos tenho servidores para tal.
 
+## Playlist Inspiration Links
+Streamings by Various Countries 🇵🇹🇧🇷🇲🇽🇪🇸🇨🇦🇫🇷🇪🇸🇬🇧🇺🇸
+```bash
+https://github.com/iprtl/m3u/raw/live/Freetv.m3u
+```
 ---
 
 List of Channels (Freetv.m3u)
