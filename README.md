@@ -52,7 +52,7 @@ If you want to support me continuing the work, you can donate by clicking the do
 - 📺 [Lista de Canais Freetv](#Playlist-Freetv)
 - 📺 [Lista de Canais Pluto](#playlist-pluto)
 - 💬 [Legendas](#Legendas)
-- ⏳ [EPG](#EPG-used-in-Freetv-Inspiration)
+- ⏳ [EPG](#EPG-used-in-Freetv-And-Pluto)
 - 💬 [Discussions](#Discussions)
 - 🌐 [Apps](#Apps)
 - 💰 [Faça o seu donativo](#Ajude-nos)
@@ -2267,7 +2267,7 @@ List of Channels (Pluto.m3u)
 
 ---
 
-## EPG used in Freetv Inspiration
+## EPG used in Freetv And Pluto
 
 ```bash
 https://bit.ly/RevolutionEpg
