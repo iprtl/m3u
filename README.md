@@ -49,8 +49,8 @@ If you want to support me continuing the work, you can donate by clicking the do
 
 ## Índice
 
-- 📺 [Lista de Canais Freetv](#Playlist Freetv)
-- 📺 [Lista de Canais Pluto](#Playlist Pluto)
+- 📺 [Lista de Canais Freetv](#Playlist-Freetv)
+- 📺 [Lista de Canais Pluto](#playlist-pluto)
 - 💬 [Legendas](#Legendas)
 - ⏳ [EPG](#EPG-used-in-Freetv-Inspiration)
 - 💬 [Discussions](#Discussions)
@@ -897,6 +897,7 @@ https://github.com/iprtl/m3u/raw/live/Pluto.m3u
 * AVISO: Estas listas foram construidas por fontes encontradas na Internet. Não me responsabilizo com possíveis instabilidades que os canais possam vir a ter nem a sua durabilidade e não alojo listas, e, muito menos tenho servidores para tal.
 
 ## Playlist Freetv
+
 Streamings by Various Countries 🇵🇹🇧🇷🇲🇽🇪🇸🇨🇦🇫🇷🇪🇸🇬🇧🇺🇸
 ```bash
 https://github.com/iprtl/m3u/raw/live/Freetv.m3u
