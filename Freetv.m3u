@@ -173,7 +173,7 @@ https://production-fast-sic.content.okast.tv/fa2e8c4385712f9aa54bbe52b1bd9b6b/ch
 https://github.com/thomraider12/canaistvpt/raw/main/m3u8s/tviint.m3u8
 
 #EXTINF:-1 tvg-chno="19" cuid="23" tvg-name="TVI Internacionalᶠᴴᴰ)" tvg-id="tvi.internacional.pt" tvg-logo="https://logo.m3uassets.com/tviinternacional.png" group-logo="https://cdn-icons-png.freepik.com/512/4482/4482879.png" group-title="Portugal 🇵🇹",TVI Internacional 🇵🇹
-https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xNC8yMDI2IDU6NDA6NSBQTSZoYXNoX3ZhbHVlPUtPMU9JTXVCcjNIN1BLZmhoZDUrWUE9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD1iNjA3ZTRjNC01NjhiLTRjYWQtOTk5MC0xZjBmNzNhMTc0NmI=/
+https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xNC8yMDI2IDk6NTM6MjMgQU0maGFzaF92YWx1ZT1HQnowNm5leTJqREZHVnA3enpEc0dnPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9OGI5M2UzODUtNDM2Ny00NjI3LTk2ZmMtYWM0MmQ3NGY4OWJk/
 
 
 
@@ -184,14 +184,14 @@ https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlis
 https://github.com/thomraider12/canaistvpt/raw/main/m3u8s/tvi.m3u8?wowzasessionid=@iprtlk
 
 #EXTINF:-1 tvg-chno="22" cuid="26" tvg-name="TVI 🇵🇹" tvg-id="TVI.HD.pt" tvg-logo="https://github.com/iprtl/p1/raw/master/logo/tvi.webp" group-logo="https://cdn-icons-png.freepik.com/512/4482/4482879.png" group-title="Portugal 🇵🇹",TVI 🇵🇹
-https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xNC8yMDI2IDU6NDA6NCBQTSZoYXNoX3ZhbHVlPUQrTWNiR0Q1MHg4cUh2ZFk4d283clE9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD00ZDFkNmNiMy1jMzI0LTRlMGEtYjk5Zi03ODdjODc4MGFjMTY=/
+https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xNC8yMDI2IDk6NTM6MjIgQU0maGFzaF92YWx1ZT1WcTByVk1ReDhrS1lwK0Q2aGxCTXZRPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9YTU1NmZhNGUtNTAxYS00OGJiLWFkMzctNjdlNjFhOTJjMjk4/
 
 
 #EXTINF:-1 tvg-chno="24" cuid="27" tvg-name="CNN Portugal 🇵🇹" tvg-id="CNN.Portugal.HD.pt" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/cnnpt.png" group-logo="https://cdn-icons-png.freepik.com/256/5395/5395694.png" group-title="News 🇵🇹🇧🇷",CNN Portugal 🇵🇹
 https://github.com/thomraider12/canaistvpt/raw/main/m3u8s/cnnpt.m3u8?wowzasessionid=@iprtlk
 
 #EXTINF:-1 tvg-chno="25" cuid="28" tvg-name="CNN Portugal 🇵🇹" tvg-id="CNN.Portugal.HD.pt" tvg-logo="https://github.com/iprtl/p1/raw/master/logo/cnnpt.png" group-logo="https://cdn-icons-png.freepik.com/256/5395/5395694.png" group-title="News 🇵🇹🇧🇷",CNN Portugal 🇵🇹
-https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xNC8yMDI2IDU6NDA6NSBQTSZoYXNoX3ZhbHVlPW1vOEFEcG0rSUE4eGo4RUg5elg4dVE9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD1iYjMwZmVlNS03NzliLTQ4NmEtYThkNy0wMWMwNmFiNzI0ZjQ=/
+https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xNC8yMDI2IDk6NTM6MjMgQU0maGFzaF92YWx1ZT12b08zZzdJVVc3NTZER0F6aWRHWjlBPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9OWY0ZmUzMjItODA3MC00YmRlLWFkMjAtMDM5MzFmODRjYTQz/
 
 
 
@@ -1462,16 +1462,27 @@ CANAIS 🇧🇷
 =====================🔹========================
 
 #EXTINF:-1 tvg-chno="31" cuid="335" tvg-name="Record" tvg-id="São.Paulo/SP..Record.br" tvg-logo="https://logo.m3uassets.com/record.png" group-logo="https://cdn-icons-png.freepik.com/512/4087/4087498.png" group-title="Channels 🇧🇷",Record sᴘ ⚽️ 🇧🇷
-https://02.arlivre.online/recordsp/index.m3u8
+https://cdn.live.br1.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/playlist.m3u8
+https://cdn.live.br1.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/playlist.m3u8
 
 ---
 
 #EXTINF:-1 tvg-chno="0031" cuid="336" tvg-name="+SBT" tvg-id="SBT.br" tvg-logo="https://i.imgur.com/g47oQ4n.png" group-logo="https://cdn-icons-png.freepik.com/512/4087/4087498.png" group-title="Channels 🇧🇷",SBT 🇧🇷
 https://aovivo.maissbt.com/v1/manifest/215c0da80606fed29372070168106400a6ca7e1a/SSAI_TITAN_V3/ac63b34e-0615-4402-a359-892f205ccd70/5.m3u8
-
+https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="59" cuid="337" tvg-name="BAND Arapuan" tvg-id="Band.br" tvg-logo="https://i.imgur.com/nCJNjyN.png" group-logo="https://cdn-icons-png.freepik.com/512/4087/4087498.png" group-title="Channels 🇧🇷",Band 🇧🇷
 https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8
+https://cdn-5.nxplay.com.br/BAND_HD_PFZ_NX/tracks-v1a1/mono.m3u8
+https://cdn.jmvstream.com/w/LVW-15748/LVW15748_Yed7yzLuRC/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="" cuid="" tvg-name="" tvg-id="São.Paulo/SP..TV.Brasil.br" tvg-logo="https://i.imgur.com/9dGaIdY.png" group-logo="https://cdn-icons-png.freepik.com/512/4087/4087498.png" group-title="Channels 🇧🇷",TV Brasil 🇧🇷
+https://tvbrasil-stream.ebc.com.br/index.m3u8
+https://video05.logicahost.com.br/guiatvpombal/guiatvpombal/playlist.m3u8
+https://tv02.zas.media:1936/rbatv/rbatv/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="" cuid="" tvg-name="B" tvg-id="" tvg-logo="https://i.imgur.com/LMeLMRn.png" group-logo="https://cdn-icons-png.freepik.com/512/4087/4087498.png" group-title="Channels 🇧🇷",Canal Educação 🇧🇷
+https://canaleducacao-stream.ebc.com.br/index.m3u8
 
 #EXTINF:-1 tvg-chno="59" cuid="338" tvg-name="LIKE" tvg-id="São.Paulo/SP..LIKE.HD.br" tvg-logo="https://logo.m3uassets.com/l!ke.png" group-logo="https://cdn-icons-png.freepik.com/512/4087/4087498.png" group-title="Channels 🇧🇷",L!ke 🇧🇷
 https://cnl-cl.otteravision.com/cnl/cl_h265/cl_h265.m3u8?wowzasessionid=@iprtlk
