@@ -230,7 +230,7 @@ https://top-movies-rakuten-tv-pt.fast.rakuten.tv/v1/master/0547f18649bd788bec7b6
 
 ---
 
-#EXTINF:-1 tvg-chno="" cuid="168" tvg-name="" tvg-id="Cubavisión.Internacional.es" tvg-logo="https://logo.m3uassets.com/cubavisioninternacional.png" group-logo="https://cdn-icons-png.freepik.com/256/18310/18310951.png" group-title="Channels 🇦🇷🇨🇴🇲🇽🇵🇪",Cubavision Internacional 🇨🇺
+#EXTINF:-1 tvg-chno="" cuid="168" tvg-name="" tvg-id="Cubavisión.Internacional.es" tvg-logo="https://logo.m3uassets.com/cubavisioninternacional.png" group-logo="https://cdn-icons-png.freepik.com/512/4482/4482879.png" group-title="Portugal 🇵🇹",Cubavision Internacional 🇨🇺
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-referrer=https://teveo.cu/
@@ -2215,24 +2215,19 @@ BEIN SPORTS 🇫🇷🇬🇧
 =====================🔹========================
 
 #EXTINF:-1 tvg-chno="" cuid="1810" tvg-name="beIN.SPORTS.XTRA" tvg-id="plex.tv.beIN.SPORTS.XTRA.plex" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/bein-sports-xtra-us.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="All Sports 🌎",Bein Sports Xtra 🇬🇧🇲🇽
-#EXTGRP:Bein Sports 🇬🇧🇲🇽🇹🇷🇫🇷
+#EXTGRP:Bein Sports 🇬🇧🇲🇽
 https://bein-xtra-xumo.amagi.tv/hls/amagi_hls_data_beinAAAAA-bein-xtra-xumoA/CDN/master.m3u8
 https://dbrb49pjoymg4.cloudfront.net/10001/99991785/hls/playlist.m3u8?ads.xumo_channelId=99991785&ads._fw_ifa_type=&ads._fw_did=effb0e3f-354d-4967-bec6-3fe0a91c16ab&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads.asnw=&ads.caid=BeInSportsESP&ads.csid=xumo_web_BeInSportsESP_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads.genre=&ads._fw_content_category=&ads._fw_content_language=es&ads._fw_content_genre=&ads._fw_content_rating=&ads.xumo_contentId=2642&ads.xumo_contentName=BeInSportsESP&ads.xumo_providerId=2642&ads.xumo_providerName=BeInSportsESP&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.channelId=99991785&ads.xumo_platform=web&ads.site_id=&ads.appName=xumo&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=
 
 
 #EXTINF:-1 tvg-chno="" cuid="1811" tvg-name="beIN.SPORTS.XTRA n" tvg-id="plex.tv.beIN.Sports.Xtra.en.Español.plex" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/beinSportsn.webp" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="All Sports 🌎",Bein Sport Xtra ñ 🇺🇸🇲🇽
-#EXTGRP:Bein Sports 🇬🇧🇲🇽🇹🇷🇫🇷
+#EXTGRP:Bein Sports 🇬🇧🇲🇽
 https://amg01334-beinsportsllc-beinxtraesp-localnow-aekzc.amagi.tv/playlist.m3u8
 https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8
 https://dc1644a9jazgj.cloudfront.net/beIN_Sports_Xtra_Espanol.m3u8
 https://dbrb49pjoymg4.cloudfront.net/10001/99991785/hls/playlist.m3u8?ads.xumo_channelId=99991785
 https://jmp2.uk/stvp-US2700004DX
 https://live-manifest.production-public.tubi.io/live/6cd31e43-d255-4ab4-b065-7f28bd541047/playlist.m3u8
-
-
-
-
-
 
 =====================🔹========================
 Матч! Футбол 🇷🇺
@@ -2572,7 +2567,7 @@ https://centova.radio.com.pt/proxy/491?mp=/stream
 #EXTINF:-1 cuid="1778" tvg-name="Miami TV" tvg-logo="https://github.com/iprtl/p1/raw/master/logo/Miamitv.webp" group-title="Erotic",Miami TV
 https://59ec5453559f0.streamlock.net/miamitv/smil:WEB/playlist.m3u8
 
-#EXTINF:-1 cuid="1778" tvg-name="Miami TV" tvg-logo="https://github.com/iprtl/p1/raw/master/logo/Miamitv.webp" group-title="Erotic",Miami TV Live
+#EXTINF:-1 cuid="1779" tvg-name="Miami TV" tvg-logo="https://github.com/iprtl/p1/raw/master/logo/Miamitv.webp" group-title="Erotic",Miami TV Live
 #EXTVLCOPT:http-origin=https://miamitv.com
 #EXTVLCOPT:http-referrer=https://miamitv.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
@@ -2580,36 +2575,38 @@ https://59ec5453559f0.streamlock.net/LIVE1/LIVE/playlist.m3u8
 https://tgn.bozztv.com/trn03/gin-miamitv/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yOC8yMDI2IDg6MzY6MDAgUE0maGFzaF92YWx1ZT1ub3RUVjNEK2x5L2JTaTdoRW4yRG13PT0mdmFsaWRtaW51dGVzPTE0NDAmc3RybV9sZW49MTc=
 
 
-#EXTINF:-1 cuid="1778" tvg-name="Miami TV" tvg-logo="https://github.com/iprtl/p1/raw/master/logo/Miamitv.webp" group-title="Erotic",Miami TV Fashion
+#EXTINF:-1 cuid="1780" tvg-name="Miami TV" tvg-logo="https://github.com/iprtl/p1/raw/master/logo/Miamitv.webp" group-title="Erotic",Miami TV Fashion
 #EXTVLCOPT:http-origin=https://miamitv.com
 #EXTVLCOPT:http-referrer=https://miamitv.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 https://59ec5453559f0.streamlock.net/miamitvfashion/smil:34256/playlist.m3u8
 
-#EXTINF:-1 cuid="1778" tvg-name="Miami TV" tvg-logo="https://github.com/iprtl/p1/raw/master/logo/Miamitv.webp" group-title="Erotic",Miami TV Music
+#EXTINF:-1 cuid="1781" tvg-name="Miami TV" tvg-logo="https://github.com/iprtl/p1/raw/master/logo/Miamitv.webp" group-title="Erotic",Miami TV Music
 #EXTVLCOPT:http-origin=https://miamitv.com
 #EXTVLCOPT:http-referrer=https://miamitv.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 https://59ec5453559f0.streamlock.net/miamitvmusic/smil:22596/playlist.m3u8
 
-#EXTINF:-1 cuid="1778" tvg-name="Miami TV" tvg-logo="https://github.com/iprtl/p1/raw/master/logo/Miamitv.webp" group-title="Erotic",Miami DJ
+#EXTINF:-1 cuid="1782" tvg-name="Miami TV" tvg-logo="https://github.com/iprtl/p1/raw/master/logo/Miamitv.webp" group-title="Erotic",Miami DJ
 https://59ec5453559f0.streamlock.net/miamitvDJ/smil:56925/playlist.m3u8
 
 ---
 
-#EXTINF:-1 cuid="1141" tvg-name="Fashion Midnight 🇺🇸" tvg-id="FTV.HD.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/c/c7/Fashion_TV_Logo.png/280px-Fashion_TV_Logo.png" group-logo="" group-title="Erotic",Fashion Secrets 🇺🇸
-https://ssai.aniview.com/api/v1/hls/stream.m3u8?cb=[CACHEBUSTER]&AV_WIDTH=[ADS.W]&AV_HEIGHT=[ADS.H]&AV_APPNAME=[ADS.APP_NAME]&AV_APPSTOREURL=[ADS.APP_STORE_URL]&AV_APPPKGNAME=[ADS.APP_BUNDLE]&AV_IDFA=[ADS.IFA]&AV_IFA_TYPE=[ADS.IFA_TYPE]&AV_CCPA=[ADS.US_PRIVACY]&AV_GDPR=[ADS.GDPR]&AV_CONSENT=[ADS.GDPR_CONSENT]&AV_CONTENT_URL=&AV_CONTENT_TITLE=&AV_CONTENT_EPISODE=&AV_CONTENT_SERIES=&AV_CONTENT_SEASON=&AV_CONTENT_KEYWORDS=&AV_CONTENT_NETWORK=&AV_CONTENT_ID=[ADS.VIDAA_ADS_CONTENTID]&AV_CONTENT_CHANNEL=&AV_CONTENT_CONTEXT=&AV_CONTENT_LENGTH=&AV_VAUTH=[ADS.VAUTH]&AV_DNT=[ADS.DNT]&Content_Id=[ADS.ADS_CONTENTID]&AV_LANGUAGE=[ADS.DEVICE_LANGUAGE]&AV_RTB_DEVICE_TYPE=[ADS.DEVICE_TYPE]&AV_OSVERS=[ADS.DEVICE_OSV]&AVS_SSAIID=67c0c39764ad6f7dab07aa0b&AV_CONTENT_LANGUAGE=en&AV_CONTENT_GENRE=fashion%20and%20lifestyle&AV_CONTENT_CAT=IAB7&AV_CONTENT_RATING=R&AV_CLIENT_SECTION=ftv_secrets&content_channel_name=ftv%20-fashiontv%20Secrets&content_livestream=1&AV_CONTENT_PROVIDER=FTV&ads.vidaa_ads_param=1191723366
-
-#EXTINF:-1 cuid="1778" tvg-name="" tvg-logo="https://github.com/iprtl/p1/raw/master/logo/spoops.png" group-title="Erotic",Spoops tv
+#EXTINF:-1 cuid="1783" tvg-name="" tvg-logo="https://github.com/iprtl/p1/raw/master/logo/spoops.png" group-title="Erotic",Spoops tv
 https://fl1003.bozztv.com/ushba46/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 cuid="1778" tvg-name="" tvg-logo="https://iptvx.one/picons/fashion-tv.png" group-title="Erotic",Ushba t8
+---
+
+#EXTINF:-1 cuid="1784" tvg-name="Fashion Midnight 🇺🇸" tvg-id="FTV.HD.pt" tvg-logo="https://iptvx.one/picons/fashion-tv.png" group-logo="" group-title="Erotic",Fashion Secrets 🇺🇸
+https://ssai.aniview.com/api/v1/hls/stream.m3u8?cb=[CACHEBUSTER]&AV_WIDTH=[ADS.W]&AV_HEIGHT=[ADS.H]&AV_APPNAME=[ADS.APP_NAME]&AV_APPSTOREURL=[ADS.APP_STORE_URL]&AV_APPPKGNAME=[ADS.APP_BUNDLE]&AV_IDFA=[ADS.IFA]&AV_IFA_TYPE=[ADS.IFA_TYPE]&AV_CCPA=[ADS.US_PRIVACY]&AV_GDPR=[ADS.GDPR]&AV_CONSENT=[ADS.GDPR_CONSENT]&AV_CONTENT_URL=&AV_CONTENT_TITLE=&AV_CONTENT_EPISODE=&AV_CONTENT_SERIES=&AV_CONTENT_SEASON=&AV_CONTENT_KEYWORDS=&AV_CONTENT_NETWORK=&AV_CONTENT_ID=[ADS.VIDAA_ADS_CONTENTID]&AV_CONTENT_CHANNEL=&AV_CONTENT_CONTEXT=&AV_CONTENT_LENGTH=&AV_VAUTH=[ADS.VAUTH]&AV_DNT=[ADS.DNT]&Content_Id=[ADS.ADS_CONTENTID]&AV_LANGUAGE=[ADS.DEVICE_LANGUAGE]&AV_RTB_DEVICE_TYPE=[ADS.DEVICE_TYPE]&AV_OSVERS=[ADS.DEVICE_OSV]&AVS_SSAIID=67c0c39764ad6f7dab07aa0b&AV_CONTENT_LANGUAGE=en&AV_CONTENT_GENRE=fashion%20and%20lifestyle&AV_CONTENT_CAT=IAB7&AV_CONTENT_RATING=R&AV_CLIENT_SECTION=ftv_secrets&content_channel_name=ftv%20-fashiontv%20Secrets&content_livestream=1&AV_CONTENT_PROVIDER=FTV&ads.vidaa_ads_param=1191723366
+
+#EXTINF:-1 cuid="1785" tvg-name="" tvg-logo="https://iptvx.one/picons/fashion-tv.png" group-title="Erotic",Ushba t8
 https://fl1001.bozztv.com/ushba-t8/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 cuid="1778" tvg-name="" tvg-logo="https://iptvx.one/picons/fashion-tv.png" group-title="Erotic",Ushba m7
+#EXTINF:-1 cuid="1786" tvg-name="" tvg-logo="https://iptvx.one/picons/fashion-tv.png" group-title="Erotic",Ushba m7
 https://fl1001.bozztv.com/ushba-m7/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 cuid="1778" tvg-name="" tvg-logo="https://iptvx.one/picons/fashion-tv.png" group-title="Erotic",Ushba m9
+#EXTINF:-1 cuid="1787" tvg-name="" tvg-logo="https://iptvx.one/picons/fashion-tv.png" group-title="Erotic",Ushba m9
 https://fl1001.bozztv.com/ushba-m9/tracks-v1a1/mono.m3u8
 
 #Inspi🌈🆁™ation Links © 2026 All rights reserved
