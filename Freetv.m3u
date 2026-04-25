@@ -2433,14 +2433,6 @@ SPOTV 🇮🇳
 
 #EXTINF:-1 tvg-chno="" cuid="1962" tvg-id="SPOTV.HD.id" tvg-name="SPOT" tvg-logo="https://logo.m3uassets.com/spotv.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="All Sports 🌎",Spotv 🇮🇳 🏍🏎️
 #EXTGRP:All Sports 🌎;Formula1🏎️;MotoGP🏍
-#EXTVLCOPT:http-referrer=https://www.indihometv.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=593102163def4d25985baf7322d8a8dc:4d9def5cf7a8e57d71eea821e21d6580
-https://cdn08jtedge.indihometv.com/dassdvr/130/beib1/manifest.mpd
-
-#EXTINF:-1 tvg-chno="" cuid="1962" tvg-id="SPOTV.HD.id" tvg-name="SPOT" tvg-logo="https://logo.m3uassets.com/spotv.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="All Sports 🌎",Spotv 🇮🇳 🏍🏎️
-#EXTGRP:All Sports 🌎;Formula1🏎️;MotoGP🏍
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
