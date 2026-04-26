@@ -98,6 +98,7 @@ https://github.com/iprtl/m3u/raw/live/Pluto.m3u
 - Novela Channel 🇫🇷
 - Televisa Telenovelas 🇫🇷
 - Passion Novelas 🇫🇷
+- Canela.TV Narco-Drama 🇲🇽
 - Todo Novelas Más Pasiones 🇲🇽
 - Canela tv 🇲🇽 (vᴘɴ 🇺🇸)
 - Novelas México 🇲🇽
@@ -150,6 +151,7 @@ https://github.com/iprtl/m3u/raw/live/Pluto.m3u
 - Kids Mais 🇧🇷
 - FoX Kids 🇧🇷
 - Oggy e as Baratas Tontas 🇧🇷
+- PBS Retro 🇺🇸
 - Super Mario Bros 🇺🇸
 - Animation+ 🇺🇸
 - BBC Kids 🇺🇸
@@ -469,6 +471,7 @@ https://github.com/iprtl/m3u/raw/live/Pluto.m3u
 - Movie Italy Channel 🇺🇸🇮🇹
 - Midnight Pulp 🇺🇸🇰🇷
 - New KMovies 🇪🇸🇰🇷
+- Canela.TV Hollywood y Mas 🇲🇽
 - Popcorn Central 🇨🇱
 - 24 Hour Free Movies 🇺🇸
 - Bigtime Peliculas Gratis 🇲🇽
@@ -558,6 +561,8 @@ https://github.com/iprtl/m3u/raw/live/Pluto.m3u
 - Docs Ville 🇺🇸
 - Urban Doc 🇧🇷
 - True History 🇺🇸
+- FreeTV Saber Más 🇲🇽
+- Historian 🇺🇸
 - Docu Vision 🇺🇸
 - True Lives By Tv Studios 🇺🇸
 - Biography The Icons 🇺🇸
