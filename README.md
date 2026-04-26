@@ -428,6 +428,7 @@ https://github.com/iprtl/m3u/raw/live/Pluto.m3u
 - Popflix 🇬🇧
 - CineMadame 🇮🇹
 - Staff Picks 🇺🇸
+- Film Crime Time 🇮🇹
 - Flicks of Fury 🇺🇸
 - The Wu Tang Collection TV 🇺🇸
 - Viafree Movies 🇺🇸
@@ -675,6 +676,7 @@ https://github.com/iprtl/m3u/raw/live/Pluto.m3u
 - Earthday 365 🇺🇸
 - Real Wild 🇺🇸
 - Earth Touch tv 🇺🇸
+- EarthXtra
 - Inwild tv 🇺🇸
 - Nature Time 🇺🇸
 - Adventure Earth 🇺🇸
@@ -693,6 +695,7 @@ https://github.com/iprtl/m3u/raw/live/Pluto.m3u
 - E Sports 🇪🇸
 - Team Liquid 🇺🇸
 - Pixel tv
+- Esports Edge 🇺🇸
 - ESports Max
 
 🔹 ​FISHING & HUNT CHANNELS 🔹
@@ -712,6 +715,8 @@ https://github.com/iprtl/m3u/raw/live/Pluto.m3u
 - MeatEater 🇺🇸
 - Waypoint TV 🇺🇸
 - Bassmaster 🇺🇸
+- World Fishing Network 🇺🇸
+- Sport Fishing tv 🇺🇸
 
 🔹 MOTO & SPORTS CHANNELS 🔹
 
@@ -776,7 +781,7 @@ https://github.com/iprtl/m3u/raw/live/Pluto.m3u
 - Origin Sports 🇺🇸
 - Trace Sport Stars 🇺🇸
 - DAZN tv
-- DAZN Darts 🇩🇪
+- FTF Sports
 - DAZN Fast+
 - Women's Sports Network 🇺🇸
 - The NBA Channel 🇺🇸
