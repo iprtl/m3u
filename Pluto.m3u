@@ -1130,9 +1130,23 @@ https://jmp2.uk/plu-66b3af1c3a4ad200081c7d03.m3u8
 #EXTINF:-1 cuid="479" tvg-name="FilmRise Z Nation 🇺🇸" tvg-id="plex.tv.Z.Nation.plex" tvg-logo="https://provider-static.plex.tv/epg/cms/production/63687b98-1b80-4b25-80b4-4de7fd243311/ZNation_Channel_Logo_White.png" group-logo="https://cdn-icons-png.freepik.com/256/8633/8633669.png" group-title="Tv • Series 📺",☆ FilmRise Z Nation 🇺🇸
 https://d3fmqi91qduj7.cloudfront.net/11401/88884552/hls/master.m3u8?ads.xumo_channelId=88884552&ads.xumo_streamId=88884552
 
+
 #EXTINF:-1 cuid="480" tvg-name="The Walking Dead Universe 🇺🇸 [ᴘʟᴇx]" tvg-id="62fa8176b9884200074ef5ae" tvg-logo="https://images.pluto.tv/channels/62fa8176b9884200074ef5ae/colorLogoPNG.png" group-logo="https://cdn-icons-png.freepik.com/256/8633/8633669.png" group-title="Tv • Series 📺",☆ The Walking Dead Universe 🇺🇸
-https://22985209144b4ff78289fbb19f55e93e.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Plex_TWDUniverseExperience/playlist.m3u8
 https://jmp2.uk/plu-62fa8176b9884200074ef5ae.m3u8
+https://3544bb307ed14ee28dc1e02dfc7056be.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Vizio_TWDUniverseExperience/playlist.m3u8
+https://wurlrainbowmedia.global.transmit.live/hls/68c87d756560734a5fdb7e8a/playlist.m3u8?wurl_channel=565&wurl_name=TheWalkingDeadUniverse&coppa=0&uid=[DEVICE_ID]&rdid=[IFA]&ifatype=[IFA_TYPE]&dnt=[LMT]&donotsell=[DNS]&isgdpr=[GDPR]&gdpr=[GDPR_CONSENT]&country=[COUNTRY]&pr=[US_PRIVACY]&appstoreurl=[APP_STOREURL]&bundleid=[APP_BUNDLE]&appname=[APP_NAME]&appversion=[APP_VERSION]&dt=[DEVICE_TYPE]&make=[DEVICE_MAKE]&model=[DEVICE_MODEL]&targetad=[TARGETAD_ALLOWED]&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]
+https://22985209144b4ff78289fbb19f55e93e.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Plex_TWDUniverseExperience/playlist.m3u8
+
+
+#EXTINF:-1 cuid="480" tvg-name="The Walking Dead Universe" tvg-id="USBD1200004NS" tvg-logo="https://images.pluto.tv/channels/62fa8176b9884200074ef5ae/colorLogoPNG.png" group-logo="https://cdn-icons-png.freepik.com/256/8633/8633669.png" group-title="Tv • Series 📺",☆ The Walking Dead Universe² 🇺🇸
+https://jmp2.uk/stvp-USBD1200004NS
+
+#EXTINF:-1 cuid="480" tvg-name="The Walking Dead Universe 🇺🇸 [ᴘʟᴇx]" tvg-id="678aa104680721c77c506746" tvg-logo="https://images.pluto.tv/channels/678aa104680721c77c506746/colorLogoPNG.png" group-logo="https://cdn-icons-png.freepik.com/256/8633/8633669.png" group-title="Tv • Series 📺",☆ The Walking Dead by AMC 🇧🇷
+https://amg01822-amc-amg01822c1-lg-br-8375.playouts.now.amagi.tv/playlist/amg01822-amcnetworkslatinamericallcfast-thewalkingdeadbyamcbr-lgbr/playlist.m3u8
+https://jmp2.uk/plu-678aa104680721c77c506746.m3u8
+https://jmp2.uk/plu-678aa0b3680721c77c5035dd.m3u8
+
+
 
 #EXTINF:-1 cuid="481" tvg-name="The.Librarians" tvg-id="plex.tv.The.Librarians.plex" tvg-logo="https://provider-static.plex.tv/epg/cms/production/7a844a53-a5ad-4ef0-9217-24323f0e80de/Channel_Logo_The_Librarians_WHITERDX.png" group-logo="https://cdn-icons-png.freepik.com/256/8633/8633669.png" group-title="Tv • Series 📺",☆ The Librarians (vᴘɴ 🇺🇸)
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-654a8041fa75888bea239718/?X-Plex-Token=xePfG98DiSxDoEPoY91x
@@ -1580,7 +1594,7 @@ https://dbrb49pjoymg4.cloudfront.net/10001/99991745/hls/master.m3u8?includeAsset
 #EXTINF:-1 cuid="601" tvg-name="Freebie tv 🇺🇸" tvg-id="62beb44e3afd120007915d1b" tvg-logo="https://images.pluto.tv/channels/62beb44e3afd120007915d1b/colorLogoPNG.png" group-logo="https://cdn-icons-png.freepik.com/512/17285/17285060.png" group-title="Films 📽️",☆ Viafree Movies 🇺🇸
 https://jmp2.uk/plu-62beb44e3afd120007915d1b.m3u8
 
-#EXTINF:-1 cuid="603" tvg-name="" tvg-id="60fb2f47c133270007327375" tvg-logo="https://images.pluto.tv/channels/60fb2f47c133270007327375/colorLogoPNG.png" group-logo="https://cdn-icons-png.freepik.com/512/17285/17285060.png" group-title="Films 📽️",☆ Pelis Y Popcorn 🇪🇸
+#EXTINF:-1 cuid="603" tvg-name="" tvg-id="60fb2f47c133270007327375" tvg-logo="https://images.pluto.tv/channels/60fb2f47c133270007327375/colorLogoPNG.png" group-logo="https://cdn-icons-png.freepik.com/512/17285/17285060.png" group-title="Films 📽️",☆ Cine Aventura 🇪🇸
 https://jmp2.uk/plu-60fb2f47c133270007327375.m3u8
 
 #EXTINF:-1 cuid="605" tvg-name="CinePride 🇺🇸" tvg-id="Cinepride.distro" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f9b44328-8571-4e8a-9066-022bd8665082/cinepride-logo.png" group-logo="https://cdn-icons-png.freepik.com/512/17285/17285060.png" group-title="Films 📽️",☆ CinePride 🇺🇸
