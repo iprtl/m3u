@@ -2658,6 +2658,97 @@ http://217.174.225.146/legacyhls/ch004_720/index.m3u8
 
 
 
+=====================🔹========================
+🌈 MUSIC
+=====================🔹========================
+
+#EXTINF:-1 cuid="1608" tvg-name="ONFM" tvg-id="OnFM.pt" tvg-logo="https://onfm.pt/wp-content/uploads/2023/09/logo-on-fm.png" group-logo="https://cdn-icons-png.freepik.com/512/12461/12461207.png" group-title=" Music",ONFM 🇵🇹
+https://5ce9406b73c33.streamlock.net/ONFM/livestream/playlist.m3u8?profile=inspirationLinks.m3u8
+
+#EXTINF:-1 cuid="1613" tvg-name="MuzangalaTV" tvg-id="MuzangalaTV.ao" tvg-logo="https://i.imgur.com/fBeaJoS.png" group-logo="https://cdn-icons-png.freepik.com/512/12461/12461207.png" group-title=" Music",Muzangala TV 🇦🇴
+https://5cf4a2c2512a2.streamlock.net/tvmuzangala/tvmuzangala/playlist.m3u8
+
+#EXTINF:-1 cuid="1656" tvg-name="Sol Musica 🇪🇸" tvg-id="SOL.Música.es" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD2300004Y7_20241022T051039SQUARE.png" group-logo="https://cdn-icons-png.freepik.com/512/12461/12461207.png" group-title=" Music",Sol Musica 🇪🇸
+https://d2glyu450vvghm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-21u4g5cjglv02/sm.m3u8
+
+=====================🔹========================
+
+#EXTINF:-1 tvg-name="MTV Live" tvg-id="MTV.Live.us" tvg-logo="https://github.com/iprtl/p1/raw/master/logo/mtvlive.png" group-logo="https://cdn-icons-png.freepik.com/512/12461/12461207.png" group-title=" Music",MTV Live 🇺🇸
+http://104.250.144.202:46183/
+
+#EXTINF:-1 tvg-name="MTV Live" tvg-id="MTV.Live.us" tvg-logo="https://github.com/iprtl/p1/raw/master/logo/MTVClassic.webp" group-logo="https://cdn-icons-png.freepik.com/512/12461/12461207.png" group-title=" Music",MTV Classic 🇺🇸
+http://104.250.144.202:37829/
+
+=====================🔹========================
+
+#EXTINF:-1 tvg-name="Rebel" tvg-id="Rebel.cz" tvg-logo="https://github.com/iprtl/p1/raw/master/logo/RebelRock.webp?raw=true" group-logo="https://cdn-icons-png.freepik.com/512/12461/12461207.png" group-title=" Music",Rebel 🇨🇿
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referer=https://webtv.sk/
+#EXTVLCOPT:http-origin=https://webtv.sk
+https://dash3.antik.sk/live/test_rebel/playlist.m3u8
+
+#EXTINF:-1 cuid="1694" tvg-name="Rock TV" tvg-id="ITBC1100011RK" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBC1100011RK_20230208T013201SQUARE.png_20230208013201.png" group-logo="https://cdn-icons-png.freepik.com/512/12461/12461207.png" group-title=" Music",Rock TV
+https://3ff10b5c36cb4729a63d9a2eb5e629f7.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Samsung-it_RockTV/playlist.m3u8
+
+#EXTINF:-1 cuid="1695" tvg-name="Rocktv" tvg-id="Rock.TV.ro" tvg-logo="https://github.com/iprtl/p1/raw/master/logo/rocktv.webp" group-logo="https://cdn-icons-png.freepik.com/512/12461/12461207.png" group-title=" Music",Rocktv
+https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb.m3u8
+
+=====================🔹========================
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://static.elektamedia.com/ch/tmc_80s.png" group-logo="https://cdn-icons-png.freepik.com/512/12461/12461207.png" group-title=" Music",Total Music 80S
+https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_80s/SA_LIVE_hls_enc/master.m3u8
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://static.elektamedia.com/ch/tmc_00s.png" group-logo="https://cdn-icons-png.freepik.com/512/12461/12461207.png" group-title=" Music",Total Music 2000S
+https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_00s/SA_LIVE_hls_enc/master.m3u8
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://static.wikitide.net/indietvwiki/e/e1/Totalmusic_Main_Logo.png" group-logo="https://cdn-icons-png.freepik.com/512/12461/12461207.png" group-title=" Music",Total Music
+https://cdn.global.elektamedia.com/live/c7eds/Totalmusic/SA_LIVE_hls_enc/master.m3u8
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://static.elektamedia.com/ch/tmc_dance.png" group-logo="https://cdn-icons-png.freepik.com/512/12461/12461207.png" group-title=" Music",Total Music Dance
+https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_Dance/SA_LIVE_hls_enc/master.m3u8
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://static.elektamedia.com/ch/tmc_concerts.png" group-logo="https://cdn-icons-png.freepik.com/512/12461/12461207.png" group-title=" Music",Total Music Concerts
+https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_Concerts/SA_LIVE_hls_enc/master.m3u8
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://musicboxclassic.com/music_box_classic_logo.png" group-logo="https://cdn-icons-png.freepik.com/512/12461/12461207.png" group-title=" Music",Musix Box Classic
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referer=https://webtv.sk/
+#EXTVLCOPT:http-origin=https://webtv.sk
+https://dash3.antik.sk/live/mb_classic/index.m3u8
+
+=====================🔹========================
+
+#EXTINF:-1 cuid="1659" tvg-name="POP World TV" tvg-id="POPWorldTV.es" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/refs//heads/master/logo/PopWorldtv.webp" group-logo="https://cdn-icons-png.freepik.com/512/12461/12461207.png" group-title=" Music",POP World TV
+https://janus.xpbroadcasting.com:8443/hls/popworld.m3u8
+
+#EXTINF:-1 cuid="1664" tvg-name="XPTV 1" tvg-logo="https://players.rcast.net/uploads/images/202305/img_x300_646314ac954144-70583156-85346286.png" group-logo="https://cdn-icons-png.freepik.com/512/12461/12461207.png" group-title=" Music",XPTV 1 🇺🇸
+https://janus.xpbroadcasting.com:8443/hls/xptv1.m3u8
+
+#EXTINF:-1 cuid="1659" tvg-name="Ocko Star 🇨🇿" tvg-logo="https://pbs.twimg.com/profile_images/3055217408/a5421a501ccfcc705c5ea69ff102b097_400x400.png" group-logo="https://cdn-icons-png.freepik.com/512/12461/12461207.png" group-title=" Music",Ocko Star ᴸᴼᵂ 🇨🇿
+http://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_hq.m3u8?wmsAuthSign=Inspirationlivetv
+
+#EXTINF:-1 cuid="1670" tvg-name="Retro tvᴸᴼᵂ 🇨🇿" tvg-id="Retro.cz" tvg-logo="https://github.com/iprtl/p1/raw/master/logo/retromusic.webp" group-logo="https://cdn-icons-png.freepik.com/512/12461/12461207.png" group-title=" Music",Retro tv ᴸᴼᵂ 🇨🇿
+http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8?profile=inspirationLinks.m3u8
+
+#EXTINF:-1 cuid="1671" tvg-name="Magic TV 🇷🇴" tvg-id="Magic.TV.ro" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/magivTV.webp" group-logo="https://cdn-icons-png.freepik.com/512/12461/12461207.png" group-title=" Music",Magic TV 🇷🇴
+https://tv.broadcasting.ro/magictv/925f90db-5c88-4190-a53d-5163cdffe6f4.m3u8
+
+#EXTINF:-1 cuid="1666" tvg-name="Radio Capital 🇮🇹" tvg-logo="https://github.com/iprtl/p1/raw/master/logo/radiocapital.webp" group-logo="https://cdn-icons-png.freepik.com/512/12461/12461207.png" group-title=" Music",Radio Capital 🇮🇹
+https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S35394734/Z6U2wGoDYANk/playlist.m3u8
+
+#EXTINF:-1 cuid="1667" tvg-name="Kiss kiss tv 🇮🇹" tvg-id="KissKissTV.it" tvg-logo="https://i.imgur.com/UTStxDW.png" group-logo="https://cdn-icons-png.freepik.com/512/12461/12461207.png" group-title=" Music",Kiss kiss tv 🇮🇹
+https://kk.fluid.stream/KKMulti/smil:KissKissTV.smil/playlist.m3u8
+
+#EXTINF:-1 cuid="1668" tvg-name="51 Radio Tvᴸᴼᵂ 🇮🇹" tvg-logo="https://github.com/iprtl/p1/raw/master/logo/51radiotv.webp" group-logo="https://cdn-icons-png.freepik.com/512/12461/12461207.png" group-title=" Music",51 Radio Tv ᴸᴼᵂ 🇮🇹
+http://wms.shared.streamshow.it/canale51/canale51/playlist.m3u8?profile=inspirationLinks.m3u8
+
+#EXTINF:-1 cuid="1669" tvg-name="Kiss tv 🇷🇴" tvg-id="Kiss.TV.ro" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/refs//heads/master/logo/Kisstv.webp" group-logo="https://cdn-icons-png.freepik.com/512/12461/12461207.png" group-title=" Music",Kiss tv 🇷🇴
+https://tv.broadcasting.ro/kisstv/a629c031-2170-4ee9-a36d-87a891aa3131.m3u8
+
+#EXTINF:-1 cuid="1665" tvg-name="70-80.it 🇮🇹" tvg-id="IT500006GE" tvg-logo="https://i.imgur.com/y4kNV3Q.png" group-logo="https://cdn-icons-png.freepik.com/512/12461/12461207.png" group-title=" Music",70-80.it 🇮🇹
+https://d125n3dscdmoj3.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-oja5b1lpu3cmg/master.m3u8
+
+
 
 
 
