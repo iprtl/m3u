@@ -1367,6 +1367,32 @@ O conteúdo da lista, sofreu um grande corte em termos de conteúdos, derivado a
 - TV2 Sport 1 🇳🇴⚽️
 - TV2 Sport 2 🇳🇴🎾
 
+🔹 MUSIC 🔹
+
+- Muzangala TV 🇦🇴
+- Sol Musica 🇪🇸
+- MTV Live 🇺🇸
+- MTV Classic 🇺🇸
+- Rebel 🇨🇿
+- Rock TV
+- Rocktv
+- Total Music 80S
+- Total Music 2000S
+- Total Music
+- Total Music Dance
+- Total Music Concerts
+- Musix Box Classic
+- POP World TV
+- XPTV 1 🇺🇸
+- Ocko Star ᴸᴼᵂ 🇨🇿
+- Retro tv ᴸᴼᵂ 🇨🇿
+- Magic TV 🇷🇴
+- Radio Capital 🇮🇹
+- Kiss kiss tv 🇮🇹
+51 Radio Tv ᴸᴼᵂ 🇮🇹
+- Kiss tv 🇷🇴
+- 70-80.it 🇮🇹
+
 🔹 RADIOS 🔹
 
 - Wonder 80's
