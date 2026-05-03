@@ -2394,40 +2394,6 @@ https://dash2.antik.sk/stream/nvidia_nova_sport2/playlist_cenc.mpd
 https://estreams.tv.nej.cz/dash/CH_NOVA_SPORT2_Portable.ism/playlist.mpd
 
 =====================🔹========================
-Digi Sport 🇷🇴
-=====================🔹========================
-
-#EXTINF:-1 tvg-chno="" cuid="1920" tvg-id="Digi.Sport.1.HD.ro" tvg-chno="42" tvg-name="Digi Sport" tvg-logo="https://www.digisport.ro/static/theme-repo/bin/images/logo-digisport.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="All Sports 🌎",Digi Sport 1 🇷🇴⚽️
-#EXTGRP:All Sports 🌎;champions league⚽️;Europa League⚽️
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://cool-tv.net/
-https://pulse1.zalmora.cfd/kuk1/usergendx472snx93kdgwqrnd.m3u8
-
----
-
-#EXTINF:-1 tvg-chno="" cuid="1924" tvg-id="Digi.Sport.3.HD.ro" tvg-chno="44" tvg-name="Digi Sport" tvg-logo="https://www.digisport.ro/static/theme-repo/bin/images/logo-digisport.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="All Sports 🌎",Digi Sport 3 🇷🇴⚽️
-#EXTGRP:All Sports 🌎;Europa League⚽️
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://ultra2.falconx1.cfd/000/
-https://ultra2.falconx1.cfd/kuk3/usergendx0slfk9QssDx9lgxlsdmqrnd.m3u8
-+https://github.com/cattviptv2605/m3u8-world-/raw/refs/heads/main/primasport3.m3u8
-http://103.161.35.76/RO-117/index.m3u8
-
----
-
-#EXTINF:-1 tvg-chno="" cuid="1926" tvg-id="Digi.Sport.4.HD.ro" tvg-chno="45" tvg-name="Digi Sport" tvg-logo="https://www.digisport.ro/static/theme-repo/bin/images/logo-digisport.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="All Sports 🌎",Digi Sport 4 🇷🇴⚽️🤾‍
-#EXTGRP:All Sports 🌎;Europa League⚽️;Europa League⚽️
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://kudos111.terranovax1.cfd/000/
-https://kudos111.terranovax1.cfd/kuk4/usergendx0thc60skrdnnd.m3u8
-
-
-
-
-
-
-
-=====================🔹========================
 SPOTV 🇮🇳
 =====================🔹========================
 
@@ -2468,9 +2434,6 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/in
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7eea72d6075245a99ee3255603d58853:6848ef60575579bf4d415db1032153ed
 https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/dr_spotv2hd/default/index.mpd
-
-
-
 
 =====================🔹========================
 Матч! Футбол 🇷🇺
