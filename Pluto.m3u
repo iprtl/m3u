@@ -172,6 +172,9 @@ https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8
 🌈 𝙆𝙞𝙙𝙨 🧒 🇵🇹🇧🇷
 =====================❖======================== 
 
+#EXTINF:-1 cuid="201" tvg-name="Kuriakos Kids" tvg-id="" tvg-logo="https://kuriakos-kids.com/wp-content/uploads/2026/05/KuriakosKids_curvas-removebg-preview.png" group-logo="https://cdn-icons-png.freepik.com/512/3636/3636254.png" group-title="Kids 🧒🌎",Kuriakos Kids 🇵🇹
+https://w2.manasat.com/kkids/kkids.smil/playlist.m3u8
+
 #EXTINF:-1 cuid="202" tvg-name="GLN 🇧🇷" tvg-logo="https://d14vd6r4ppsx57.cloudfront.net/media/brand/LOGO_PNG_DIMENS%C3%A2O_100X100_-_GLN_TV_reduz_zKzqMEP.png" group-logo="https://cdn-icons-png.freepik.com/512/3636/3636254.png" group-title="Kids 🧒🌎",☆ GLN 🇧🇷
 +https://stmv1.paineltv.net/glnfilmes/glnfilmes/playlist.m3u8
 
@@ -1132,13 +1135,13 @@ https://d3fmqi91qduj7.cloudfront.net/11401/88884552/hls/master.m3u8?ads.xumo_cha
 
 
 #EXTINF:-1 cuid="480" tvg-name="The Walking Dead Universe 🇺🇸 [ᴘʟᴇx]" tvg-id="62fa8176b9884200074ef5ae" tvg-logo="https://images.pluto.tv/channels/62fa8176b9884200074ef5ae/colorLogoPNG.png" group-logo="https://cdn-icons-png.freepik.com/256/8633/8633669.png" group-title="Tv • Series 📺",☆ The Walking Dead Universe 🇺🇸
-https://jmp2.uk/plu-62fa8176b9884200074ef5ae.m3u8
 https://3544bb307ed14ee28dc1e02dfc7056be.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Vizio_TWDUniverseExperience/playlist.m3u8
+https://jmp2.uk/plu-62fa8176b9884200074ef5ae.m3u8
 https://wurlrainbowmedia.global.transmit.live/hls/68c87d756560734a5fdb7e8a/playlist.m3u8?wurl_channel=565&wurl_name=TheWalkingDeadUniverse&coppa=0&uid=[DEVICE_ID]&rdid=[IFA]&ifatype=[IFA_TYPE]&dnt=[LMT]&donotsell=[DNS]&isgdpr=[GDPR]&gdpr=[GDPR_CONSENT]&country=[COUNTRY]&pr=[US_PRIVACY]&appstoreurl=[APP_STOREURL]&bundleid=[APP_BUNDLE]&appname=[APP_NAME]&appversion=[APP_VERSION]&dt=[DEVICE_TYPE]&make=[DEVICE_MAKE]&model=[DEVICE_MODEL]&targetad=[TARGETAD_ALLOWED]&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]
 https://22985209144b4ff78289fbb19f55e93e.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Plex_TWDUniverseExperience/playlist.m3u8
 
 
-#EXTINF:-1 cuid="480" tvg-name="The Walking Dead Universe" tvg-id="USBD1200004NS" tvg-logo="https://images.pluto.tv/channels/62fa8176b9884200074ef5ae/colorLogoPNG.png" group-logo="https://cdn-icons-png.freepik.com/256/8633/8633669.png" group-title="Tv • Series 📺",☆ The Walking Dead Universe² 🇺🇸 (vᴘɴ 🇺🇸)
+#EXTINF:-1 cuid="480" tvg-name="The Walking Dead Universe" tvg-id="USBD1200004NS" tvg-logo="https://images.pluto.tv/channels/62fa8176b9884200074ef5ae/colorLogoPNG.png" group-logo="https://cdn-icons-png.freepik.com/256/8633/8633669.png" group-title="Tv • Series 📺",☆ The Walking Dead Universe² (vᴘɴ 🇺🇸)
 https://jmp2.uk/stvp-USBD1200004NS
 
 #EXTINF:-1 cuid="480" tvg-name="The Walking Dead Universe 🇺🇸 [ᴘʟᴇx]" tvg-id="678aa104680721c77c506746" tvg-logo="https://images.pluto.tv/channels/678aa104680721c77c506746/colorLogoPNG.png" group-logo="https://cdn-icons-png.freepik.com/256/8633/8633669.png" group-title="Tv • Series 📺",☆ The Walking Dead by AMC 🇧🇷 (vᴘɴ 🇺🇸)
@@ -3646,7 +3649,7 @@ https://jmp2.uk/plu-677d9adfa9a51b0008497fa0.m3u8
 #EXTINF:-1 cuid="1775" tvg-name="WOW Women of Wrestling 🇺🇸" tvg-id="66b66b9e14a2bb000872f606" tvg-logo="https://images.pluto.tv/channels/66b66b9e14a2bb000872f606/colorLogoPNG.png" group-logo="https://cdn-icons-png.freepik.com/512/1714/1714310.png" group-title="Sports • Combat & Box 🥊",☆ WOW Women of Wrestling 🇺🇸
 +https://jmp2.uk/plu-66b66b9e14a2bb000872f606.m3u8
 
-#EXTINF:-1 cuid="1776" tvg-name="DAZN Ringside 🇺🇸 [ᴛυʙɪ]" tvg-id="GBBD30000038U" tvg-logo="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/dazn_ringside.png" group-logo="https://cdn-icons-png.freepik.com/512/1714/1714310.png" group-title="Sports • Combat & Box 🥊",☆ DAZN Ringside 🇺🇸 [ᴛυʙɪ]
+#EXTINF:-1 cuid="1776" tvg-name="DAZN Ringside 🇺🇸 [ᴛυʙɪ]" tvg-id="GBBD30000038U" tvg-logo="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/dazn_ringside.png" group-logo="https://cdn-icons-png.freepik.com/512/1714/1714310.png" group-title="Sports • Combat & Box 🥊",☆ DAZN Ringside 🇺🇸
 https://jmp2.uk/plu-65b14aae0cb1a100087a216e.m3u8
 
 #EXTINF:-1 cuid="1778" tvg-name="DAZN Combat 🇺🇸" tvg-id="64df7a9a44fe100009b6ac5a" tvg-logo="https://images.pluto.tv/channels/64df7a9a44fe100009b6ac5a/colorLogoPNG.png" group-logo="https://cdn-icons-png.freepik.com/512/1714/1714310.png" group-title="Sports • Combat & Box 🥊",☆ DAZN Combat 🇺🇸
