@@ -27,13 +27,13 @@ https://jerrymoz.wordpress.com/wp-content/uploads/2024/03/qr_paypal.png
 #EXTINF:-1 tvg-chno="0" cuid="1" tvg-name="Tv Portuguesa 🇵🇹🇧🇷" tvg-logo="https://portaltvportuguesa.com.br/wp-content/uploads/2022/08/portaltv_b1_w.png" group-logo="https://cdn-icons-png.freepik.com/512/4482/4482879.png" group-title="Portugal 🇵🇹",Tv Portuguesa 🇵🇹🇧🇷
 https://cdn.livespanel.com/portaltvportuguesa6356/live/playlist.m3u8?wowzasessionid=@iprtlk
 
-#EXTINF:-1 tvg-chno="1" cuid="2" tvg-name="RTP Internacional 🇵🇹" tvg-id="RTP.Internacional.pt" user-agent="Wink/1.31.1" tvg-logo="https://mundo.rtp.pt/wp-content/themes/rdpinternacional/includes/img/RTP_mundo_horz_neg.png" group-logo="https://cdn-icons-png.freepik.com/512/4482/4482879.png" group-title="Portugal 🇵🇹",RTP Internacional ᴸᴼᵂ 🇵🇹
+#EXTINF:-1 tvg-chno="1" cuid="2" tvg-name="RTP Internacional 🇵🇹" tvg-id="RTP.Internacional.pt" user-agent="Wink/1.31.1" tvg-logo="https://mundo.rtp.pt/wp-content/themes/rdpinternacional/includes/img/RTP_mundo_horz_neg.png" group-logo="https://cdn-icons-png.freepik.com/512/4482/4482879.png" group-title="Portugal 🇵🇹",RTP Mundo ᴸᴼᵂ 🇵🇹
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:144.0) Gecko/20100101 Firefox/144.0
 #EXTVLCOPT:http-origin=https://www.rtp.pt
 #EXTVLCOPT:http-referrer=https://www.rtp.pt/play/direto/rtpinternacional
 https://streaming-live.rtp.pt/liverepeater/rtpi.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="1" cuid="3" tvg-name="RTP Internacional 🇵🇹" tvg-id="RTP.Internacional.pt" user-agent="Wink/1.31.1" tvg-logo="https://mundo.rtp.pt/wp-content/themes/rdpinternacional/includes/img/RTP_mundo_horz_neg.png" group-logo="https://cdn-icons-png.freepik.com/512/4482/4482879.png" group-title="Portugal 🇵🇹",RTP Internacional ᴸᴼᵂ 🇵🇹
+#EXTINF:-1 tvg-chno="1" cuid="3" tvg-name="RTP Internacional 🇵🇹" tvg-id="RTP.Internacional.pt" user-agent="Wink/1.31.1" tvg-logo="https://mundo.rtp.pt/wp-content/themes/rdpinternacional/includes/img/RTP_mundo_horz_neg.png" group-logo="https://cdn-icons-png.freepik.com/512/4482/4482879.png" group-title="Portugal 🇵🇹",RTP Mundo ᴸᴼᵂ 🇵🇹
 https://viamotionhsi.netplus.ch/live/eds/rtpi/browser-dash/rtpi.mpd
 
 
