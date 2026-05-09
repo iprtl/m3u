@@ -1491,6 +1491,9 @@ https://ssai2-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/e0df8853124
 #EXTINF:-1 tvg-chno="60" cuid="340" tvg-name="" tvg-id="" tvg-logo="https://tvcaras.com.br/wp-content/themes/perfil-revistas/assets/dist/img/tvcaras.png" group-logo="https://cdn-icons-png.freepik.com/512/4087/4087498.png" group-title="Channels 🇧🇷",Caras tv 🇧🇷
 https://dfr80qz435crc.cloudfront.net/IJKL/Amagi/Caras/CarasTV_BR/CarasTV.m3u8?wowzasessionid=@iprtlk
 
+#EXTINF:-1 tvg-chno="" cuid="" tvg-name="Cultura" tvg-id="BraziTV.us" tvg-logo="https://brazitv.com/wp-content/themes/brazitv-theme-v2.1.2/assets/img/brazitv-logo-1080.png" group-logo="https://cdn-icons-png.freepik.com/256/3687/3687668.png" group-title="Channels 🇧🇷",BraziTV 🇧🇷
+https://cbtvnow.com:5866/hls/livest2024.m3u8
+
 #EXTINF:-1 tvg-chno="" cuid="369" tvg-name="" tvg-id="" tvg-logo="https://github.com/iprtl/p1/raw/master/logo/tvdapesca.webp" group-logo="https://cdn-icons-png.freepik.com/256/3687/3687668.png" group-title="Channels 🇧🇷",Tv da Pesca 🇧🇷
 https://isaocorp.cloudecast.com/tvdapesca/index.m3u8?wowzasessionid=@iprtlk
 
