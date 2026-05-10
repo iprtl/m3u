@@ -2634,14 +2634,6 @@ https://d2glyu450vvghm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 
 =====================🔹========================
 
-#EXTINF:-1 tvg-name="MTV Live" tvg-id="MTV.Live.us" tvg-logo="https://github.com/iprtl/p1/raw/master/logo/mtvlive.png" group-logo="https://cdn-icons-png.freepik.com/512/12461/12461207.png" group-title=" Music",MTV Live 🇺🇸
-http://104.250.144.202:46183/
-
-#EXTINF:-1 tvg-name="MTV Live" tvg-id="MTV.Live.us" tvg-logo="https://github.com/iprtl/p1/raw/master/logo/MTVClassic.webp" group-logo="https://cdn-icons-png.freepik.com/512/12461/12461207.png" group-title=" Music",MTV Classic 🇺🇸
-http://104.250.144.202:37829/
-
-=====================🔹========================
-
 #EXTINF:-1 tvg-name="Rebel" tvg-id="Rebel.cz" tvg-logo="https://github.com/iprtl/p1/raw/master/logo/RebelRock.webp?raw=true" group-logo="https://cdn-icons-png.freepik.com/512/12461/12461207.png" group-title=" Music",Rebel 🇨🇿
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referer=https://webtv.sk/
