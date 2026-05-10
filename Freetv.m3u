@@ -1697,7 +1697,7 @@ https://viamotionhsi.netplus.ch/live/eds/tveinternacional/browser-HLS8/tveintern
 
 #EXTINF:-1 tvg-chno="" cuid="501" tvg-name="TVEi" tvg-id="Star.es" tvg-logo="https://github.com/iprtl/p1/raw/master/logo/StarTVE.webp" group-logo="https://cdn-icons-png.freepik.com/512/2146/2146764.png" group-title="Channels 🇪🇸",Star TVE 🇪🇸
 #EXTGRP: Channels 🇪🇸
-https://viamotionhsi.netplus.ch/live/eds/starhd/browser-dash/starhd.mpd
+https://rtvelivestream.rtve.es/rtvesec/int/star_main_dvr.m3u8
 
 #EXTINF:-1 tvg-chno="" cuid="502" tvg-name="TVEi" tvg-id="Star.es" tvg-logo="https://github.com/iprtl/p1/raw/master/logo/StarTVE.webp" group-logo="https://cdn-icons-png.freepik.com/512/2146/2146764.png" group-title="Channels 🇪🇸",Star TVE 🇪🇸
 #EXTGRP: Channels 🇪🇸
@@ -1722,6 +1722,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=15618
 
 #EXTINF:-1 tvg-chno="" cuid="527" tvg-name="Trece" tvg-id="TRECE.es" tvg-logo="https://github.com/iprtl/tv-logos/raw/main/countries/spain/trece-es.png" group-logo="https://cdn-icons-png.freepik.com/512/2146/2146764.png" group-title="Channels 🇪🇸",Trece 🇪🇸
 #EXTGRP: Channels 🇪🇸
+https://5940924978228.streamlock.net/8009/ngrp:8009_all/playlist.m3u8
 https://live-edge-ff-1.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/liveld/index.m3u8
 https://live-edge-ams-1.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/liveld/index.m3u8
 
@@ -1755,6 +1756,17 @@ https://cloud.fastchannel.es/mic/manifiest/hls/acocina/acocina.m3u8
 #EXTINF:-1 tvg-chno="" cuid="533" tvg-name="Aragon tv Internacional ⚽️" tvg-id="Aragón.TV.Int.es" tvg-logo="http://www.aragontelevision.es/logos/apple-touch-icon.png" tvg-logo="https://logo.m3uassets.com/canalsurandalucia.png" group-logo="https://cdn-icons-png.freepik.com/512/2146/2146764.png" group-title="Channels 🇪🇸",Aragon tv Internacional ⚽️
 #EXTGRP: Channels 🇪🇸
 https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8
+
+#EXTINF:-1 tvg-chno="" cuid="534" tvg-id="Extremadura.TV" tvg-logo="https://graph.facebook.com/CanalExtremadura/picture?width=200&height=200" group-logo="https://cdn-icons-png.freepik.com/512/2146/2146764.png" group-title="Channels 🇪🇸",Canal Extremadura 🇪🇸
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+https://canalextremadura-live.flumotion.cloud/canalextremadura/live_all/playlist_dvr.m3u8
+
+#EXTINF:-1 tvg-chno="" cuid="535" tvg-logo="https://graph.facebook.com/CanalExtremadura/picture?width=200&height=200" group-logo="https://cdn-icons-png.freepik.com/512/2146/2146764.png" group-title="Channels 🇪🇸",Toros (Canal Extremadura) 🇪🇸
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+https://cdn-canalextremadura.watchity.net/fast1/master.m3u8
+
+#EXTINF:-1 tvg-chno="" cuid="536" tvg-id="ElToroTV.TV" tvg-logo="https://graph.facebook.com/eltorotv.es/picture?width=200&height=200" group-logo="https://cdn-icons-png.freepik.com/512/2146/2146764.png" group-title="Channels 🇪🇸",El Toro TV 🇪🇸
+https://streaming-1.eltorotv.com/lb0/eltorotv-streaming-web/index.m3u8
 
 
 
