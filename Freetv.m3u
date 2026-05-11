@@ -196,16 +196,16 @@ https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX
 
 
 #EXTINF:-1 tvg-chno="26" cuid="29" tvg-name="V+ TVI 🇵🇹" tvg-id="V+TVI.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/v%2Btvi-pt.png" group-logo="https://cdn-icons-png.freepik.com/512/4482/4482879.png" group-title="Portugal 🇵🇹",V+ TVI 🇵🇹
-https://video-auth2.iol.pt/live_vmais/live_vmais/edge_servers/vmais-720p/playlist.m3u8?wowzasessionid=@iprtlk
+https://github.com/LITUATUI/M3UPT/raw/refs/heads/main/M3U/Vmais_TVI.m3u
 
 #EXTINF:-1 tvg-chno="27" cuid="30" tvg-name="TVI Ficção 🇵🇹" tvg-id="tvi.ficcao.pt" tvg-logo="https://logo.m3uassets.com/tvificcao.png" group-logo="https://cdn-icons-png.freepik.com/512/4482/4482879.png" group-title="Portugal 🇵🇹",TVI Ficção 🇵🇹
-https://video-auth1.iol.pt/live_tvi_ficcao/live_tvi_ficcao/edge_servers/tvificcao-720p/playlist.m3u8?wowzasessionid=@iprtlk
+https://github.com/LITUATUI/M3UPT/raw/refs/heads/main/M3U/TVI_Ficcao.m3u
 
 #EXTINF:-1 tvg-chno="28" cuid="31" tvg-name="TVI África 🇵🇹" tvg-id="" tvg-logo="https://github.com/iprtl/p1/raw/master/logo/tvi%C3%81frica.webp" group-logo="https://cdn-icons-png.freepik.com/512/4482/4482879.png" group-title="Portugal 🇵🇹",TVI África ᴸᴼᵂ 🇵🇹
-https://video-auth4.iol.pt/live_tvi_africa/live_tvi_africa/edge_servers/tviafrica-480p/playlist.m3u8?wowzasessionid=@iprtlk
++https://video-auth4.iol.pt/live_tvi_africa/live_tvi_africa/edge_servers/tviafrica-480p/playlist.m3u8?wowzasessionid=@iprtlk
 
 #EXTINF:-1 tvg-chno="29" cuid="32" tvg-name="TVI Reality 🇵🇹" tvg-id="tvi.reality.pt" tvg-logo="https://github.com/iprtl/p1/raw/master/logo/tviReality.webp" group-logo="https://cdn-icons-png.freepik.com/512/4482/4482879.png" group-title="Portugal 🇵🇹",TVI Reality 🇵🇹
-https://video-auth5.iol.pt/live_tvi_reality/live_tvi_reality/edge_servers/tvireality-720_passthrough/playlist.m3u8?wowzasessionid=@iprtlk
+https://github.com/LITUATUI/M3UPT/raw/refs/heads/main/M3U/TVI_Reality.m3u
 
 ---
 
