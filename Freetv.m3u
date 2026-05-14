@@ -1278,6 +1278,9 @@ https://d1e354daam8g5r.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-chno="" cuid="274" tvg-name="Discovering.China" tvg-id="Discovering.China.distro" tvg-logo="https://i.imgur.com/wr2bLaA.png" group-logo="https://cdn-icons-png.freepik.com/256/11471/11471416.png" group-title="Documentaries 🌎",Discovering China 🇺🇸
 https://amg01314-amg01314c8-distrotv-us-10218.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtndiscoveringchina-distrotvus/playlist.m3u8
 
+#EXTINF:-1 tvg-chno="" cuid="275" tvg-name="Space Today" tvg-id="SPACE.br" tvg-logo="https://imgur.com/EgHTGvn.png" group-logo="https://cdn-icons-png.freepik.com/256/11471/11471416.png" group-title="Documentaries 🌎",Space Today 🇧🇷
+https://service.webvideocore.net/CL1olYogIrDWvwqiIKK7eHbBxDyYany25g-L4QOVH5_l5daXY9tfEZPDJS0YHgpW/a_50acwl5q0f0g.m3u8
+
 #EXTINF:-1 tvg-chno="" cuid="278" tvg-name="History tv 18" tvg-id="History.TV18.HD.in" tvg-logo="https://dtil.tmsimg.com/assets/s143133_ld_h15_aa.png" group-logo="https://cdn-icons-png.freepik.com/256/11471/11471416.png" group-title="Documentaries 🌎",History TV18 HD 🇮🇳
 https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/HistoryTV18HD.m3u8
 
