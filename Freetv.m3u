@@ -2903,47 +2903,43 @@ https://centova.radio.com.pt/proxy/491?mp=/stream
 #EXTINF:-1 cuid="1778" tvg-name="Miami TV" tvg-logo="https://github.com/iprtl/p1/raw/master/logo/Miamitv.webp" group-title="Erotic",Miami TV
 https://59ec5453559f0.streamlock.net/miamitv/smil:WEB/playlist.m3u8
 
-#EXTINF:-1 cuid="1779" tvg-name="Miami TV" tvg-logo="https://github.com/iprtl/p1/raw/master/logo/Miamitv.webp" group-title="Erotic",Miami TV Live
+#EXTINF:-1 cuid="1778" tvg-name="Miami TV" tvg-logo="https://github.com/iprtl/p1/raw/master/logo/Miamitv.webp" group-title="Erotic",Miami TV Jenny Live
+https://bdc8100df748400cabc7e133824c8ceb.mediatailor.us-east-2.amazonaws.com/v1/master/c3d3fd1c31fa281b88eab2cd253e2ca576b6628b/fast-jennylive/playlist.m3u8
+
+
+#EXTINF:-1 cuid="1778" tvg-name="Miami TV" tvg-logo="https://github.com/iprtl/p1/raw/master/logo/Miamitv.webp" group-title="Erotic",Miami TV Gold
+https://8f4cbe9fa8d44aa3bfd4283527a9effd.mediatailor.us-east-2.amazonaws.com/v1/master/c3d3fd1c31fa281b88eab2cd253e2ca576b6628b/fast_gold/playlist.m3u8
+
+#EXTINF:-1 cuid="1778" tvg-name="Miami TV" tvg-logo="https://github.com/iprtl/p1/raw/master/logo/Miamitv.webp" group-title="Erotic",Miami TV News
 #EXTVLCOPT:http-origin=https://miamitv.com
 #EXTVLCOPT:http-referrer=https://miamitv.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 https://59ec5453559f0.streamlock.net/LIVE1/LIVE/playlist.m3u8
 https://tgn.bozztv.com/trn03/gin-miamitv/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yOC8yMDI2IDg6MzY6MDAgUE0maGFzaF92YWx1ZT1ub3RUVjNEK2x5L2JTaTdoRW4yRG13PT0mdmFsaWRtaW51dGVzPTE0NDAmc3RybV9sZW49MTc=
 
+#EXTINF:-1 cuid="1778" tvg-name="Miami TV" tvg-logo="https://github.com/iprtl/p1/raw/master/logo/Miamitv.webp" group-title="Erotic",Miami TV Latino
+https://stream-us-east-1.getpublica.com/playlist.m3u8?cb=[CACHEBUSTER]&network_id=16285&live=1&avod=0&hls_marker=1&pod_duration=120&position=preroll&app_bundle=com.streamingconnect.viva&app_category=linear_tv&content_cat=IAB8&content_channel=cocinafamiliar&content_genre=tv_broadcaster&content_network=streamingconnect&content_rating=TV-G&us_privacy=[US_PRIVACY]&gdpr=[GDPR]&ifa_type=[IFA_TYPE]&ssai_enabled=1&content_id=mirametv_live&min_ad_duration=6&max_ad_duration=120&app_domain=mirametv.live&ua=[%25UA%25]&device_type=[DEVICE_TYPE]&min_ad_duration=6&max_ad_duration=120&ip=[IP]
 
-#EXTINF:-1 cuid="1780" tvg-name="Miami TV" tvg-logo="https://github.com/iprtl/p1/raw/master/logo/Miamitv.webp" group-title="Erotic",Miami TV Fashion
+#EXTINF:-1 cuid="1778" tvg-name="Miami TV" tvg-logo="https://github.com/iprtl/p1/raw/master/logo/Miamitv.webp" group-title="Erotic",Miami TV Fashion
 #EXTVLCOPT:http-origin=https://miamitv.com
 #EXTVLCOPT:http-referrer=https://miamitv.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 https://59ec5453559f0.streamlock.net/miamitvfashion/smil:34256/playlist.m3u8
 
-#EXTINF:-1 cuid="1781" tvg-name="Miami TV" tvg-logo="https://github.com/iprtl/p1/raw/master/logo/Miamitv.webp" group-title="Erotic",Miami TV Music
+#EXTINF:-1 cuid="1778" tvg-name="Miami TV" tvg-logo="https://github.com/iprtl/p1/raw/master/logo/Miamitv.webp" group-title="Erotic",Miami TV Music
 #EXTVLCOPT:http-origin=https://miamitv.com
 #EXTVLCOPT:http-referrer=https://miamitv.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 https://59ec5453559f0.streamlock.net/miamitvmusic/smil:22596/playlist.m3u8
 
-#EXTINF:-1 cuid="1782" tvg-name="Miami TV" tvg-logo="https://github.com/iprtl/p1/raw/master/logo/Miamitv.webp" group-title="Erotic",Miami DJ
+#EXTINF:-1 cuid="1778" tvg-name="Miami TV" tvg-logo="https://github.com/iprtl/p1/raw/master/logo/Miamitv.webp" group-title="Erotic",Miami DJ
 https://59ec5453559f0.streamlock.net/miamitvDJ/smil:56925/playlist.m3u8
-
----
 
 #EXTINF:-1 cuid="1783" tvg-name="" tvg-logo="https://github.com/iprtl/p1/raw/master/logo/spoops.png" group-title="Erotic",Spoops tv
 https://fl1003.bozztv.com/ushba46/tracks-v1a1/mono.m3u8
 
----
-
 #EXTINF:-1 cuid="1784" tvg-name="Fashion Midnight 🇺🇸" tvg-id="FTV.HD.pt" tvg-logo="https://iptvx.one/picons/fashion-tv.png" group-logo="" group-title="Erotic",Fashion Secrets 🇺🇸
 https://ssai.aniview.com/api/v1/hls/stream.m3u8?cb=[CACHEBUSTER]&AV_WIDTH=[ADS.W]&AV_HEIGHT=[ADS.H]&AV_APPNAME=[ADS.APP_NAME]&AV_APPSTOREURL=[ADS.APP_STORE_URL]&AV_APPPKGNAME=[ADS.APP_BUNDLE]&AV_IDFA=[ADS.IFA]&AV_IFA_TYPE=[ADS.IFA_TYPE]&AV_CCPA=[ADS.US_PRIVACY]&AV_GDPR=[ADS.GDPR]&AV_CONSENT=[ADS.GDPR_CONSENT]&AV_CONTENT_URL=&AV_CONTENT_TITLE=&AV_CONTENT_EPISODE=&AV_CONTENT_SERIES=&AV_CONTENT_SEASON=&AV_CONTENT_KEYWORDS=&AV_CONTENT_NETWORK=&AV_CONTENT_ID=[ADS.VIDAA_ADS_CONTENTID]&AV_CONTENT_CHANNEL=&AV_CONTENT_CONTEXT=&AV_CONTENT_LENGTH=&AV_VAUTH=[ADS.VAUTH]&AV_DNT=[ADS.DNT]&Content_Id=[ADS.ADS_CONTENTID]&AV_LANGUAGE=[ADS.DEVICE_LANGUAGE]&AV_RTB_DEVICE_TYPE=[ADS.DEVICE_TYPE]&AV_OSVERS=[ADS.DEVICE_OSV]&AVS_SSAIID=67c0c39764ad6f7dab07aa0b&AV_CONTENT_LANGUAGE=en&AV_CONTENT_GENRE=fashion%20and%20lifestyle&AV_CONTENT_CAT=IAB7&AV_CONTENT_RATING=R&AV_CLIENT_SECTION=ftv_secrets&content_channel_name=ftv%20-fashiontv%20Secrets&content_livestream=1&AV_CONTENT_PROVIDER=FTV&ads.vidaa_ads_param=1191723366
-
-#EXTINF:-1 cuid="1785" tvg-name="" tvg-logo="https://iptvx.one/picons/fashion-tv.png" group-title="Erotic",Ushba t8
-https://fl1001.bozztv.com/ushba-t8/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 cuid="1786" tvg-name="" tvg-logo="https://iptvx.one/picons/fashion-tv.png" group-title="Erotic",Ushba m7
-https://fl1001.bozztv.com/ushba-m7/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 cuid="1787" tvg-name="" tvg-logo="https://iptvx.one/picons/fashion-tv.png" group-title="Erotic",Ushba m9
-https://fl1001.bozztv.com/ushba-m9/tracks-v1a1/mono.m3u8
 
 #Inspi🌈🆁™ation Links © 2026 All rights reserved
 
