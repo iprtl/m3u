@@ -1461,37 +1461,47 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01821-lovetvchannels-lovetheplaneti
 CANAIS 🇧🇷
 =====================🔹========================
 
-#EXTINF:-1 tvg-chno="31" cuid="335" tvg-name="Record" tvg-id="São.Paulo/SP..Record.br" tvg-logo="https://logo.m3uassets.com/record.png" group-logo="https://cdn-icons-png.freepik.com/512/4087/4087498.png" group-title="Channels 🇧🇷",Record sᴘ ⚽️ 🇧🇷
+#EXTINF:-1 tvg-chno="" cuid="333" tvg-name="Globo" tvg-id="São.Paulo/SP..Globo.br" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/35/TVGlobo2025.png" group-logo="https://cdn-icons-png.freepik.com/512/4087/4087498.png" group-title="Channels 🇧🇷",Globo sᴘ ⚽️ 🇧🇷
+#EXTGRP:Channels 🇧🇷
+https://hplay.tv/augetv/12396547488/10.m3u8
+http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8
+
+#EXTINF:-1 tvg-chno="" cuid="334" tvg-name="Record" tvg-id="São.Paulo/SP..Record.br" tvg-logo="https://logo.m3uassets.com/record.png" group-logo="https://cdn-icons-png.freepik.com/512/4087/4087498.png" group-title="Channels 🇧🇷",Record sᴘ ⚽️ 🇧🇷
 https://cdn.live.br1.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/playlist.m3u8
 https://cdn.live.br1.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/playlist.m3u8
 
----
-
-#EXTINF:-1 tvg-chno="0031" cuid="336" tvg-name="+SBT" tvg-id="SBT.br" tvg-logo="https://i.imgur.com/g47oQ4n.png" group-logo="https://cdn-icons-png.freepik.com/512/4087/4087498.png" group-title="Channels 🇧🇷",SBT 🇧🇷
+#EXTINF:-1 tvg-chno="" cuid="335" tvg-name="+SBT" tvg-id="SBT.br" tvg-logo="https://i.imgur.com/g47oQ4n.png" group-logo="https://cdn-icons-png.freepik.com/512/4087/4087498.png" group-title="Channels 🇧🇷",SBT 🇧🇷
 https://aovivo.maissbt.com/v1/manifest/215c0da80606fed29372070168106400a6ca7e1a/SSAI_TITAN_V3/ac63b34e-0615-4402-a359-892f205ccd70/5.m3u8
 https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="59" cuid="337" tvg-name="BAND Arapuan" tvg-id="Band.br" tvg-logo="https://i.imgur.com/nCJNjyN.png" group-logo="https://cdn-icons-png.freepik.com/512/4087/4087498.png" group-title="Channels 🇧🇷",Band 🇧🇷
+#EXTINF:-1 tvg-chno="" cuid="336" tvg-name="BAND Arapuan" tvg-id="Band.br" tvg-logo="https://i.imgur.com/nCJNjyN.png" group-logo="https://cdn-icons-png.freepik.com/512/4087/4087498.png" group-title="Channels 🇧🇷",Band 🇧🇷
 https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8
 https://cdn-5.nxplay.com.br/BAND_HD_PFZ_NX/tracks-v1a1/mono.m3u8
 https://cdn.jmvstream.com/w/LVW-15748/LVW15748_Yed7yzLuRC/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="" cuid="" tvg-name="" tvg-id="São.Paulo/SP..TV.Brasil.br" tvg-logo="https://i.imgur.com/9dGaIdY.png" group-logo="https://cdn-icons-png.freepik.com/512/4087/4087498.png" group-title="Channels 🇧🇷",TV Brasil 🇧🇷
+#EXTINF:-1 tvg-chno="" cuid="337" tvg-name="TV Brasil" tvg-id="São.Paulo/SP..TV.Brasil.br" tvg-logo="https://i.imgur.com/9dGaIdY.png" group-logo="https://cdn-icons-png.freepik.com/512/4087/4087498.png" group-title="Channels 🇧🇷",TV Brasil 🇧🇷
 https://tvbrasil-stream.ebc.com.br/index.m3u8
 https://video05.logicahost.com.br/guiatvpombal/guiatvpombal/playlist.m3u8
 https://tv02.zas.media:1936/rbatv/rbatv/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="" cuid="" tvg-name="B" tvg-id="" tvg-logo="https://i.imgur.com/LMeLMRn.png" group-logo="https://cdn-icons-png.freepik.com/512/4087/4087498.png" group-title="Channels 🇧🇷",Canal Educação 🇧🇷
+#EXTINF:-1 tvg-chno="" cuid="" tvg-name="Rede.TV" tvg-id="Rede.TV.br" tvg-logo="https://imgur.com/zgorH51.png" group-logo="https://cdn-icons-png.freepik.com/512/4087/4087498.png" group-title="Channels 🇧🇷", Rede tv ᴘʀ 🇧🇷
+https://tv02.zas.media:1936/redetvparana/redetvparana/playlist.m3u8
+https://5a2b083e9f360.streamlock.net/tvpantanal/tvpantanal.sdp/playlist.m3u8
+https://stmv6.voxtvhd.com.br/imperialtv/imperialtv/playlist.m3u8
+
+---
+
+#EXTINF:-1 tvg-chno="" cuid="" tvg-name="Canal Educação" tvg-id="" tvg-logo="https://i.imgur.com/LMeLMRn.png" group-logo="https://cdn-icons-png.freepik.com/512/4087/4087498.png" group-title="Channels 🇧🇷",Canal Educação 🇧🇷
 https://canaleducacao-stream.ebc.com.br/index.m3u8
 
-#EXTINF:-1 tvg-chno="59" cuid="338" tvg-name="LIKE" tvg-id="São.Paulo/SP..LIKE.HD.br" tvg-logo="https://logo.m3uassets.com/l!ke.png" group-logo="https://cdn-icons-png.freepik.com/512/4087/4087498.png" group-title="Channels 🇧🇷",L!ke 🇧🇷
+#EXTINF:-1 tvg-chno="" cuid="338" tvg-name="LIKE" tvg-id="São.Paulo/SP..LIKE.HD.br" tvg-logo="https://logo.m3uassets.com/l!ke.png" group-logo="https://cdn-icons-png.freepik.com/512/4087/4087498.png" group-title="Channels 🇧🇷",L!ke 🇧🇷
 https://cnl-cl.otteravision.com/cnl/cl_h265/cl_h265.m3u8?wowzasessionid=@iprtlk
 
-#EXTINF:-1 tvg-chno="60" cuid="339" tvg-name="" tvg-id="" tvg-logo="https://is.gd/1fFtHR" group-logo="https://cdn-icons-png.freepik.com/512/4087/4087498.png" group-title="Channels 🇧🇷",Veja+ 🇧🇷
+#EXTINF:-1 tvg-chno="" cuid="339" tvg-name="" tvg-id="" tvg-logo="https://is.gd/1fFtHR" group-logo="https://cdn-icons-png.freepik.com/512/4087/4087498.png" group-title="Channels 🇧🇷",Veja+ 🇧🇷
 https://gpa-vja-samsungtvplus-br.otteravision.com/gpa/vja/vja_h265.m3u8?wowzasessionid=@iprtlk
 https://ssai2-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/e0df8853124a4c109bf239f7981210fc/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="60" cuid="340" tvg-name="" tvg-id="" tvg-logo="https://tvcaras.com.br/wp-content/themes/perfil-revistas/assets/dist/img/tvcaras.png" group-logo="https://cdn-icons-png.freepik.com/512/4087/4087498.png" group-title="Channels 🇧🇷",Caras tv 🇧🇷
+#EXTINF:-1 tvg-chno="" cuid="340" tvg-name="" tvg-id="" tvg-logo="https://tvcaras.com.br/wp-content/themes/perfil-revistas/assets/dist/img/tvcaras.png" group-logo="https://cdn-icons-png.freepik.com/512/4087/4087498.png" group-title="Channels 🇧🇷",Caras tv 🇧🇷
 https://dfr80qz435crc.cloudfront.net/IJKL/Amagi/Caras/CarasTV_BR/CarasTV.m3u8?wowzasessionid=@iprtlk
 
 #EXTINF:-1 tvg-chno="" cuid="" tvg-name="Cultura" tvg-id="BraziTV.us" tvg-logo="https://brazitv.com/wp-content/themes/brazitv-theme-v2.1.2/assets/img/brazitv-logo-1080.png" group-logo="https://cdn-icons-png.freepik.com/256/3687/3687668.png" group-title="Channels 🇧🇷",BraziTV 🇧🇷
@@ -1499,6 +1509,42 @@ https://cbtvnow.com:5866/hls/livest2024.m3u8
 
 #EXTINF:-1 tvg-chno="" cuid="369" tvg-name="" tvg-id="" tvg-logo="https://github.com/iprtl/p1/raw/master/logo/tvdapesca.webp" group-logo="https://cdn-icons-png.freepik.com/256/3687/3687668.png" group-title="Channels 🇧🇷",Tv da Pesca 🇧🇷
 https://isaocorp.cloudecast.com/tvdapesca/index.m3u8?wowzasessionid=@iprtlk
+
+#EXTINF:-1 tvg-chno="" cuid="370" tvg-name="" tvg-id="62e010e6cd663f0007e57dc8" tvg-logo="https://images.pluto.tv/channels/62e010e6cd663f0007e57dc8/colorLogoPNG.png" group-logo="https://cdn-icons-png.freepik.com/256/3687/3687668.png" group-title="Channels 🇧🇷",Cultura Fast 🇧🇷
+https://jmp2.uk/plu-62e010e6cd663f0007e57dc8.m3u8
+
+#EXTINF:-1 tvg-chno="" cuid="371" tvg-name="Cultura" tvg-id="62e010e6cd663f0007e57dc8" tvg-logo="https://i.imgur.com/xL9QvHp.png" group-logo="https://cdn-icons-png.freepik.com/256/3687/3687668.png" group-title="Channels 🇧🇷",TV Cultura 🇧🇷
+https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
+
+#EXTINF:-1 tvg-chno="" cuid="372" tvg-name="" tvg-id="" tvg-logo="https://imgur.com/xc3am1f.png" group-logo="https://cdn-icons-png.freepik.com/256/3687/3687668.png" group-title="Channels 🇧🇷",Top Cultura 🇧🇷
+https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
+
+#EXTINF:-1 tvg-chno="" cuid="373" tvg-name="Cultura" tvg-id="BraziTV.us" tvg-logo="https://brazitv.com/wp-content/themes/brazitv-theme-v2.1.2/assets/img/brazitv-logo-1080.png" group-logo="https://cdn-icons-png.freepik.com/256/3687/3687668.png" group-title="Channels 🇧🇷",BraziTV 🇧🇷
+https://cbtvnow.com:5866/hls/livest2024.m3u8
+
+#EXTINF:-1 tvg-chno="" cuid="374" tvg-name="" tvg-id="" tvg-logo="https://imgur.com/bhrKY8K.png" group-logo="https://cdn-icons-png.freepik.com/256/3687/3687668.png" group-title="Channels 🇧🇷",D.P.A. 🇧🇷
+https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/Globo/DPA_Fast_BR/DPA_Fast.m3u8
+
+#EXTINF:-1 tvg-chno="" cuid="375" tvg-name="Adoro Cinema" tvg-id="" tvg-logo="https://imgur.com/xZA1lJh.png" group-logo="https://cdn-icons-png.freepik.com/256/3687/3687668.png" group-title="Channels 🇧🇷", Adoro Cinema 🇧🇷
+https://1e876365f9bb431e8eb8e87808b6f245.mediatailor.us-east-1.amazonaws.com/v1/master/28cabd810dcffe6911c4fb534c3616fcb64e6894/Adoro_Cinema/index.m3u8
+
+#EXTINF:-1 tvg-chno="" cuid="376" tvg-name="IA Channel" tvg-id="" tvg-logo="https://imgur.com/adfaOrm.png" group-logo="https://cdn-icons-png.freepik.com/256/3687/3687668.png" group-title="Channels 🇧🇷",IA Channel 🇧🇷
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=17027
+
+#EXTINF:-1 tvg-chno="" cuid="377" tvg-name="Canal do Artesanato" tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/616981859763945472/OZdbfTgg_400x400.png" group-logo="https://cdn-icons-png.freepik.com/256/3687/3687668.png" group-title="Channels 🇧🇷",Canal do Artesanato 🇧🇷
+https://ogc-cda-tcl-roku-syndication.otteravision.com/ogc/cda/cda.m3u8
+
+#EXTINF:-1 tvg-chno="" cuid="378" tvg-name="Bem Melhor" tvg-id="" tvg-logo="https://imgur.com/JA9LFW6.png" group-logo="https://cdn-icons-png.freepik.com/256/3687/3687668.png" group-title="Channels 🇧🇷",Bem Melhor 🇧🇷
+https://video01.logicahost.com.br/bemmelhor/bemmelhor/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="" cuid="379" tvg-name="Sabor e Arte 2" tvg-id="" tvg-logo="https://imgur.com/VKkajA6.png" group-logo="https://cdn-icons-png.freepik.com/256/3687/3687668.png" group-title="Channels 🇧🇷",Sabor e Arte 2 🇧🇷
+https://amg01391-sbtinfast-amg01391c6-lg-br-6100.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="" cuid="380" tvg-name="WHE Play" tvg-id="" tvg-logo="https://imgur.com/BVaNiqk.png" group-logo="https://cdn-icons-png.freepik.com/256/3687/3687668.png" group-title="Channels 🇧🇷",WHE Play 🇧🇷
+https://ssai-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/ac78411d160e42358ca8cb170222db2b/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="" cuid="381" tvg-name="Fit Dance" tvg-id="" tvg-logo="https://imgur.com/AK8Yr2x.png" group-logo="https://cdn-icons-png.freepik.com/256/3687/3687668.png" group-title="Channels 🇧🇷",Fit Dance 🇧🇷
+https://ssai-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/2dd137f1d20441efbc83499b5ef3ad65/playlist.m3u8
 
 
 
