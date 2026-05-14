@@ -702,6 +702,9 @@ https://jmp2.uk/plu-68509fe882d704acfc5bacd1.m3u8
 #EXTINF:-1 cuid="385" tvg-name="The Jamie Oliver Channel 🇺🇸" tvg-id="USBC4400016CL" tvg-logo="https://provider-static.plex.tv/epg/cms/production/5dccd34e-4587-4168-999c-eda400c74715/PLEX_JO_WHT_LOGO_1500X1000_-_Elaine_De_Santiago.png" group-logo="https://cdn-icons-png.freepik.com/512/8376/8376891.png" group-title="Tv • Lifestyles & Travel 🍽🛍️✈️",☆ The Jamie Oliver Channel 🇺🇸
 https://jmp2.uk/plu-64dab9df3d48f40008868091.m3u8
 
+#EXTINF:-1 cuid="386" tvg-name="TV Parana Turismo" tvg-id="" tvg-logo="https://i.imgur.com/IVUjkii.png" group-logo="https://cdn-icons-png.freepik.com/512/8376/8376891.png" group-title="Tv • Lifestyles & Travel 🍽🛍️✈️",TV Parana Turismo 🇧🇷
+https://aovivo.paranaeducativa.pr.gov.br/hls/tve.m3u8
+
 #EXTINF:-1 cuid="388" tvg-name="Tastemade 🇧🇷" tvg-id="5fd1419a3b4f4b000773ba85" tvg-logo="https://images.pluto.tv/channels/5fd1419a3b4f4b000773ba85/colorLogoPNG.png" group-logo="https://cdn-icons-png.freepik.com/512/8376/8376891.png" group-title="Tv • Lifestyles & Travel 🍽🛍️✈️",☆ Tastemade 🇧🇷
 https://jmp2.uk/plu-5fd1419a3b4f4b000773ba85.m3u8
 
@@ -2643,6 +2646,12 @@ https://jmp2.uk/stvp-USBC2400024FN
 =====================❖======================== 
 🌈VIDA SELVAGEM
 =====================❖========================
+
+#EXTINF:-1 cuid="1057" tvg-name="Nature Moments" tvg-id="" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/47ff86ab438840e653f540bac4609019.webp" group-logo="https://cdn-icons-png.freepik.com/512/8420/8420425.png" group-title="​Animals & Nature",☆ Nature Moments
+https://amg01576-amg01576c2-tcl-us-4894.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 cuid="1058" tvg-name="Naturaleza.Salvaje" tvg-id="plex.tv.Naturaleza.Salvaje.plex" tvg-logo="https://imgur.com/gDPlH5Z.png" group-logo="https://cdn-icons-png.freepik.com/512/8420/8420425.png" group-title="​Animals & Nature",☆ Naturaleza Salvaje
+https://jmp2.uk/rok-098bce44be895630a3e437516fe70853.m3u8
 
 #EXTINF:-1 cuid="1059" tvg-name="Love the Planet" tvg-id="66df8a29b25d2b0008fc5fe0" tvg-logo="https://images.pluto.tv/channels/66df8a29b25d2b0008fc5fe0/colorLogoPNG.png" group-logo="https://cdn-icons-png.freepik.com/512/8420/8420425.png" group-title="​Animals & Nature",☆ Love Nature 🇺🇸
 https://bamus-lovenature-lg.amagi.tv/hls/amagi_hls_data_bamusaAAA-bamus-lovenature-lg/CDN/master.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.coppa=0&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]
