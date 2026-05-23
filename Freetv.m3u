@@ -700,34 +700,44 @@ https://jmp2.uk/stvp-USBA370000104
 https://jmp2.uk/plu-61e82af27027f9000753c6e4.m3u8
 
 #EXTINF:-1 tvg-chno="" cuid="130" tvg-name="CBS News Boston 🇺🇸" tvg-id="WBZ-DT.us_locals1" tvg-logo="https://i.imgur.com/9un7R3N.png" group-logo="https://cdn-icons-png.freepik.com/256/5395/5395694.png" group-title="World News 🌍",CBS News Boston 🇺🇸
-https://cbsn-bos.cbsnstream.cbsnews.com/out/v1/589d66ec6eb8434c96c28de0370d1326/master.m3u8?wowzasessionid=@iprtlk
+https://dai.google.com/linear/hls/pa/event/dHA193vxQ_WqZNVoC-W5MA/stream/59e33a04-bd43-4648-8935-cc2c69485a93:BRU/master.m3u8
++https://cbsn-bos.cbsnstream.cbsnews.com/out/v1/589d66ec6eb8434c96c28de0370d1326/master.m3u8?wowzasessionid=@iprtlk
 
 #EXTINF:-1 tvg-chno="" cuid="131" tvg-name="CBS News Minnesota 🇺🇸" tvg-id="WCCO-DT.us_locals1" tvg-logo="https://i.imgur.com/ubxwfMY.png" group-logo="https://cdn-icons-png.freepik.com/256/5395/5395694.png" group-title="World News 🌍",CBS News Minnesota 🇺🇸
-https://cbsn-min.cbsnstream.cbsnews.com/out/v1/76518f06941246ba810c8d175600bf74/master.m3u8?wowzasessionid=@iprtlk
+https://dai.google.com/linear/hls/pa/event/c0XucO32RNKG8oeQ351a4Q/stream/c21da066-f1ee-4a80-89d9-0da66b340141:BRU/master.m3u8
++https://cbsn-min.cbsnstream.cbsnews.com/out/v1/76518f06941246ba810c8d175600bf74/master.m3u8?wowzasessionid=@iprtlk
 
 #EXTINF:-1 tvg-chno="" cuid="132" tvg-name="CBS News Pittsburgh 🇺🇸" tvg-id="KDKA-DT.us_locals1" tvg-logo="https://i.imgur.com/Un9IrUh.png" group-logo="https://cdn-icons-png.freepik.com/256/5395/5395694.png" group-title="World News 🌍",CBS News Pittsburgh 🇺🇸
-https://cbsn-pit.cbsnstream.cbsnews.com/out/v1/6966dabf8150405ab26f854e3cd6a2b8/master.m3u8?wowzasessionid=@iprtlk
+https://dai.google.com/linear/hls/pa/event/mir-uZYjTu6-8JLMHBTKhQ/stream/3a23dce4-a051-4df3-b68d-5e2160e61a09:BRU/master.m3u8
++https://cbsn-pit.cbsnstream.cbsnews.com/out/v1/6966dabf8150405ab26f854e3cd6a2b8/master.m3u8?wowzasessionid=@iprtlk
 
 #EXTINF:-1 tvg-chno="" cuid="133" tvg-name="CBS News Chicago 🇺🇸" tvg-id="WBBM-DT.us_locals1" tvg-logo="https://i.imgur.com/qGbVQir.png" group-logo="https://cdn-icons-png.freepik.com/256/5395/5395694.png" group-title="World News 🌍",CBS News Chicago 🇺🇸
-https://cbsn-chi.cbsnstream.cbsnews.com/out/v1/b2fc0d5715d54908adf07f97d2616646/master.m3u8?wowzasessionid=@iprtlk
+https://dai.google.com/linear/hls/pa/event/_xQBtL7ZSEClkNebaXzn8w/stream/a5681329-d2d9-472c-bd12-6cc74d912788:BRU/master.m3u8
++https://cbsn-chi.cbsnstream.cbsnews.com/out/v1/b2fc0d5715d54908adf07f97d2616646/master.m3u8?wowzasessionid=@iprtlk
 
 #EXTINF:-1 tvg-chno="" cuid="134" tvg-name="CBS News Colorado 🇺🇸" tvg-id="KCNC-DT.us_locals1" tvg-logo="https://i.imgur.com/2oyYwBw.png" group-logo="https://cdn-icons-png.freepik.com/256/5395/5395694.png" group-title="World News 🌍",CBS News Colorado 🇺🇸
-https://cbsn-den.cbsnstream.cbsnews.com/out/v1/2e49baf2906244ecb01b07d9885fbe7a/master.m3u8?wowzasessionid=@iprtlk
+https://dai.google.com/linear/hls/pa/event/E9CkyheTSKeGiOiICU_JBQ/stream/6d514cc4-936f-4dfa-90fe-64dd6e3170d7:BRU/master.m3u8
++https://cbsn-den.cbsnstream.cbsnews.com/out/v1/2e49baf2906244ecb01b07d9885fbe7a/master.m3u8?wowzasessionid=@iprtlk
 
 #EXTINF:-1 tvg-chno="" cuid="135" tvg-name="CBS News Detroit 🇺🇸" tvg-id="WWJ-DT.us_locals1" tvg-logo="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/cbs_news_detroit.png" group-logo="https://cdn-icons-png.freepik.com/256/5395/5395694.png" group-title="World News 🌍",CBS News Detroit 🇺🇸
-https://cbsn-det.cbsnstream.cbsnews.com/out/v1/169f5c001bc74fa7a179b19c20fea069/master.m3u8?wowzasessionid=@iprtlk
+https://dai.google.com/linear/hls/pa/event/xnyAMOsfSV2J1b-A3nROFQ/stream/40446618-115e-4e26-95a5-3a140c1ca9cc:BRU/master.m3u8
++https://cbsn-det.cbsnstream.cbsnews.com/out/v1/169f5c001bc74fa7a179b19c20fea069/master.m3u8?wowzasessionid=@iprtlk
 
 #EXTINF:-1 tvg-chno="" cuid="136" tvg-name="CBS News Los Angeles 🇺🇸" tvg-id="KCAL-DT.us_locals1" tvg-logo="https://i.imgur.com/klULxMV.png" group-logo="https://cdn-icons-png.freepik.com/256/5395/5395694.png" group-title="World News 🌍",CBS News Los Angeles 🇺🇸
-https://cbsn-la.cbsnstream.cbsnews.com/out/v1/57b6c4534a164accb6b1872b501e0028/master.m3u8?wowzasessionid=@iprtlk
+https://dai.google.com/linear/hls/pa/event/K_2aA7OVRTacJJli1oSi8w/stream/e8f7f0b6-3042-4fcf-bddd-7feb737883f6:BRU/master.m3u8
++https://cbsn-la.cbsnstream.cbsnews.com/out/v1/57b6c4534a164accb6b1872b501e0028/master.m3u8?wowzasessionid=@iprtlk
 
 #EXTINF:-1 tvg-chno="" cuid="137" tvg-name="CBS News Miami 🇺🇸" tvg-id="WFOR-DT.us_locals1" tvg-logo="https://i.imgur.com/DExbVa9.png" group-logo="https://cdn-icons-png.freepik.com/256/5395/5395694.png" group-title="World News 🌍",CBS News Miami 🇺🇸
-https://cbsn-mia.cbsnstream.cbsnews.com/out/v1/ac174b7938264d24ae27e56f6584bca0/master.m3u8?wowzasessionid=@iprtlk
+https://dai.google.com/linear/hls/pa/event/_yODrBHESGSzPe3dqW4gGg/stream/d76312b5-1cf8-4e5f-98f2-d671f3e91b06:GRQ/master.m3u8
++https://cbsn-mia.cbsnstream.cbsnews.com/out/v1/ac174b7938264d24ae27e56f6584bca0/master.m3u8?wowzasessionid=@iprtlk
 
 #EXTINF:-1 tvg-chno="" cuid="138" tvg-name="CBS News New York 🇺🇸" tvg-id="WCBS-DT.us_locals1" tvg-logo="https://i.imgur.com/bpc4v0u.png" group-logo="https://cdn-icons-png.freepik.com/256/5395/5395694.png" group-title="World News 🌍",CBS News New York 🇺🇸
-https://cbsn-ny.cbsnstream.cbsnews.com/out/v1/ec3897d58a9b45129a77d67aa247d136/master.m3u8?wowzasessionid=@iprtlk
+https://dai.google.com/linear/hls/pa/event/jeTDC610T-OSPdiWhcl0Pg/stream/f337899f-fe83-4e21-8b91-5e7821814f51:BRU/master.m3u8
++https://cbsn-ny.cbsnstream.cbsnews.com/out/v1/ec3897d58a9b45129a77d67aa247d136/master.m3u8?wowzasessionid=@iprtlk
 
 #EXTINF:-1 tvg-chno="" cuid="139" tvg-name="CBS News Philadelphia 🇺🇸" tvg-id="KYW-DT.us_locals1" tvg-logo="https://i.imgur.com/FmtTbNY.png" group-logo="https://cdn-icons-png.freepik.com/256/5395/5395694.png" group-title="World News 🌍",CBS News Philadelphia 🇺🇸
-https://cbsn-phi.cbsnstream.cbsnews.com/out/v1/5c9ad3e215984b0e9ad845b335216b72/master.m3u8?wowzasessionid=@iprtlk
+https://dai.google.com/linear/hls/pa/event/R2Kw0uvnQIW7fUmOseurzA/stream/0d9f5953-cceb-4887-84e9-24e1f99931d2:BRU/master.m3u8
++https://cbsn-phi.cbsnstream.cbsnews.com/out/v1/5c9ad3e215984b0e9ad845b335216b72/master.m3u8?wowzasessionid=@iprtlk
 
 #EXTINF:-1 tvg-chno="" cuid="140" tvg-name="CBS News Sacramento 🇺🇸" tvg-id="KOVR-DT.us_locals1" tvg-logo="https://i.imgur.com/0e1kSGX.png" group-logo="https://cdn-icons-png.freepik.com/256/5395/5395694.png" group-title="World News 🌍",CBS News Sacramento 🇺🇸
 https://lineup.cbsivideo.com/playout/c1ed69db-6b71-4581-a937-a70ab4089f8a/index.m3u8?wowzasessionid=@iprtlk
