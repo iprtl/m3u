@@ -2064,7 +2064,9 @@ https://dvrfl04.tulix.tv/teleup-carstv/mpegts
 http://iptv.tvzatak.uk:80/live/HxnSbJgDPX/bhYQUR31B/888.ts
 http://iptv.tvzatak.uk/HxnSbJgDPX/bhYQUR31B/seyJ1cmwiOiJodHRwOi8vN2FkMzhiZTAub3R0b2xvay5uZXQvaXB0di9ZNUdHVDNQV1hYTk05VkU5OThONEZFQUgvOTA4My9pbmRleC5tM3U4IiwiaWQiOjg4N30%3D/fast
 
-
+#EXTINF:-1 tvg-chno="" cuid="1115" tvg-name="Ring Bulgaria" tvg-id="RING.BG.bg" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/bulgaria/ring-bg.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="All Sports 🌎",Ring 🇧🇬
+#EXTGRP:Liga Betclic⚽️;All Sports 🌎
+http://85.14.32.26:8800/udp/239.100.10.81:5000
 
 
 
