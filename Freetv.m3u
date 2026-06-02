@@ -1829,6 +1829,12 @@ https://streaming-1.eltorotv.com/lb0/eltorotv-streaming-web/index.m3u8
 
 
 
+#EXTINF:-1 tvg-chno="100" tvg-id="ent-channel" tvg-name="ENT Channel" tvg-logo="https://static.elektamedia.com/ch/entch.png" group-logo="https://cdn-icons-png.freepik.com/512/2146/2146764.png" group-title="Channels 🇪🇸",ENT Channel 🇪🇸
+https://cdn.global.elektamedia.com/live/c7eds/ENT_Channel/SA_LIVE_hls_enc/master.m3u8
+
+#EXTINF:-1 tvg-chno="105" tvg-id="ent-family" tvg-name="ENT Family" tvg-logo="https://static.elektamedia.com/ch/entf.png" group-logo="https://cdn-icons-png.freepik.com/512/2146/2146764.png" group-title="Channels 🇪🇸",ENT Family 🇪🇸
+https://cdn.global.elektamedia.com/live/c7eds/ENT_Family/SA_LIVE_hls_enc/master.m3u8
+
 
 
 
