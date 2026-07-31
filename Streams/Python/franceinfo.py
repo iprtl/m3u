@@ -1,6 +1,7 @@
 import requests
 import os
 import sys
+import glob
 
 proxies = {}
 if len(sys.argv) == 2:
@@ -52,5 +53,6 @@ with open('Streams/Info/franceinfo.txt') as f:
             grab(line)
             
 if 'temp.txt' in os.listdir():
-    os.system('rm temp.txt')
-    os.system('rm watch*')
+    os.remove('temp.txt')
+    for f in glob.glob('watch*'):
+        os.remove(f)
