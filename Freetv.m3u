@@ -179,7 +179,7 @@ https://github.com/LITUATUI/M3UPT/raw/main/M3U/TVI_Internacional.m3u8
 https://github.com/thomraider12/canaistvpt/raw/main/m3u8s/tviint.m3u8
 
 #EXTINF:-1 tvg-chno="19" cuid="23" tvg-name="TVI Internacionalᶠᴴᴰ)" tvg-id="tvi.internacional.pt" tvg-logo="https://logo.m3uassets.com/tviinternacional.png" group-logo="https://cdn-icons-png.freepik.com/512/4482/4482879.png" group-title="Portugal 🇵🇹",TVI Internacional 🇵🇹
-https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC84LzIwMjYgOTo2OjEzIEFNJmhhc2hfdmFsdWU9bmt6UkljYXV4RnN2YnRkVXBlaVJ5QT09JnZhbGlkbWludXRlcz0xNDQwJmlkPTkzMWRmNzk5LTEzNWUtNDUxNi1iMWUzLThiZmZlZmExMjA1ZQ==/
+https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC84LzIwMjYgOTo4OjEwIEFNJmhhc2hfdmFsdWU9QzZ4NFZNb2dXVU1aMHdyemIwR2dkdz09JnZhbGlkbWludXRlcz0xNDQwJmlkPWQyNzk1Y2I1LTRhODQtNGY0ZS1hZGRiLWZlOGIzZmNhZTY4ZA==/
 
 
 
@@ -191,14 +191,14 @@ https://github.com/LITUATUI/M3UPT/raw/main/M3U/TVI.m3u8
 https://github.com/thomraider12/canaistvpt/raw/main/m3u8s/tvi.m3u8?wowzasessionid=@iprtlk
 
 #EXTINF:-1 tvg-chno="22" cuid="26" tvg-name="TVI 🇵🇹" tvg-id="TVI.HD.pt" tvg-logo="https://github.com/iprtl/p1/raw/master/logo/tvi.webp" group-logo="https://cdn-icons-png.freepik.com/512/4482/4482879.png" group-title="Portugal 🇵🇹",TVI 🇵🇹
-https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC84LzIwMjYgOTo2OjEyIEFNJmhhc2hfdmFsdWU9ZG84NHpJNUZGU1hYOE5KVVFHV2xlQT09JnZhbGlkbWludXRlcz0xNDQwJmlkPWY1MjJlMDZmLTcyNGMtNGUyMy1iYzA0LWYzNDc3NDU0ZmM0Mg==/
+https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC84LzIwMjYgOTo4OjkgQU0maGFzaF92YWx1ZT1sYVIrZEM1Q3UvOEdrL0VUbkkxQS9nPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9ODU2ODIzYmItN2YzYy00NGE3LTgwNzItNTE2MGFjMjBiMzA3/
 
 
 #EXTINF:-1 tvg-chno="24" cuid="27" tvg-name="CNN Portugal 🇵🇹" tvg-id="CNN.Portugal.HD.pt" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/cnnpt.png" group-logo="https://cdn-icons-png.freepik.com/256/5395/5395694.png" group-title="News 🇵🇹🇧🇷",CNN Portugal 🇵🇹
 https://github.com/thomraider12/canaistvpt/raw/main/m3u8s/cnnpt.m3u8?wowzasessionid=@iprtlk
 
 #EXTINF:-1 tvg-chno="25" cuid="28" tvg-name="CNN Portugal 🇵🇹" tvg-id="CNN.Portugal.HD.pt" tvg-logo="https://github.com/iprtl/p1/raw/master/logo/cnnpt.png" group-logo="https://cdn-icons-png.freepik.com/256/5395/5395694.png" group-title="News 🇵🇹🇧🇷",CNN Portugal 🇵🇹
-https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC84LzIwMjYgOTo2OjEzIEFNJmhhc2hfdmFsdWU9ekxCczhJK1M5cHg2dzZXZDAzZ1k0UT09JnZhbGlkbWludXRlcz0xNDQwJmlkPWQ0YWQwZjM2LWExYTQtNDI0Yi1hNmM3LTU3MDFhMzkwNTQ3NA==/
+https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC84LzIwMjYgOTo4OjkgQU0maGFzaF92YWx1ZT15MDhCN0JzaU1mRTkydWhzN2w4QW1nPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9NDgxNjZkN2MtY2MxNi00YTc5LWFjOTUtODA1NGJmZDA3Y2M3/
 
 
 
