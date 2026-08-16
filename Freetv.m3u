@@ -235,9 +235,6 @@ https://pull-live-156-1.global.ssl.fastly.net/pc5865dc25400thmb-ea6bf03b14fa318f
 ---
 
 #EXTINF:-1 tvg-chno="59" cuid="34" tvg-name="Record" tvg-id="Record.pt" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/recordtv.webp" group-logo="https://cdn-icons-png.freepik.com/512/4482/4482879.png" group-title="Portugal 🇵🇹",Record Internacional 🇧🇷
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
-https://viamotionhsi.netplus.ch/live/eds/rederecordinternacional/browser-dash/rederecordinternacional.mpd
-https://viamotionhsi.netplus.ch/live/eds/rederecordinternacional/browser-HLS8/rederecordinternacional.m3u8
 http://200.77.176.130:8000/udp/224.0.0.4:49152?RecordInteriorBR
 
 =====================❖========================
