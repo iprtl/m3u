@@ -2336,9 +2336,10 @@ SPORTS 🇫🇷🇬🇧🇺🇸🇨🇿
 http://88.212.15.19/live/test_sport1_25p/playlist.m3u8
 http://178.23.88.55/Sport1/index.m3u8
 
+
 #EXTINF:-1 tvg-chno="" cuid="1869" tvg-name="Sport1" tvg-id="Sport1.cz" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/SPORT1_CZ.webp" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="All Sports 🌎",Sport 1 🇨🇿⚽️🎯
 #EXTGRP:All Sports 🌎;Serie A⚽️;Europa League⚽️
-+https://estreams.tv.nej.cz/dash/CH_SPORT1_Portable.ism/playlist.mpd
+http://141.94.193.53:80/Sport_1_HD/index.m3u8
 
 ---
 
@@ -2355,6 +2356,7 @@ https://dash2.antik.sk/stream/nvidia_sport2/playlist_cenc.mpd
 #EXTINF:-1 tvg-chno="" cuid="1871" tvg-name="Sport2" tvg-id="Sport2.cz" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/SPORT2_CZ.webp" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="All Sports 🌎",Sport 2 🇨🇿⚽️🎾🃏
 #EXTGRP:All Sports 🌎;Europa League⚽️;Serie A⚽️
 http://88.212.15.19/live/test_sport_2/playlist.m3u8
+http://141.94.193.53:80/Sport_2_HD/index.m3u8
 
 ---
 
