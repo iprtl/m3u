@@ -279,6 +279,12 @@ https://video04.logicahost.com.br/assimeportugal/assimeportugal/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://player.logicahost.com.br/
 https://video03.logicahost.com.br/rfptv/rfptv/playlist.m3u8
 
+#EXTINF:-1 tvg-chno="036" cuid="49" tvg-name="https://televisaodosul.pt/" tvg-id="" tvg-logo="https://televisaodosul.pt/wp-content/uploads/2019/10/TDS-LOGO-2-400x327.png" group-title="Portugal 🇵🇹",TDS 🇵🇹
+https://load-balancer.azotosolutions.com/cdnedge36/canale5/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="037" cuid="50" tvg-name="https://www.naminhaterra.com/" tvg-id="" tvg-logo="https://www.naminhaterra.com/assets/images/Logo-1802x716.png" group-title="Portugal 🇵🇹",NMT TV 🇵🇹
+https://rtmp.w2.stream-sx.com/live/K6Ole9wB/index.m3u8
+
 
 
 
