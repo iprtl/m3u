@@ -7,7 +7,7 @@
 # ――――――――――――――――――――――――――――――――――――――――――――――
 # (●) Last Update: 🔄 2026 GMT+7 "
 # (●) Service: FREETV Inspiration Links
-# (●) Total Channels: 396
+# (●) Total Channels: 403
 
 
 ⚠️ Atenção: Todas as ligações de streams disponibilizados nas listas foram retiradas da Internet. Apenas as organizo, disponibiliza e partilha. Não detenho qualquer servidor e/ou transmitimos ou re-emitimos qualquer tipo de sinal.
@@ -176,7 +176,7 @@ https://github.com/LITUATUI/M3UPT/raw/main/M3U/TVI_Internacional.m3u8
 https://github.com/thomraider12/canaistvpt/raw/main/m3u8s/tviint.m3u8
 
 #EXTINF:-1 tvg-chno="19" cuid="23" tvg-name="TVI Internacionalᶠᴴᴰ)" tvg-id="tvi.internacional.pt" tvg-logo="https://logo.m3uassets.com/tviinternacional.png" group-logo="https://cdn-icons-png.freepik.com/512/4482/4482879.png" group-title="Portugal 🇵🇹",TVI Internacional 🇵🇹
-https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMS8yMDI2IDQ6NTg6NTkgUE0maGFzaF92YWx1ZT0zZ3p5SVd4RzNCNVJmR3p4NWxJb0RRPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9YzEwODE4ODItMjI4Ni00NTllLThhMWMtOGJiOWRiNDE0NjY5/
+https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMS8yMDI2IDE6MjQ6MTggUE0maGFzaF92YWx1ZT1TRmcxMnkwTlY5dW9vVHBJbEFPTitnPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9ZDg1OTI4MzgtZDYxZC00MDg2LWJiNmQtNjYwYWJjYzQ3NjAz/
 
 
 
@@ -186,14 +186,14 @@ https://github.com/LITUATUI/M3UPT/raw/main/M3U/TVI.m3u8
 https://github.com/thomraider12/canaistvpt/raw/main/m3u8s/tvi.m3u8
 
 #EXTINF:-1 tvg-chno="22" cuid="26" tvg-name="TVI 🇵🇹" tvg-id="TVI.HD.pt" tvg-logo="https://github.com/iprtl/p1/raw/master/logo/tvi.webp" group-logo="https://cdn-icons-png.freepik.com/512/4482/4482879.png" group-title="Portugal 🇵🇹",TVI 🇵🇹
-https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMS8yMDI2IDQ6NTg6NTggUE0maGFzaF92YWx1ZT15bDJiOUVVdEZnRGlBMU9TYUh1UnFBPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9ZDE1ZjZhMzItYTMwZi00MTVhLThkM2UtM2RlZGYyZmE5YTJl/
+https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMS8yMDI2IDE6MjQ6MTcgUE0maGFzaF92YWx1ZT02Yk5BU1ZaTnlodEJ3ZFpSZzBFL1NnPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9MGM0MTkxNTgtNWY4ZS00OWFmLWI5NjYtNTgzYTJiMDgxZmU0/
 
 
 #EXTINF:-1 tvg-chno="24" cuid="27" tvg-name="CNN Portugal 🇵🇹" tvg-id="CNN.Portugal.HD.pt" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/cnnpt.png" group-logo="https://cdn-icons-png.freepik.com/256/5395/5395694.png" group-title="News 🇵🇹🇧🇷",CNN Portugal 🇵🇹
 https://github.com/thomraider12/canaistvpt/raw/main/m3u8s/cnnpt.m3u8
 
 #EXTINF:-1 tvg-chno="25" cuid="28" tvg-name="CNN Portugal 🇵🇹" tvg-id="CNN.Portugal.HD.pt" tvg-logo="https://github.com/iprtl/p1/raw/master/logo/cnnpt.png" group-logo="https://cdn-icons-png.freepik.com/256/5395/5395694.png" group-title="News 🇵🇹🇧🇷",CNN Portugal 🇵🇹
-https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMS8yMDI2IDQ6NTg6NTggUE0maGFzaF92YWx1ZT04QU42bkkzTjlWMndBamV3ZzN2bGZRPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9MzkwMTVkZDctZmJjMC00NWI4LWEzMzYtOWI3ZGI5MGRlYmE5/
+https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMS8yMDI2IDE6MjQ6MTggUE0maGFzaF92YWx1ZT11RFlnWklHVVlSM2JnSFZycHNtNlV3PT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9ODdhOGRlYmMtNDhlMC00MDRhLTgwNjQtMzlkYzFmMWQ1NmQ5/
 
 
 
@@ -928,7 +928,7 @@ Channels 🇨🇿🇮🇳🇵🇭
 #EXTINF:-1 tvg-chno="" cuid="" tvg-id="AXN.id" tvg-name="AXN" tvg-logo="https://logo.m3uassets.com/axn.png" group-logo="https://cdn-icons-png.freepik.com/256/18310/18310951.png" group-title="Channels 🇨🇿🇮🇳🇵🇭",AXN (🔉💬🇬🇧)🇮🇳
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://cdn10jtedge.indihometv.com/atm/DASH/axn/manifest.mpd
++https://cdn10jtedge.indihometv.com/atm/DASH/axn/manifest.mpd
 
 ---
 
@@ -968,7 +968,7 @@ HBO CHANNELS 🇮🇳🇵🇭
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu.caranytv.workers.dev/trv
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
-https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.mpd
++https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.mpd
 https://cdn10jtedge.indihometv.com/atm/DASH/hbo/hbo-avc1_2500000=7-3277707030000000.mpd
 
 ---
@@ -976,7 +976,7 @@ https://cdn10jtedge.indihometv.com/atm/DASH/hbo/hbo-avc1_2500000=7-3277707030000
 #EXTINF:-1 cuid="" tvg-name="" tvg-id="Cg.Hbosign.ph" tvg-logo="https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/hbo_signature._SL170_FMpng_.png" group-logo="https://cdn-icons-png.freepik.com/256/18310/18310951.png" group-title="Channels 🇨🇿🇮🇳🇵🇭",HBO Signature (🔉💬🇬🇧)🇵🇭
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a06ca6c275744151895762e0346380f5:559da1b63eec77b5a942018f14d3f56f
-https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hbosign/default/index.mpd
++https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hbosign/default/index.mpd
 
 #EXTINF:-1 cuid="" tvg-name="" tvg-id="Cg.Hbosign.ph" tvg-logo="https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/hbo_signature._SL170_FMpng_.png" group-logo="https://cdn-icons-png.freepik.com/256/18310/18310951.png" group-title="Channels 🇨🇿🇮🇳🇵🇭",HBO Signature (🔉💬🇬🇧)🇮🇳
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
@@ -984,14 +984,14 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hbosign/default/index.m
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu.caranytv.workers.dev/trv
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
-https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d0552e0ca37a2/manifest.mpd
++https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d0552e0ca37a2/manifest.mpd
 
 ---
 
 #EXTINF:-1 tvg-chno="" cuid="" tvg-name="" tvg-id="Cg.Hbofam.ph" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hbo-family-us.png" group-logo="https://cdn-icons-png.freepik.com/256/18310/18310951.png" group-title="Channels 🇨🇿🇮🇳🇵🇭",HBO Family (🔉💬🇬🇧)🇵🇭
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=872910c843294319800d85f9a0940607:f79fd895b79c590708cf5e8b5c6263be
-https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hbofam/default/index.mpd
++https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hbofam/default/index.mpd
 
 #EXTINF:-1 tvg-chno="" cuid="" tvg-name="" tvg-id="Cg.Hbofam.ph" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hbo-family-us.png" group-logo="https://cdn-icons-png.freepik.com/256/18310/18310951.png" group-title="Channels 🇨🇿🇮🇳🇵🇭",HBO Family (🔉💬🇬🇧)🇮🇳
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
@@ -999,14 +999,14 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hbofam/default/index.mp
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu.caranytv.workers.dev/trv
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
-https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d055927fe37a4/manifest.mpd
++https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d055927fe37a4/manifest.mpd
 
 ---
 
 #EXTINF:-1 cuid="" tvg-name="HBO Hits" tvg-id="Cg.Hbohits.ph" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/hbohits.png" group-logo="https://cdn-icons-png.freepik.com/256/18310/18310951.png" group-title="Channels 🇨🇿🇮🇳🇵🇭",HBO Hits (🔉💬🇬🇧)🇵🇭
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b04ae8017b5b4601a5a0c9060f6d5b7d:a8795f3bdb8a4778b7e888ee484cc7a1
-https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hbohits/default1/index.mpd
++https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hbohits/default1/index.mpd
 
 #EXTINF:-1 cuid="" tvg-name="HBO Hits" tvg-id="Cg.Hbohits.ph" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/hbohits.png" group-logo="https://cdn-icons-png.freepik.com/256/18310/18310951.png" group-title="Channels 🇨🇿🇮🇳🇵🇭",HBO Hits (🔉💬🇬🇧)
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
@@ -1014,7 +1014,7 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hbohits/default1/index.
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu.caranytv.workers.dev/trv
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
-https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d054fbf67379f/manifest.mpd
++https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d054fbf67379f/manifest.mpd
 
 =====================🔹========================
 CINEMAX 🇵🇭🇮🇳
@@ -1023,7 +1023,7 @@ CINEMAX 🇵🇭🇮🇳
 #EXTINF:-1 tvg-chno="" cuid="" tvg-name="" tvg-id="Cg.Cinemax.ph" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/Cinemax.webp" group-logo="https://cdn-icons-png.freepik.com/256/18310/18310951.png" group-title="Channels 🇨🇿🇮🇳🇵🇭",Cinemax (🔉💬🇬🇧)🇮🇳
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b207c44332844523a3a3b0469e5652d7:fe71aea346db08f8c6fbf0592209f955
-https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_cinemax/default/index.mpd
++https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_cinemax/default/index.mpd
 
 #EXTINF:-1 tvg-chno="" cuid="" tvg-name="" tvg-id="Cg.Cinemax.ph" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/Cinemax.webp" group-logo="https://cdn-icons-png.freepik.com/256/18310/18310951.png" group-title="Channels 🇨🇿🇮🇳🇵🇭",Cinemax (🔉💬🇬🇧)🇮🇳
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
@@ -1031,7 +1031,7 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_cinemax/default/index.m
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu.caranytv.workers.dev/trv
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
-https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd
++https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd
 
 
 #EXTINF:-1 tvg-chno="" cuid="" tvg-name="" tvg-id="Cinemax.cz" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/Cinemax.webp" group-logo="https://cdn-icons-png.freepik.com/256/18310/18310951.png" group-title="Channels 🇨🇿🇮🇳🇵🇭",Cinemax (🔉💬🇬🇧) 🇨🇿
@@ -1310,7 +1310,7 @@ https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main
 #EXTINF:-1 tvg-chno="" cuid="284" tvg-name="Discovery.Channel" tvg-id="DISCOVERY.CHANNEL.HD.ph" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hd/discovery-channel-icon-hd-us.png" group-logo="https://cdn-icons-png.freepik.com/256/11471/11471416.png" group-title="Documentaries 🌎",Discovery Channel (🔉💬🇬🇧)🇵🇭
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"0e5b4f0f0bf641029b2b2000665a8b49":"152408adb88d19b5bfac04ccb6c493bb"}
-https://v4-pan-m3-cdn-02.live.cdn.cgates.lt/live/dash/562104/index.mpd?wowzasessionid=@iprtlk
++https://v4-pan-m3-cdn-02.live.cdn.cgates.lt/live/dash/562104/index.mpd?wowzasessionid=@iprtlk
 
 #EXTINF:-1 tvg-chno="" cuid="285" tvg-name="Discovery.Channel" tvg-id="Discovery.Channel.cz" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hd/discovery-channel-icon-hd-us.png" group-logo="https://cdn-icons-png.freepik.com/256/11471/11471416.png" group-title="Documentaries 🌎",Discovery Channel (🔉💬🇬🇧)🇨🇿
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1321,7 +1321,7 @@ https://dash2.antik.sk/stream/hisi_discovery/playlist_cbcs.mpd
 
 #EXTINF:-1 tvg-chno="" cuid="287" tvg-name="Discovery.Science" tvg-id="Discovery.Science.hk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/discovery-science-us.png" group-logo="https://cdn-icons-png.freepik.com/256/11471/11471416.png" group-title="Documentaries 🌎",Discovery Science (🔉💬🇬🇧)🇭🇰
 #EXTHTTP:{"origin":"https://tunex.space","referer":"https://tunex.space/","User-Agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"}
-https://hide.skygoplus.workers.dev/discovery-science.m3u8?wowzasessionid=@iprtlk
++https://hide.skygoplus.workers.dev/discovery-science.m3u8?wowzasessionid=@iprtlk
 
 #EXTINF:-1 tvg-chno="" cuid="288" tvg-name="Discovery.Science" tvg-id="Discovery.Science.ie" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/discovery-science-us.png" group-logo="https://cdn-icons-png.freepik.com/256/11471/11471416.png" group-title="Documentaries 🌎",Discovery Science (🔉💬🇬🇧)🇮🇪
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1332,7 +1332,7 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Discoveryscience2/default/manifest.
 #EXTINF:-1 tvg-chno="" cuid="290" tvg-name="IDDiscovery" tvg-id="Investigation.Discovery.lt" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/ID.webp" group-logo="https://cdn-icons-png.freepik.com/256/11471/11471416.png" group-title="Documentaries 🌎",IDDiscovery
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"f500790fc198489bac7a5937cc5e2312":"16ebfccee4852e9d63676106c11773bb"}
-https://v4-pan-m3-cdn-02.live.cdn.cgates.lt/live/dash/561805/index.mpd?wowzasessionid=@iprtlk
++https://v4-pan-m3-cdn-02.live.cdn.cgates.lt/live/dash/561805/index.mpd?wowzasessionid=@iprtlk
 
 =====================🔹========================
 CRIME & INVESTIGATION 🇺🇸
@@ -1341,7 +1341,7 @@ CRIME & INVESTIGATION 🇺🇸
 #EXTINF:-1 tvg-chno="" cuid="293" tvg-id="Crime.Investigation.ph" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/Crime+Investigation.png" group-logo="https://cdn-icons-png.freepik.com/256/11471/11471416.png" group-title="Documentaries 🌎",Crime & Investigation (🔉💬🇬🇧)🇵🇭
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=21e2843b561c4248b8ea487986a16d33:db6bb638ccdfc1ad1a3e98d728486801
-https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/crime_invest/default/index.mpd?wowzasessionid=@iprtlk
++https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/crime_invest/default/index.mpd?wowzasessionid=@iprtlk
 
 #EXTINF:-1 tvg-chno="" cuid="294" tvg-id="Crime.and.Investigation.cz" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/Crime+Investigation.png" group-logo="https://cdn-icons-png.freepik.com/256/11471/11471416.png" group-title="Documentaries 🌎",Crime & Investigation (🔉💬🇬🇧)🇨🇿
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1355,14 +1355,14 @@ NATIONAL GEOGRAPHIC CHANNELS 🇺🇸
 #EXTINF:-1 tvg-chno="" cuid="297" tvg-name="National Geographic" tvg-id="National.Geographic.lt" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/natgeographic.png" group-logo="https://cdn-icons-png.freepik.com/256/11471/11471416.png" group-title="Documentaries 🌎",National Geographic (🔉💬🇬🇧)🇷🇺
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"6d647aff767c453daa5fb54a44c783c6":"2f971e6a1cc58e7085afc761a3f13162"}
-https://v4-pan-m3-cdn-02.live.cdn.cgates.lt/live/dash/561901/index.mpd?wowzasessionid=@iprtlk
++https://v4-pan-m3-cdn-02.live.cdn.cgates.lt/live/dash/561901/index.mpd?wowzasessionid=@iprtlk
 
 ---
 
 #EXTINF:-1 tvg-chno="" cuid="298" tvg-name="National.Geographic.Wild" tvg-id="NAT.GEO.WILD.HD.in" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hd/national-geographic-wild-hd-us.png" group-logo="https://cdn-icons-png.freepik.com/256/11471/11471416.png" group-title="Documentaries 🌎",Nat Geo Wild 🇮🇳
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ffa7c3ca6020428c919e13b817b7e31b:adf163c6c1729e6f77668d4e49f32352
-https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/561201/index.mpd
++https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/561201/index.mpd
 
 #EXTINF:-1 tvg-chno="" cuid="300" tvg-name="National.Geographic.Wild" tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hd/national-geographic-wild-hd-us.png" group-logo="https://cdn-icons-png.freepik.com/256/11471/11471416.png" group-title="Documentaries 🌎",Nat Geo Wild (🔉💬🇬🇧🇷🇺)
 http://tinyurl.com/TvZaTak37/Nat_Geo_Wild_SD/video.m3u8?token=freeportal&token=deooleg
@@ -3073,4 +3073,4 @@ https://ssai.aniview.com/api/v1/hls/stream.m3u8?cb=[CACHEBUSTER]&AV_WIDTH=[ADS.W
 
 
 
-#EXTM3U billed-msg="Source Playlist [] | [https://jerrymoz.wordpress.com] 😎"
+#EXTM3U billed-msg="Source Playlist [https://jerrymoz.wordpress.com] 😎"
