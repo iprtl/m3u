@@ -2413,15 +2413,15 @@ http://141.94.193.53:80/Sport_2_HD/index.m3u8
 
 ---
 
-#EXTINF:-1 tvg-chno="" cuid="1889" tvg-id="Arena.Sport.1.cz" tvg-logo="https://github.com/iprtl/p1/raw/master/logo/ArenaSport1.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="All Sports 🌎",Arena Sport 1 🇨🇿 🏍🏎️ 
-#EXTGRP:All Sports 🌎;Liga Betclic⚽️
+#EXTINF:-1 tvg-chno="" cuid="1889" tvg-id="Arena.Sport.1.cz" tvg-logo="https://github.com/iprtl/p1/raw/master/logo/KANAL1SPORT.webp" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="All Sports 🌎",kanal 1 Sport 🇨🇿 🏍🏎️ 
+#EXTGRP:All Sports 🌎;Liga Betclic⚽️;Eredivisie⚽️
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
 https://dash2.antik.sk/stream/hisi_arena_sport1/playlist_cbcs.mpd
 
 ---
 
-#EXTINF:-1 tvg-chno="" cuid="1890" tvg-id="Arena.Sport.2.cz" tvg-logo="https://github.com/iprtl/p1/raw/master/logo/ArenaSport2.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="All Sports 🌎",Arena Sport 2 🇨🇿 🏍🏎️ 
+#EXTINF:-1 tvg-chno="" cuid="1890" tvg-id="Arena.Sport.2.cz" tvg-logo="https://github.com/iprtl/p1/raw/master/logo/KANAL1XTRA.webp" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="All Sports 🌎",Kanal 1Xtra 🇨🇿 🏍🏎️ 
 #EXTGRP:All Sports 🌎;Liga Betclic⚽️;Tennis🎾
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
