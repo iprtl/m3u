@@ -2121,7 +2121,7 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/x0srg3jjpz/out/v1
 https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/rgilyeubta/out/v1/09a67027b18f4fd78aaa3794a2aacfe8/cenc.mpd
 
 #EXTINF:-1 tvg-chno="92.3" tvg-id="DSPORTS.+.HD.dtvsp" tvg-name="" tvg-logo="https://dsports-widgets.tbxnet.com/assets/images/channels/1613.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="All Sports 🌎",DSports+ 🇨🇷🇬🇹
-#EXTGRP:Liga Betclic⚽️;All Sports 🌎;La Liga⚽️
+#EXTGRP:Liga Betclic⚽️;All Sports 🌎;La Liga⚽️;Rugby&NFL🏈🏉
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=83f81c4cc1443991543de4e22eea7586:ddfd7ca653d6f35543d8edb3c688e20f
 https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/ud6bnhthpj/out/v1/2639a2f4480f4269953de466d5f46463/cenc.mpd
@@ -2438,13 +2438,13 @@ PRIMA SPORT & NOVA SPORT 🇸🇰🇨🇿🇷🇴
 https://rohan116.ultronx1.cfd/puk1/usergenrx0cir27aq.m3u8
 
 #EXTINF:-1 tvg-chno="" cuid="1911" tvg-id="Prima.Sport.2.HD.ro" tvg-name="" tvg-logo="https://logo.m3uassets.com/primasport2.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="All Sports 🌎",Prima Sport 2 🇷🇴
-#EXTGRP:All Sports 🌎;Serie A⚽️
+#EXTGRP:All Sports 🌎;Serie A⚽️;La Liga⚽️
 #EXTVLCOPT:http-referrer=https://arwen1.panaka1.cfd/000/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 https://arwen1.panaka1.cfd/puk2/usergenrnd0clv03fyt.m3u8
 
 #EXTINF:-1 tvg-chno="" cuid="1912" tvg-id="Prima.Sport.3.HD.ro" tvg-name="" tvg-logo="https://logo.m3uassets.com/primasport3.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="All Sports 🌎",Prima Sport 3 🇷🇴
-#EXTGRP:All Sports 🌎;Bundesliga⚽️;La Liga⚽️
+#EXTGRP:All Sports 🌎;Bundesliga⚽️;La Liga⚽️;Serie A⚽️
 #EXTVLCOPT:http-referrer=https://iron1.jarvisx1.cfd/000/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 https://iron1.jarvisx1.cfd/puk3/usergenrx4t0l8sybkr.m3u8
