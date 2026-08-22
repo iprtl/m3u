@@ -2552,8 +2552,13 @@ NOW SPORTS 🇭🇰
 #KODIPROP:inputstream.adaptive.license_key=9145a6e0f778e61866f573d4944dd533:d02173d40515fea5c83944f21d0f3114
 https://video.beeline.tv/live/d/channel319.isml/manifest-stb.mpd
 
+
 #EXTINF:-1 tvg-chno="" cuid="1886" tvg-id="Матч! Футбол 2.ru" tvg-logo="https://github.com/iprtl/p1/raw/master/logo/%D0%9C%D0%B0%D1%82%D1%87!%D0%A4%D1%83%D1%82%D0%B1%D0%BE%D0%BB2.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="All Sports 🌎",Матч!Футбол 2 🇷🇺
-#EXTGRP:All Sports 🌎;La Liga⚽️;Serie A⚽️
+#EXTGRP:All Sports 🌎;La Liga⚽️;Serie A⚽️;Liga Betclic⚽️
+http://stream.mcquack.net/142/index.m3u8
+
+#EXTINF:-1 tvg-chno="" cuid="1886" tvg-id="Матч! Футбол 2.ru" tvg-logo="https://github.com/iprtl/p1/raw/master/logo/%D0%9C%D0%B0%D1%82%D1%87!%D0%A4%D1%83%D1%82%D0%B1%D0%BE%D0%BB2.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="All Sports 🌎",Матч!Футбол 2 🇷🇺
+#EXTGRP:All Sports 🌎;La Liga⚽️;Serie A⚽️;Liga Betclic⚽️
 #EXTM3U x-tvg-url="https://warningfm.github.io/x1/epg/guide.xml.gz"
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
