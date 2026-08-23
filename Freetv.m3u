@@ -2481,7 +2481,7 @@ https://dash2.antik.sk/stream/hisi_arena_sport1/playlist_cbcs.mpd
 ---
 
 #EXTINF:-1 tvg-chno="" cuid="1890" tvg-id="Arena.Sport.2.cz" tvg-logo="https://github.com/iprtl/p1/raw/master/logo/KANAL1XTRA.webp" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="All Sports 🌎",Kanal 1Xtra 🇨🇿 🏍🏎️ 
-#EXTGRP:All Sports 🌎;Liga Betclic⚽️;Tennis🎾
+#EXTGRP:All Sports 🌎;Tennis🎾
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
 https://dash2.antik.sk/stream/hisi_as2/playlist_cbcs.mpd
