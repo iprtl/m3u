@@ -2230,6 +2230,20 @@ http://45.5.117.57:8200/play/a05m/index.m3u8
 VARIOUS SPORTS CHANNELS 🌎
 =====================🔹========================
 
+#EXTINF:-1 tvg-chno="" cuid="1524" tvg-id="Premier.Sports.1.HD.uk" tvg-logo="https://iili.io/KWnBoiB.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="All Sports 🌎",PremierSports 1 🇬🇧
+#EXTGRP:All Sports 🌎;Serie A⚽️;La Liga⚽️
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f
+https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd
+
+#EXTINF:-1 tvg-chno="" cuid="1527" tvg-chno="" cuid="470" tvg-id="Premier.Sports.2.HD.uk" tvg-logo="https://iili.io/KWnCF1I.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="All Sports 🌎",PremierSports 2 🇬🇧
+#EXTGRP:All Sports 🌎;Rugby&NFL🏈🏉;La Liga⚽️
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19
+https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd
+
+---
+
 #EXTINF:-1 tvg-chno="" cuid="1200" tvg-id="SuperTennis.HD.it" tvg-logo="https://logo.m3uassets.com/supertennis.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="All Sports 🌎;Tennis🎾",Supertennis 🇮🇹
 https://live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c0-16/restreamer/outgest/aa3673f1-e178-44a9-a947-ef41db73211a/manifest.m3u8
 
