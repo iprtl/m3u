@@ -2108,6 +2108,13 @@ https://otte.live.fly.ww.aiv-cdn.net/fra-nitro/live/clients/dash/enc/ssdefyhkkr/
 #KODIPROP:inputstream.adaptive.license_key=8ec2e6248abe2e10e16e439c9b85ffd8:f121b015c2a5197828355fb6a874c297
 https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/worucjnctz/out/v1/20ac5ecdc9b848dc92e7f1188bdf6ff6/cenc.mpd
 
+#EXTINF:-1 tvg-chno="" cuid="1691" tvg-name="Fox Sports" tvg-id="FOX.SPORTS.PREMIUM.mx" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/FoxSports.webp" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="All Sports 🌎",Fox Sports Premium 🇲🇽
+#EXTGRP:All Sports 🌎
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9f327d24c66fbd84e15ab5c9ead7c7a4:83837185529c0c4048f81386c2d36426
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/dash/enc/fdx74zqzhu/out/v1/7d7a8c6981a842b98a683e9fbfe51d17/cenc.mpd
+
 ---
 
 #EXTINF:-1 tvg-chno="" cuid="1696" tvg-name="DSPORTS" tvg-id="DSPORTS.(COL).(DTSC).co" tvg-logo="https://logo.m3uassets.com/dsports.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="All Sports 🌎",DSports 🇨🇷🇬🇹
