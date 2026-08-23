@@ -2177,20 +2177,16 @@ https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/ud6bnhthpj/
 
 ---
 
+
 #EXTINF:-1 tvg-chno="" cuid="1692" tvg-name="Claro Sports" tvg-id="CLAROSPORTS..uy" tvg-logo="https://logo.m3uassets.com/clarosports.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="All Sports 🌎",Claro Sports 🇺🇾
 #EXTGRP:Liga Betclic⚽️;All Sports 🌎
 http://181.205.130.194:4000/play/a06o
-http://200.77.51.205:8000/play/a0us/index.m3u8
-http://200.229.147.142:8000/play/a06o/index.m3u8
-http://45.5.117.57:8200/play/a05m/index.m3u8
+http://201.216.147.90:8729/play/a0oh
 
-#EXTINF:-1 tvg-chno="" cuid="1694" tvg-name="Claro Sports" tvg-id="" tvg-logo="https://logo.m3uassets.com/clarosports2.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="All Sports 🌎",Claro Sports 2 🇺🇾
+#EXTINF:-1 tvg-chno="" cuid="1692" tvg-name="Claro Sports" tvg-id="CLAROSPORTS..uy" tvg-logo="https://logo.m3uassets.com/clarosports.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="All Sports 🌎",Claro Sports 🇺🇾
 #EXTGRP:Liga Betclic⚽️;All Sports 🌎
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=74cdcb63ff3e4f3ce4da4243b6d1e1d8:9b8366fa8e9ebcdf4b349d6c9d528115
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=+https://covoslivechannels2dash.clarovideo.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
-+https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(CLARO_SPORTS_LATAM_HD)/manifest.mpd
+http://45.167.1.136:8000/play/a00d
+http://38.49.128.38:8000/play/a0cm/index.m3u8
 
 
 
