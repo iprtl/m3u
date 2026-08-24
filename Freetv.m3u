@@ -975,7 +975,7 @@ HBO CHANNELS 🇮🇳🇵🇭
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu.caranytv.workers.dev/trv
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
 +https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.mpd
-https://cdn10jtedge.indihometv.com/atm/DASH/hbo/hbo-avc1_2500000=7-3277707030000000.mpd
++https://cdn10jtedge.indihometv.com/atm/DASH/hbo/hbo-avc1_2500000=7-3277707030000000.mpd
 
 ---
 
@@ -1056,7 +1056,7 @@ WARNER 🇵🇭🇮🇳
 
 #EXTINF:-1 cuid="" tvg-name="Warner" tvg-id="Warner.id" tvg-logo="https://logo.m3uassets.com/warnerchannel.png" group-logo="https://cdn-icons-png.freepik.com/256/18310/18310951.png" group-title="Channels 🇨🇿🇮🇳🇵🇭",Warner Channel (🔉💬🇬🇧)🇮🇳
 #EXTHTTP:{"origin":"https://tunex.space","referer":"https://tunex.space/","User-Agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"}
-https://hide.skygoplus.workers.dev/warner-tv.m3u8
++https://hide.skygoplus.workers.dev/warner-tv.m3u8
 https://cdn4.skygo.mn/live/disk1/Warner/HLSv3-FTA/Warner.m3u8
 
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
@@ -1075,15 +1075,11 @@ ROCK CHANNELS
 =====================🔹========================
 
 #EXTINF:-1 tvg-chno="" cuid="" tvg-name="Rock.Entertainment" tvg-id="Rock.Entertainment.id" tvg-logo="https://www.visionplus.id/images/repository/644/644-LOGO-m.png" group-logo="https://cdn-icons-png.freepik.com/256/18310/18310951.png" group-title="Channels 🇨🇿🇮🇳🇵🇭",Rock Entertainment (🔉💬🇬🇧)🇮🇩
-https://cdn10jtedge.indihometv.com/atm/DASH/rock_entertainment/manifest.mpd
++https://cdn10jtedge.indihometv.com/atm/DASH/rock_entertainment/manifest.mpd
 
 
 #EXTINF:-1 tvg-chno="" cuid="" tvg-name="Rock.Action" tvg-id="Rock.Action.id" tvg-logo="https://www.visionplus.id/images/repository/645/645-LOGO-m.png" group-logo="https://cdn-icons-png.freepik.com/256/18310/18310951.png" group-title="Channels 🇨🇿🇮🇳🇵🇭",Rock Action (🔉💬🇬🇧)🇮🇩
-#EXTVLCOPT:http-referrer=https://www.indihometv.com/
-#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://cdn10jtedge.indihometv.com/atm/DASH/ROCK_ACTION/manifest.mpd
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000120/1024.m3u8
-http://202.169.224.202:8800/udp/239.9.1.1:1234
++http://202.80.222.20/cdn/iptv/Tvod/001/channel2000120/1024.m3u8
 
 =====================🔹========================
 VARIOS 
@@ -1111,10 +1107,10 @@ https://times-ott-live.akamaized.net/moviesnow_wv_drm/index.mpd
 
 
 #EXTINF:-1 tvg-chno="" cuid="" tvg-name="Movies.Action" tvg-id="EN:.Movies.Action.sa" tvg-logo="https://i.imgur.com/NIVhISa.png" group-logo="https://cdn-icons-png.freepik.com/256/18310/18310951.png" group-title="Channels 🇨🇿🇮🇳🇵🇭",Movies Action (🔉💬🇬🇧)🇸🇦
-https://shls-live-enc.edgenextcdn.net/out/v1/46079e838e65490c8299f902a7731168/index.m3u8
++https://shls-live-enc.edgenextcdn.net/out/v1/46079e838e65490c8299f902a7731168/index.m3u8
 
 #EXTINF:-1 tvg-chno="" cuid="" tvg-name="Movies.Thriller" tvg-id="MoviesThriller.sa@SD" tvg-logo="https://i.imgur.com/JWihdcl.png" group-logo="https://cdn-icons-png.freepik.com/256/18310/18310951.png" group-title="Channels 🇨🇿🇮🇳🇵🇭",Movies Thriller (🔉💬🇬🇧)🇸🇦
-https://shls-live-enc.edgenextcdn.net/out/v1/f6d718e841f8442f8374de47f18c93a7/index.m3u8
++https://shls-live-enc.edgenextcdn.net/out/v1/f6d718e841f8442f8374de47f18c93a7/index.m3u8
 
 ---
 
