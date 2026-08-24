@@ -2157,6 +2157,7 @@ https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/dash/enc/wybgz0orr8/out/v1/2
 #KODIPROP:inputstream.adaptive.license_key=f8b207c10f3f76aeba32a360ec52b9e4:afad49d20eb39670e93e371c1d669921
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3gg2jnixjn/out/v1/e1840e01f3f14563b66bbb944d5cc54c/cenc.mpd
 http://190.60.37.118:4000/play/a0ch
+http://38.252.213.209:8000/play/a08e
 
 #EXTINF:-1 tvg-chno="92.1" tvg-id="DSPORTS.(ARG).dtvsp" tvg-name="" tvg-logo="https://dsports-widgets.tbxnet.com/assets/images/channels/1610.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="All Sports 🌎",DSports 🇨🇷🇬🇹
 #EXTGRP:Liga Betclic⚽️;All Sports 🌎;La Liga⚽️
@@ -2495,6 +2496,7 @@ http://141.94.193.53:80/Sport_2_HD/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
 https://dash2.antik.sk/stream/hisi_arena_sport1/playlist_cbcs.mpd
+http://142.132.200.37:9000/arenasport1hd
 
 ---
 
@@ -2503,6 +2505,7 @@ https://dash2.antik.sk/stream/hisi_arena_sport1/playlist_cbcs.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
 https://dash2.antik.sk/stream/hisi_as2/playlist_cbcs.mpd
+http://142.132.200.37:9000/arenasport2hd
 
 =====================🔹========================
 PRIMA SPORT & NOVA SPORT 🇸🇰🇨🇿🇷🇴
