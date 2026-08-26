@@ -1867,6 +1867,51 @@ https://cdn.global.elektamedia.com/live/c7eds/ENT_Family/SA_LIVE_hls_enc/master.
 
 
 
+=====================🔹========================
+FRANCESES
+=====================🔹========================
+
+#EXTINF:-1 tvg-chno="" cuid="547" tvg-name="TV5 Monde Voyage" tvg-id="FR1800004EP" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR1800004EP_20241015T160012SQUARE.png" group-logo="https://cdn-icons-png.freepik.com/512/2490/2490481.png" group-title="Channels 🇫🇷",TV5 Monde Voyage 🇫🇷
+https://d1qvkge2x4ev90.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-8q6p9i1t9dw2k/tvfvo.m3u8
+
+#EXTINF:-1 tvg-chno="" cuid="548" tvg-name="TV5 Monde+ Chefs" tvg-id="FR1300003HM" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR1800004EP_20241015T160012SQUARE.png" group-logo="https://cdn-icons-png.freepik.com/512/2490/2490481.png" group-title="Channels 🇫🇷",TV5 Monde+ Chefs 🇫🇷
+https://api-ott.tv5monde.com/loggingmediaurlpassthrough/a.m3u8?avod=1&app_name=%7B%7BappName%7D%7D&app_bundle=%7B%7BappPackage%7D%7D&device_width=%7B%7BplayerWidth%7D%7D&device_height=%7B%7BplayerHeight%7D%7D&tld=%7B%7BAppDomain%7D%7D&content_cat=%7B%7BAppCat%7D%7D&app_version=%7B%7BAppVersion%7D%7D&app_store_url=%7B%7BAppStoreUrl%7D%7D&did=%7B%7BDID%7D%7D&dnt=%7B%7BDNT%7D%7D&coppa=%7B%7BCoppa%7D%7D&us_privacy=%7B%7BUsPrivacy%7D%7D&gdpr=%7B%7BGdpr%7D%7D&gdpr_consent=%7B%7BGdprConsent%7D%7D&cb=API_randomCB&device_type=tv&device_make=%7B%7BDeviceMake%7D%7D&device_model=%7B%7BDeviceModel%7D%7D&device_os=%7B%7BoperatingSystem%7D%7D&language=%7B%7Blanguage%7D%7D&partner=tcl_tv_plus&livestream=1&connection=wifi&version=12.5&id=174&platform=html5&slated_vod=0&streaming_format=hls&vid=a.m3u8
+https://jmp2.uk/stvp-FR1300003HM
+
+#EXTINF:-1 tvg-chno="511" tvg-id="CARAC.1.ch" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/switzerland/carac1-ch.png" group-logo="https://cdn-icons-png.freepik.com/512/2490/2490481.png" group-title="Channels 🇫🇷",carac1 🇫🇷
+https://rougetv.vedge.infomaniak.com/livecast/ik:rougetv/manifest.m3u8
+#EXTINF:-1 tvg-chno="512" tvg-id="CARAC.2.ch"  tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/switzerland/carac2-ch.png" group-logo="https://cdn-icons-png.freepik.com/512/2490/2490481.png" group-title="Channels 🇫🇷",carac2 🇫🇷
+https://onefmmd.vedge.infomaniak.com/livecast/ik:onefmmd/manifest.m3u8
+#EXTINF:-1 tvg-chno="513" tvg-id="CARAC.3.ch" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/switzerland/carac3-ch.png" group-logo="https://cdn-icons-png.freepik.com/512/2490/2490481.png" group-title="Channels 🇫🇷",carac3 🇫🇷
+https://lfmmd.vedge.infomaniak.com/livecast/ik:lfmmd/manifest.m3u8
+#EXTINF:-1 tvg-chno="514" tvg-id="CARAC.4.ch" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/switzerland/carac4-ch.png" group-logo="https://cdn-icons-png.freepik.com/512/2490/2490481.png" group-title="Channels 🇫🇷",carac4 🇫🇷
+https://lfmmd.vedge.infomaniak.com/livecast/ik:compack_media_1/manifest.m3u8
+#EXTINF:-1 tvg-chno="515" tvg-id="CARAC.5.ch" group-logo="https://cdn-icons-png.freepik.com/512/2490/2490481.png" group-title="Channels 🇫🇷",carac5
+https://lfmmd.vedge.infomaniak.com/livecast/ik:carac5/manifest.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
