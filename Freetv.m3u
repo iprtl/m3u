@@ -2637,21 +2637,6 @@ https://andro.226503.xyz/checklist/androstreamlivebs4.m3u8
 SPORTS 🇫🇷🇬🇧🇺🇸🇨🇿
 =====================🔹========================
 
-#EXTINF:-1 tvg-chno="" cuid="1411" tvg-name="TV4.Futbol" tvg-id="[TV4FOSV].TV4.Fotboll.se" tvg-logo="https://logo.m3uassets.com/tv4fotboll.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="All Sports 🌎",TV4 Fotboll 🇸🇪 (🔊🇬🇧)
-#EXTGRP:All Sports 🌎;La Liga⚽️;Serie A⚽️
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a518c629bd683a4eba5f2a793bcb48d6:49642d2151ac6c3f8453bbfc4b3fdfc0
-https://live.streaming.a2d.tv/asset/20465725.isml/dash.mpd
-
-#EXTINF:-1 tvg-chno="" cuid="1412" tvg-name="TV4.Tennis" tvg-id="[TV4TESV].TV4.Tennis.se" tvg-logo="https://logo.m3uassets.com/tv4tennis.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="All Sports 🌎",TV4 Tennis 🇸🇪 (🔊🇬🇧) 🎾
-#EXTGRP:All Sports 🌎;Tennis🎾
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"lXsyUI/srxp/hC6dibx1Nw","kid":"vTKtYI6MNTaNuwrL+pTY4A"}],"type":"temporary"}
-https://live.streaming.a2d.tv/asset/20465727.isml/dash.mpd
-
 #EXTINF:-1 tvg-chno="" cuid="1868" tvg-name="Sport1" tvg-id="Sport1.cz" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/SPORT1_CZ.webp" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="All Sports 🌎",Sport 1 🇨🇿⚽️🎯
 #EXTGRP:All Sports 🌎;Europa League⚽️
 http://88.212.15.19/live/test_sport1_25p/playlist.m3u8
