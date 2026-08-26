@@ -2248,7 +2248,8 @@ https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/bcj3iscpd6/
 https://live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c0-16/restreamer/outgest/aa3673f1-e178-44a9-a947-ef41db73211a/manifest.m3u8
 
 #EXTINF:-1 tvg-chno="" cuid="1805" tvg-name="Rai Sport" tvg-id="RaiSport.it" tvg-logo="https://logo.m3uassets.com/raisport.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="All Sports 🌎;Tennis🎾";Europa League⚽️;Premier League⚽️,Rai Sport 🇮🇹
-http://185.246.209.181:80/RaiSport/tracks-v1a1/mono.m3u8
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=358025&output=7&forceUserAgent=raiplayappletv
 
 
 
