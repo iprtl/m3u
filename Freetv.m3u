@@ -2707,12 +2707,6 @@ https://galandriel1.thobias11.cfd/puk5/usergen0grnd3y8.m3u8
 
 ---
 
-#EXTINF:-1 tvg-chno="" cuid="1914" tvg-id="Nova.Sport.1.HD.sk" tvg-name="" tvg-logo="https://logo.m3uassets.com/novasport1.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="All Sports 🌎",Nova Sport 1 🇸🇰
-#EXTGRP:All Sports 🌎
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-https://estreams.tv.nej.cz/dash/CH_NOVA_SPORT1_Portable.ism/playlist.mpd
-
 #EXTINF:-1 tvg-chno="" cuid="1915" tvg-id="Nova.Sport.1.HD.sk" tvg-name="" tvg-logo="https://logo.m3uassets.com/novasport1.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="All Sports 🌎",Nova Sport 1 🇸🇰
 #EXTGRP:All Sports 🌎
 #EXTVLCOPT:http-referer=https://webtv.sk/tv/
@@ -2732,12 +2726,6 @@ https://dash2.antik.sk/stream/nvidia_nova_sport1/playlist_cenc.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
 https://dash2.antik.sk/stream/nvidia_nova_sport2/playlist_cenc.mpd
-
-#EXTINF:-1 tvg-chno="" cuid="1917" tvg-id="Nova.Sport.2.HD.sk" tvg-name="" tvg-logo="https://logo.m3uassets.com/novasport2.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="All Sports 🌎",Nova Sport 2 🇨🇿
-#EXTGRP:All Sports 🌎;Ligue 1⚽️
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-https://estreams.tv.nej.cz/dash/CH_NOVA_SPORT2_Portable.ism/playlist.mpd
 
 =====================🔹========================
 SPOTV 🇮🇳
