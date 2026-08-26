@@ -1765,15 +1765,13 @@ ESPANHOIS 🇪🇸
 
 #EXTINF:-1 tvg-chno="" cuid="500" tvg-name="TVEi" tvg-id="TVEi.pt" tvg-logo="https://logo.m3uassets.com/tveinternacional.png" group-logo="https://cdn-icons-png.freepik.com/512/2146/2146764.png" group-title="Channels 🇪🇸",TVE Internacional Europe 🇪🇸
 #EXTGRP: Channels 🇪🇸
-https://viamotionhsi.netplus.ch/live/eds/tveinternacional/browser-HLS8/tveinternacional.m3u8
-
-#EXTINF:-1 tvg-chno="" cuid="501" tvg-name="TVEi" tvg-id="Star.es" tvg-logo="https://github.com/iprtl/p1/raw/master/logo/StarTVE.webp" group-logo="https://cdn-icons-png.freepik.com/512/2146/2146764.png" group-title="Channels 🇪🇸",Star TVE 🇪🇸
-#EXTGRP: Channels 🇪🇸
-https://rtvelivestream.rtve.es/rtvesec/int/star_main_dvr.m3u8
+https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_eu_main_dvr_1080.m3u8
+https://rtvelivestream.rtve.es/rtvesec/int/tvei_eu_main_dvr.m3u8
 
 #EXTINF:-1 tvg-chno="" cuid="502" tvg-name="TVEi" tvg-id="Star.es" tvg-logo="https://github.com/iprtl/p1/raw/master/logo/StarTVE.webp" group-logo="https://cdn-icons-png.freepik.com/512/2146/2146764.png" group-title="Channels 🇪🇸",Star TVE 🇪🇸
 #EXTGRP: Channels 🇪🇸
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_dvr_1080.m3u8
+https://rtvelivestream.rtve.es/rtvesec/int/star_main_dvr.m3u8
 
 
 #EXTINF:-1 tvg-chno="" cuid="503" tvg-name="La 1 🇪🇸" tvg-id="La.1.HD.es" tvg-logo="https://logo.m3uassets.com/la1.png" group-logo="https://cdn-icons-png.freepik.com/512/2146/2146764.png" group-title="Channels 🇪🇸",La 1 🇪🇸
@@ -1795,6 +1793,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=15618
 
 #EXTINF:-1 tvg-chno="" cuid="527" tvg-name="Trece" tvg-id="TRECE.es" tvg-logo="https://github.com/iprtl/tv-logos/raw/main/countries/spain/trece-es.png" group-logo="https://cdn-icons-png.freepik.com/512/2146/2146764.png" group-title="Channels 🇪🇸",Trece 🇪🇸
 #EXTGRP: Channels 🇪🇸
+https://play.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/021/playlist.m3u8
 https://5940924978228.streamlock.net/8009/ngrp:8009_all/playlist.m3u8
 https://live-edge-ff-1.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/liveld/index.m3u8
 https://live-edge-ams-1.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/liveld/index.m3u8
@@ -1828,11 +1827,11 @@ https://cloud.fastchannel.es/mic/manifiest/hls/acocina/acocina.m3u8
 
 #EXTINF:-1 tvg-chno="" cuid="533" tvg-name="Aragon tv Internacional ⚽️" tvg-id="Aragón.TV.Int.es" tvg-logo="http://www.aragontelevision.es/logos/apple-touch-icon.png" tvg-logo="https://logo.m3uassets.com/canalsurandalucia.png" group-logo="https://cdn-icons-png.freepik.com/512/2146/2146764.png" group-title="Channels 🇪🇸",Aragon tv Internacional ⚽️
 #EXTGRP: Channels 🇪🇸
-https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8
++https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8
 
 #EXTINF:-1 tvg-chno="" cuid="534" tvg-id="Extremadura.TV" tvg-logo="https://graph.facebook.com/CanalExtremadura/picture?width=200&height=200" group-logo="https://cdn-icons-png.freepik.com/512/2146/2146764.png" group-title="Channels 🇪🇸",Canal Extremadura 🇪🇸
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-https://canalextremadura-live.flumotion.cloud/canalextremadura/live_all/playlist_dvr.m3u8
+https://d2ymuyhevki1a1.cloudfront.net/wct-ddd2992e-86fc-4611-a491-7f392259e9ba/continuous/9be76611-d2cd-474d-bf19-ef702ba31b02/index.m3u8
 
 #EXTINF:-1 tvg-chno="" cuid="535" tvg-logo="https://graph.facebook.com/CanalExtremadura/picture?width=200&height=200" group-logo="https://cdn-icons-png.freepik.com/512/2146/2146764.png" group-title="Channels 🇪🇸",Toros (Canal Extremadura) 🇪🇸
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
