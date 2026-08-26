@@ -1195,6 +1195,8 @@ https://fta4-cdn-flr.visionplus.id/out/v1/751a0982779f4edd904205eb351e220d/index
 📺 ✰ 𝘿𝙊𝘾𝙐𝙈𝙀𝙉𝙏𝘼𝙍𝙄𝙊𝙎 
 =====================🔹========================
 
+#EXTINF:-1 tvg-chno="" cuid="474" tvg-name="Love Wine 🇺🇸" tvg-id="Love.Wine.es" tvg-logo="https://github.com/iprtl/p1/raw/master/logo/Lovewine.webp" group-logo="https://cdn-icons-png.freepik.com/256/11471/11471416.png" group-title="Documentaries 🌎",Love Wine 🇬🇧
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01821-lovetvchannels-lovewineusuk-lgau/playlist.m3u8?wowzasessionid=@iprtlk
 
 #EXTINF:-1 tvg-chno="" cuid="246" tvg-name="Fun Roads TV" tvg-id="Fun.Roads.us2" tvg-logo="https://logo.m3uassets.com/funroads.png" group-logo="https://cdn-icons-png.freepik.com/256/11471/11471416.png" group-title="Documentaries 🌎",Fun Roads TV 🇺🇸
 https://a-cdn.klowdtv.com/live3/funroads_720p/playlist.m3u8
@@ -1707,20 +1709,6 @@ https://2-fss-1.streamhoster.com/pl_122/amlst:201814-2122456/playlist.m3u8
 
 
 
-
-
-
-
-
-=====================🔹========================
-CHANNELS 🇬🇧
-=====================🔹========================
-
-#EXTINF:-1 tvg-chno="" cuid="473" tvg-name="InglesTotal🇸" tvg-id="" tvg-logo="https://www.inglestotal.com/wp-content/themes/inglesTotal/img/logo.png" group-logo="https://cdn-icons-png.freepik.com/512/4482/4482903.png" group-title="Channels 🇬🇧",InglesTotal 🇬🇧🇪🇸
-https://daiconnect.com/live/hls/tvup/lg-inglestotal/.m3u8
-
-#EXTINF:-1 tvg-chno="" cuid="474" tvg-name="Love Wine 🇺🇸" tvg-id="Love.Wine.es" tvg-logo="https://github.com/iprtl/p1/raw/master/logo/Lovewine.webp" group-logo="https://cdn-icons-png.freepik.com/512/4482/4482903.png" group-title="Channels 🇬🇧",Love Wine 🇬🇧
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01821-lovetvchannels-lovewineusuk-lgau/playlist.m3u8?wowzasessionid=@iprtlk
 
 
 
