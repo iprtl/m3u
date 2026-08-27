@@ -1593,6 +1593,53 @@ https://ssai-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/2dd137f1d204
 
 
 
+=====================🔹========================
+CHANNELS 🇬🇧
+=====================🔹========================
+
+#EXTINF:-1 tvg-chno="" cuid="485" tvg-name="More4" tvg-id="More4.HD.uk" tvg-logo="https://logo.m3uassets.com/more4.png" group-logo="https://cdn-icons-png.freepik.com/512/4482/4482903.png" group-title="Channels 🇬🇧",More4 🇬🇧
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=000000000000000000000000006d340a:efee11d60dd6a2afb6865fc141e1c4a0
+https://olsp.live.dash.c4assets.com/dash_iso_sp_tl/live/channel(m4)/manifest.mpd
+
+#EXTINF:-1 tvg-chno="" cuid="488" tvg-name="Channel 4" tvg-id="Channel.4.HD.uk" tvg-logo="https://logo.m3uassets.com/channel4.png" group-logo="https://cdn-icons-png.freepik.com/512/4482/4482903.png" group-title="Channels 🇬🇧",Channel 4 🇬🇧
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0000000000000000000000000063340a:5ce85f1aa5771900b952f0ba58857d7a
+https://olsp.live.dash.c4assets.com/dash_iso_sp_tl/live/channel(c4)/manifest.mpd
+
+#EXTINF:-1 tvg-chno="" cuid="489" tvg-name="4seven" tvg-id="4seven.uk" tvg-logo="https://logo.m3uassets.com/4seven.png" group-logo="https://cdn-icons-png.freepik.com/512/4482/4482903.png" group-title="Channels 🇬🇧",4Seven 🇬🇧
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0000000000000000000000000034730a:19bfb83e0e0f40f6eef4eccedbfa7bb8
+https://olsp.live.dash.c4assets.com/dash_iso_sp_tl/live/channel(4s)/manifest.mpd
+
+#EXTINF:-1 tvg-chno="" cuid="490" tvg-name="Film4" tvg-id="Film4.HD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/film-4-uk.png" group-logo="https://cdn-icons-png.freepik.com/512/4482/4482903.png" group-title="Channels 🇬🇧",Film4 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0000000000000000000000000066340a:627bcdc9e9556a74b05c5d311d8d2a61
+https://olsp.live.dash.c4assets.com/dash_iso_sp_tl/live/channel(f4)/manifest.mpd
+
+#EXTINF:-1 tvg-chno="" cuid="491" tvg-name="E4" tvg-id="E4.HD.uk" tvg-logo="https://logo.m3uassets.com/e4.png" group-logo="https://cdn-icons-png.freepik.com/512/4482/4482903.png" group-title="Channels 🇬🇧",E4 🇬🇧
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0000000000000000000000000065340a:88a5d26b2dc54896693dea815df7c592
+https://olsp.live.dash.c4assets.com/dash_iso_sp_tl/live/channel(e4)/manifest.mpd
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
