@@ -2077,6 +2077,15 @@ https://jmp2.uk/plu-60e5ea9a9bb4200008376f76.m3u8
 #EXTGRP:Auto 🏍🏎️ 
 https://jmp2.uk/plu-65a6818c7bdc8d0008457b21.m3u8
 
+#EXTINF:-1 tvg-chno="" cuid="1962" tvg-id="GP TV" tvg-name="gp" tvg-logo="https://github.com/iprtl/p1/raw/master/logo/GPTV.png" group-logo="https://cdn-icons-png.freepik.com/512/1714/1714340.png" group-title="All Sports 🌎",GP TV 🇧🇷
+#EXTGRP:Auto 🏍🏎️ 
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=16499&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_store_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_channels_br&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=html5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&custom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_param_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]
+
+
+#EXTINF:-1 tvg-chno="" cuid="1010" tvg-name="Acelarados" tvg-id="" tvg-logo="https://i.imgur.com/bEA7KyI.png" group-logo="https://cdn-icons-png.freepik.com/512/1714/1714340.png" group-title="All Sports 🌎",Acelerados 🇧🇷
+#EXTGRP:Auto 🏍🏎️ 
+https://cc-zvni27dp2ukyu.akamaized.net/ogc/acel/acel.m3u8
+
 #EXTINF:-1 tvg-chno="" cuid="1011" tvg-name="Garage TV 🇦🇷" tvg-id="El.Garage.TV.es" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/ElGaragetv.webp" group-title="All Sports 🌎",Garage TV 🇦🇷🏎️🏍
 #EXTGRP:Auto 🏍🏎️ 
 https://stream1.sersat.com/hls/garagetv.m3u8?wowzasessionid=@iprtlk
@@ -2517,12 +2526,6 @@ https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=358025&output=7&forc
 CAZETV & SPORTV PREMIERE 🇧🇷
 =====================🔹========================
 
-#EXTINF:-1 tvg-chno="" cuid="1962" tvg-id="GP TV" tvg-name="gp" tvg-logo="https://github.com/iprtl/p1/raw/master/logo/GPTV.png" group-logo="https://cdn-icons-png.freepik.com/512/1714/1714340.png" group-title="All Sports 🌎",GP TV 🇧🇷
-#EXTGRP:All Sports 🌎;Formula1🏎️
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=16499&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_store_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_channels_br&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=html5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&custom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_param_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]
-
----
-
 #EXTINF:-1 tvg-chno="" cuid="1962" tvg-id="Goat" tvg-name="Goat tv" tvg-logo="https://i.imgur.com/j91PkWC.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="All Sports 🌎",Canal Goat 🇧🇷
 #EXTGRP:All Sports 🌎
 https://cng-cngt-samsungtvplus-br.otteravision.com/cng/cngt/cngt.m3u8
@@ -2749,7 +2752,7 @@ SPOTV 🇮🇳
 =====================🔹========================
 
 tvg-logo="https://logo.m3uassets.com/spotv.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="All Sports 🌎",Spotv 🇮🇳 🏍🏎️
-#EXTGRP:All Sports 🌎;Formula1🏎️;MotoGP🏍
+#EXTGRP:All Sports 🌎
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://cignalplay.com/
 #EXTVLCOPT:http-origin=https://cignalplay.com
@@ -2760,7 +2763,7 @@ https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_spotvhd.mpd
 ---
 
 #EXTINF:-1 tvg-chno="" cuid="1963" tvg-id="SPOTV.2.HD.id" tvg-name="SPOT2" tvg-logo="https://logo.m3uassets.com/spotv2.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="All Sports 🌎",Spotv 2 🇮🇳 🏍🏎️
-#EXTGRP:All Sports 🌎;Formula1🏎️;MotoGP🏍
+#EXTGRP:All Sports 🌎
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7eea72d6075245a99ee3255603d58853:6848ef60575579bf4d415db1032153ed
 https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/dr_spotv2hd.mpd
