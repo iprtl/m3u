@@ -1939,6 +1939,12 @@ https://lfmmd.vedge.infomaniak.com/livecast/ik:carac5/manifest.m3u8
 ITALIANOS 🇮🇹
 =====================🔹========================
 
+#EXTINF:-1 tvg-chno="" cuid="563" tvg-name="Real time" tvg-id="IT900007I0" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/realtime.png" group-logo="https://cdn-icons-png.freepik.com/512/10710/10710379.png" group-title="Channels 🇮🇹",WB Real time 🇮🇹
+https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/REALTIME/CMAF/index.m3u8
+
+#EXTINF:-1 tvg-chno="" cuid="560" tvg-name="NOVE" tvg-id="IT9000060Q" tvg-logo="https://i.imgur.com/Hp723RU.png" group-logo="https://cdn-icons-png.freepik.com/512/10710/10710379.png" group-title="Channels 🇮🇹",WB NOVE 🇮🇹
+https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/NOVE/CMAF/index.m3u8
+
 #EXTINF:-1 tvg-chno="" cuid="570" tvg-name="La7d" tvg-id="LA7D.it" tvg-logo="https://logo.m3uassets.com/la7d.png" group-logo="https://cdn-icons-png.freepik.com/512/10710/10710379.png" group-title="Channels 🇮🇹",La7d 🇮🇹
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -1951,8 +1957,15 @@ https://d15umi5iaezxgx.cloudfront.net/LA7D/DRM/HLS/Live.m3u8
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
 https://viamotionhsi.netplus.ch/live/eds/la7/browser-dash/la7.mpd
 
+#EXTINF:-1 tvg-chno="" cuid="571" tvg-name="La7cinema" tvg-id="LA7.CINEMA.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/LA7_Cinema.svg/330px-LA7_Cinema.svg.png" group-logo="https://cdn-icons-png.freepik.com/512/10710/10710379.png" group-title="Channels 🇮🇹",La7Cinema
+https://d15umi5iaezxgx.cloudfront.net/HBBTV/LA7D/DASH/Live.mpd
+
 #EXTINF:-1 tvg-chno="" cuid="572" tvg-name="Italian Fishing TV 🇮🇹" tvg-id="IT600001L6" tvg-logo="https://logo.m3uassets.com/italianfishingtv.png" group-logo="https://cdn-icons-png.freepik.com/256/3687/3687668.png" group-title="Channels 🇮🇹",Italian Fishing TV 🇮🇹
 https://d2n1ucuifwse4q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-5nki8b8udz6dm/index.m3u8
+
+#EXTINF:-1 tvg-chno="" cuid="572" tvg-name="canale8" tvg-id="" tvg-logo="https://logo.m3uassets.com/canale8.png" group-logo="https://cdn-icons-png.freepik.com/256/3687/3687668.png" group-title="Channels 🇮🇹",Canale 8
+https://canale8.zappr.stream/live/main-204747824658.m3u8
+
 
 
 
