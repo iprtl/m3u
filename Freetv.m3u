@@ -2273,15 +2273,15 @@ CAMPEONATOS DE FUTEBOL HISPÂNICOS 🇲🇽
 =====================🔹========================
 
 #EXTINF:-1 tvg-chno="" cuid="176" tvg-name="" tvg-id="UniMas.HD.(Pacific).us2" tvg-logo="https://logo.m3uassets.com/unimas.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="All Sports 🌎",Unimas 🇺🇸🇲🇽⚽️
-#EXTGRP:All Sports 🌎;Liga Mexicana⚽️
+#EXTGRP:Liga Mexicana⚽️
 https://tkx.mp.lura.live/rest/v2/mcp/video/univision-unimas?anvack=8Q6d5qd2lubv3MRhZrh9xmoPC9Xzo64n
 
 #EXTINF:-1 tvg-chno="" cuid="180" tvg-name="" tvg-id="Univision.Network.HD.us2" tvg-logo="https://logo.m3uassets.com/univision.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="All Sports 🌎",Univision 🇺🇸🇲🇽⚽️ 
-#EXTGRP:All Sports 🌎;Liga Mexicana⚽️
+#EXTGRP:Liga Mexicana⚽️
 https://tkx.mp.lura.live/rest/v2/mcp/video/univision-uni?anvack=8Q6d5qd2lubv3MRhZrh9xmoPC9Xzo64n
 
 #EXTINF:-1 tvg-chno="" cuid="174" tvg-name="" tvg-id="Canal.5.de.México.(XHGC).mx" tvg-logo="https://logo.m3uassets.com/canal5.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="All Sports 🌎",Canal 5 (🔉💬🇪🇸🇬🇧)🇲🇽⚽️
-#EXTGRP:All Sports 🌎;Liga Mexicana⚽️
+#EXTGRP:Liga Mexicana⚽️
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d695093ea3e66d75a4d213a3e2cbf360:01be3f645e89a067d2786c295f68dde4
@@ -2289,7 +2289,7 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ntkdl68eob/out/v1
 http://38.49.128.38:8000/play/a0fl/index.m3u8
 
 #EXTINF:-1 tvg-chno="" cuid="174" tvg-name="" tvg-id="Canal.5.de.México.(XHGC).mx" tvg-logo="https://logo.m3uassets.com/canal5.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="All Sports 🌎",Canal 5 (🔉💬🇪🇸🇬🇧)🇲🇽⚽️
-#EXTGRP:All Sports 🌎;Liga Mexicana⚽️
+#EXTGRP:Liga Mexicana⚽️
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d695093ea3e66d75a4d213a3e2cbf360:01be3f645e89a067d2786c295f68dde4
