@@ -1939,6 +1939,9 @@ https://lfmmd.vedge.infomaniak.com/livecast/ik:carac5/manifest.m3u8
 ITALIANOS 🇮🇹
 =====================🔹========================
 
+#EXTINF:-1 tvg-chno="" cuid="556" tvg-name="Rai Italia América" tvg-id="Rai.Italia.pt" tvg-logo="https://logo.m3uassets.com/raiitalia.png" group-logo="https://cdn-icons-png.freepik.com/512/10710/10710379.png" group-title="Channels 🇮🇹",Rai Italia 🇮🇹
+https://d3k8wzt41aflvx.cloudfront.net/RAIEU/Live.m3u8
+
 #EXTINF:-1 tvg-chno="" cuid="563" tvg-name="Real time" tvg-id="IT900007I0" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/realtime.png" group-logo="https://cdn-icons-png.freepik.com/512/10710/10710379.png" group-title="Channels 🇮🇹",WB Real time 🇮🇹
 https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/REALTIME/CMAF/index.m3u8
 
