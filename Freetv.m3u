@@ -2979,7 +2979,7 @@ NOW SPORTS 🇭🇰
 
 
 #EXTINF:-1 tvg-chno="" cuid="1885" tvg-id="Матч! Футбол 1.ru" tvg-logo="https://github.com/iprtl/p1/raw/master/logo/%D0%9C%D0%B0%D1%82%D1%87!%D0%A4%D1%83%D1%82%D0%B1%D0%BE%D0%BB1.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="All Sports 🌎",Матч!Футбол 1 🇷🇺
-#EXTGRP:All Sports 🌎;Serie A⚽️
+#EXTGRP:All Sports 🌎;Serie A⚽️;Liga Betclic⚽️
 #EXTM3U x-tvg-url="https://warningfm.github.io/x1/epg/guide.xml.gz"
 http://stream.mcquack.net/130/index.m3u8
 
