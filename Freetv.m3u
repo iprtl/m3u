@@ -2322,6 +2322,35 @@ http://38.49.128.38:8000/play/a0cm/index.m3u8
 
 
 
+=====================🔹========================
+EUROSPORTS CHANNELS 🌎
+=====================🔹========================
+
+#EXTINF:-1 tvg-chno="" cuid="1202" tvg-id="Eurosport.1.ro" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/Eurosport1.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="All Sports 🌎",Eurosport 1 (🔊🇬🇧🇨🇿)🎱⛷🚴
+#EXTGRP:All Sports 🌎;Tennis🎾
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://dash2.antik.sk/stream/nvidia_eurosport1/playlist_cenc.mpd?wowzasessionid=@iprtlk
+
+
+#EXTINF:-1 tvg-chno="" cuid="1206" tvg-id="Eurosport.2.HD.ro" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/Eurosport2.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="All Sports 🌎",Eurosport 2 (🔊🇬🇧🇨🇿)🏌🏼‍⛷⛸️🐴
+#EXTGRP:All Sports 🌎;Tennis🎾
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash2.antik.sk/stream/nvidia_eurosport2/playlist_cenc.mpd?wowzasessionid=@iprtlk
+
+
+
+
+
+
+
 
 
 
