@@ -1843,7 +1843,7 @@ https://multimedia.eitb.eus/live-content/etb1hd-hls/master.m3u8?wowzasessionid=@
 https://multimedia.eitb.eus/live-content/etb2hd-hls/master.m3u8?wowzasessionid=@iprtlk
 
 
-#EXTINF:-1 tvg-chno="" cuid="530" tvg-name="Galicia Europa 🇪🇸" tvg-id="Galicia.TV.es" tvg-logo="https://logo.m3uassets.com/galicia.png" group-logo="https://cdn-icons-png.freepik.com/512/2146/2146764.png" group-title="Channels 🇪🇸",Galicia Europa 🇪🇸
+#EXTINF:-1 tvg-chno="" cuid="530" tvg-name="Galicia Europa 🇪🇸" tvg-id="TVG.Europa.es" tvg-logo="https://logo.m3uassets.com/galicia.png" group-logo="https://cdn-icons-png.freepik.com/512/2146/2146764.png" group-title="Channels 🇪🇸",Galicia Europa 🇪🇸
 #EXTGRP: Channels 🇪🇸
 https://crtvg-europa.flumotion.cloud/playlist.m3u8?wowzasessionid=@iprtlk
 
