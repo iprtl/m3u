@@ -3022,6 +3022,10 @@ http://223.112.114.228:50080/newlive/live/hls/180/live.m3u8
 #EXTGRP:All Sports 🌎
 http://38.75.136.137:98/gslb/dsdqpub/cctv16hd.m3u8?auth=testpub
 
+#EXTINF:-1 tvg-chno="" cuid="1892" tvg-id="" tvg-logo="https://i.imgur.com/k1U8bVZ.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="All Sports 🌎",CCTV16
+#EXTGRP:All Sports 🌎
+http://38.75.136.137:98/gslb/dsdqpub/fyzq.m3u8?auth=testpub
+
 #EXTINF:-1 cuid="1893" tvg-name="Turkmenistan Sport 🇹🇲" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/be/Turkmenistan_Sport.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="All Sports 🌎",Turkmenistan Sport 🇹🇲
 #EXTGRP:All Sports 🌎
 https://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8
