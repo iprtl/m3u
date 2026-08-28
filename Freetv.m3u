@@ -2233,7 +2233,7 @@ https://a122aivottlinear-a.akamaihd.net/OTTB/bom-nitro/live/clients/dash/enc/ssd
 https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/worucjnctz/out/v1/20ac5ecdc9b848dc92e7f1188bdf6ff6/cenc.mpd
 
 #EXTINF:-1 tvg-chno="" cuid="1691" tvg-name="Fox Sports" tvg-id="FOX.SPORTS.PREMIUM.mx" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/FoxSports.webp" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="All Sports 🌎",Fox Sports Premium 🇲🇽
-#EXTGRP:All Sports 🌎
+#EXTGRP:All Sports 🌎;Formula1🏎️
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9f327d24c66fbd84e15ab5c9ead7c7a4:83837185529c0c4048f81386c2d36426
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -2731,7 +2731,7 @@ https://a83aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/q4u5
 ---
 
 #EXTINF:-1 tvg-chno="" cuid="1810" tvg-name="beIN.SPORTS.XTRA" tvg-id="plex.tv.beIN.SPORTS.XTRA.plex" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/bein-sports-xtra-us.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="All Sports 🌎",Bein Sports Xtra 🇬🇧🇲🇽
-#EXTGRP:All Sports 🌎;Bein Sports 🇬🇧🇲🇽🇹🇷🇫🇷
+#EXTGRP:All Sports 🌎;Bein Sports 🇬🇧🇲🇽🇹🇷🇫🇷;Formula1🏎️
 https://bein-xtra-xumo.amagi.tv/hls/amagi_hls_data_beinAAAAA-bein-xtra-xumoA/CDN/master.m3u8
 https://dbrb49pjoymg4.cloudfront.net/10001/99991785/hls/playlist.m3u8?ads.xumo_channelId=99991785&ads._fw_ifa_type=&ads._fw_did=effb0e3f-354d-4967-bec6-3fe0a91c16ab&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads.asnw=&ads.caid=BeInSportsESP&ads.csid=xumo_web_BeInSportsESP_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads.genre=&ads._fw_content_category=&ads._fw_content_language=es&ads._fw_content_genre=&ads._fw_content_rating=&ads.xumo_contentId=2642&ads.xumo_contentName=BeInSportsESP&ads.xumo_providerId=2642&ads.xumo_providerName=BeInSportsESP&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.channelId=99991785&ads.xumo_platform=web&ads.site_id=&ads.appName=xumo&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=
 
@@ -2794,8 +2794,8 @@ http://stream.mcquack.net/235/index.m3u8
 #EXTGRP:All Sports 🌎
 http://stream.mcquack.net/461/index.m3u8
 
-#EXTINF:-1 tvg-chno="" cuid="1866" tvg-name="Sport1" tvg-id="" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/Sport2Ukraine.webp" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="All Sports 🌎",Sport 2 🇺🇦
-#EXTGRP:All Sports 🌎
+#EXTINF:-1 tvg-chno="" cuid="1866" tvg-name="Sport2" tvg-id="" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/Sport2Ukraine.webp" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="All Sports 🌎",Sport 2 🇺🇦
+#EXTGRP:All Sports 🌎;Formula1🏎️
 http://stream.mcquack.net/392/index.m3u8
 
 #EXTINF:-1 tvg-chno="" cuid="1866" tvg-name="Sport1" tvg-id="" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/Sport2Ukraine.webp" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="All Sports 🌎",Sport 3 🇺🇦
@@ -2886,7 +2886,7 @@ https://iron1.jarvisx1.cfd/puk3/usergenrx4t0l8sybkr.m3u8
 https://galandriel1.thobias11.cfd/puk4/usergendx42x9qrnd.m3u8
 
 #EXTINF:-1 tvg-chno="" cuid="1912" tvg-id="Prima.Sport.5.HD.ro" tvg-name="" tvg-logo="https://logo.m3uassets.com/primasport5.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="All Sports 🌎",Prima Sport 5 🇷🇴
-#EXTGRP:All Sports 🌎;Bundesliga⚽️;La Liga⚽️;Serie A⚽️
+#EXTGRP:All Sports 🌎;Bundesliga⚽️;La Liga⚽️;Serie A⚽️;Formula1🏎️
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://galandriel1.thobias11.cfd/000/
 https://galandriel1.thobias11.cfd/puk5/usergen0grnd3y8.m3u8
@@ -2935,7 +2935,7 @@ https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_spotvhd.mpd
 https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/dr_spotv2hd.mpd
 
 #EXTINF:-1 tvg-chno="" cuid="1960" tvg-id="S.SPORT.tr" tvg-name="S SPORT" tvg-logo="https://logo.m3uassets.com/ssport.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="All Sports 🌎",S Sport 🇹🇷
-#EXTGRP:All Sports 🌎;La Liga⚽️
+#EXTGRP:All Sports 🌎;La Liga⚽️;Eredivisie⚽️
 #EXTVLCOPT:http-referrer=https://www.selcuksportshd.is
 https://dga1op10s1u3leo.6c2c54919ddfa1.click/live/sssport/playlist.m3u8
 
