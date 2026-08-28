@@ -2682,6 +2682,20 @@ https://jmp2.uk/stvp-ESBC410000577
 BEIN SPORTS 🇹🇷
 =====================🔹========================
 
+#EXTINF:-1 tvg-chno="" cuid="1830" tvg-name="FR | Bein Sports 1" tvg-id="beIN.SPORTS.1.fr" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_DIGITAL_Mono.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="All Sports 🌎",Bein Sports 1 🇫🇷⚽️🏉🏀
+#EXTGRP:Bein Sports 🇬🇧🇲🇽🇹🇷🇫🇷;Ligue 1⚽️;La Liga⚽️
+http://99.27.51.147:8080/BeinSport/index.m3u8
+
+#EXTINF:-1 tvg-chno="" cuid="1831" tvg-name="FR | Bein Sports 2" tvg-id="beIN.SPORTS.2.fr" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS2_DIGITAL_Mono.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="All Sports 🌎",Bein Sports 2 🇫🇷🏈
+#EXTGRP:Liga Betclic⚽️;Bein Sports 🇬🇧🇲🇽🇹🇷🇫🇷;La Liga⚽️;Ligue 1⚽️;Bundesliga⚽️
+http://99.27.51.147:8080/BeinSport2/index.m3u8
+
+#EXTINF:-1 tvg-chno="" cuid="1832" tvg-name="FR | Bein Sports 3" tvg-id="beIN.SPORTS.3.fr" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS3_DIGITAL_Mono.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="All Sports 🌎",Bein Sports 3 🇫🇷🎾🤾‍
+#EXTGRP:Bein Sports 🇬🇧🇲🇽🇹🇷🇫🇷;Tennis🎾
+http://99.27.51.147:8080/BeinSport3/index.m3u8
+
+---
+
 #EXTINF:-1 tvg-chno="" cuid="1812" tvg-name="Bein Sports 1" tvg-id="beINSports1.au" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_DIGITAL_Mono.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="All Sports 🌎",Bein Sports 1 🇦🇺
 #EXTGRP:Bein Sports 🇬🇧🇲🇽🇹🇷🇫🇷;Tennis🎾;La Liga⚽️
 #KODIPROP:inputstreamaddon=inputstream.adaptive
