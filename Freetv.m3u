@@ -2498,6 +2498,12 @@ https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/bcj3iscpd6/
 
 ---
 
+#EXTINF:-1 tvg-chno="" cuid="1408" tvg-id="LALIGA.TV.HYPERMOTION.es" tvg-name="Laliga TV" tvg-logo="https://github.com/iprtl/tv-logos/raw/main/countries/spain/laliga-tv-hypermotion-es.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="All Sports 🌎",laliga hypermotion 🇪🇸
+#EXTGRP:All Sports 🌎;La Liga⚽️
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a88617e904504ee291f49f0e60a51d49:17f92d59fde3b6d2bf4ffb48e8ca720a
+https://cache07.zapitv.com/live/eds_c2/HYPERMOTION1/dash_live_ez/HYPERMOTION1.mpd
+
 #EXTINF:-1 tvg-chno="" cuid="1200" tvg-id="SuperTennis.HD.it" tvg-logo="https://logo.m3uassets.com/supertennis.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="All Sports 🌎;Tennis🎾",Supertennis 🇮🇹
 https://live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c0-16/restreamer/outgest/aa3673f1-e178-44a9-a947-ef41db73211a/manifest.m3u8
 
