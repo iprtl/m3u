@@ -2780,6 +2780,38 @@ https://andro.226503.xyz/checklist/androstreamlivebs4.m3u8
 SPORTS 🇫🇷🇬🇧🇺🇸🇨🇿
 =====================🔹========================
 
+#EXTINF:-1 tvg-chno="" cuid="1860" tvg-name="" tvg-id="" tvg-logo="https://logo.m3uassets.com/setantasports.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="All Sports 🌎",Setanta Sports 1 🇺🇦
+#EXTGRP:All Sports 🌎;Bundesliga⚽️;Serie A⚽️;La Liga⚽️
+http://stream.mcquack.net/234/index.m3u8
+
+#EXTINF:-1 tvg-chno="" cuid="1862" tvg-name="" tvg-id="" tvg-logo="https://logo.m3uassets.com/setantasports.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="All Sports 🌎",Setanta Sports 2 🇺🇦
+#EXTGRP:All Sports 🌎;Serie A⚽️
+http://stream.mcquack.net/235/index.m3u8
+
+---
+
+#EXTINF:-1 tvg-chno="" cuid="1865" tvg-name="Sport1" tvg-id="" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/Sport1Ukraine.webp" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="All Sports 🌎",Sport 1 Baltik 🇺🇦
+#EXTGRP:All Sports 🌎
+http://stream.mcquack.net/461/index.m3u8
+
+#EXTINF:-1 tvg-chno="" cuid="1866" tvg-name="Sport1" tvg-id="" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/Sport2Ukraine.webp" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="All Sports 🌎",Sport 2 🇺🇦
+#EXTGRP:All Sports 🌎
+http://stream.mcquack.net/392/index.m3u8
+
+#EXTINF:-1 tvg-chno="" cuid="1866" tvg-name="Sport1" tvg-id="" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/Sport2Ukraine.webp" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="All Sports 🌎",Sport 3 🇺🇦
+#EXTGRP:All Sports 🌎
+http://stream.mcquack.net/393/index.m3u8
+
+#EXTINF:-1 tvg-chno="" cuid="1866" tvg-name="Sport1" tvg-id="" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/Sport2Ukraine.webp" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="All Sports 🌎",Sport 4 🇺🇦
+#EXTGRP:All Sports 🌎
+http://stream.mcquack.net/394/index.m3u8
+
+#EXTINF:-1 tvg-chno="" cuid="1866" tvg-name="Sport1" tvg-id="" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/Sport2Ukraine.webp" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="All Sports 🌎",Sport 5 🇺🇦
+#EXTGRP:All Sports 🌎
+http://stream.mcquack.net/212/index.m3u8
+
+---
+
 #EXTINF:-1 tvg-chno="" cuid="1868" tvg-name="Sport1" tvg-id="Sport1.cz" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/SPORT1_CZ.webp" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="All Sports 🌎",Sport 1 🇨🇿⚽️🎯
 #EXTGRP:All Sports 🌎;Europa League⚽️
 http://88.212.15.19/live/test_sport1_25p/playlist.m3u8
