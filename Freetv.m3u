@@ -3026,13 +3026,13 @@ http://stream.mcquack.net/212/index.m3u8
 ---
 
 #EXTINF:-1 tvg-chno="" cuid="1868" tvg-name="Sport1" tvg-id="Sport1.cz" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/SPORT1_CZ.webp" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="All Sports 🌎",Sport 1 🇨🇿⚽️🎯
-#EXTGRP:All Sports 🌎;Europa League⚽️
+#EXTGRP:All Sports 🌎;Europa League⚽️;Serie A⚽️
 http://88.212.15.19/live/test_sport1_25p/playlist.m3u8
 http://178.23.88.55/Sport1/index.m3u8
 
 
 #EXTINF:-1 tvg-chno="" cuid="1869" tvg-name="Sport1" tvg-id="Sport1.cz" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/SPORT1_CZ.webp" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="All Sports 🌎",Sport 1 🇨🇿⚽️🎯
-#EXTGRP:All Sports 🌎;Serie A⚽️;Europa League⚽️
+#EXTGRP:All Sports 🌎;Serie A⚽️;Europa League⚽️;Liga Betclic⚽️
 http://141.94.193.53:80/Sport_1_HD/index.m3u8
 
 ---
@@ -3226,7 +3226,7 @@ CCTV SPORTS 🇲🇳
 =====================🔹========================
 
 #EXTINF:-1 tvg-chno="" cuid="1891" tvg-id="" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV5.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="All Sports 🌎",CCTV5+
-#EXTGRP:All Sports 🌎;Premier League⚽️
+#EXTGRP:All Sports 🌎;Premier League⚽️;Ligue 1⚽️
 http://198.204.228.26/live/cctv5hd.m3u8
 https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/CCTV5PLUS.m3u8
 http://74.91.26.218:82/live/cctv5p.m3u8
@@ -3236,8 +3236,8 @@ http://223.112.114.228:50080/newlive/live/hls/180/live.m3u8
 #EXTGRP:All Sports 🌎
 http://38.75.136.137:98/gslb/dsdqpub/cctv16hd.m3u8?auth=testpub
 
-#EXTINF:-1 tvg-chno="" cuid="1892" tvg-id="" tvg-logo="https://i.imgur.com/k1U8bVZ.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="All Sports 🌎",CCTV Footbol
-#EXTGRP:All Sports 🌎
+#EXTINF:-1 tvg-chno="" cuid="1892" tvg-id="" tvg-logo="https://i.imgur.com/k1U8bVZ.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="All Sports 🌎",CCTV football
+#EXTGRP:All Sports 🌎;Ligue 1⚽️
 http://38.75.136.137:98/gslb/dsdqpub/fyzq.m3u8?auth=testpub
 
 =====================🔹========================
