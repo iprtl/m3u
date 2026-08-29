@@ -7,7 +7,7 @@
 # ――――――――――――――――――――――――――――――――――――――――――――――
 # (●) Last Update: 🔄 2026 GMT+7 "
 # (●) Service: FREETV Inspiration Links
-# (●) Total Channels: 482
+# (●) Total Channels: 463
 
 
 ⚠️ Atenção: Todas as ligações de streams disponibilizados nas listas foram retiradas da Internet. Apenas as organizo, disponibilizo e partilho. Não detenho qualquer servidor e/ou transmitimos ou re-emitimos qualquer tipo de sinal.
@@ -176,7 +176,7 @@ https://github.com/LITUATUI/M3UPT/raw/main/M3U/TVI_Internacional.m3u8
 https://github.com/thomraider12/canaistvpt/raw/main/m3u8s/tviint.m3u8
 
 #EXTINF:-1 tvg-chno="19" cuid="23" tvg-name="TVI Internacionalᶠᴴᴰ)" tvg-id="tvi.internacional.pt" tvg-logo="https://logo.m3uassets.com/tviinternacional.png" group-logo="https://cdn-icons-png.freepik.com/512/4482/4482879.png" group-title="Portugal 🇵🇹",TVI Internacional 🇵🇹
-https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yOS8yMDI2IDc6MjY6NDggUE0maGFzaF92YWx1ZT1pWkplNmovcjhOSFJVTVJNUkFYYjhRPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9MDkwYzI3NzEtNjBkMS00YzcyLWFhODEtODhkZDk4NmFiOWU3/
+https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yOS8yMDI2IDc6MTM6NSBBTSZoYXNoX3ZhbHVlPS9zZThhUk5MQmhmN1RXUVBuNHFGZmc9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD05ODM3YjI2YS04OTJjLTQ1MGMtOTNiZS1hNDA5ZTY3MTNjZDA=/
 
 
 
@@ -186,14 +186,14 @@ https://github.com/LITUATUI/M3UPT/raw/main/M3U/TVI.m3u8
 https://github.com/thomraider12/canaistvpt/raw/main/m3u8s/tvi.m3u8
 
 #EXTINF:-1 tvg-chno="22" cuid="26" tvg-name="TVI 🇵🇹" tvg-id="TVI.HD.pt" tvg-logo="https://github.com/iprtl/p1/raw/master/logo/tvi.webp" group-logo="https://cdn-icons-png.freepik.com/512/4482/4482879.png" group-title="Portugal 🇵🇹",TVI 🇵🇹
-https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yOS8yMDI2IDc6MjY6NDcgUE0maGFzaF92YWx1ZT1meThVZUdMQXlJWmZZU0ZFNm5JYjJ3PT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9MzM0MzQ4ODUtNWM2MS00MDc5LTk4ZmItMGJjMDQ3YWY3NjUw/
+https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yOS8yMDI2IDc6MTM6NCBBTSZoYXNoX3ZhbHVlPVRid1g1aWNZaTFLc21Ca0FhNUVwalE9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD04ZGI4MTkzMi1jZDgxLTQyMzAtYjM2OS0yNmQ1NWY5Y2NlZmI=/
 
 
 #EXTINF:-1 tvg-chno="24" cuid="27" tvg-name="CNN Portugal 🇵🇹" tvg-id="CNN.Portugal.HD.pt" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/cnnpt.png" group-logo="https://cdn-icons-png.freepik.com/256/5395/5395694.png" group-title="News 🇵🇹🇧🇷",CNN Portugal 🇵🇹
 https://github.com/thomraider12/canaistvpt/raw/main/m3u8s/cnnpt.m3u8
 
 #EXTINF:-1 tvg-chno="25" cuid="28" tvg-name="CNN Portugal 🇵🇹" tvg-id="CNN.Portugal.HD.pt" tvg-logo="https://github.com/iprtl/p1/raw/master/logo/cnnpt.png" group-logo="https://cdn-icons-png.freepik.com/256/5395/5395694.png" group-title="News 🇵🇹🇧🇷",CNN Portugal 🇵🇹
-https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yOS8yMDI2IDc6MjY6NDggUE0maGFzaF92YWx1ZT1LMDczZWUvRHFzanZ2ZFZOTm42N0JBPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9ZTM5OTI2NTgtYzUwOS00MmExLWJhMGEtMmIyM2VjOTk5ZTA0/
+https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yOS8yMDI2IDc6MTM6NSBBTSZoYXNoX3ZhbHVlPWlJb0VJakp3Mko5RlhJVzVCb2JpaGc9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD05Y2I1ODZkZC1jMmU2LTRjMjUtYTQzMy1jNTI2MTU4ZmNlYmQ=/
 
 
 
@@ -2823,27 +2823,27 @@ BEIN SPORTS 🇫🇷
 #EXTGRP:Bein Sports 🇬🇧🇲🇽🇹🇷🇫🇷;Ligue 1⚽️;La Liga⚽️
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"3acea01244785a6363fc04b25d696392":"f0b8f84dbd93407af6ab0b41fc774249","9d8b1b819cfdcff845625b86cc4968f3":"480b03fe4476bc187c6a9d43ba85b9db","3cf686dc4246f19bc4419c54da0f90bc":"b40f599266c8a262ccf4a384dadce08a","b6362975ca29d0685b7cac721b6faa26":"da04d180e9028af27482b6a37c81e020","6ca2f2c822444ff76d9570741dec7b2b":"9fc3d71ab30e8d33f09ee29e5e453608"}
-https://api-proxad.dc2.oqee.net/playlist/v1/live/966/1/live.mpd
++https://api-proxad.dc2.oqee.net/playlist/v1/live/966/1/live.mpd
 http://99.27.51.147:8080/BeinSport/index.m3u8
 
 #EXTINF:-1 tvg-chno="" cuid="1831" tvg-name="FR | Bein Sports 2" tvg-id="beIN.SPORTS.2.fr" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS2_DIGITAL_Mono.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="All Sports 🌎",Bein Sports 2 🇫🇷🏈
 #EXTGRP:Liga Betclic⚽️;Bein Sports 🇬🇧🇲🇽🇹🇷🇫🇷;La Liga⚽️;Ligue 1⚽️;Bundesliga⚽️
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={85ac9362e89354ef5341fe4dbee0dd6a:e556276599c55bdee169f39eab8e56bc,71fcdcfd58c608662db317fcf4411c19:eaf76e97b969a7d124a720a109acda61,6c976caa628fde89aacedbd47059967e:0d1e54565950c1e2f58d45c561a47187,7a62a516c5d980553f497c6bfc469b19:a0eeb97b4d14d6bb7a5c39755dd7c41c,f81df5cf72bd43c3da84d04dc8691fcb:4a60e4e009560c40766a0fa38770ef4e}
-https://api-proxad.dc2.oqee.net/playlist/v1/live/970/1/live.mpd
++https://api-proxad.dc2.oqee.net/playlist/v1/live/970/1/live.mpd
 http://99.27.51.147:8080/BeinSport2/index.m3u8
 
 #EXTINF:-1 tvg-chno="" cuid="1832" tvg-name="FR | Bein Sports 3" tvg-id="beIN.SPORTS.3.fr" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS3_DIGITAL_Mono.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="All Sports 🌎",Bein Sports 3 🇫🇷🎾🤾‍
 #EXTGRP:Bein Sports 🇬🇧🇲🇽🇹🇷🇫🇷;Tennis🎾
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"4281ee112555097325058cb7355035b4":"1a88899547f7fd4a5c22ee8150d89208","b4023d3a71316ed3cd06af7e43988d31":"91a96d592dd6e946b0f0074d15ac1168","441100b7de65d7c582a9c71140e46f79":"ef37dadc14bdade17224ef4bc9f87ce6","43faba2da98eeeeb42481dca873d3460":"f8b58939398e5a5574c18408d304d44e","92e8cc9527c7f56a10777278cb801027":"4ce3f3e2234f00b21ba77006f197832a"}
-https://api-proxad.dc2.oqee.net/playlist/v1/live/971/1/live.mpd
++https://api-proxad.dc2.oqee.net/playlist/v1/live/971/1/live.mpd
 http://99.27.51.147:8080/BeinSport3/index.m3u8
 
 #EXTINF:-1 tvg-chno="" cuid="1832" tvg-name="FR | Bein Sports 4" tvg-id="beIN.SPORTS.4.fr" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS3_DIGITAL_Mono.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="All Sports 🌎",Bein Sports 4 🇫🇷🎾🤾‍
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"9502ee217a75900cf2d7608b1a186a03":"fcd6e00f9ecf85f3b4ea91471c9ef02e","b346d39ea28f79dcf8b4a1de35bc4c3a":"21275742c1da5f3ace30bb3a6033005b","b86d79f122e8955d39269e6a3d2e4ed0":"bb34dae1b1b4754fc806e42779f22b1e","0f2dac86df555a5a7576dadcf5862fda":"490f20b0316313d2025264b700ad7e1f"}
-https://api-proxad.dc2.oqee.net/playlist/v1/live/972/1/live.mpd
++https://api-proxad.dc2.oqee.net/playlist/v1/live/972/1/live.mpd
 
 ---
 
@@ -2851,57 +2851,45 @@ https://api-proxad.dc2.oqee.net/playlist/v1/live/972/1/live.mpd
 #EXTGRP:Liga Betclic⚽️;Bein Sports 🇬🇧🇲🇽🇹🇷🇫🇷;Bundesliga⚽️;Tennis🎾
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"02ad8d8ffd80b50567796e694b7a2927":"07ce8279537ed26fe831b5343aa55969","2979e661ef50e56026975f5709548b97":"8bb43f5394f362104d25c96426ec5bf8","9bc136d8d6c860b62e0adac003e4d3d9":"ae5c9a9e504a4fe273760c80e7fe1eae","927a104e0407af9133e307e1f84d9b1e":"700d027f34b3fedb75defa9c558faabe"}
-https://api-proxad.dc2.oqee.net/playlist/v1/live/972/1/live.mpd
-
-
-#EXTINF:-1 tvg-chno="" cuid="1834" tvg-name="FR | Bein Sports MAX 4" tvg-id="beIN.SPORTS.MAX.4.fr" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/be-in-sport-max-4.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="All Sports 🌎",Bein Sports MAX 4 🇫🇷⚽️
-#EXTGRP:Liga Betclic⚽️;Bein Sports 🇬🇧🇲🇽🇹🇷🇫🇷;Bundesliga⚽️;Tennis🎾
-#EXTVLCOPT:http-user-agent=Wink/1.31.1
-+http://195.128.27.141:80/play/live.php?mac=00:1A:79:24:1B:18&stream=229&extension=m3u8
-
-#EXTINF:-1 tvg-chno="" cuid="1835" tvg-name="FR | Bein Sports MAX 4" tvg-id="beIN.SPORTS.MAX.4.fr" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/be-in-sport-max-4.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="All Sports 🌎",Bein Sports MAX 4 🇫🇷⚽️
-#EXTGRP:Liga Betclic⚽️;Bein Sports 🇬🇧🇲🇽🇹🇷🇫🇷;Bundesliga⚽️;Tennis🎾
-#EXTVLCOPT:http-user-agent=Wink/1.31.1
-http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:cb:6d:d7&stream=1917423&extension=ts&play_token=DQ5HNSwg7B
-
++https://api-proxad.dc2.oqee.net/playlist/v1/live/972/1/live.mpd
 
 
 #EXTINF:-1 tvg-chno="" cuid="1836" tvg-name="FR | Bein Sports MAX 5" tvg-id="beIN.SPORTS.MAX.5.fr" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/be-in-sport-max-5.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="All Sports 🌎",Bein Sports MAX 5 🇫🇷
 #EXTGRP:Liga Betclic⚽️;Bein Sports 🇬🇧🇲🇽🇹🇷🇫🇷;Bundesliga⚽️;La Liga⚽️
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={b0478fd26424e88fa1e6478ee35d7f08:f5044242d8d224cae4087fd8ef654023,2275129f285677145e34eb8be249ae4a:75055c6051d650c529627b1e626f530a,2eb72cb8d525719cdda3e1f5cc43b342:e0797e22865754872052015dda2905f7,0ad2dbd3aefe207034f24050ebc98cd1:0b121fe769d0b1b45a3a6bb8c40e3405}
-https://api-proxad.dc2.oqee.net/playlist/v1/live/973/1/live.mpd
++https://api-proxad.dc2.oqee.net/playlist/v1/live/973/1/live.mpd
 
 
 #EXTINF:-1 tvg-chno="" cuid="1837" tvg-name="FR | Bein Sports MAX 6" tvg-id="beIN.SPORTS.MAX.6.fr" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/be-in-sport-max-6.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="All Sports 🌎",Bein Sports MAX 6 🇫🇷
 #EXTGRP:Liga Betclic⚽️;Bein Sports 🇬🇧🇲🇽🇹🇷🇫🇷;Bundesliga⚽️;La Liga⚽️
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={c98631345149436c3778caeab57d97c5:6125590eb9a0cb8c9a17dd2680000292,9f899ca412e180776f885c0c214b02a0:3f357dd3dfaf92623903ca91b88b05f4,03ee66e926f6a34a1815f117bc12799c:1dc895a43e207f02bd2fce62de5fbd3a,257180b06ff9cbcdbaabc1ae37650f9e:a00768d01bc82c2dd7e211c59addc9a6}
-https://api-proxad.dc2.oqee.net/playlist/v1/live/974/1/live.mpd
++https://api-proxad.dc2.oqee.net/playlist/v1/live/974/1/live.mpd
 
 #EXTINF:-1 tvg-chno="" cuid="1838" tvg-name="FR | Bein Sports MAX 7" tvg-id="beIN.SPORTS.MAX.7.fr" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/be-in-sport-max-7.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="All Sports 🌎",Bein Sports MAX 7 🇫🇷⚽️🏒🐴
 #EXTGRP:Bein Sports 🇬🇧🇲🇽🇹🇷🇫🇷;Liga Betclic⚽️;Bundesliga⚽️
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={3fabbf841767a645ad2d85c1e099e94d:bde635aa3028aab38d680672f88a0c7c,c4c64f1414958cde07fe40cd85f2238c:ce2887b843b7590a5ee083a4d8f667c2,6de1fab48d825b39a63746d89e90a848:2435a1110e892b7da94e79a7bd49b49c,337348892caabbb14763548ccb1a6ac7:7445c17d6da33a64ea8238a433f9cbe3}
-https://api-proxad.dc2.oqee.net/playlist/v1/live/975/1/live.mpd
++https://api-proxad.dc2.oqee.net/playlist/v1/live/975/1/live.mpd
 
 #EXTINF:-1 tvg-chno="" cuid="1839" tvg-name="FR | Bein Sports MAX 8" tvg-id="beIN.SPORTS.MAX.8.fr" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/be-in-sport-max-8.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="All Sports 🌎",Bein Sports MAX 8 🇫🇷⚽️
 #EXTGRP:Bein Sports 🇬🇧🇲🇽🇹🇷🇫🇷
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={9f2c98006a33bbc83f7c03ef3530403b:546b1d34b1be111c513d38fecaea99e4,eb4949796839b08918bc4ebc25aceba6:9b53a7fc07fa9051aacf8bc693b187b0,d0525914e6c3e6be6fe85dcdb8a3be2f:da1c96b903c0c252f1b1d82f2517c07e,4b09dd7a5aff601212f3d498309e467c:7ed57d36a85bba88b737693ab368330e}
-https://api-proxad.dc2.oqee.net/playlist/v1/live/976/1/live.mpd
++https://api-proxad.dc2.oqee.net/playlist/v1/live/976/1/live.mpd
 
 #EXTINF:-1 tvg-chno="" cuid="1840" tvg-name="FR | Bein Sports MAX 9" tvg-id="beIN.SPORTS.MAX.9.fr" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/be-in-sport-max-9.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="All Sports 🌎",Bein Sports MAX 9 🇫🇷⚽️🤾‍
 #EXTGRP:Bein Sports 🇬🇧🇲🇽🇹🇷🇫🇷;La Liga⚽️
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={4526ccd7d499b0b24011ce5adce18656:3d2ed80cf1f5a9a4b9a7621b9e6c4e2a,e2006d8a33025cd7943a5f02001781ec:35c7b2ec27f2b37492707a8b4cd37154,1a31894f0c41a0fe0c508784d0d1569b:121164311f7b308a37e5504b717ae3d5,a8d5f0e00214e3777d75b89b05daf64d:f0371e88f6c2bf7844d69d9b9e0a52af}
-https://api-proxad.dc2.oqee.net/playlist/v1/live/977/1/live.mpd
++https://api-proxad.dc2.oqee.net/playlist/v1/live/977/1/live.mpd
 
 #EXTINF:-1 tvg-chno="" cuid="1841" tvg-name="FR | Bein Sports MAX 10" tvg-id="beIN.SPORTS.MAX.10.fr" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/be-in-sport-max-10.png"  group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="All Sports 🌎",Bein Sports MAX 10 🇫🇷⚽️
 #EXTGRP:Bein Sports 🇬🇧🇲🇽🇹🇷🇫🇷
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ca1d0a53a606f8ffeb028f6b2477baa3:388a61759de362dfcadef721b936d69a,15dabcf1eabc8717842feb65f7152107:7380f61795caebec26b0713bce2a4e3d,f9c2a25bbabc8d3804df46418069ef07:27ca457a2bb9751a5c1eb158474346a0,c41b8b295c08307ddc1e3a22ea912772:d925fe683ed91e5837aaa4e5147ad885}
-https://api-proxad.dc2.oqee.net/playlist/v1/live/978/1/live.mpd
++https://api-proxad.dc2.oqee.net/playlist/v1/live/978/1/live.mpd
 
 =====================🔹========================
 BEIN SPORTS 🇦🇺
