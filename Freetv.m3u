@@ -2589,7 +2589,7 @@ https://live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c
 
 #EXTINF:-1 tvg-chno="" cuid="1805" tvg-name="Rai Sport" tvg-id="RaiSport.it" tvg-logo="https://logo.m3uassets.com/raisport.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="All Sports 🌎;Tennis🎾";Europa League⚽️;Premier League⚽️,Rai Sport 🇮🇹
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=358025&output=7&forceUserAgent=raiplayappletv
++https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=358025&output=7&forceUserAgent=raiplayappletv
 
 
 
@@ -3095,7 +3095,7 @@ https://galandriel1.thobias11.cfd/puk5/usergen0grnd3y8.m3u8
 ---
 
 #EXTINF:-1 tvg-chno="" cuid="1915" tvg-id="Nova.Sport.1.HD.sk" tvg-name="" tvg-logo="https://logo.m3uassets.com/novasport1.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="All Sports 🌎",Nova Sport 1 🇸🇰
-#EXTGRP:All Sports 🌎
+#EXTGRP:All Sports 🌎;Ligue 1⚽️
 #EXTVLCOPT:http-referer=https://webtv.sk/tv/
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -3138,7 +3138,7 @@ https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/dr_spotv2hd.mpd
 #EXTINF:-1 tvg-chno="" cuid="1960" tvg-id="S.SPORT.tr" tvg-name="S SPORT" tvg-logo="https://logo.m3uassets.com/ssport.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="All Sports 🌎",S Sport 🇹🇷
 #EXTGRP:All Sports 🌎;La Liga⚽️;Eredivisie⚽️
 #EXTVLCOPT:http-referrer=https://www.selcuksportshd.is
-https://dga1op10s1u3leo.6c2c54919ddfa1.click/live/sssport/playlist.m3u8
++https://dga1op10s1u3leo.6c2c54919ddfa1.click/live/sssport/playlist.m3u8
 
 =====================🔹========================
 NOW SPORTS 🇭🇰
