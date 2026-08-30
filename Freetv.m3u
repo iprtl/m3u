@@ -2481,7 +2481,7 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/o2vy4aahsh/out/v1
 
 
 =====================🔹========================
-VARIOUS SPORTS CHANNELS 🌎
+FS SPORTS CHANNELS 🇺🇸
 =====================🔹========================
 
 #EXTINF:-1 tvg-chno="" cuid="1313" tvg-id="FS1.HD.us2" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/FS1.webp" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="All Sports 🌎",FS1 🇺🇸
@@ -2497,15 +2497,31 @@ https://otte-qw.live.pv-cdn.net/gru-nitro/live/clients/dash/enc/cizlveblk4/out/v
 #KODIPROP:inputstream.adaptive.license_key=09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd
 
----
+=====================🔹========================
+STAN SPORTS CHANNELS 🇺🇸
+=====================🔹========================
 
-#EXTINF:-1 tvg-chno="" cuid="1517" tvg-id="Stan.Sport.Dummy.us" tvg-name="" tvg-logo="https://logo.m3uassets.com/stansport.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="All Sports 🌎",Stam Sport
+#EXTINF:-1 tvg-chno="" cuid="1517" tvg-id="Stan.Sport.Dummy.us" tvg-name="" tvg-logo="https://logo.m3uassets.com/stansport.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="All Sports 🌎",Stan Sport 🇬🇧
 #EXTGRP:All Sports 🌎;Premier League⚽️
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
 https://livecdn-tc-iptv.rumsport10.live/live_abr/143072/720p/chunks.m3u8?is_vip=false&token=1788160649-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-7b59b976919abdfebdea51251a4a2439
 
----
+#EXTINF:-1 tvg-chno="" cuid="1517" tvg-id="Stan.Sport.Dummy.us" tvg-name="" tvg-logo="https://logo.m3uassets.com/stansport.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="All Sports 🌎",Stan Sport₂ 🇬🇧
+#EXTGRP:All Sports 🌎;Premier League⚽️
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-iptv.rumsport10.live/live_abr/143071/720p/chunks.m3u8?is_vip=false&token=1788184955-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-b4e00472abf1457ece0821eb7dedfe04
+
+#EXTINF:-1 tvg-chno="" cuid="1517" tvg-id="Stan.Sport.Dummy.us" tvg-name="" tvg-logo="https://logo.m3uassets.com/stansport.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="All Sports 🌎",Stan Sport₃ 🇬🇧
+#EXTGRP:All Sports 🌎;Premier League⚽️
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-iptv.rumsport10.live/live_abr/143073/720p/chunks.m3u8?is_vip=false&token=1788184960-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-6e70fefece809926b1a9b68270467614
+
+=====================🔹========================
+SKY SPORTS CHANNELS 🇺🇸
+=====================🔹========================
 
 #EXTINF:-1 tvg-chno="" cuid="1542" tvg-id="SkySp+.uk" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/SkySportsplus.webp" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="All Sports 🌎",Sky Sport+ 🇬🇧
 #EXTGRP:All Sports 🌎;Tennis🎾;Premier League⚽️
@@ -2522,7 +2538,9 @@ https://xemzi.short.gy/2000002
 #EXTGRP:All Sports 🌎;Premier League⚽️
 https://stalkerportal.gojosare123.workers.dev/?c=eyJtb2RlIjoic3RhbGtlciIsInN0YWxrZXJfdXJsIjoiaHR0cDovL25ldy5kaXR0b3R2di5jYy9zdGFsa2VyX3BvcnRhbCIsIm1hYyI6IjAwOjFBOjc5OjAwOjgxOjUzIiwic24iOiI4N0ZEODg3MzRGQTg5IiwiZGV2aWNlX2lkMSI6IjIyMTlEMjgzQzg0OEFDNkU5QkE2OEE3MTM5QTQ5RDdERTgxMDM2MkMyOTBGMkFCMkJEM0FCRDE4MURFNTI5REEiLCJkZXZpY2VfaWQyIjoiMjIxOUQyODNDODQ4QUM2RTlCQTY4QTcxMzlBNDlEN0RFODEwMzYyQzI5MEYyQUIyQkQzQUJEMTgxREU1MjlEQSJ9&id=1959
 
----
+=====================🔹========================
+SS SPORTS CHANNELS 🇮🇳
+=====================🔹========================
 
 #EXTINF:-1 tvg-chno="" cuid="1539" tvg-id="Star.Sports.Select.1.in" tvg-name="STAR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/Star_Sports_Select_logo.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="All Sports 🌎",SS Select 1 🇮🇳
 #EXTGRP:All Sports 🌎;Premier League⚽️
@@ -2535,7 +2553,7 @@ https://stalkerportal.gojosare123.workers.dev/?c=eyJtb2RlIjoic3RhbGtlciIsInN0YWx
 ---
 
 #EXTINF:-1 tvg-chno="" cuid="1501" tvg-id="TNT.Sports.1.HD.uk" tvg-name="TNT SPORTS 01" tvg-logo="https://github.com/iprtl/tv-logos/raw/main/countries/united-kingdom/tnt-sports-1-uk.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="All Sports 🌎",TNT Sports 1 🇬🇧⚽️🏉🎱🏏
-#EXTGRP:All Sports 🌎;champions league⚽️;Europa League⚽️;Serie A⚽️;Premier League⚽️
+#EXTGRP:All Sports 🌎;champions league⚽️;Europa League⚽️;Serie A⚽️
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd
