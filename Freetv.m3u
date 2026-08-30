@@ -2998,11 +2998,11 @@ SPORTS 🇫🇷🇬🇧🇺🇸🇨🇿
 http://stream.mcquack.net/390/index.m3u8
 
 #EXTINF:-1 tvg-chno="" cuid="1860" tvg-name="" tvg-id="" tvg-logo="https://logo.m3uassets.com/setantasports.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="All Sports 🌎",Setanta Sports 1 🇺🇦
-#EXTGRP:All Sports 🌎;Bundesliga⚽️;Serie A⚽️;La Liga⚽️
+#EXTGRP:All Sports 🌎;Bundesliga⚽️;Serie A⚽️;La Liga⚽️;Ligue 1⚽️
 http://stream.mcquack.net/234/index.m3u8
 
 #EXTINF:-1 tvg-chno="" cuid="1862" tvg-name="" tvg-id="" tvg-logo="https://logo.m3uassets.com/setantasports.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="All Sports 🌎",Setanta Sports 2 🇺🇦
-#EXTGRP:All Sports 🌎;Serie A⚽️
+#EXTGRP:All Sports 🌎;Serie A⚽️;Bundesliga⚽️
 http://stream.mcquack.net/235/index.m3u8
 
 ---
@@ -3082,10 +3082,10 @@ PRIMA SPORT & NOVA SPORT 🇸🇰🇨🇿🇷🇴
 #EXTGRP:All Sports 🌎;La Liga⚽️
 #EXTVLCOPT:http-referrer=https://rohan116.ultronx1.cfd/000/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-https://rohan116.ultronx1.cfd/puk1/usergenrx0cir27aq.m3u8
++https://rohan116.ultronx1.cfd/puk1/usergenrx0cir27aq.m3u8
 
 #EXTINF:-1 tvg-chno="" cuid="1911" tvg-id="Prima.Sport.2.HD.ro" tvg-name="" tvg-logo="https://logo.m3uassets.com/primasport2.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="All Sports 🌎",Prima Sport 2 🇷🇴
-#EXTGRP:All Sports 🌎;Serie A⚽️;La Liga⚽️;MotoGP🏍
+#EXTGRP:All Sports 🌎;Serie A⚽️;La Liga⚽️;MotoGP🏍;Bundesliga⚽️
 #EXTVLCOPT:http-referrer=https://arwen1.panaka1.cfd/000/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 https://arwen1.panaka1.cfd/puk2/usergenrnd0clv03fyt.m3u8
@@ -3197,7 +3197,6 @@ NOW SPORTS 🇭🇰
 
 #EXTINF:-1 tvg-chno="" cuid="1885" tvg-id="Матч! Футбол 1.ru" tvg-logo="https://github.com/iprtl/p1/raw/master/logo/%D0%9C%D0%B0%D1%82%D1%87!%D0%A4%D1%83%D1%82%D0%B1%D0%BE%D0%BB1.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="All Sports 🌎",Матч!Футбол 1 🇷🇺
 #EXTGRP:All Sports 🌎;Serie A⚽️;Liga Betclic⚽️
-#EXTM3U x-tvg-url="https://warningfm.github.io/x1/epg/guide.xml.gz"
 http://stream.mcquack.net/130/index.m3u8
 
 
@@ -3244,16 +3243,7 @@ http://38.75.136.137:98/gslb/dsdqpub/cctv16hd.m3u8?auth=testpub
 #EXTGRP:All Sports 🌎;Ligue 1⚽️
 http://38.75.136.137:98/gslb/dsdqpub/fyzq.m3u8?auth=testpub
 
-=====================🔹========================
-Turcos SPORTS 🇹🇲
-=====================🔹========================
 
-#EXTINF:-1 cuid="1893" tvg-name="Turkmenistan Sport 🇹🇲" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/be/Turkmenistan_Sport.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="All Sports 🌎",Turkmenistan Sport 🇹🇲
-#EXTGRP:All Sports 🌎
-https://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8
-#EXTINF:-1 cuid="1894" tvg-name="Turkmenistan Sport 🇹🇲" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/be/Turkmenistan_Sport.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="All Sports 🌎",Turkmenistan Sport 🇹🇲
-#EXTGRP:All Sports 🌎
-http://217.174.225.146/legacyhls/ch004_720/index.m3u8
 
 
 
