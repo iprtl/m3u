@@ -2491,7 +2491,7 @@ VARIOUS SPORTS CHANNELS 🌎
 https://otte-qw.live.pv-cdn.net/gru-nitro/live/clients/dash/enc/cizlveblk4/out/v1/e5c36c41621e4384b80427d87199433a/cenc.mpd
 
 #EXTINF:-1 tvg-chno="" cuid="1317" tvg-id="FS2.HD.us2" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/FS2.webp" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="All Sports 🌎",FS2 🇺🇸
-#EXTGRP:All Sports 🌎;Formula1🏎️;Rugby&NFL🏈🏉
+#EXTGRP:All Sports 🌎;Formula1🏎️;Rugby&NFL🏈🏉;MotoGP🏍
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae
@@ -2512,7 +2512,7 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1
 
 
 #EXTINF:-1 tvg-chno="" cuid="1503" tvg-id="TNT.Sports.2.HD.uk" tvg-name="TNT SPORTS 02" tvg-logo="https://github.com/iprtl/tv-logos/raw/main/countries/united-kingdom/tnt-sports-2-uk.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="All Sports 🌎",TNT Sports 2 🇬🇧⚽️🐴🎱
-#EXTGRP:All Sports 🌎;champions league⚽️;Europa League⚽️;Serie A⚽️
+#EXTGRP:All Sports 🌎;champions league⚽️;Europa League⚽️;Serie A⚽️;MotoGP🏍
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd
@@ -2558,7 +2558,7 @@ https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/bcj3iscpd6/
 ---
 
 #EXTINF:-1 tvg-chno="" cuid="1513" tvg-id="" tvg-logo="https://iili.io/KWn2Z0u.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="All Sports 🌎",Fancode Live₁ 🇬🇧
-#EXTGRP:All Sports 🌎;La Liga⚽️
+#EXTGRP:All Sports 🌎;La Liga⚽️;MotoGP🏍
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca
@@ -3065,7 +3065,7 @@ PRIMA SPORT & NOVA SPORT 🇸🇰🇨🇿🇷🇴
 https://rohan116.ultronx1.cfd/puk1/usergenrx0cir27aq.m3u8
 
 #EXTINF:-1 tvg-chno="" cuid="1911" tvg-id="Prima.Sport.2.HD.ro" tvg-name="" tvg-logo="https://logo.m3uassets.com/primasport2.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="All Sports 🌎",Prima Sport 2 🇷🇴
-#EXTGRP:All Sports 🌎;Serie A⚽️;La Liga⚽️
+#EXTGRP:All Sports 🌎;Serie A⚽️;La Liga⚽️;MotoGP🏍
 #EXTVLCOPT:http-referrer=https://arwen1.panaka1.cfd/000/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 https://arwen1.panaka1.cfd/puk2/usergenrnd0clv03fyt.m3u8
