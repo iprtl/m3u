@@ -1908,6 +1908,14 @@ https://cdn.global.elektamedia.com/live/c7eds/ENT_Family/SA_LIVE_hls_enc/master.
 FRANCESES
 =====================🔹========================
 
+#EXTINF:-1 tvg-chno="" cuid="541" tvg-name="W9" tvg-id="W9.fr" tvg-logo="https://logo.m3uassets.com/w9.png" group-logo="https://cdn-icons-png.freepik.com/512/2490/2490481.png" group-logo="https://cdn-icons-png.freepik.com/512/2490/2490481.png" group-title="Channels 🇫🇷",W9 🇫🇷
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e8ae44faa1e73658bfe725dec8204259:d90e4519b41352e2791370dfcc20406b
+https://origin-m6web.live.6cloud.fr/out/v1/6play/6play-w9/cmaf_cenc00/dash-short-hd.mpd
+
 #EXTINF:-1 tvg-chno="" cuid="547" tvg-name="TV5 Monde Voyage" tvg-id="FR1800004EP" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR1800004EP_20241015T160012SQUARE.png" group-logo="https://cdn-icons-png.freepik.com/512/2490/2490481.png" group-title="Channels 🇫🇷",TV5 Monde Voyage 🇫🇷 (💬🇧🇷)
 https://d1qvkge2x4ev90.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-8q6p9i1t9dw2k/tvfvo.m3u8
 
