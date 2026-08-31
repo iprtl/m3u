@@ -176,7 +176,7 @@ https://github.com/LITUATUI/M3UPT/raw/main/M3U/TVI_Internacional.m3u8
 https://github.com/thomraider12/canaistvpt/raw/main/m3u8s/tviint.m3u8
 
 #EXTINF:-1 tvg-chno="19" cuid="23" tvg-name="TVI Internacionalᶠᴴᴰ)" tvg-id="tvi.internacional.pt" tvg-logo="https://logo.m3uassets.com/tviinternacional.png" group-logo="https://cdn-icons-png.freepik.com/512/4482/4482879.png" group-title="Portugal 🇵🇹",TVI Internacional 🇵🇹
-https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8zMS8yMDI2IDU6NTE6MTAgQU0maGFzaF92YWx1ZT0zMXVBazlEOFNMYUs4dTlndVRPT3pRPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9Njk5ODFhZTktMDU1ZC00ZWYzLWFiZmQtYmY1MmExNjUwNGQ1/
+https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8zMC8yMDI2IDc6MjI6NiBQTSZoYXNoX3ZhbHVlPVdzQ25yUXBxL2h6ZlFpNGJZeStYaWc9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD0yYmNiYzk5NC03M2Q0LTRlMDAtODU5ZS1lOTNhZjRkYjcyMDk=/
 
 
 
@@ -186,14 +186,14 @@ https://github.com/LITUATUI/M3UPT/raw/main/M3U/TVI.m3u8
 https://github.com/thomraider12/canaistvpt/raw/main/m3u8s/tvi.m3u8
 
 #EXTINF:-1 tvg-chno="22" cuid="26" tvg-name="TVI 🇵🇹" tvg-id="TVI.HD.pt" tvg-logo="https://github.com/iprtl/p1/raw/master/logo/tvi.webp" group-logo="https://cdn-icons-png.freepik.com/512/4482/4482879.png" group-title="Portugal 🇵🇹",TVI 🇵🇹
-https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8zMS8yMDI2IDU6NTE6OCBBTSZoYXNoX3ZhbHVlPXJlVUZGUGZobk03elpMSTJVbTZyMUE9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD0yYzgwNzRiYS1iOTYwLTQ4YjUtOTI2Zi0xY2Y0MGU5ODU3ZTA=/
+https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8zMC8yMDI2IDc6MjI6NSBQTSZoYXNoX3ZhbHVlPUFmK0xJOW9IMWVYUkE5UmU5ci9jZnc9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD03YWZjYWE3ZC00OWQxLTQ0MjAtODNmZi04NmI2ZjNhYzVmYzA=/
 
 
 #EXTINF:-1 tvg-chno="24" cuid="27" tvg-name="CNN Portugal 🇵🇹" tvg-id="CNN.Portugal.HD.pt" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/cnnpt.png" group-logo="https://cdn-icons-png.freepik.com/256/5395/5395694.png" group-title="News 🇵🇹🇧🇷",CNN Portugal 🇵🇹
 https://github.com/thomraider12/canaistvpt/raw/main/m3u8s/cnnpt.m3u8
 
 #EXTINF:-1 tvg-chno="25" cuid="28" tvg-name="CNN Portugal 🇵🇹" tvg-id="CNN.Portugal.HD.pt" tvg-logo="https://github.com/iprtl/p1/raw/master/logo/cnnpt.png" group-logo="https://cdn-icons-png.freepik.com/256/5395/5395694.png" group-title="News 🇵🇹🇧🇷",CNN Portugal 🇵🇹
-https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8zMS8yMDI2IDU6NTE6OSBBTSZoYXNoX3ZhbHVlPXA4Zi9xczNVbDFZcFZWdVU3czRnalE9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD1kZjRhNWYyNC0wZTJjLTRiOTctOGI3OC0xMzgxZGRhZDBjY2U=/
+https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8zMC8yMDI2IDc6MjI6NSBQTSZoYXNoX3ZhbHVlPXUzOHBUaFJ6cVBCaDhaVDc2RUl6bGc9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD1mOTBmODA1NS0zMGE0LTQ1NzItOTA2NC0wNTIzZWYzOTdkMTE=/
 
 
 
@@ -2234,47 +2234,6 @@ https://a122aivottlinear-a.akamaihd.net/OTTB/bom-nitro/live/clients/dash/enc/ssd
 
 ---
 
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name=""  tvg-logo="https://logo.m3uassets.com/fox+.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="All Sports 🌎",Fox +
-#EXTGRP:All Sports 🌎;Premier League⚽️;Bundesliga⚽️;Ligue 1⚽️
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8ec2e6248abe2e10e16e439c9b85ffd8:f121b015c2a5197828355fb6a874c297
-https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/worucjnctz/out/v1/20ac5ecdc9b848dc92e7f1188bdf6ff6/cenc.mpd
-
-#EXTINF:-1 tvg-chno="" cuid="1691" tvg-name="Fox Sports" tvg-id="FOX.SPORTS.PREMIUM.mx" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/FoxSports.webp" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="All Sports 🌎",Fox Sports Premium 🇲🇽
-#EXTGRP:All Sports 🌎;Formula1🏎️
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9f327d24c66fbd84e15ab5c9ead7c7a4:83837185529c0c4048f81386c2d36426
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/dash/enc/fdx74zqzhu/out/v1/7d7a8c6981a842b98a683e9fbfe51d17/cenc.mpd
-
-#EXTINF:-1 tvg-chno="98.2" tvg-id="Fox.Deportes.HD.us2" tvg-name="Fox Deportes" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/Fox_Deportes_2021.svg/revision/latest/scale-to-width-down/300?cb=20210601130410" group-title="All Sports 🌎",Fox Deportes
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd
-
-#EXTINF:-1 tvg-chno="" cuid="1688" tvg-name="Fox Sports" tvg-id="Canal.Fox.Sports.(México).mx" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/FoxSports.webp" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="All Sports 🌎",Fox Sports 1 🇲🇽
-#EXTGRP:All Sports 🌎
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2fbdaa3bea0d0323ae011b318d1db716:8726ef7eaf5b9dce15fb6aa9f80bd53f
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/dash/enc/oboxe53wyo/out/v1/f7892a9d706d419a846d738fa22ea33e/cenc.mpd
-
-#EXTINF:-1 tvg-chno="" cuid="1689" tvg-name="Fox Sports" tvg-id="FOX.SPORTS.2.mx" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/FoxSports.webp" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="All Sports 🌎",Fox Sports 2 🇲🇽
-#EXTGRP:All Sports 🌎
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8836fb04d62dc64c9f8a39ef8640d5eb:d4f05ce56c5231b7cdf53455bea58621
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/dash/enc/tepjqej1ys/out/v1/c9c9159baee749a19612b1598495859a/cenc.mpd
-
-#EXTINF:-1 tvg-chno="" cuid="1690" tvg-name="Fox Sports" tvg-id="Canal.Fox.Sports.3.(México).mx" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/FoxSports.webp" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="All Sports 🌎",Fox Sports 3 🇲🇽
-#EXTGRP:All Sports 🌎
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=11c8c1c2ef0385cf1e64d44bb9c3a395:5769730ffbdc4b2fd8945929d9ace063
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/dash/enc/wybgz0orr8/out/v1/2f6d1612abd44f5883917f8a585b955f/cenc.mpd
-
----
-
 #EXTINF:-1 tvg-chno="" cuid="1696" tvg-name="DSPORTS" tvg-id="DSPORTS.(COL).(DTSC).co" tvg-logo="https://logo.m3uassets.com/dsports.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="All Sports 🌎",DSports 🇨🇷🇬🇹
 #EXTGRP:Liga Betclic⚽️;All Sports 🌎;La Liga⚽️
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -2318,6 +2277,43 @@ http://38.49.128.38:8000/play/a0cm/index.m3u8
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+=====================🔹========================
+FUTEBOL BRASILEIRO CHANNELS 🇧🇷
+=====================🔹========================
+
+#EXTINF:-1 tvg-chno="" cuid="333" tvg-name="Globo" tvg-id="São.Paulo/SP..Globo.br" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/35/TVGlobo2025.png" group-title="All Sports 🌎",Globo sᴘ ⚽️ 🇧🇷
+#EXTGRP:Fotebol Brasileiro 🇧🇷
+http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8
+
+#EXTINF:-1 cuid="1480" tvg-name="" tvg-id="GETV" tvg-logo="https://imgur.com/qHZ23Ue.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="All Sports 🌎",GE TV 🇧🇷
+#EXTGRP:Fotebol Brasileiro 🇧🇷
+https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/Globo/GE_Fast_BR/GE_Fast.m3u8
 
 
 
@@ -2427,6 +2423,47 @@ https://tkx.mp.lura.live/rest/v2/mcp/video/univision-tudn?anvack=8Q6d5qd2lubv3MR
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=763ce1ebcaf23502c8cf357c6ef423e1:0c5e6c0820a1ea28753721db00272411
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/o2vy4aahsh/out/v1/e293c932745a44dcaf897573dfc53532/cenc.mpd
+
+---
+
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name=""  tvg-logo="https://logo.m3uassets.com/fox+.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="All Sports 🌎",Fox +
+#EXTGRP:All Sports 🌎;Premier League⚽️;Bundesliga⚽️;Ligue 1⚽️
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8ec2e6248abe2e10e16e439c9b85ffd8:f121b015c2a5197828355fb6a874c297
+https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/worucjnctz/out/v1/20ac5ecdc9b848dc92e7f1188bdf6ff6/cenc.mpd
+
+#EXTINF:-1 tvg-chno="" cuid="1691" tvg-name="Fox Sports" tvg-id="FOX.SPORTS.PREMIUM.mx" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/FoxSports.webp" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="All Sports 🌎",Fox Sports Premium 🇲🇽
+#EXTGRP:All Sports 🌎;Formula1🏎️
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9f327d24c66fbd84e15ab5c9ead7c7a4:83837185529c0c4048f81386c2d36426
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/dash/enc/fdx74zqzhu/out/v1/7d7a8c6981a842b98a683e9fbfe51d17/cenc.mpd
+
+#EXTINF:-1 tvg-chno="98.2" tvg-id="Fox.Deportes.HD.us2" tvg-name="Fox Deportes" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/Fox_Deportes_2021.svg/revision/latest/scale-to-width-down/300?cb=20210601130410" group-title="All Sports 🌎",Fox Deportes
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd
+
+#EXTINF:-1 tvg-chno="" cuid="1688" tvg-name="Fox Sports" tvg-id="Canal.Fox.Sports.(México).mx" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/FoxSports.webp" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="All Sports 🌎",Fox Sports 1 🇲🇽
+#EXTGRP:All Sports 🌎
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2fbdaa3bea0d0323ae011b318d1db716:8726ef7eaf5b9dce15fb6aa9f80bd53f
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/dash/enc/oboxe53wyo/out/v1/f7892a9d706d419a846d738fa22ea33e/cenc.mpd
+
+#EXTINF:-1 tvg-chno="" cuid="1689" tvg-name="Fox Sports" tvg-id="FOX.SPORTS.2.mx" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/FoxSports.webp" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="All Sports 🌎",Fox Sports 2 🇲🇽
+#EXTGRP:All Sports 🌎
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8836fb04d62dc64c9f8a39ef8640d5eb:d4f05ce56c5231b7cdf53455bea58621
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/dash/enc/tepjqej1ys/out/v1/c9c9159baee749a19612b1598495859a/cenc.mpd
+
+#EXTINF:-1 tvg-chno="" cuid="1690" tvg-name="Fox Sports" tvg-id="Canal.Fox.Sports.3.(México).mx" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/FoxSports.webp" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="All Sports 🌎",Fox Sports 3 🇲🇽
+#EXTGRP:All Sports 🌎
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11c8c1c2ef0385cf1e64d44bb9c3a395:5769730ffbdc4b2fd8945929d9ace063
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/dash/enc/wybgz0orr8/out/v1/2f6d1612abd44f5883917f8a585b955f/cenc.mpd
 
 
 
