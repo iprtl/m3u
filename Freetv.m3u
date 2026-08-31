@@ -2881,13 +2881,13 @@ BEIN SPORTS Xtra
 =====================🔹========================
 
 #EXTINF:-1 tvg-chno="" cuid="1810" tvg-name="beIN.SPORTS.XTRA" tvg-id="plex.tv.beIN.SPORTS.XTRA.plex" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/bein-sports-xtra-us.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="All Sports 🌎",Bein Sports Xtra 🇬🇧🇲🇽
-#EXTGRP:All Sports 🌎;Bein Sports 🇬🇧🇲🇽🇹🇷🇫🇷;Formula1🏎️
+#EXTGRP:Bein Sports 🇬🇧🇲🇽🇹🇷🇫🇷;Formula1🏎️
 https://bein-xtra-xumo.amagi.tv/hls/amagi_hls_data_beinAAAAA-bein-xtra-xumoA/CDN/master.m3u8
 https://dbrb49pjoymg4.cloudfront.net/10001/99991785/hls/playlist.m3u8?ads.xumo_channelId=99991785&ads._fw_ifa_type=&ads._fw_did=effb0e3f-354d-4967-bec6-3fe0a91c16ab&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads.asnw=&ads.caid=BeInSportsESP&ads.csid=xumo_web_BeInSportsESP_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads.genre=&ads._fw_content_category=&ads._fw_content_language=es&ads._fw_content_genre=&ads._fw_content_rating=&ads.xumo_contentId=2642&ads.xumo_contentName=BeInSportsESP&ads.xumo_providerId=2642&ads.xumo_providerName=BeInSportsESP&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.channelId=99991785&ads.xumo_platform=web&ads.site_id=&ads.appName=xumo&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=
 
 
 #EXTINF:-1 tvg-chno="" cuid="1811" tvg-name="beIN.SPORTS.XTRA n" tvg-id="plex.tv.beIN.Sports.Xtra.en.Español.plex" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/beinSportsn.webp" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="All Sports 🌎",Bein Sport Xtra ñ 🇺🇸🇲🇽
-#EXTGRP:All Sports 🌎;Bein Sports 🇬🇧🇲🇽🇹🇷🇫🇷
+#EXTGRP:Bein Sports 🇬🇧🇲🇽🇹🇷🇫🇷
 https://amg01334-beinsportsllc-beinxtraesp-localnow-aekzc.amagi.tv/playlist.m3u8
 https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8
 https://dc1644a9jazgj.cloudfront.net/beIN_Sports_Xtra_Espanol.m3u8
