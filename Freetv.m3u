@@ -2560,6 +2560,13 @@ https://livecdn-tc-iptv.rumsport10.live/live_abr/143073/720p/chunks.m3u8?is_vip=
 SKY SPORTS CHANNELS 🇺🇸
 =====================🔹========================
 
+#EXTINF:-1 tvg-chno="" cuid="1517" tvg-id="" tvg-name=";Premier League" tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/refs/heads/main/sport/primier.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="All Sports 🌎",Premier League TV
+#EXTGRP:All Sports 🌎;Premier League⚽️
+#EXTGRP:list sport ini khusus digital tv.apk
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=002046c9a49b9ab1cdb6616bec5d26c3:d2f92f6b7edc9a1a05d393ba0c20ef9e
+https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/master.mpd
+
 #EXTINF:-1 tvg-chno="" cuid="1542" tvg-id="SkySp+.uk" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/SkySportsplus.webp" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="All Sports 🌎",Sky Sport+ 🇬🇧
 #EXTGRP:All Sports 🌎;Tennis🎾;Premier League⚽️
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
