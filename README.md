@@ -991,11 +991,8 @@ O conteúdo da lista, sofreu um grande corte em termos de conteúdos, derivado a
 - Tv Portuguesa 🇵🇹🇧🇷
 - RTP Internacional ᴸᴼᵂ 🇵🇹
 - RTP1 🇵🇹
-- RTP1 🇵🇹
-- RTP 2 🇵🇹
 - RTP 2 🇵🇹
 - RTP Noticias_ 🇵🇹
-- RTP Noticias_ ᴸᴼᵂ 🇵🇹
 - RTP Memoria ᴸᴼᵂ 🇵🇹
 - RTP Açores 🇵🇹
 - RTP Madeira ᴸᴼᵂ 🇵🇹
@@ -1003,16 +1000,10 @@ O conteúdo da lista, sofreu um grande corte em termos de conteúdos, derivado a
 - ARTV 🇵🇹
 - SIC 🇵🇹
 - SIC Noticias 🇵🇹
-- SIC Noticias 🇵🇹
 - SIC Replay 🇵🇹
 - SIC Alta Definição 🇵🇹
 - TVI Internacional 🇵🇹
-- TVI Internacional 🇵🇹
 - TVI 🇵🇹
-- TVI 🇵🇹
-- TVI 🇵🇹
-- CNN Portugal 🇵🇹
-- CNN Portugal 🇵🇹
 - CNN Portugal 🇵🇹
 - V+ TVI 🇵🇹
 - TVI Ficção 🇵🇹
@@ -1041,7 +1032,6 @@ O conteúdo da lista, sofreu um grande corte em termos de conteúdos, derivado a
 - Pluto TV Documentários (💬 🇧🇷)
 - KFood 🇧🇷
 - Euronews 🇵🇹
-- Euronews 🇵🇹
 - Record News 🇧🇷
 - CNN Brasil 🇧🇷
 - CNN Money 🇧🇷
@@ -1049,13 +1039,11 @@ O conteúdo da lista, sofreu um grande corte em termos de conteúdos, derivado a
 - JP News 🇧🇷
 - BM&C News 🇧🇷
 - Times Brasil 🇧🇷
-- Times Brasil 🇧🇷
 - 4POR4 🇧🇷
 
 🔹 WORLD NEWS 🔹
 
 - Celebrity Scene TV 🇺🇸
-- 24h 🇪🇸
 - 24h 🇪🇸
 - Negócios tv 🇪🇸
 - Canal Sur Más Noticias 🇪🇸
@@ -1138,68 +1126,8 @@ O conteúdo da lista, sofreu um grande corte em termos de conteúdos, derivado a
 
 🔹 ENTRETENIMENTO INTERNACIONAIS 🔹
 
-- Canal 5 (🔉🇪🇸🇬🇧)
 - Canal 5 🇲🇽⚽️
 - Univision 🇲🇽🇸🇻 ⚽️
-- Universal Premiere (🔉🇪🇸🇬🇧💬🇪🇸)
-- Universal Cinema 🇺🇾
-- Universal Comedy 🇺🇾
-- Universal Crime 🇺🇾
-- Universal Reality 🇺🇾
-- Film4 (💬🇬🇧)
-- Crave 1 (💬🇬🇧) 🇨🇦
-- Crave 2 (💬🇬🇧) 🇨🇦
-- Crave 3 (💬🇬🇧) 🇨🇦
-- Crave 4 (💬🇬🇧) 🇨🇦
-- USA Network East (💬🇬🇧) 🇺🇸 ⚽️
-- MeTV Toons 🇺🇸
-- MeTV 🇺🇸
-- BBC América 🇺🇸
-- AMC+ (💬🇬🇧) 🇺🇸
-- AMC (💬🇬🇧) 🇺🇸
-- AMC
-- TNT 🇺🇸
-- FX 🇺🇸
-- FXX 🇺🇸
-- MGM Celebrates Black Cinema 🇺🇸
-- MGM+ (💬🇬🇧) 🇺🇸
-- MGM+ Drive In (💬🇬🇧) 🇺🇸
-- MGM+ Hits (💬🇬🇧) 🇺🇸
-- MGM+ Marquee (💬🇬🇧) 🇺🇸
-- HBO West (💬🇬🇧) 🇺🇸
-- HBO East (💬🇬🇧) 🇺🇸
-- HBO 🇺🇸🇵🇭
-- HBO + (🔉🇪🇸🇬🇧💬🇪🇸)
-- HBO 2 (💬🇬🇧) 🇺🇸
-- HBO Signature East (💬🇬🇧) 🇺🇸
-- HBO Signature 🇺🇸🇵🇭
-- HBO Comedy (💬🇬🇧) 🇺🇸
-- HBO Xtreme (🔉🇪🇸🇬🇧💬🇪🇸)
-- HBO Zone (💬🇬🇧) 🇺🇸
-- HBO Hits 🇺🇸🇵🇭
-- ActionMAX East (🔉🇪🇸🇬🇧💬🇬🇧) 🇺🇸
-- MoreMAX East (🔉🇪🇸🇬🇧💬🇬🇧) 🇺🇸
-- 5StarMAX East (🔉🇪🇸🇬🇧💬🇬🇧) 🇺🇸
-- Cinemax East 🇺🇸
-- Cinemax West (🔉🇪🇸🇬🇧💬🇬🇧) 🇺🇸
-- Warner Channel 🇺🇸🇵🇭
-- Amazon Movies (💬🇬🇧) 🇺🇸
-- Starz East (🔉🇪🇸🇬🇧💬🇬🇧) 🇺🇸
-- Starz West (🔉🇪🇸🇬🇧💬🇬🇧) 🇺🇸
-- Starz Encore Action (🔉🇪🇸🇬🇧💬🇬🇧) 🇺🇸
-- Starz Edge (🔉🇪🇸🇬🇧💬🇬🇧) 🇺🇸
-- Starz Encore (🔉🇪🇸🇬🇧💬🇬🇧) 🇺🇸
-- Starz Comedy (🔉🇪🇸🇬🇧💬🇬🇧) 🇺🇸
-- Starz Cinema (🔉🇪🇸🇬🇧💬🇬🇧) 🇺🇸
-- Starz Kids & Family (🔉🇪🇸🇬🇧💬🇬🇧) 🇺🇸
-- REELZ (🔉🇪🇸🇬🇧💬🇬🇧) 🇺🇸
-- Screenpix Action (🔉🇪🇸🇬🇧💬🇬🇧) 🇺🇸
-- Screenpix Westerns (🔉🇪🇸🇬🇧💬🇬🇧) 🇺🇸
-- Screenpix (🔉🇪🇸🇬🇧💬🇬🇧) 🇺🇸
-- &flix⚾
-- The Addams Family 🇺🇸
-- Alfred Hitchcock Presents 🇺🇸
-- The Twilight Zone 🇺🇸
 
 🔹 DOCUMENTARIOS INTERNACIOAIS 🔹
 
