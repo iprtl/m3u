@@ -2800,12 +2800,6 @@ https://live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c
 CAZETV & SPORTV PREMIERE 🇧🇷
 =====================🔹========================
 
-#EXTINF:-1 tvg-chno="" cuid="1962" tvg-id="Goat" tvg-name="Goat tv" tvg-logo="https://i.imgur.com/j91PkWC.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="All Sports 🌎",Canal Goat 🇧🇷
-#EXTGRP:All Sports 🌎
-https://cng-cngt-samsungtvplus-br.otteravision.com/cng/cngt/cngt.m3u8
-
----
-
 #EXTINF:-1 tvg-chno="" cuid="1600" tvg-name="Cazétv" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/cazetv.webp" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="All Sports 🌎",Cazetv 🇧🇷⚽️🎾🏐
 #EXTGRP:All Sports 🌎;Ligue 1⚽️;Bundesliga⚽️;La Liga⚽️;Premier League⚽️
 https://amg01391-amg01391c10-tcl-br-9630.playouts.now.amagi.tv/1080p-cc/index.m3u8
