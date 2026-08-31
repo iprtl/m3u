@@ -3066,11 +3066,11 @@ SPORTS 🇫🇷🇬🇧🇺🇸🇨🇿
 #EXTGRP:All Sports 🌎;Bundesliga⚽️;Serie A⚽️;La Liga⚽️
 http://stream.mcquack.net/390/index.m3u8
 
-#EXTINF:-1 tvg-chno="" cuid="1860" tvg-name="" tvg-id="" tvg-logo="https://logo.m3uassets.com/setantasports.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="All Sports 🌎",Setanta Sports 1 🇺🇦
+#EXTINF:-1 tvg-chno="" cuid="1860" tvg-name="" tvg-id="Setanta.Sports.1.HD.lv" tvg-logo="https://logo.m3uassets.com/setantasports.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="All Sports 🌎",Setanta Sports 1 🇺🇦
 #EXTGRP:All Sports 🌎;Bundesliga⚽️;Serie A⚽️;La Liga⚽️;Ligue 1⚽️
 http://stream.mcquack.net/234/index.m3u8
 
-#EXTINF:-1 tvg-chno="" cuid="1862" tvg-name="" tvg-id="" tvg-logo="https://logo.m3uassets.com/setantasports.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="All Sports 🌎",Setanta Sports 2 🇺🇦
+#EXTINF:-1 tvg-chno="" cuid="1862" tvg-name="" tvg-id="Setanta.Sports.2.HD.lv" tvg-logo="https://logo.m3uassets.com/setantasports.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="All Sports 🌎",Setanta Sports 2 🇺🇦
 #EXTGRP:All Sports 🌎;Serie A⚽️;Bundesliga⚽️
 http://stream.mcquack.net/235/index.m3u8
 
@@ -3104,7 +3104,7 @@ http://88.212.15.19/live/test_sport1_25p/playlist.m3u8
 http://178.23.88.55/Sport1/index.m3u8
 
 
-#EXTINF:-1 tvg-chno="" cuid="1869" tvg-name="Sport1" tvg-id="Sport1.cz" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/SPORT1_CZ.webp" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="All Sports 🌎",Sport 1 🇨🇿⚽️🎯
+#EXTINF:-1 tvg-chno="" cuid="1869" tvg-name="Sport1" tvg-id="Sport1.HD.sk" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/SPORT1_CZ.webp" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="All Sports 🌎",Sport 1 🇨🇿⚽️🎯
 #EXTGRP:All Sports 🌎;Serie A⚽️;Europa League⚽️;Liga Betclic⚽️
 http://141.94.193.53:80/Sport_1_HD/index.m3u8
 
