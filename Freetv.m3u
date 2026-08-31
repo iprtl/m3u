@@ -3109,7 +3109,7 @@ http://178.23.88.55/Sport1/index.m3u8
 
 
 #EXTINF:-1 tvg-chno="" cuid="1869" tvg-name="Sport1" tvg-id="Sport1.HD.sk" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/SPORT1_CZ.webp" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="All Sports 🌎",Sport 1 🇨🇿⚽️🎯
-#EXTGRP:All Sports 🌎;Serie A⚽️;Europa League⚽️;Liga Betclic⚽️
+#EXTGRP:All Sports 🌎;Europa League⚽️;Liga Betclic⚽️
 http://141.94.193.53:80/Sport_1_HD/index.m3u8
 
 ---
