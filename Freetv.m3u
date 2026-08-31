@@ -2815,7 +2815,7 @@ CAZETV & SPORTV PREMIERE 🇧🇷
 =====================🔹========================
 
 #EXTINF:-1 tvg-chno="" cuid="1600" tvg-name="Cazétv" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/cazetv.webp" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="All Sports 🌎",Cazetv 🇧🇷⚽️🎾🏐
-#EXTGRP:All Sports 🌎;Ligue 1⚽️;Bundesliga⚽️;La Liga⚽️;Premier League⚽️
+#EXTGRP:All Sports 🌎;Ligue 1⚽️;Bundesliga⚽️;La Liga⚽️;Premier League⚽️;Serie A⚽️
 https://amg01391-amg01391c10-tcl-br-9630.playouts.now.amagi.tv/1080p-cc/index.m3u8
 
 #EXTINF:-1 tvg-chno="" cuid="1600" tvg-name="Cazétv" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/cazetv.webp" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="All Sports 🌎",Cazetv (Eventos)🇧🇷⚽️🎾🏐
@@ -3179,7 +3179,7 @@ https://pulse1.zalmora1.cfd/kuk3/usergendxt1v8klq6rnd.m3u8
 ---
 
 #EXTINF:-1 tvg-chno="" cuid="1926" tvg-id="Digi.Sport.4.HD.ro" tvg-chno="45" tvg-name="Digi Sport" tvg-logo="https://www.digisport.ro/static/theme-repo/bin/images/logo-digisport.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="All Sports 🌎",Digi Sport 4 🇷🇴⚽️🤾‍
-#EXTGRP:All Sports 🌎;Europa League⚽️
+#EXTGRP:All Sports 🌎;Europa League⚽️;Serie A⚽️
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://canale-tv.net/
 #EXTVLCOPT:http-origin=https://canale-tv.net
