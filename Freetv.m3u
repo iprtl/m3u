@@ -2308,11 +2308,11 @@ FUTEBOL BRASILEIRO CHANNELS 🇧🇷
 =====================🔹========================
 
 #EXTINF:-1 tvg-chno="" cuid="333" tvg-name="Globo" tvg-id="São.Paulo/SP..Globo.br" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/35/TVGlobo2025.png" group-title="All Sports 🌎",Globo sᴘ ⚽️ 🇧🇷
-#EXTGRP:Fotebol Brasileiro 🇧🇷
+#EXTGRP:All Sports 🌎;Futebol Brasileiro 🇧🇷
 http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8
 
 #EXTINF:-1 cuid="1480" tvg-name="" tvg-id="GETV" tvg-logo="https://imgur.com/qHZ23Ue.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="All Sports 🌎",GE TV 🇧🇷
-#EXTGRP:Fotebol Brasileiro 🇧🇷
+#EXTGRP:All Sports 🌎;Futebol Brasileiro 🇧🇷
 https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/Globo/GE_Fast_BR/GE_Fast.m3u8
 
 
