@@ -2713,7 +2713,7 @@ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1
 
 
 #EXTINF:-1 tvg-chno="" cuid="1514" tvg-id="" tvg-logo="https://iili.io/KWn2Z0u.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="All Sports 🌎",Fancode Live₂ 🇬🇧
-#EXTGRP:All Sports 🌎;La Liga⚽️
+#EXTGRP:All Sports 🌎;La Liga⚽️;Formula1🏎️
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835
@@ -2725,7 +2725,7 @@ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1
 #EXTGRP:All Sports 🌎;La Liga⚽️
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a88617e904504ee291f49f0e60a51d49:17f92d59fde3b6d2bf4ffb48e8ca720a
-https://cache07.zapitv.com/live/eds_c2/HYPERMOTION1/dash_live_ez/HYPERMOTION1.mpd
++https://cache07.zapitv.com/live/eds_c2/HYPERMOTION1/dash_live_ez/HYPERMOTION1.mpd
 
 #EXTINF:-1 tvg-chno="" cuid="1200" tvg-id="SuperTennis.HD.it" tvg-logo="https://logo.m3uassets.com/supertennis.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="All Sports 🌎;Tennis🎾",Supertennis 🇮🇹
 https://live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c0-16/restreamer/outgest/aa3673f1-e178-44a9-a947-ef41db73211a/manifest.m3u8
@@ -3091,10 +3091,10 @@ SPORTS 🇫🇷🇬🇧🇺🇸🇨🇿
 =====================🔹========================
 
 #EXTINF:-1 tvg-chno="" cuid="1860" tvg-name="" tvg-id="" tvg-logo="https://logo.m3uassets.com/setantasports.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="All Sports 🌎",Setanta Sports + 🇺🇦
-#EXTGRP:All Sports 🌎;Bundesliga⚽️;Serie A⚽️;La Liga⚽️
+#EXTGRP:All Sports 🌎;Bundesliga⚽️;Serie A⚽️;La Liga⚽️;Formula1🏎️
 http://stream.mcquack.net/390/index.m3u8
 
-#EXTINF:-1 tvg-chno="" cuid="1860" tvg-name="" tvg-id="" tvg-logo="https://logo.m3uassets.com/setantasports.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="All Sports 🌎",Setanta Sports + 🇺🇦
+#EXTINF:-1 tvg-chno="" cuid="1860" tvg-name="" tvg-id="" tvg-logo="https://logo.m3uassets.com/setantasports.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="All Sports 🌎",Setanta Sports +₂ 🇺🇦
 #EXTGRP:All Sports 🌎;Bundesliga⚽️;Serie A⚽️;La Liga⚽️
 http://stream.mcquack.net/313/index.m3u8
 
@@ -3161,7 +3161,7 @@ https://dash2.antik.sk/stream/nvidia_sport2/playlist_cenc.mpd
 http://88.212.15.19/live/test_sport_2/playlist.m3u8
 http://141.94.193.53:80/Sport_2_HD/index.m3u8
 
-#EXTINF:-1 tvg-chno="" cuid="1871" tvg-name="Sport2" tvg-id="Sport2.cz" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/SPORT2_CZ.webp" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="All Sports 🌎",Sport 2 🇨🇿⚽️🎾🃏
+#EXTINF:-1 tvg-chno="" cuid="1871" tvg-name="Sport2" tvg-id="Sport2.cz" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/SPORT2_CZ.webp" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="All Sports 🌎",Sport 2₂ 🇨🇿⚽️🎾🃏
 #EXTGRP:All Sports 🌎;Europa League⚽️;Serie A⚽️
 http://88.212.15.19/live/sport2_hun/index.m3u8
 
