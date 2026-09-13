@@ -2240,7 +2240,7 @@ https://a122aivottlinear-a.akamaihd.net/OTTB/bom-nitro/live/clients/dash/enc/ssd
 
 ---
 
-#EXTINF:-1 tvg-chno="" cuid="1696" tvg-name="DSPORTS" tvg-id="DSPORTS.(COL).(DTSC).co" tvg-logo="https://logo.m3uassets.com/dsports.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="All Sports 🌎",DSports 🇨🇷🇬🇹
+#EXTINF:-1 tvg-chno="" cuid="1696" tvg-name="DSPORTS" tvg-id="[SPOARHD].DSports.Argentina.HD.uy" tvg-logo="https://logo.m3uassets.com/dsports.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="All Sports 🌎",DSports 🇨🇷🇬🇹
 #EXTGRP:Liga Betclic⚽️;All Sports 🌎;La Liga⚽️
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=f8b207c10f3f76aeba32a360ec52b9e4:afad49d20eb39670e93e371c1d669921
@@ -2273,7 +2273,7 @@ https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/ud6bnhthpj/
 #EXTGRP:Liga Betclic⚽️;All Sports 🌎
 http://201.216.147.90:8729/play/a0oh
 
-#EXTINF:-1 tvg-chno="" cuid="1692" tvg-name="Claro Sports" tvg-id="CLAROSPORTS..uy" tvg-logo="https://logo.m3uassets.com/clarosports.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="All Sports 🌎",Claro Sports 🇺🇾
+#EXTINF:-1 tvg-chno="" cuid="1692" tvg-name="Claro Sports" tvg-id="Claro.Sports.1.mx" tvg-logo="https://logo.m3uassets.com/clarosports.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="All Sports 🌎",Claro Sports 🇺🇾
 #EXTGRP:Liga Betclic⚽️;All Sports 🌎
 http://45.167.1.136:8000/play/a00d
 http://38.49.128.38:8000/play/a0cm/index.m3u8
@@ -2635,7 +2635,7 @@ https://stalkerportal.gojosare123.workers.dev/?c=eyJtb2RlIjoic3RhbGtlciIsInN0YWx
 #EXTGRP:All Sports 🌎;Premier League⚽️
 https://stalkerportal.gojosare123.workers.dev/?c=eyJtb2RlIjoic3RhbGtlciIsInN0YWxrZXJfdXJsIjoiaHR0cDovL25ldy5kaXR0b3R2di5jYy9zdGFsa2VyX3BvcnRhbCIsIm1hYyI6IjAwOjFBOjc5OjAwOjgxOjUzIiwic24iOiI4N0ZEODg3MzRGQTg5IiwiZGV2aWNlX2lkMSI6IjIyMTlEMjgzQzg0OEFDNkU5QkE2OEE3MTM5QTQ5RDdERTgxMDM2MkMyOTBGMkFCMkJEM0FCRDE4MURFNTI5REEiLCJkZXZpY2VfaWQyIjoiMjIxOUQyODNDODQ4QUM2RTlCQTY4QTcxMzlBNDlEN0RFODEwMzYyQzI5MEYyQUIyQkQzQUJEMTgxREU1MjlEQSJ9&id=1452
 
-#EXTINF:-1 tvg-chno="" cuid="1539" tvg-id="Star.Sports.Select.2.in"tvg-name="STAR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/Star_Sports_Select_logo.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="All Sports 🌎",SS Sports 2 🇮🇳
+#EXTINF:-1 tvg-chno="" cuid="1539" tvg-id="Star.Sports.2.HD.in"tvg-name="STAR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/Star_Sports_Select_logo.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="All Sports 🌎",SS Sports 2 🇮🇳
 #EXTGRP:All Sports 🌎;Premier League⚽️
 http://tvsen7.aynascope.net/ssport2hd/index.m3u8
 
@@ -3094,7 +3094,7 @@ SPORTS 🇫🇷🇬🇧🇺🇸🇨🇿
 #EXTGRP:All Sports 🌎;Bundesliga⚽️;Serie A⚽️;La Liga⚽️;Formula1🏎️
 http://stream.mcquack.net/390/index.m3u8
 
-#EXTINF:-1 tvg-chno="" cuid="1860" tvg-name="" tvg-id="" tvg-logo="https://logo.m3uassets.com/setantasports.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="All Sports 🌎",Setanta Sports +₂ 🇺🇦
+#EXTINF:-1 tvg-chno="" cuid="1860" tvg-name="" tvg-id="" tvg-logo="https://logo.m3uassets.com/setantasports.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="All Sports 🌎",Setanta Sports 🇺🇦
 #EXTGRP:All Sports 🌎;Bundesliga⚽️;Serie A⚽️;La Liga⚽️
 http://stream.mcquack.net/313/index.m3u8
 
