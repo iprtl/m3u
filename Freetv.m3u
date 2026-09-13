@@ -3570,6 +3570,17 @@ https://dash3.antik.sk/live/mb_classic/index.m3u8
 
 =====================🔹========================
 
+#EXTINF:-1 tvg-name="That's 70s" tvg-id="" tvg-logo="https://github.com/iprtl/p1/raw/master/logo/Thats70s.webp" group-logo="https://cdn-icons-png.freepik.com/512/12461/12461207.png" group-title=" Music",That's 70s
+https://ssai2-ads.api.leiniao.com/global-adinsertion-api/hls/live/pipAd/f128243bea1c4b46b4cd29ceca92d2b7/playlist.m3u8
+
+#EXTINF:-1 tvg-name="That's 80s" tvg-id="" tvg-logo="https://github.com/iprtl/p1/raw/master/logo/Thats80.webp" group-logo="https://cdn-icons-png.freepik.com/512/12461/12461207.png" group-title=" Music"That's 80s
+https://amg01076-lightning-amg01076c2-tcl-us-2470.playouts.now.amagi.tv/playlist/amg01076-lightning-now80s-tclus/playlist.m3u8
+
+#EXTINF:-1 tvg-name="That's ROCK" tvg-id="" tvg-logo="https://github.com/iprtl/p1/raw/refs/heads/master/logo/ThatsRock.avif" group-logo="https://cdn-icons-png.freepik.com/512/12461/12461207.png" group-title=" Music",That's Rock
+https://amg01076-lightning-amg01076c3-tcl-us-2445.playouts.now.amagi.tv/playlist/amg01076-lightning-now90s-tclus/playlist.m3u8
+
+=====================🔹========================
+
 #EXTINF:-1 cuid="1659" tvg-name="POP World TV" tvg-id="POPWorldTV.es" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/refs//heads/master/logo/PopWorldtv.webp" group-logo="https://cdn-icons-png.freepik.com/512/12461/12461207.png" group-title=" Music",POP World TV
 https://janus.xpbroadcasting.com:8443/hls/popworld.m3u8
 
