@@ -3162,7 +3162,7 @@ http://88.212.15.19/live/test_sport_2/playlist.m3u8
 http://141.94.193.53:80/Sport_2_HD/index.m3u8
 
 #EXTINF:-1 tvg-chno="" cuid="1871" tvg-name="Sport2" tvg-id="Sport2.cz" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/SPORT2_CZ.webp" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="All Sports 🌎",Sport 2₂ 🇨🇿⚽️🎾🃏
-#EXTGRP:All Sports 🌎;Europa League⚽️;Serie A⚽️
+#EXTGRP:All Sports 🌎;Europa League⚽️;Serie A⚽️;Liga Betclic⚽️
 http://88.212.15.19/live/sport2_hun/index.m3u8
 
 ---
