@@ -3067,7 +3067,7 @@ https://dga1op10s1u3leo.52c26716e2e875.click/live/selcukbeinsports2/playlist.m3u
 https://dga1op10s1u3leo.52c26716e2e875.click/live/selcukbeinsports3/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="" cuid="1822" tvg-name="Bein Sports 4" tvg-id="Beinsports.4.tr" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS4_DIGITAL_Mono.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="All Sports 🌎",Bein Sports 4 🇹🇷
-#EXTGRP:Bein Sports 🇬🇧🇲🇽🇹🇷🇫🇷;Ligue 1⚽️;Formula1🏎️
+#EXTGRP:Bein Sports 🇬🇧🇲🇽🇹🇷🇫🇷;Ligue 1⚽️;Formula1🏎️;Liga Betclic⚽️
 #EXTVLCOPT:http-referrer=https://www.sporcafe6.xyz/
 https://dga1op10s1u3leo.52c26716e2e875.click/live/selcukbeinsports4/playlist.m3u8
 
@@ -3198,7 +3198,7 @@ http://142.132.200.37:9000/arenasport1hd
 ---
 
 #EXTINF:-1 tvg-chno="" cuid="1890" tvg-id="Arena.Sport.2.cz" tvg-logo="https://github.com/iprtl/p1/raw/master/logo/KANAL1XTRA.webp" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="All Sports 🌎",Kanal 1Xtra 🇨🇿 🏍🏎️ 
-#EXTGRP:All Sports 🌎;Tennis🎾
+#EXTGRP:All Sports 🌎;Tennis🎾;Liga Betclic⚽️
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
 https://dash2.antik.sk/stream/hisi_as2/playlist_cbcs.mpd
