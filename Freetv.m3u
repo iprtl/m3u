@@ -2694,7 +2694,7 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd
 
 #EXTINF:-1 tvg-chno="" cuid="1515" tvg-id="Fubo.Sports.us" tvg-name="Fubo Sports" tvg-logo="https://logo.m3uassets.com/fubosportsnetwork.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="All Sports 🌎",Fubo Sports 2 🇺🇸
-#EXTGRP:All Sports 🌎;Serie A⚽️;Ligue 1⚽️;Premier League⚽️
+#EXTGRP:All Sports 🌎
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3dcfbec0e7146928baa55210bf2cb62f:bc85f74f815d9be5ae1dd6defaa05135
@@ -2741,7 +2741,7 @@ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1
 +https://cache07.zapitv.com/live/eds_c2/HYPERMOTION1/dash_live_ez/HYPERMOTION1.mpd
 
 #EXTINF:-1 tvg-chno="" cuid="1200" tvg-id="SuperTennis.HD.it" tvg-logo="https://logo.m3uassets.com/supertennis.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="All Sports 🌎;Tennis🎾",Supertennis 🇮🇹
-https://live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c0-16/restreamer/outgest/aa3673f1-e178-44a9-a947-ef41db73211a/manifest.m3u8
++https://live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c0-16/restreamer/outgest/aa3673f1-e178-44a9-a947-ef41db73211a/manifest.m3u8
 
 #EXTINF:-1 tvg-chno="" cuid="1805" tvg-name="Rai Sport" tvg-id="RaiSport.it" tvg-logo="https://logo.m3uassets.com/raisport.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="All Sports 🌎;Tennis🎾";Europa League⚽️;Premier League⚽️,Rai Sport 🇮🇹
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
@@ -3111,14 +3111,6 @@ https://dga1op10s1u3leo.52c26716e2e875.click/live/selcukbeinsports5/playlist.m3u
 SPORTS 🇫🇷🇬🇧🇺🇸🇨🇿
 =====================🔹========================
 
-#EXTINF:-1 tvg-chno="" cuid="1860" tvg-name="" tvg-id="" tvg-logo="https://logo.m3uassets.com/setantasports.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="All Sports 🌎",Setanta Sports + 🇺🇦
-#EXTGRP:All Sports 🌎;Bundesliga⚽️;Serie A⚽️;La Liga⚽️;Formula1🏎️
-http://stream.mcquack.net/390/index.m3u8
-
-#EXTINF:-1 tvg-chno="" cuid="1860" tvg-name="" tvg-id="" tvg-logo="https://logo.m3uassets.com/setantasports.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="All Sports 🌎",Setanta Sports 🇺🇦
-#EXTGRP:All Sports 🌎;Bundesliga⚽️;Serie A⚽️;La Liga⚽️
-http://stream.mcquack.net/313/index.m3u8
-
 #EXTINF:-1 tvg-chno="" cuid="1860" tvg-name="" tvg-id="Setanta.Sports.1.HD.lv" tvg-logo="https://logo.m3uassets.com/setantasports.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="All Sports 🌎",Setanta Sports 1 🇺🇦
 #EXTGRP:All Sports 🌎;Bundesliga⚽️;Serie A⚽️;La Liga⚽️;Ligue 1⚽️
 http://stream.mcquack.net/234/index.m3u8
@@ -3274,7 +3266,7 @@ PRIMA SPORT & NOVA SPORT 🇸🇰🇨🇿🇷🇴
 
 ---
 
-#EXTINF:-1 tvg-chno="" cuid="1915" tvg-id="Nova.Sport.1.HD.sk" tvg-name="" tvg-logo="https://logo.m3uassets.com/novasport1.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="All Sports 🌎",Nova Sport 1 🇸🇰
+#EXTINF:-1 tvg-chno="" cuid="1915" tvg-id="Nova.Sport.1.HD.sk" tvg-name="" tvg-logo="https://github.com/iprtl/p1/raw/master/logo/novasport1.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="All Sports 🌎",Nova Sport 1 🇸🇰
 #EXTGRP:All Sports 🌎;Ligue 1⚽️
 #EXTVLCOPT:http-referer=https://webtv.sk/tv/
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -3284,7 +3276,7 @@ PRIMA SPORT & NOVA SPORT 🇸🇰🇨🇿🇷🇴
 https://dash2.antik.sk/stream/nvidia_nova_sport1/playlist_cenc.mpd
 
 
-#EXTINF:-1 tvg-chno="" cuid="1916" tvg-id="Nova.Sport.2.HD.sk" tvg-name="" tvg-logo="https://logo.m3uassets.com/novasport2.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="All Sports 🌎",Nova Sport 2 🇸🇰
+#EXTINF:-1 tvg-chno="" cuid="1916" tvg-id="Nova.Sport.2.HD.sk" tvg-name="" tvg-logo="https://github.com/iprtl/p1/raw/master/logo/novasport2.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="All Sports 🌎",Nova Sport 2 🇸🇰
 #EXTGRP:All Sports 🌎;Ligue 1⚽️
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referer=https://webtv.sk/tv/
