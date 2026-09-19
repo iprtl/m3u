@@ -8,7 +8,7 @@
 # ――――――――――――――――――――――――――――――――――――――――――――――
 # (●) Last Update: 🔄 2026 GMT+7 "
 # (●) Service: FREETV Inspiration Links
-# (●) Total Channels: 503
+# (●) Total Channels: 516
 
 
 ⚠️ Atenção: Todas as ligações de streams disponibilizados nas listas foram retiradas da Internet. Apenas as organizo, disponibilizo e partilho. Não detenho qualquer servidor e/ou transmitimos ou re-emitimos qualquer tipo de sinal.
@@ -177,7 +177,7 @@ https://github.com/LITUATUI/M3UPT/raw/main/M3U/TVI_Internacional.m3u8
 https://github.com/thomraider12/canaistvpt/raw/main/m3u8s/tviint.m3u8
 
 #EXTINF:-1 tvg-chno="19" cuid="23" tvg-name="TVI Internacionalᶠᴴᴰ)" tvg-id="tvi.internacional.pt" tvg-logo="https://logo.m3uassets.com/tviinternacional.png" group-logo="https://cdn-icons-png.freepik.com/512/4482/4482879.png" group-title="Portugal 🇵🇹",TVI Internacional 🇵🇹
-https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xOS8yMDI2IDY6Mzk6MzEgUE0maGFzaF92YWx1ZT1FdEVBcUpiVUdreGZZTGlDa2ZrS0pBPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9NDZkZDUzZjMtOTA3ZS00N2U3LWFkOWMtY2M0N2ViNTY5ODM2/
+https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xOS8yMDI2IDY6NDA6MzAgUE0maGFzaF92YWx1ZT05aXUwMkVjYytqK0poNnBvWkZydGhnPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9YjQ4ZWZjZjMtNjU4OC00NTZiLTk0NWQtODE5ZjdjMzZlY2Y5/
 
 
 
@@ -187,14 +187,14 @@ https://github.com/LITUATUI/M3UPT/raw/main/M3U/TVI.m3u8
 https://github.com/thomraider12/canaistvpt/raw/main/m3u8s/tvi.m3u8
 
 #EXTINF:-1 tvg-chno="22" cuid="26" tvg-name="TVI 🇵🇹" tvg-id="TVI.HD.pt" tvg-logo="https://github.com/iprtl/p1/raw/master/logo/tvi.webp" group-logo="https://cdn-icons-png.freepik.com/512/4482/4482879.png" group-title="Portugal 🇵🇹",TVI 🇵🇹
-https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xOS8yMDI2IDY6Mzk6MzAgUE0maGFzaF92YWx1ZT1uT2NGK0I4Q1NIVHI3NnU2eS9vVXh3PT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9NGIyOWNjMDMtM2EyYy00ZTEzLThmNTEtZDU3MmYyZTM1MGFj/
+https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xOS8yMDI2IDY6NDA6MjkgUE0maGFzaF92YWx1ZT1YSC95em9RYlNLTCtNSGQ0Si9LazN3PT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9ZWNhMzg4NGEtNjRhNi00MjhlLTg4NjEtNzIzNzY0ZDlhMmJm/
 
 
 #EXTINF:-1 tvg-chno="24" cuid="27" tvg-name="CNN Portugal 🇵🇹" tvg-id="CNN.Portugal.HD.pt" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/cnnpt.png" group-logo="https://cdn-icons-png.freepik.com/256/5395/5395694.png" group-title="News 🇵🇹🇧🇷",CNN Portugal 🇵🇹
 https://github.com/thomraider12/canaistvpt/raw/main/m3u8s/cnnpt.m3u8
 
 #EXTINF:-1 tvg-chno="25" cuid="28" tvg-name="CNN Portugal 🇵🇹" tvg-id="CNN.Portugal.HD.pt" tvg-logo="https://github.com/iprtl/p1/raw/master/logo/cnnpt.png" group-logo="https://cdn-icons-png.freepik.com/256/5395/5395694.png" group-title="News 🇵🇹🇧🇷",CNN Portugal 🇵🇹
-https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xOS8yMDI2IDY6Mzk6MzEgUE0maGFzaF92YWx1ZT1pM2VYRW9xcE1UQmhOdGFWVlNxSTJnPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9MzNmMTQ4YzItZGFmYS00ZGE3LWE1NDgtZDhiMmQwYWY5M2Yy/
+https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xOS8yMDI2IDY6NDA6MjkgUE0maGFzaF92YWx1ZT1xOUl0elRoZjZEYWg5Si9FOUZuMFdnPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9MzIwZWE1YzctNDMwNi00MWIxLWE4ODQtYTgyNGQ2NWY4YmEw/
 
 
 
