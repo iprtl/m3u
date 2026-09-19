@@ -8,7 +8,7 @@
 # ――――――――――――――――――――――――――――――――――――――――――――――
 # (●) Last Update: 🔄 2026 GMT+7 "
 # (●) Service: FREETV Inspiration Links
-# (●) Total Channels: 501
+# (●) Total Channels: 503
 
 
 ⚠️ Atenção: Todas as ligações de streams disponibilizados nas listas foram retiradas da Internet. Apenas as organizo, disponibilizo e partilho. Não detenho qualquer servidor e/ou transmitimos ou re-emitimos qualquer tipo de sinal.
@@ -177,7 +177,7 @@ https://github.com/LITUATUI/M3UPT/raw/main/M3U/TVI_Internacional.m3u8
 https://github.com/thomraider12/canaistvpt/raw/main/m3u8s/tviint.m3u8
 
 #EXTINF:-1 tvg-chno="19" cuid="23" tvg-name="TVI Internacionalᶠᴴᴰ)" tvg-id="tvi.internacional.pt" tvg-logo="https://logo.m3uassets.com/tviinternacional.png" group-logo="https://cdn-icons-png.freepik.com/512/4482/4482879.png" group-title="Portugal 🇵🇹",TVI Internacional 🇵🇹
-https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xOS8yMDI2IDEyOjM1OjM1IFBNJmhhc2hfdmFsdWU9aHFOLzkvSUFhdmNtL0hiRmpFZzEyQT09JnZhbGlkbWludXRlcz0xNDQwJmlkPTdlNDk4NTljLTEyYjMtNGRhZi1hNWI4LTMxNmU2NWUzMWUxMA==/
+https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xOS8yMDI2IDQ6NDk6MjEgQU0maGFzaF92YWx1ZT1qeC85L3kwakx0TlNqcTQ1S0lXRm9RPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9NjA5ODY1MDQtOWYwMy00MDk4LTkyMGItMGQzYmI5NDFiY2Zm/
 
 
 
@@ -187,14 +187,14 @@ https://github.com/LITUATUI/M3UPT/raw/main/M3U/TVI.m3u8
 https://github.com/thomraider12/canaistvpt/raw/main/m3u8s/tvi.m3u8
 
 #EXTINF:-1 tvg-chno="22" cuid="26" tvg-name="TVI 🇵🇹" tvg-id="TVI.HD.pt" tvg-logo="https://github.com/iprtl/p1/raw/master/logo/tvi.webp" group-logo="https://cdn-icons-png.freepik.com/512/4482/4482879.png" group-title="Portugal 🇵🇹",TVI 🇵🇹
-https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xOS8yMDI2IDEyOjM1OjM0IFBNJmhhc2hfdmFsdWU9dThlWjlSVU1mWTNFYjdjaExnTkpmUT09JnZhbGlkbWludXRlcz0xNDQwJmlkPWJkYWVkZGI3LWNkOTktNGYyMC1iYmU3LTllOGI0NTE2MzVhMg==/
+https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xOS8yMDI2IDQ6NDk6MjAgQU0maGFzaF92YWx1ZT1XQXQ1UHJ3RHlVT3BvdWxGT0FnNTVnPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9ZTYzMzRhYWMtYWQyMS00OTgwLTg1MzgtYmRhZDJmMzM0MDZm/
 
 
 #EXTINF:-1 tvg-chno="24" cuid="27" tvg-name="CNN Portugal 🇵🇹" tvg-id="CNN.Portugal.HD.pt" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/cnnpt.png" group-logo="https://cdn-icons-png.freepik.com/256/5395/5395694.png" group-title="News 🇵🇹🇧🇷",CNN Portugal 🇵🇹
 https://github.com/thomraider12/canaistvpt/raw/main/m3u8s/cnnpt.m3u8
 
 #EXTINF:-1 tvg-chno="25" cuid="28" tvg-name="CNN Portugal 🇵🇹" tvg-id="CNN.Portugal.HD.pt" tvg-logo="https://github.com/iprtl/p1/raw/master/logo/cnnpt.png" group-logo="https://cdn-icons-png.freepik.com/256/5395/5395694.png" group-title="News 🇵🇹🇧🇷",CNN Portugal 🇵🇹
-https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xOS8yMDI2IDEyOjM1OjM1IFBNJmhhc2hfdmFsdWU9aFBteHlQZ3ZHQ0szRm80M1hINlgrUT09JnZhbGlkbWludXRlcz0xNDQwJmlkPWRiZDM4NzMzLTAwOTYtNGEwZS04OTM4LTQ3ZTg3MzNlM2Q1ZA==/
+https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xOS8yMDI2IDQ6NDk6MjAgQU0maGFzaF92YWx1ZT1GVWp0WkdCQ2VTaXhsR2o0a1g1QlNBPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9ZTE2NWE3NGQtNzgxMy00MDFlLWI2YWQtMTY5MWY0NDI0YjIz/
 
 
 
@@ -1825,6 +1825,41 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=15618
 
 ---
 
+#EXTINF:-1 tvg-chno="" cuid="316" tvg-name="Antena3" tvg-id="Antena.3.Internacional.es" tvg-logo="https://raw.githubusercontent.com/iprtl/tv-logos/main/countries/spain/antena-3-es.png" group-logo="https://cdn-icons-png.freepik.com/512/2146/2146764.png" group-title="Channels 🇪🇸",Antena 3 Internacional 🇪🇸
+#EXTGRP: Channels 🇪🇸
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=06acea1d12fd3a8351d1cd2331c69627:ddeb96c94f745c68d590dd462e47aac2
+https://live-pv-ta.amazon.fastly-edge.com/iad-nitro/live/clients/dash/enc/dxnynpuvl4/out/v1/2c50fa7374c24990b81abf23e21560e2/cenc.mpd
+
+
+#EXTINF:-1 tvg-chno="" cuid="522" tvg-name="laSexta" tvg-id="laSexta.es" tvg-logo="https://logo.m3uassets.com/lasexta.png" group-logo="https://cdn-icons-png.freepik.com/512/2146/2146764.png" group-title="Channels 🇪🇸",La Sexta 🇪🇸
+#EXTGRP: Channels 🇪🇸
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0cd888eabc05fd1e767c7ed273d93822:a284a8d929485ff48e66192f38d1c568
+https://live-pv-ta.amazon.fastly-edge.com/iad-nitro/live/clients/dash/enc/svvzbaflv0/out/v1/e26493342f6c48988273441261c51c14/cenc.mpd
+
+#EXTINF:-1 tvg-chno="" cuid="522" tvg-name="Atreseries.Internacional" tvg-id="Atreseries.Internacional.es" tvg-logo="https://github.com/iprtl/p1/raw/master/logo/Atreseries.webp" group-logo="https://cdn-icons-png.freepik.com/512/2146/2146764.png" group-title="Channels 🇪🇸",A3 Series Internacional 🇪🇸
+#EXTGRP: Channels 🇪🇸
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=da2e30203fffb6eee7064f1acaed621d:32a38f6a3568339261d3e2f2d0fede69
+https://live-pv-ta.amazon.fastly-edge.com/iad-nitro/live/clients/dash/enc/trd6ii5akx/out/v1/5e0cb7a0ffaf4d938e0a8d75775b51ea/cenc.mpd
+
+#EXTINF:-1 tvg-chno="" cuid="522" tvg-name="A3CINE" tvg-id="A3CINE.es" tvg-logo="https://github.com/iprtl/p1/raw/master/logo/a3cine.webp" group-logo="https://cdn-icons-png.freepik.com/512/2146/2146764.png" group-title="Channels 🇪🇸",A3Cine 🇪🇸
+#EXTGRP: Channels 🇪🇸
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2f897106c2cc75a16ad12c5bd2e77781:3fabd4fd1bbde56b4bb3297f81e65b7a
+https://live-pv-ta.amazon.fastly-edge.com/iad-nitro/live/clients/dash/enc/k9bcyfgrhw/out/v1/288f6cad09824d4898612b35d4f2aa64/cenc.mpd
+
+---
+
 #EXTINF:-1 tvg-chno="" cuid="527" tvg-name="Trece" tvg-id="TRECE.es" tvg-logo="https://github.com/iprtl/tv-logos/raw/main/countries/spain/trece-es.png" group-logo="https://cdn-icons-png.freepik.com/512/2146/2146764.png" group-title="Channels 🇪🇸",Trece 🇪🇸
 #EXTGRP: Channels 🇪🇸
 https://play.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/021/playlist.m3u8
@@ -2139,10 +2174,22 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/wjeweupwyc/out/v1
 #EXTGRP:Auto 🏍🏎️;MotoGP🏍
 https://jmp2.uk/stvp-US3500007C4
 
+---
+
+#EXTINF:-1 tvg-chno="" cuid="1007" tvg-name="FORMULA 1 Channel 🇺🇸 🏎️" tvg-id="US600011Q2" tvg-logo="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/F1Channel_1920x1080_Jan_2025.png" group-logo="https://cdn-icons-png.freepik.com/512/1714/1714340.png" group-title="All Sports 🌎",F1 tv (vpn 🇺🇸) 🏎️
+#EXTGRP:Auto 🏍🏎️ 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=505616380de706936e493fdd1c25d0b6:5b313f49c63c682236eab3357400e216
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5fjow0mrvw/out/v1/f870533ee24b4f3bb98d2afe4b1e1bac/cenc.mpd
+
 #EXTINF:-1 tvg-chno="" cuid="1007" tvg-name="FORMULA 1 Channel 🇺🇸 🏎️" tvg-id="US600011Q2" tvg-logo="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/F1Channel_1920x1080_Jan_2025.png" group-logo="https://cdn-icons-png.freepik.com/512/1714/1714340.png" group-title="All Sports 🌎",F1 tv (vpn 🇺🇸) 🏎️
 #EXTGRP:Auto 🏍🏎️ 
 https://amg12058-c15studio-amg12058c1-lg-us-5787.playouts.now.amagi.tv/playlist.m3u8
 https://jmp2.uk/stvp-US600011Q2
+
+---
 
 #EXTINF:-1 tvg-chno="" cuid="1008" tvg-name="Rally" tvg-id="IT1600005VM" tvg-logo="https://www.rally.tv/favicon.ico" group-logo="https://cdn-icons-png.freepik.com/512/1714/1714340.png" group-title="All Sports 🌎",Rally.tv 🏎️
 #EXTGRP:Auto 🏍🏎️ 
@@ -2456,9 +2503,51 @@ https://tkx.mp.lura.live/rest/v2/mcp/video/univision-tudn?anvack=8Q6d5qd2lubv3MR
 #KODIPROP:inputstream.adaptive.license_key=763ce1ebcaf23502c8cf357c6ef423e1:0c5e6c0820a1ea28753721db00272411
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/o2vy4aahsh/out/v1/e293c932745a44dcaf897573dfc53532/cenc.mpd
 
+=====================🔹========================
+FOX SPORTS 🇲🇽
+=====================🔹========================
+
+
+#EXTINF:-1 tvg-chno="" tvg-id="Canal.ESPN.(Argentina).ar" tvg-name="" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/ESPNwhite.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="All Sports 🌎",ESPN 🇦🇷
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=22f24724b9ba4b35b43e24c51269f8d7:1b21bee9294b5037a638b7681d57029f
+https://ciades.providers.com.ar/ESPN/index.mpd?token=Sf72kl98hw16kx40vb32qu63ñz61th25
+
+#EXTINF:-1 tvg-chno="" cuid="1660" tvg-name="ESPN" tvg-id="Canal.ESPN.Premium.(Chile).sv" tvg-logo="https://logo.m3uassets.com/espnpremium.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="All Sports 🌎",ESPN Premium 🇦🇷
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=00e08f97d3104d8ba550414f41b48761:ed9c6e30925d4efe6c7374b764c67ec4
+https://ciades.providers.com.ar/ESPNPREMIUM/index.mpd?token=Sf72kl98hw16kx40vb32qu63ñz61th25
+
 ---
 
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name=""  tvg-logo="https://logo.m3uassets.com/foxsports.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="All Sports 🌎",Fox Sports 4k
+#EXTINF:-1 tvg-chno="" tvg-id="FOX.SPORTS.HD.(FoxSportsHD).pe" tvg-name="" tvg-logo="https://github.com/iprtl/p1/raw/master/logo/FoxSportsARYel.webp" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="All Sports 🌎",FOX Sports 🇦🇷
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5017e89955f44ff5b4ddf04e5f5151c6:55136a837a0c8bbcfc7ce65cbd9a547c
+https://ciades.providers.com.ar/FOXSPORTS/index.mpd?token=Sf72kl98hw16kx40vb32qu63ñz61th25
+
+#EXTINF:-1 tvg-chno="" tvg-id="FOX.SPORTS.2.(FoxSports2).pe" tvg-name="" tvg-logo="https://github.com/iprtl/p1/raw/master/logo/FoxSport2AR.webp" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="All Sports 🌎",FOX Sports 2 🇦🇷
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e0e38315c40c4176bab472b349c551ae:d2f1712fc296fee968c7ae0750b2c45b
+https://ciades.providers.com.ar/FOXSPORTS2/index.mpd?token=Sf72kl98hw16kx40vb32qu63ñz61th25
+
+#EXTINF:-1 tvg-chno="" tvg-id="FOX.SPORTS.3.HD.(FoxSports3HD).pe" tvg-name="" tvg-logo="https://logo.m3uassets.com/foxsports3.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="All Sports 🌎",FOX Sports 3 🇦🇷
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c72cc2fd2ce34ff78b71765fb85f990d:05fcda26315ffe49f178eca1423831f5
+https://ciades.providers.com.ar/FOXSPORTS3/index.mpd?token=Sf72kl98hw16kx40vb32qu63ñz61th25
+
+---
+
+#EXTINF:-1 tvg-chno="" tvg-id="Fox.Sports.4K.us2" tvg-name=""  tvg-logo="https://logo.m3uassets.com/foxsports.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="All Sports 🌎",Fox Sports 4k
 #EXTGRP:All Sports 🌎
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
