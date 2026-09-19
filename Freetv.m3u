@@ -2130,13 +2130,13 @@ https://bl.rutube.ru/livestream/1fd968ce15629416dbc4e45f2b4fcf11/index.m3u8?s=Mr
 ---
 
 #EXTINF:-1 tvg-chno="" cuid="1002" tvg-name="MotoGP Channel" tvg-id="US3500007C4" tvg-logo="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/MotoGP_Channel_Amazon_Prime_logo_1920x1080.png" group-logo="https://cdn-icons-png.freepik.com/512/1714/1714340.png" group-title="All Sports 🌎",MotoGP Channel 🏍
-#EXTGRP:Auto 🏍🏎️ 
+#EXTGRP:Auto 🏍🏎️;MotoGP🏍
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e03f302ec4dabcccca82cc9f76731ec9:53ea1027d2bf2893a552cf15bc0366de
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/wjeweupwyc/out/v1/8197c8e055c94a868623653ac55c10bf/cenc.mpd
 
 #EXTINF:-1 tvg-chno="" cuid="1002" tvg-name="MotoGP Channel" tvg-id="US3500007C4" tvg-logo="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/MotoGP_Channel_Amazon_Prime_logo_1920x1080.png" group-logo="https://cdn-icons-png.freepik.com/512/1714/1714340.png" group-title="All Sports 🌎",MotoGP Channel (vpn 🇺🇸) 🏍
-#EXTGRP:Auto 🏍🏎️ 
+#EXTGRP:Auto 🏍🏎️;MotoGP🏍
 https://jmp2.uk/stvp-US3500007C4
 
 #EXTINF:-1 tvg-chno="" cuid="1007" tvg-name="FORMULA 1 Channel 🇺🇸 🏎️" tvg-id="US600011Q2" tvg-logo="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/F1Channel_1920x1080_Jan_2025.png" group-logo="https://cdn-icons-png.freepik.com/512/1714/1714340.png" group-title="All Sports 🌎",F1 tv (vpn 🇺🇸) 🏎️
@@ -2458,8 +2458,8 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/o2vy4aahsh/out/v1
 
 ---
 
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name=""  tvg-logo="https://logo.m3uassets.com/foxsports.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="All Sports 🌎",Fox +
-#EXTGRP:All Sports 🌎;Premier League⚽️;Bundesliga⚽️;Ligue 1⚽️
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name=""  tvg-logo="https://logo.m3uassets.com/foxsports.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="All Sports 🌎",Fox 
+#EXTGRP:All Sports 🌎
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
