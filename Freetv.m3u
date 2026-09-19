@@ -2550,7 +2550,7 @@ FOX SPORTS 🇲🇽
 
 
 #EXTINF:-1 tvg-chno="" tvg-id="Canal.ESPN.(Argentina).ar" tvg-name="" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/ESPNwhite.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="All Sports 🌎",ESPN 🇦🇷
-#EXTGRP:All Sports 🌎;Premier League⚽️
+#EXTGRP:All Sports 🌎;Premier League⚽️;Serie A⚽️;La Liga⚽️
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
