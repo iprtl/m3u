@@ -2470,6 +2470,24 @@ https://dash2.antik.sk/stream/nvidia_eurosport2/playlist_cenc.mpd?wowzasessionid
 CAMPEONATOS DE FUTEBOL HISPÂNICOS 🇲🇽
 =====================🔹========================
 
+#EXTINF:-1 tvg-chno="" cuid="176" tvg-name="" tvg-id="UNIVERSO.HD.us2" tvg-logo="https://i.ibb.co/99KrFvMC/UNIVERSO.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="All Sports 🌎",UNIVERSO West 🇺🇸🇲🇽⚽️
+#EXTGRP:All Sports 🌎;Premier League⚽️
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=069f3495380f3d25a8c03477067f7d1b:7d9dbf8134535e1665e914fb7134ce47
+https://fsly.stream.peacocktv.com/Content/CMAF_OL2-CTR-4s/Live/channel(universo-west)/master.mpd
+
+#EXTINF:-1 tvg-chno="" cuid="176" tvg-name="" tvg-id="UNIVERSO.HD.us2" tvg-logo="https://i.ibb.co/99KrFvMC/UNIVERSO.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="All Sports 🌎",UNIVERSO East 🇺🇸🇲🇽⚽️
+#EXTGRP:All Sports 🌎;Premier League⚽️
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=96b67fa09140329a89b7a1ead134eda3:c618d32c56cdc6cad8330eb98507ca3f
+https://fsly.stream.peacocktv.com/Content/CMAF_OL2-CTR-4s-v2/Live/channel(universo-east)/master.mpd
+
+---
+
 #EXTINF:-1 tvg-chno="" cuid="176" tvg-name="" tvg-id="UniMas.us2" tvg-logo="https://logo.m3uassets.com/unimas.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="All Sports 🌎",Unimas 🇺🇸🇲🇽⚽️
 #EXTGRP:Liga Mexicana⚽️
 https://tkx.mp.lura.live/rest/v2/mcp/video/univision-unimas?anvack=8Q6d5qd2lubv3MRhZrh9xmoPC9Xzo64n
