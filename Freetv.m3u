@@ -2494,7 +2494,7 @@ https://fsly.stream.peacocktv.com/Content/CMAF_OL2-CTR-4s/Live/channel(universo-
 https://fsly.stream.peacocktv.com/Content/CMAF_OL2-CTR-4s-v2/Live/channel(universo-east)/master.mpd
 
 #EXTINF:-1 tvg-chno="" cuid="176" tvg-name="" tvg-id="Telemundo.Satellite.Feed.us2" tvg-logo="https://github.com/TheJP2/Prueba-COL/raw/main/Logos_Channels/Telemundo_Logo.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="All Sports 🌎",Telemundo Chicago 🇲🇽 (vpn 🇺🇸)
-#EXTGRP:All Sports 🌎;Premier League⚽️
+#EXTGRP:All Sports 🌎;Premier League⚽️;Serie A⚽️
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -2502,7 +2502,7 @@ https://fsly.stream.peacocktv.com/Content/CMAF_OL2-CTR-4s-v2/Live/channel(univer
 https://fsly.stream.peacocktv.com/Content/CMAF_OL2-CTR-4s-v2/Live/channel(WSNS)/master.mpd
 
 #EXTINF:-1 tvg-chno="" cuid="176" tvg-name="" tvg-id="KDEN-DT.us_locals1" tvg-logo="https://github.com/TheJP2/Prueba-COL/raw/main/Logos_Channels/Telemundo_Logo.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="All Sports 🌎",Telemundo 47 New York 🇲🇽 (vpn 🇺🇸)
-#EXTGRP:All Sports 🌎;Premier League⚽️
+#EXTGRP:All Sports 🌎;Premier League⚽️;Serie A⚽️
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
