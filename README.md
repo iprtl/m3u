@@ -984,7 +984,8 @@ https://github.com/iprtl/m3u/raw/live/Freetv.m3u
 
 List of Channels (Freetv.m3u)
 IMPORTANTE!!!
-O conteúdo da lista, sofreu um grande corte em termos de conteúdos, derivado a falta de apoios. Por isso ficou reduzida ao básico.
+
+Esta mensagem é direcionada principalmente para os Portugueses. Esta lista só contem canais 🇵🇹 de sinal aberto. O restante conteúdo são canais de varias temáticas de variadíssimos Países. Relembro que no que diz respeito à "liga Betcilc" existe vários canais internacionais que transmitem os principais jogos.
 
 🔹 CANAIS PORTUGUESES 🔹
 
