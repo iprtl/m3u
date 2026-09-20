@@ -1795,6 +1795,13 @@ https://2-fss-1.streamhoster.com/pl_122/amlst:201814-2122456/playlist.m3u8
 ESPANHOIS 🇪🇸
 =====================🔹========================
 
+#EXTINF:-1 tvg-chno="" cuid="504" tvg-name="¡HOLA!.TV" tvg-id="¡HOLA!.TV.es" tvg-logo="https://logo.m3uassets.com/holatv.png" group-logo="https://cdn-icons-png.freepik.com/512/2146/2146764.png" group-title="Channels 🇪🇸",¡Hola! TV 🇪🇸
+#EXTGRP: Channels 🇪🇸
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4cc24668662c2c91a811845dc19d9aba:7a791ca79b4add3df33c930a4b10dad7
+https://live-pv-ta.amazon.fastly-edge.com/iad-nitro/live/clients/dash/enc/iph7dpzuc9/out/v1/8f01d97db7ce415eb38c09a75fd55a3e/cenc.mpd
 
 #EXTINF:-1 tvg-chno="" cuid="500" tvg-name="TVEi" tvg-id="TVEi.pt" tvg-logo="https://logo.m3uassets.com/tveinternacional.png" group-logo="https://cdn-icons-png.freepik.com/512/2146/2146764.png" group-title="Channels 🇪🇸",TVE Internacional Europe 🇪🇸
 #EXTGRP: Channels 🇪🇸
