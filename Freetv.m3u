@@ -3686,6 +3686,27 @@ https://5cf4a2c2512a2.streamlock.net/tvmuzangala/tvmuzangala/playlist.m3u8
 #EXTINF:-1 cuid="1656" tvg-name="Sol Musica 🇪🇸" tvg-id="SOL.Música.es" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD2300004Y7_20241022T051039SQUARE.png" group-logo="https://cdn-icons-png.freepik.com/512/12461/12461207.png" group-title=" Music",Sol Musica 🇪🇸
 https://d2glyu450vvghm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-21u4g5cjglv02/sm.m3u8
 
+#EXTINF:-1 cuid="1670" tvg-name="Canal.Telehit" tvg-id="Canal.Telehit.mx" tvg-logo="https://logo.m3uassets.com/telehit.png" group-logo="https://cdn-icons-png.freepik.com/512/12461/12461207.png" group-title=" Music",Telehit 🇲🇽
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8db29d65d8db2422cfadefec929cdc46:b96587a4e8237bc22a186114b25179da
+https://live-pv-ta.amazon.fastly-edge.com/iad-nitro/live/clients/dash/enc/69onjpmgph/out/v1/bffe5e192607426d850350fcb751674b/cenc.mpd
+
+#EXTINF:-1 cuid="1671" tvg-name="Canal.Telehit.Música" tvg-id="Canal.Telehit.Música.mx" tvg-logo="https://logo.m3uassets.com/telehitmusica.png" group-logo="https://cdn-icons-png.freepik.com/512/12461/12461207.png" group-title=" Music",Telehit Música 🇲🇽
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=72072cc450719f120c9002b1bae31401:5777198adbd14c0416aa760249b91380
+https://live-pv-ta.amazon.fastly-edge.com/iad-nitro/live/clients/dash/enc/lv91k1unfv/out/v1/ab233dee5c6a40279e173e3497e36d21/cenc.mpd
+
+#EXTINF:-1 cuid="1672" tvg-name="Canal.Telehit.Música.Plus" tvg-id="Canal.Telehit.Música.Plus.mx" tvg-logo="https://logo.m3uassets.com/telehitmusicaplus.png" group-logo="https://cdn-icons-png.freepik.com/512/12461/12461207.png" group-title=" Music",TeleHit Música Plus 🇲🇽
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0ab26e2d1adc4e0b9e25b331d95bf1d1:a9c6763ccdb714dadd00d60903a4aa17
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/f7jpwtuowu/out/v1/49b2bba643474563ac665c307e5e5306/cenc.mpd
+
 =====================🔹========================
 
 #EXTINF:-1 tvg-name="Rebel" tvg-id="Rebel.cz" tvg-logo="https://github.com/iprtl/p1/raw/master/logo/RebelRock.webp?raw=true" group-logo="https://cdn-icons-png.freepik.com/512/12461/12461207.png" group-title=" Music",Rebel 🇨🇿
