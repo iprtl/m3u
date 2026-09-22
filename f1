@@ -2182,7 +2182,7 @@ https://jmp2.uk/stvp-US3500007C4
 
 ---
 
-#EXTINF:-1 tvg-chno="" cuid="1007" tvg-name="FORMULA 1 Channel 🇺🇸 🏎️" tvg-id="US600011Q2" tvg-logo="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/F1Channel_1920x1080_Jan_2025.png" group-logo="https://cdn-icons-png.freepik.com/512/1714/1714340.png" group-title="All Sports 🌎",F1 tv (vpn 🇺🇸) 🏎️
+#EXTINF:-1 tvg-chno="" cuid="1007" tvg-name="FORMULA 1 Channel 🇺🇸 🏎️" tvg-id="US600011Q2" tvg-logo="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/F1Channel_1920x1080_Jan_2025.png" group-logo="https://cdn-icons-png.freepik.com/512/1714/1714340.png" group-title="All Sports 🌎",F1 tv  🏎️
 #EXTGRP:Auto 🏍🏎️ 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -2499,7 +2499,7 @@ https://fsly.stream.peacocktv.com/Content/CMAF_OL2-CTR-4s/Live/channel(universo-
 #KODIPROP:inputstream.adaptive.license_key=96b67fa09140329a89b7a1ead134eda3:c618d32c56cdc6cad8330eb98507ca3f
 https://fsly.stream.peacocktv.com/Content/CMAF_OL2-CTR-4s-v2/Live/channel(universo-east)/master.mpd
 
-#EXTINF:-1 tvg-chno="" cuid="176" tvg-name="" tvg-id="Telemundo.Satellite.Feed.us2" tvg-logo="https://github.com/TheJP2/Prueba-COL/raw/main/Logos_Channels/Telemundo_Logo.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="All Sports 🌎",Telemundo Chicago 🇲🇽 (vpn 🇺🇸)
+#EXTINF:-1 tvg-chno="" cuid="176" tvg-name="" tvg-id="Telemundo.Satellite.Feed.us2" tvg-logo="https://github.com/TheJP2/Prueba-COL/raw/main/Logos_Channels/Telemundo_Logo.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="All Sports 🌎",Telemundo Chicago 🇲🇽 
 #EXTGRP:All Sports 🌎;Premier League⚽️;Serie A⚽️
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -2507,7 +2507,7 @@ https://fsly.stream.peacocktv.com/Content/CMAF_OL2-CTR-4s-v2/Live/channel(univer
 #KODIPROP:inputstream.adaptive.license_key=7d6bb9f86e133e4cb33440b493b6b672:584ad285dcb9e7d42cf3e93f1cc3fe11
 https://fsly.stream.peacocktv.com/Content/CMAF_OL2-CTR-4s-v2/Live/channel(WSNS)/master.mpd
 
-#EXTINF:-1 tvg-chno="" cuid="176" tvg-name="" tvg-id="KDEN-DT.us_locals1" tvg-logo="https://github.com/TheJP2/Prueba-COL/raw/main/Logos_Channels/Telemundo_Logo.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="All Sports 🌎",Telemundo 47 New York 🇲🇽 (vpn 🇺🇸)
+#EXTINF:-1 tvg-chno="" cuid="176" tvg-name="" tvg-id="KDEN-DT.us_locals1" tvg-logo="https://github.com/TheJP2/Prueba-COL/raw/main/Logos_Channels/Telemundo_Logo.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="All Sports 🌎",Telemundo 47 New York 🇲🇽 
 #EXTGRP:All Sports 🌎;Premier League⚽️;Serie A⚽️
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -2561,7 +2561,7 @@ FOX SPORTS 🇲🇽
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=22f24724b9ba4b35b43e24c51269f8d7:1b21bee9294b5037a638b7681d57029f
-https://ciades.providers.com.ar/ESPN/index.mpd?token=Sf72kl98hw16kx40vb32qu63ñz61th25
++https://ciades.providers.com.ar/ESPN/index.mpd?token=Sf72kl98hw16kx40vb32qu63ñz61th25
 
 #EXTINF:-1 tvg-chno="" cuid="1660" tvg-name="ESPN" tvg-id="Canal.ESPN.Premium.(Chile).sv" tvg-logo="https://logo.m3uassets.com/espnpremium.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="All Sports 🌎",ESPN Premium 🇦🇷
 #EXTGRP:All Sports 🌎
@@ -2569,7 +2569,7 @@ https://ciades.providers.com.ar/ESPN/index.mpd?token=Sf72kl98hw16kx40vb32qu63ñz
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=00e08f97d3104d8ba550414f41b48761:ed9c6e30925d4efe6c7374b764c67ec4
-https://ciades.providers.com.ar/ESPNPREMIUM/index.mpd?token=Sf72kl98hw16kx40vb32qu63ñz61th25
++https://ciades.providers.com.ar/ESPNPREMIUM/index.mpd?token=Sf72kl98hw16kx40vb32qu63ñz61th25
 
 ---
 
@@ -2579,7 +2579,7 @@ https://ciades.providers.com.ar/ESPNPREMIUM/index.mpd?token=Sf72kl98hw16kx40vb32
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5017e89955f44ff5b4ddf04e5f5151c6:55136a837a0c8bbcfc7ce65cbd9a547c
-https://ciades.providers.com.ar/FOXSPORTS/index.mpd?token=Sf72kl98hw16kx40vb32qu63ñz61th25
++https://ciades.providers.com.ar/FOXSPORTS/index.mpd?token=Sf72kl98hw16kx40vb32qu63ñz61th25
 
 #EXTINF:-1 tvg-chno="" tvg-id="FOX.SPORTS.2.HD.(FoxSports2HD).pe" tvg-name="" tvg-logo="https://github.com/iprtl/p1/raw/master/logo/FoxSport2AR.webp" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="All Sports 🌎",FOX Sports 2 🇦🇷
 #EXTGRP:All Sports 🌎
@@ -2587,7 +2587,7 @@ https://ciades.providers.com.ar/FOXSPORTS/index.mpd?token=Sf72kl98hw16kx40vb32qu
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e0e38315c40c4176bab472b349c551ae:d2f1712fc296fee968c7ae0750b2c45b
-https://ciades.providers.com.ar/FOXSPORTS2/index.mpd?token=Sf72kl98hw16kx40vb32qu63ñz61th25
++https://ciades.providers.com.ar/FOXSPORTS2/index.mpd?token=Sf72kl98hw16kx40vb32qu63ñz61th25
 
 #EXTINF:-1 tvg-chno="" tvg-id="FOX.SPORTS.3.HD.(FoxSports3HD).pe" tvg-name="" tvg-logo="https://logo.m3uassets.com/foxsports3.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="All Sports 🌎",FOX Sports 3 🇦🇷
 #EXTGRP:All Sports 🌎
@@ -2595,7 +2595,7 @@ https://ciades.providers.com.ar/FOXSPORTS2/index.mpd?token=Sf72kl98hw16kx40vb32q
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c72cc2fd2ce34ff78b71765fb85f990d:05fcda26315ffe49f178eca1423831f5
-https://ciades.providers.com.ar/FOXSPORTS3/index.mpd?token=Sf72kl98hw16kx40vb32qu63ñz61th25
++https://ciades.providers.com.ar/FOXSPORTS3/index.mpd?token=Sf72kl98hw16kx40vb32qu63ñz61th25
 
 ---
 
