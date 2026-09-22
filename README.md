@@ -978,7 +978,7 @@ https://github.com/iprtl/m3u/raw/live/Pluto.m3u
 
 Streamings by Various Countries 🇵🇹🇧🇷🇲🇽🇪🇸🇨🇦🇫🇷🇪🇸🇬🇧🇺🇸
 ```bash
-https://github.com/iprtl/m3u/raw/live/Freetv.m3u
+https://raw.githubusercontent.com/iprtl/m3u/refs/heads/live/Freetv
 ```
 ---
 
