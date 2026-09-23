@@ -527,9 +527,6 @@ https://cdnlive.codev8.net/rtvalive/smil:channel42.smil/playlist.m3u8?wowzasessi
 🌈 SUL AMERICANOS
 =====================❖======================== 
 
-#EXTINF:-1 tvg-chno="" cuid="079" tvg-name="" tvg-id="Telemundo.Satellite.Feed.us2" tvg-logo="https://logo.m3uassets.com/telemundo.png" group-logo="https://cdn-icons-png.freepik.com/256/5395/5395694.png" group-title="World News 🌍",Telemundo 🇺🇸🇲🇽⚽️
-http://origin.thetvapp.to/hls/TelemundoEast/index.m3u8?wowzasessionid=@iprtlk
-
 #EXTINF:-1 tvg-chno="" cuid="79" tvg-name="Noticias Telemundo Ahora" tvg-id="US3000005RS" tvg-logo="https://provider-static.plex.tv/a/epg/channels/logos/gracenote/a88b95413ac88f1f1147ea1d00692653.png" group-logo="https://cdn-icons-png.freepik.com/256/5395/5395694.png" group-title="World News 🌍",Noticias Telemundo Ahora 🇺🇸🇲🇽
 https://d3f4oii5n0oeqi.cloudfront.net/11701/88814626/hls/master.m3u8?ads.xumo_channelId=88814626&ads.xumo_streamId=88814626
 
