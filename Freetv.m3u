@@ -513,13 +513,12 @@ https://rpn.bozztv.com/gusa/gusa-celebrityscene/index.m3u8?wowzasessionid=@iprtl
 #EXTINF:-1 tvg-chno="" cuid="073" tvg-name="24h 🇪🇸" tvg-id="ESBC4100004J1" tvg-logo="https://logo.m3uassets.com/24h.png" group-logo="https://cdn-icons-png.freepik.com/256/5395/5395694.png" group-title="World News 🌍",24h 🇪🇸
 https://rtvelivestream.rtve.es/rtvesec/24h/24h_main_dvr.m3u8?wowzasessionid=@iprtlk
 
-#EXTINF:-1 tvg-chno="" cuid="74" tvg-name="24h 🇪🇸" tvg-id="El.País.es" tvg-logo="https://github.com/iprtl/p1/raw/master/logo/ElPais.webp" group-logo="https://cdn-icons-png.freepik.com/256/5395/5395694.png" group-title="World News 🌍",El Pais 🇪🇸
+#EXTINF:-1 tvg-chno="" cuid="74" tvg-name="El.País" tvg-id="El.País.es" tvg-logo="https://github.com/iprtl/p1/raw/master/logo/ElPais.webp" group-logo="https://cdn-icons-png.freepik.com/256/5395/5395694.png" group-title="World News 🌍",El Pais 🇪🇸
 https://jmp2.uk/stvp-ESBC39000033J
 https://d2uerfl96fh0y6.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-98b4w85lugvp4/fast-channel-el-pais/fast-channel-el-pais.m3u8
 
-
 #EXTINF:-1 tvg-chno="" cuid="76" tvg-name="Negócios tv 🇪🇸" tvg-id="ESBD3400001AA" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD3400001AA_20241022T050601SQUARE.png" group-logo="https://cdn-icons-png.freepik.com/256/5395/5395694.png" group-title="World News 🌍",Negócios tv 🇪🇸
-https://negociostv-negociostv-samsunges.amagi.tv/amRdirect/device[did]=%7BPSID%7D&device[dnt]=%7BTARGETOPT%7D&app_name=%7BAPP_NAME%7D&tc_string=%7BTC_STRING%7D&coppa=0/hls/amagi_hls_data_negociost-negociostv-samsunges/CDN/playlist.m3u8
+https://streaming013.gestec-video.com/hls/negociostv.m3u8?ads.vf=RyS71-C7hNm
 
 #EXTINF:-1 tvg-chno="" cuid="78" tvg-name="Canal Sur Más Noticias 🇪🇸" tvg-logo="https://cdn2.rtva.interactvty.com/clients_logos/325c2f9998e74cc38e88d68e23b9c3a8.png" group-logo="https://cdn-icons-png.freepik.com/256/5395/5395694.png" group-title="World News 🌍",Canal Sur Más Noticias 🇪🇸
 https://cdnlive.codev8.net/rtvalive/smil:channel42.smil/playlist.m3u8?wowzasessionid=@iprtlk
@@ -556,7 +555,7 @@ https://linear-254.frequency.stream:443/mt/studio/254/hls/master/playlist_1280x7
 
 
 #EXTINF:-1 tvg-chno="" cuid="83" tvg-name="" tvg-id="USBD1700014QU" tvg-logo="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/TELEMUNDO_AL_DIA.png" group-logo="https://cdn-icons-png.freepik.com/256/5395/5395694.png" group-title="World News 🌍",Telemundo Al Día 🇲🇽
-https://d3f4oii5n0oeqi.cloudfront.net/11701/88814573/hls/master.m3u8?ads.xumo_channelId=88814573
+https://jmp2.uk/rok-8e0bb4b7ca7c5ea1af52427462297f38.m3u8
 https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991747
 https://d1rqgw5gocwo9i.cloudfront.net/10009/99993040/hls/master.m3u8?ads.xumo_channelId=99993040&ads.asnw=169843&ads.afid=137391198&ads.sfid=19051598&ads.caid=telemundoaldia_linear&ads.csid=lgchannels_us_telemundoaldia_ssai_cro&ads._fw_is_lat=[LMT]&ads._fw_us_privacy=[US_PRIVACY]&ads._fw_coppa=0&ads._fw_did=[IFA]&ads._fw_vcid2=512116:[IFA]&ads._fw_app_bundle=[app_bundle]&ads._fw_app_store_url=[app_store_url]&ads._fw_content_category=IAB12&ads._fw_content_genre=news&ads._fw_content_language=es&ads._fw_content_rating=tv-g&ads._fw_deviceMake=[DEVICE_MAKE]&ads._fw_device_model=[DEVICE_MODEL]&ads._fw_deviceType=3-Connected_TV&ads.appVersion=[APP_VERSION]&ads.appName=lgchannels&ads.xumo_contentId=2561&ads.xumo_contentName=TelemundoNewsSports&ads.xumo_providerId=2561&ads.xumo_providerName=TelemundoNewsSports&ads.channelId=99993040&ads._fw_ifa_type=[IFA_TYPE]
 
@@ -568,7 +567,7 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-estrellanews-es
 =====================❖======================== 
 
 #EXTINF:-1 tvg-chno="" cuid="85" tvg-name="Rai News 24 🇮🇹" tvg-id="RaiNews24.it" tvg-logo="https://logo.m3uassets.com/rainews24.png" group-logo="https://cdn-icons-png.freepik.com/256/5395/5395694.png" group-title="World News 🌍",Rai News 24 🇮🇹
-https://viamotionhsi.netplus.ch/live/eds/rainews/browser-dash/rainews.mpd?wowzasessionid=@iprtlk
++https://viamotionhsi.netplus.ch/live/eds/rainews/browser-dash/rainews.mpd?wowzasessionid=@iprtlk
 
 =====================❖======================== 
 🌈FRANCESES
@@ -581,15 +580,14 @@ https://live-cdn-stream-euw1.bfmtv.bct.nextradiotv.com/master.m3u8
 https://live-cdn-bfm2-euw1.bfmtv.bct.nextradiotv.com/m5/media.m3u8?bpkio_serviceid=7de32147a4f1055b8812bbac92a24d2e
 
 #EXTINF:-1 tvg-chno="" cuid="88" tvg-name="Euronews 🇫🇷" tvg-id="Euronews.fr" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f0a48729-6f08-43e4-9cc4-44ba472281de/Marc_Faron_-_Wurl_Plex_assets_Channel-logo-white3x2_ENrdx.png" group-logo="https://cdn-icons-png.freepik.com/256/5395/5395694.png" group-title="World News 🌍",Euronews 🇫🇷
-https://euronews-live-fra-fr.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6564/bitok/eyJzdGlkIjoiMTYwZWIwZDUtM2JlNS00YmM4LWFlNjYtNTFlNGQ3YTU0NjI0IiwibWt0IjoiZnIiLCJjaCI6NjU2NCwicHRmIjoxfQ==/26032/euronews-fr.m3u8?wowzasessionid=@iprtlk
+https://2f6c5bf4.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmxheHhUVi1ldV9FdXJvbmV3c0ZyYW5jYWlzX0hMUw/playlist.m3u8?ads.wurl_channel=672&ads.wurl_name=EuronewsFrancais&ads.coppa=0&ads.device_id=dacb6fbb-62c9-480d-827f-5f58c2e98b79&ads.dnt=0&ads.lmt=&ads.us_privacy=1YNN&ads.gdpr=0&ads.consent=&ads.app_name=Whale+TV%2B&ads.app_store=Browser&ads.url=&ads.device_make=&ads.device_model=&ads.tv_language=&ads.tv_vendor=&ads.brand_name=&ads.tv_model=&ads.language=&ads.gender=F%2CM&ads.age=18-20%2C21-24%2C25-29%2C30-34%2C35-39%2C40-44%2C45-49%2C50-54%2C55-59&ads.duration=&ads.content_producer_name=WURL_Euronews_EuronewsFR&ads.content_custom_1_param=WURL&ads.rlaxx_session_id=&ads.height=&ads.width=&ads.rlaxx_iab_category=IAB1&ads.rlaxx_content_category=IAB12%2CIAB12-1%2CIAB12-2%2CIAB12-3&ads.rlaxx_genre=News&ads.rlaxx_rating=12%2B&ads.livestream=1&ads.max_ad_duration=30&ads.min_ad_duration=5&ads.tag_id=106473&ads.channel_number=0164&ads.placement=1&ads.autoplay=1&ads.mute=0&ads.skip=0
 
 #EXTINF:-1 tvg-chno="" cuid="89" tvg-name="France Info 🇫🇷" tvg-id="franceinfo:.fr" tvg-logo="https://i.ibb.co/XkLHrbC/frinfo2bl.png" group-logo="https://cdn-icons-png.freepik.com/256/5395/5395694.png" group-title="World News 🌍",France Info 🇫🇷
-https://viamotionhsi.netplus.ch/live/eds/franceinfo/browser-dash/franceinfo.mpd
-#EXTINF:-1 tvg-chno="" cuid="89" tvg-name="France Info 🇫🇷" tvg-id="franceinfo:.fr" tvg-logo="https://i.ibb.co/XkLHrbC/frinfo2bl.png" group-logo="https://cdn-icons-png.freepik.com/256/5395/5395694.png" group-title="World News 🌍",France Info 🇫🇷
++https://viamotionhsi.netplus.ch/live/eds/franceinfo/browser-dash/franceinfo.mpd
 +https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/frin.m3u8?wowzasessionid=@iprtlk
 
 #EXTINF:-1 tvg-chno="" cuid="90" tvg-name="Cnews" tvg-id="CNews.fr" tvg-logo="https://www.cnews.fr/themes/cnews/cnews-logo-mobile.png" group-logo="https://cdn-icons-png.freepik.com/256/5395/5395694.png" group-title="World News 🌍",Cnews 🇫🇷
-https://hls-m015-live-aka-canalplus.akamaized.net/live/disk/cnews-clair-hd/hls-v3-hd-clair/cnews-clair-hd.m3u8?wowzasessionid=@iprtlk
++https://hls-m015-live-aka-canalplus.akamaized.net/live/disk/cnews-clair-hd/hls-v3-hd-clair/cnews-clair-hd.m3u8?wowzasessionid=@iprtlk
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/cnews-dm.m3u8?wowzasessionid=@iprtlk
 
 #EXTINF:-1 tvg-chno="" cuid="92" tvg-name="Tv5 Monde Info" tvg-id="TV5.Monde.fr" tvg-logo="https://logo.m3uassets.com/tv5mondeinfo.png" group-logo="https://cdn-icons-png.freepik.com/256/5395/5395694.png" group-title="World News 🌍",Tv5 Monde Info 🇫🇷
@@ -610,8 +608,7 @@ https://amg00106-france24-france24-samsunguk-qvpp8.amagi.tv/playlist/amg00106-fr
 https://africa24.vedge.infomaniak.com/livecast/ik:africa24/manifest.m3u8?wowzasessionid=@iprtlk
 
 #EXTINF:-1 tvg-chno="" cuid="98" tvg-name="África News 🇺🇸🇫🇷" tvg-id="UK:.Africanews.en" tvg-logo="https://www.africaNews.com/apple-touch-icon-precomposed.png?v=3" group-logo="https://cdn-icons-png.freepik.com/256/5395/5395694.png" group-title="World News 🌍",África News 🇺🇸🇫🇷
-https://c3c275b999764df8a2dd55ffe2996818.mediatailor.eu-west-1.amazonaws.com/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6576/5a098a95-cc1e-4e08-8785-65fe2ac4dda3/5.m3u8
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/africanews/africanews-en.m3u8?wowzasessionid=@iprtlk
+https://d77624b2.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/T3JrYVRWX0FmcmljYW5OZXdzRW5nbGlzaF9ITFM/africanews-en.m3u8?ads.wurl_channel=1152&ads.wurl_name=AfricanNewsEnglish&ads.coppa=0&channel=AfricanNewsEnglish&channelid=0000000001&ip=%7B%7BIP%7D%7D&cb=%7B%7BCACHEBUSTER%7D%7D&width=1920&height=1080&appname=%7B%7BAPP_NAME%7D%7D&appbundle=%7B%7BAPP_BUNDLE%7D%7D&ua=%7B%7BUSER_AGENT%7D%7D&lat=%7B%7BLAT%7D%7D&lon=%7B%7BLON%7D%7D&poddur=%7B%7BPOD_MAX_DUR%7D%7D&maxseq=%7B%7BPOD_AD_SLOTS%7D%7D&maxdur=%7B%7BMAXIMUM_DURATION%7D%7D&mindur=%7B%7BMINIMUM_DURATION%7D%7D&deviceid=%7B%7BDEVICE_ID%7D%7D&make=%7B%7BDEVICE_MAKE%7D%7D&model=%7B%7BDEVICE_MODEL%7D%7D&devicetype=%7B%7BDEVICE_TYPE%7D%7D&ifa=%7B%7BIFA%7D%7D&ifatype=%7B%7BIFA_TYPE%7D%7D&contentid=%7B%7BCONTENT_ID%7D%7D&network=%7B%7BNETWORK_NAME%7D%7D&contenttitle=%7B%7BCONTENT_TITLE%7D%7D&contentcat=%7B%7BIAB_CATEGORY%7D%7D&contentgenre=%7B%7BCONTENT_GENRE%7D%7D&contentlivestream=%7B%7BCONTENT_LIVESTREAM%7D%7D&contentlanguage=%7B%7BLANGUAGE%7D%7D&contentrating=%7B%7BRATING%7D%7D&contentseason=%7B%7BCONTENT_SEASON%7D%7D&contentepisode=%7B%7BCONTENT_EPISODE%7D%7D&contentseries=%7B%7BCONTENT_SERIES%7D%7D&publishername=%7B%7BPUBLISHER_NAME%7D%7D&publisherid=%7B%7BPUBLISHER_ID%7D%7D&dnt=%7B%7BDNT%7D%7D&usprivacy=%7B%7BUS_PRIVACY%7D%7D&gdpr=%7B%7BGDPR%7D%7D&consent=%7B%7BCONSENT%7D%7D&lmt=%7B%7BLMT%7D%7D&irisid=%7B%7BIRIS_ID%7D%7D&iriscontext=%7B%7BIRIS_CONTEXT%7D%7D&appstoreurl=%7B%7BAPP_STORE_URL%7D%7D&domain=%7B%7BDOMAIN%7D%7D&custom=%7B%7BQP_CUSTOM%7D%7D&timestamp=%7B%7BTIMESTAMP%7D%7D&contentplayhead=%7B%7BCONTENTPLAYHEAD%7D%7D&mediaplayhead=%7B%7BMEDIAPLAYHEAD%7D%7D&breakposition=%7B%7BBREAKPOSITION%7D%7D&blockedadcategories=%7B%7BBLOCKEDADCATEGORIES%7D%7D&adcategories=%7B%7BADCATEGORIES%7D%7D&adcount=%7B%7BADCOUNT%7D%7D&transactionid=%7B%7BTRANSACTIONID%7D%7D&placementtype=%7B%7BPLACEMENTTYPE%7D%7D&adtype=%7B%7BADTYPE%7D%7D&universaladid=%7B%7BUNIVERSALADID%7D%7D&breakmaxduration=%7B%7BBREAKMAXDURATION%7D%7D&breakminduration=%7B%7BBREAKMINDURATION%7D%7D&breakmaxads=%7B%7BBREAKMAXADS%7D%7D&breakminadlength=%7B%7BBREAKMINADLENGTH%7D%7D&breakmaxadlength=%7B%7BBREAKMAXADLENGTH%7D%7D&serverside=%7B%7BSERVERSIDE%7D%7D&pageurl=%7B%7BPAGEURL%7D%7D&vastversions=%7B%7BVASTVERSIONS%7D%7D&apiframeworks=%7B%7BAPIFRAMEWORKS%7D%7D&extensions=%7B%7BEXTENSIONS%7D%7D&verificationvendors=%7B%7BVERIFICATIONVENDORS%7D%7D&omidpartner=%7B%7BOMIDPARTNER%7D%7D&mediamime=%7B%7BMEDIAMIME%7D%7D&errorcode=%7B%7BERRORCODE%7D%7D
 
 =====================❖======================== 
 🌈INGLESES & NORTE AMERICANOS
@@ -634,12 +631,12 @@ https://jmp2.uk/plu-65244c403fd33c0008ffff31.m3u8
 =====================❖======================== 
 
 #EXTINF:-1 tvg-chno="" cuid="104" tvg-name="CNN 🇺🇸" tvg-id="CNN.HD.uk" tvg-logo="https://logo.m3uassets.com/cnn.png" group-logo="https://cdn-icons-png.freepik.com/256/5395/5395694.png" group-title="World News 🌍",CNN 🇺🇸
-https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_2_1964000.m3u8?wowzasessionid=@iprtlk
+https://amg01918-cnnus-amg01918c2-vizio-us-9192.playouts.now.amagi.tv/playlist/amg01918-cnnus-cnnoriginals-vizious/playlist.m3u8?app_name=%7bAPP_NAME%7d&app_bundle=%7bAPP_BUNDLE%7d&app_store_url=%7bAPP_STORE_URL%7d&url=%7bDOMAIN%7d&ifa_type=%7bIFATYPE%7d&lmt=%7bLMT%7d&dnt=%7bDNT%7d&did=%7bADID%7d&us_privacy=%7bUSPRIVACY%7d&coppa=%7bCOPPA%7d&skip=%7bSKIPPABLE%7d&device_make=%7bDEVICE_MAKE%7d&w=%7bWIDTH%7d&h=%7bHEIGHT%7d&vizio_network_name=%7bVIZIO_NETWORK_NAME%7d&vizdartoken=eyJhdWQiOiI5MyIsIndmcGNpZCI6NDYwODcyODA5N30
 
 #EXTINF:-1 tvg-chno="" cuid="105" tvg-name="CNN Internacional 🇺🇸" tvg-id="66c45afaa72e7b0008a2b153" tvg-logo="https://logo.m3uassets.com/cnn.png" group-logo="https://cdn-icons-png.freepik.com/256/5395/5395694.png" group-title="World News 🌍",CNN Internacional 🇺🇸
 https://jmp2.uk/stvp-GBBD8000016N
 
-#EXTINF:-1 tvg-chno="" cuid="106" tvg-name="CNN Highlights 🇺🇸" tvg-id="5421f71da6af422839419cb3" tvg-logo="https://cdn-prod.fullscreen.nz/v1/images/channel/linear/ptcn/logos/default.png" group-logo="https://cdn-icons-png.freepik.com/256/5395/5395694.png" group-title="World News 🌍",CNN Highlights 🇺🇸
+#EXTINF:-1 tvg-chno="" cuid="106" tvg-name="CNN Highlights 🇺🇸" tvg-id="5421f71da6af422839419cb3" tvg-logo="https://cdn-prod.fullscreen.nz/v1/images/channel/linear/ptcn/logos/default.png" group-logo="https://cdn-icons-png.freepik.com/256/5395/5395694.png" group-title="World News 🌍",CNN Headlines 🇺🇸
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00405-rakutentv-cnnfastlg-rakuten-lgpt/playlist.m3u8?wowzasessionid=@iprtlk
 
 #EXTINF:-1 tvg-chno="" cuid="107" tvg-name="CNN XPRESS 🇲🇽" tvg-id="673248f9030a2c0008033af8" tvg-logo="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/CNNXpress_1920x1080_Logo.png" group-logo="https://cdn-icons-png.freepik.com/256/5395/5395694.png" group-title="World News 🌍",CNN XPRESS 🇲🇽
@@ -671,8 +668,8 @@ https://jmp2.uk/plu-55b285cd2665de274553d66f.m3u8
 #EXTINF:-1 tvg-chno="" cuid="114" tvg-name="Sky News " tvg-id="55b285cd2665de274553d66f" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/Skynewsnow.webp" group-logo="https://cdn-icons-png.freepik.com/256/5395/5395694.png" group-title="World News 🌍",Sky News Now 🇺🇸
 https://amg00663-skynews-skynewsau-samsungau-r7n40.amagi.tv/ts-eu-w1-n2/playlist/amg00663-skynews-skynewsau-samsungau/playlist.m3u8?wowzasessionid=@iprtlk
 
-#EXTINF:-1 tvg-chno="" cuid="115" tvg-name="Fox News Now 🇺🇸" tvg-id="USBA300024TN" tvg-logo="https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/Carbon_Integration_Station_Image_Update/s119219_ld_h8_ab.png" group-logo="https://cdn-icons-png.freepik.com/256/5395/5395694.png" group-title="World News 🌍",Fox News Now 🇺🇸
-https://fox-foxNewsnow-samsungus.amagi.tv/playlist.m3u8?wowzasessionid=@iprtlk
+#EXTINF:-1 tvg-chno="" cuid="115" tvg-name="Fox News Now 🇺🇸" tvg-id="Fox.Live.Now.Dummy.us" tvg-logo="https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/Carbon_Integration_Station_Image_Update/s119219_ld_h8_ab.png" group-logo="https://cdn-icons-png.freepik.com/256/5395/5395694.png" group-title="World News 🌍",Fox Live NOW 🇺🇸
+https://live-manifest.production-public.tubi.io/live/8127bb63-a43e-4859-8681-7c1ad6192796/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="" cuid="116" tvg-name="FOX 5 Washington DC 🇺🇸" tvg-id="WDCA-DT.us_locals1" tvg-logo="https://canvas-lb.tubitv.com/opts/VrF_zxymbLCTzg==/030f186b-cf60-4481-b37a-2d17d42366fa/CHgQeDoFMS4xLjVAAQ==" group-logo="https://cdn-icons-png.freepik.com/256/5395/5395694.png" group-title="World News 🌍",FOX 5 Washington DC 🇺🇸
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox5dcwttg-vizious/playlist.m3u8?wowzasessionid=@iprtlk
@@ -789,7 +786,7 @@ https://vs-cmaf-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_c
 https://tv-trtworld.medya.trt.com.tr/master.m3u8?wowzasessionid=@iprtlk
 
 #EXTINF:-1 tvg-chno="" cuid="150" tvg-name="" tvg-id="TVP.World.HD.pl" tvg-logo="https://logo.m3uassets.com/tvpworld.png" group-logo="https://cdn-icons-png.freepik.com/256/5395/5395694.png" group-logo="https://cdn-icons-png.freepik.com/256/5395/5395694.png" group-title="World News 🌍",TVP World 🇬🇧
-https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/ressources/wld/tvpwd.m3u8?wowzasessionid=@iprtlk
++https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/ressources/wld/tvpwd.m3u8?wowzasessionid=@iprtlk
 https://raw.githubusercontent.com/fraudiay79/strm/refs/heads/main/platforms/links/pl/tvpworld.m3u8?wowzasessionid=@iprtlk
 
 #EXTINF:-1 tvg-chno="" cuid="151" tvg-name="CGTN News 🇬🇧" tvg-id="CGTN.News.ng" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/cgtn.png" group-logo="https://cdn-icons-png.freepik.com/256/5395/5395694.png" group-title="World News 🌍",CGTN News 🇬🇧
@@ -805,7 +802,7 @@ https://live-hls-web-aje-fa.getaj.net/AJE/01.m3u8?wowzasessionid=@iprtlk
 http://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8?wowzasessionid=@iprtlk?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDIxIDEyOjQ3OjU3IFBNJmhhc2hfdmFsdWU9ZkJ0QTd3enJhWUtYSGsrZHFieUZodz09JnZhbGlkbWludXRlcz00ODA=
 
 #EXTINF:-1 tvg-chno="" cuid="155" tvg-name="NHK World 🇬🇧" tvg-id="NHK.World.TV.pt" tvg-logo="https://i.ibb.co/JCjsXZm/nhk.png" group-logo="https://cdn-icons-png.freepik.com/256/5395/5395694.png" group-title="World News 🌍",NHK World 🇬🇧
-https://nhkwlive-ojp.nhkworld.jp/hls/live/2003459/nhkwlive-ojp-en/index.m3u8?wowzasessionid=@iprtlk
++https://nhkwlive-ojp.nhkworld.jp/hls/live/2003459/nhkwlive-ojp-en/index.m3u8?wowzasessionid=@iprtlk
 
 #EXTINF:-1 tvg-chno="" cuid="156" tvg-name="Channel News Asia" tvg-id="Channel.News.Asia.id" tvg-logo="https://logo.m3uassets.com/cna.png" group-logo="https://cdn-icons-png.freepik.com/256/5395/5395694.png" group-title="World News 🌍",Channel News Asia
 http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?wowzasessionid=@iprtlk
