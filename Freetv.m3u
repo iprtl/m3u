@@ -511,7 +511,9 @@ https://jmp2.uk/plu-64b9370b409629000802d32b.m3u8
 https://rpn.bozztv.com/gusa/gusa-celebrityscene/index.m3u8?wowzasessionid=@iprtlk
 
 #EXTINF:-1 tvg-chno="" cuid="073" tvg-name="24h 🇪🇸" tvg-id="ESBC4100004J1" tvg-logo="https://logo.m3uassets.com/24h.png" group-logo="https://cdn-icons-png.freepik.com/256/5395/5395694.png" group-title="World News 🌍",24h 🇪🇸
-https://rtvelivestream.rtve.es/rtvesec/24h/24h_main_dvr.m3u8?wowzasessionid=@iprtlk
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=15621
+https://ztnr.rtve.es/ztnr/1694255.m3u8
+https://rtvelivestream.rtve.es/rtvesec/24h/24h_main_dvr.m3u8
 
 #EXTINF:-1 tvg-chno="" cuid="74" tvg-name="El.País" tvg-id="El.País.es" tvg-logo="https://github.com/iprtl/p1/raw/master/logo/ElPais.webp" group-logo="https://cdn-icons-png.freepik.com/256/5395/5395694.png" group-title="World News 🌍",El Pais 🇪🇸
 https://jmp2.uk/stvp-ESBC39000033J
