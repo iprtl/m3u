@@ -7,7 +7,7 @@
 # ――――――――――――――――――――――――――――――――――――――――――――――
 # (●) Last Update: 🔄 2026 GMT+7 "
 # (●) Service: FREETV Inspiration Links
-# (●) Total Channels: 517
+# (●) Total Channels: 518
 
 
 ⚠️ Atenção: Todas as ligações de streams disponibilizados nas listas foram retiradas da Internet. Apenas as organizo, disponibilizo e partilho. Não detenho qualquer servidor e/ou transmitimos ou re-emitimos qualquer tipo de sinal.
@@ -176,7 +176,7 @@ https://github.com/LITUATUI/M3UPT/raw/main/M3U/TVI_Internacional.m3u8
 https://github.com/thomraider12/canaistvpt/raw/main/m3u8s/tviint.m3u8
 
 #EXTINF:-1 tvg-chno="19" cuid="23" tvg-name="TVI Internacionalᶠᴴᴰ)" tvg-id="tvi.internacional.pt" tvg-logo="https://logo.m3uassets.com/tviinternacional.png" group-logo="https://cdn-icons-png.freepik.com/512/4482/4482879.png" group-title="Portugal 🇵🇹",TVI Internacional 🇵🇹
-https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNy8yMDI2IDU6Mjk6MjggQU0maGFzaF92YWx1ZT1zNlJ2cGFpWmJSSDVWK1ZSbFdJNC9RPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9ZTc5MzFjZWEtMmM0Ni00MjA4LWFjNzYtYzgxZWVkZWY1OTk1/
+https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNi8yMDI2IDU6MTQ6MTcgQU0maGFzaF92YWx1ZT1oekFPQ2VLYXBMVTVBTGJ1b2wzSzBRPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9ODkzNjJmNGYtY2MxNy00N2U4LWIyY2YtZTEyYjY1MjA4NTQ0/
 
 
 
@@ -186,14 +186,14 @@ https://github.com/LITUATUI/M3UPT/raw/main/M3U/TVI.m3u8
 https://github.com/thomraider12/canaistvpt/raw/main/m3u8s/tvi.m3u8
 
 #EXTINF:-1 tvg-chno="22" cuid="26" tvg-name="TVI 🇵🇹" tvg-id="TVI.HD.pt" tvg-logo="https://github.com/iprtl/p1/raw/master/logo/tvi.webp" group-logo="https://cdn-icons-png.freepik.com/512/4482/4482879.png" group-title="Portugal 🇵🇹",TVI 🇵🇹
-https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNy8yMDI2IDU6Mjk6MjcgQU0maGFzaF92YWx1ZT16b1gzdkhJOFZxTDVacTI2NkRYSk9nPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9YjE0Y2QxZmYtZmUwMi00OTg2LTgxZjEtOTc2NWRlMDc2MmQ0/
+https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNi8yMDI2IDU6MTQ6MTYgQU0maGFzaF92YWx1ZT1ZZG04UU1tNkhMRTVkT2ZPdjdnSXJnPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9NTM5ZWE5YTUtZGExMi00YmQxLWJjMmEtMzEyMjM1MzYwY2Yx/
 
 
 #EXTINF:-1 tvg-chno="24" cuid="27" tvg-name="CNN Portugal 🇵🇹" tvg-id="CNN.Portugal.HD.pt" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/cnnpt.png" group-logo="https://cdn-icons-png.freepik.com/256/5395/5395694.png" group-title="News 🇵🇹🇧🇷",CNN Portugal 🇵🇹
 https://github.com/thomraider12/canaistvpt/raw/main/m3u8s/cnnpt.m3u8
 
 #EXTINF:-1 tvg-chno="25" cuid="28" tvg-name="CNN Portugal 🇵🇹" tvg-id="CNN.Portugal.HD.pt" tvg-logo="https://github.com/iprtl/p1/raw/master/logo/cnnpt.png" group-logo="https://cdn-icons-png.freepik.com/256/5395/5395694.png" group-title="News 🇵🇹🇧🇷",CNN Portugal 🇵🇹
-https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNy8yMDI2IDU6Mjk6MjggQU0maGFzaF92YWx1ZT1wM2ZMdndJVjd4eUtPVzVHYUtYSEJBPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9Y2U1NDJiZWEtMTZlYi00MTE1LWIzYmItNWFkYmQzZWQ0OGEy/
+https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNi8yMDI2IDU6MTQ6MTYgQU0maGFzaF92YWx1ZT12bitlWjlEYkgrcjZFa3ptUUk0NUdnPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9ODRlNWIwMWYtNzIxMS00ODI5LTgwMmEtMTcwOGFlNjc5MzM3/
 
 
 
@@ -959,36 +959,39 @@ https://dash2.antik.sk/stream/hisi_axn_black/playlist_cbcs.mpd
 HBO CHANNELS 🇮🇳🇵🇭
 =====================🔹========================
 
-#EXTINF:-1 tvg-chno="" cuid="450" tvg-name="HBO Zone East" tvg-id="HBO.Zone.HD.us2" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/HBOZone.webp" group-logo="https://github.com/iprtl/p1/raw/master/iconsGrups/USA.png" group-title="Entertainment 🌎",HBO Zone 🇺🇸
+#EXTINF:-1 tvg-chno="" cuid="450" tvg-name="HBO.Signature" tvg-id="HBO.Signature.HD.us2" tvg-logo="https://github.com/iprtl/p1/raw/master/logo/hbosignature.png" group-logo="https://cdn-icons-png.freepik.com/256/18310/18310951.png" group-title="Entertainment 🌎",HBO Signature 🇺🇸
+
+
+#EXTINF:-1 tvg-chno="" cuid="450" tvg-name="HBO Zone East" tvg-id="HBO.Zone.HD.us2" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/HBOZone.webp" group-logo="https://cdn-icons-png.freepik.com/256/18310/18310951.png" group-title="Entertainment 🌎",HBO Zone 🇺🇸
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0b380bec87af5c16ee145bbf8cd7d65e:edcb65d1269bd76f166d6bc56114211f
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/u7xfabrc5b/out/v1/67371e988d6649afbde43ba1e9747550/cenc.mpd
 
-#EXTINF:-1 tvg-chno="" cuid="449" tvg-name="HBO Comedy East" tvg-id="HBO.Comedy.HD.us2" tvg-logo="https://logo.m3uassets.com/hbocomedy.png" group-logo="https://github.com/iprtl/p1/raw/master/iconsGrups/USA.png" group-title="Entertainment 🌎",HBO Comedy 🇺🇸
+#EXTINF:-1 tvg-chno="" cuid="449" tvg-name="HBO Comedy East" tvg-id="HBO.Comedy.HD.us2" tvg-logo="https://logo.m3uassets.com/hbocomedy.png" group-logo="https://cdn-icons-png.freepik.com/256/18310/18310951.png" group-title="Entertainment 🌎",HBO Comedy 🇺🇸
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=217624a3983b3593ca7d1f3b01042d4f:fecaa3486d9deef3f7f0e1a95b662cb7
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/clients/dash/enc/f6ns8qsqde/out/v1/0827e077a8224107a1e6137627cc8198/cenc.mpd
 
-#EXTINF:-1 tvg-chno="" cuid="447" tvg-name="HBO2" tvg-id="HBO2.HD.us2" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/hbo2.png" group-logo="https://github.com/iprtl/p1/raw/master/iconsGrups/USA.png" group-title="Entertainment 🌎",HBO 2 East 🇺🇸
+#EXTINF:-1 tvg-chno="" cuid="447" tvg-name="HBO2" tvg-id="HBO2.HD.us2" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/hbo2.png" group-logo="https://cdn-icons-png.freepik.com/256/18310/18310951.png" group-title="Entertainment 🌎",HBO 2 East 🇺🇸
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1c73219e929389385aba7d52fc5fecdf:04aac082576d853b80734f5d8d4ebbbc
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/k0ixizzzeu/out/v1/058efc3c023b4424b4bff6c52cf7e81e/cenc.mpd
 
-#EXTINF:-1 tvg-chno="" cuid="443" tvg-id="HBO.West.us2" tvg-logo="https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/HBO_WEST_WHITE_1920x1080_f._SL170_FMpng_.png" group-logo="https://github.com/iprtl/p1/raw/master/iconsGrups/USA.png" group-title="Entertainment 🌎",HBO West 🇺🇸
+#EXTINF:-1 tvg-chno="" cuid="443" tvg-id="HBO.West.us2" tvg-logo="https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/HBO_WEST_WHITE_1920x1080_f._SL170_FMpng_.png" group-logo="https://cdn-icons-png.freepik.com/256/18310/18310951.png" group-title="Entertainment 🌎",HBO West 🇺🇸
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=266fed45577cd293af39165e8073bc19:8e805607852c0606ecc553bd234d78b2
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/zzhnlvao6q/out/v1/66f60c1d629549a78a22cc2913bfb3d1/cenc.mpd
 
-#EXTINF:-1 tvg-chno="" cuid="445" tvg-id="HBO.East.us2" tvg-logo="https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/HBO_EAST_WHITE_1920x1080_f._SL170_FMpng_.png" group-logo="https://github.com/iprtl/p1/raw/master/iconsGrups/USA.png" group-title="Entertainment 🌎",❖HBO East 🇺🇸
+#EXTINF:-1 tvg-chno="" cuid="445" tvg-id="HBO.East.us2" tvg-logo="https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/HBO_EAST_WHITE_1920x1080_f._SL170_FMpng_.png" group-logo="https://cdn-icons-png.freepik.com/256/18310/18310951.png" group-title="Entertainment 🌎",❖HBO East 🇺🇸
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6ab1caa245e2d8cc4e26e0e1b63fe661:22c42d7a1679f50ca4ad37b4c1ad97fe
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ez2jwhkmke/out/v1/75466d737d52406e8a1c85dc70c9f183/cenc.mpd
 
-#EXTINF:-1 tvg-chno="" cuid="445" tvg-id="HBO.East.us2" tvg-logo="https://lo1.in/us/hboltt.png" group-logo="https://github.com/iprtl/p1/raw/master/iconsGrups/USA.png" group-title="Entertainment 🌎",❖HBO Latino 🇺🇸
+#EXTINF:-1 tvg-chno="" cuid="445" tvg-id="HBO.East.us2" tvg-logo="https://lo1.in/us/hboltt.png" group-logo="https://cdn-icons-png.freepik.com/256/18310/18310951.png" group-title="Entertainment 🌎",❖HBO Latino 🇺🇸
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -996,8 +999,20 @@ https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ez2jwhkmke/
 https://a201aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/pybcooahnm/out/v1/d5a5fd1cd9074da3b20ebdf8ebfaecb6/cenc.mpd
 
 =====================🔹========================
-CINEMAX 🇵🇭🇮🇳
+CINEMAX 🇺🇸🇵🇭🇮🇳
 =====================🔹========================
+
+#EXTINF:-1 tvg-chno="" cuid="" tvg-name="" tvg-id="Cinemax.(Pacific).us2" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/Cinemax.webp" group-logo="https://cdn-icons-png.freepik.com/256/18310/18310951.png" group-title="Entertainment 🌎",Cinemax East 🇺🇸
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3a5fc143bea61aa94eee0479933d5e72:8a365e8c3e2b8efdbcaab16d07c3b929
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/clients/dash/enc/rckhgp0mdp/out/v1/3952b81ea31d45b38372b128371301d2/cenc.mpd
+
+#EXTINF:-1 tvg-chno="" cuid="" tvg-name="" tvg-id="Cinemax.HD.us2" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/Cinemax.webp" group-logo="https://cdn-icons-png.freepik.com/256/18310/18310951.png" group-title="Entertainment 🌎",Cinemax West 🇺🇸
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bf813dc4a32e0e9bcbce4446a65f4b12:eb9973b1a30c76812aa7ca8864b6a3c1
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/clients/dash/enc/zewdvsfpre/out/v1/d65e537877cc4112b8fd88c6210f39da/cenc.mpd
+
+---
 
 #EXTINF:-1 tvg-chno="" cuid="" tvg-name="" tvg-id="Cg.Cinemax.ph" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/Cinemax.webp" group-logo="https://cdn-icons-png.freepik.com/256/18310/18310951.png" group-title="Entertainment 🌎",Cinemax (🔉💬🇬🇧)🇮🇳
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1076,6 +1091,11 @@ https://times-ott-live.akamaized.net/mnxhd_wv_drm/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
 https://times-ott-live.akamaized.net/moviesnow_wv_drm/index.mpd
 
+#EXTINF:-1 tvg-chno="" cuid="" tvg-name="Romedy Now" tvg-id="Romedy.Now.HD.in" tvg-logo="https://logo.m3uassets.com/romedynow.png" group-logo="https://cdn-icons-png.freepik.com/256/18310/18310951.png" group-title="Entertainment 🌎",Romedy Now (🔉💬🇬🇧)🇮🇳
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
+https://times-ott-live.akamaized.net/romedynow_wv_drm/index.mpd
+
 ---
 
 
@@ -1100,7 +1120,7 @@ https://times-ott-live.akamaized.net/moviesnow_wv_drm/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=c7b3852d9c84418f942923e41c31e633:ddb99755e0bebd98c92c7eab974bf161
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/47c895ca72544fcfa4221c499b555a10/index.mpd
++https://d2xz2v5wuvgur6.cloudfront.net/out/v1/47c895ca72544fcfa4221c499b555a10/index.mpd
 +https://fta4-cdn-flr.visionplus.id/out/v1/47c895ca72544fcfa4221c499b555a10/index.mpd
 
 #EXTINF:-1 cuid="" tvg-name="Originals" tvg-id="ORIGINALS.HD.id" tvg-logo="https://i.imgur.com/c2f7gji.png" tvg-logo="https://www.visionplus.id/images/repository/644/644-LOGO-m.png" group-logo="https://cdn-icons-png.freepik.com/256/18310/18310951.png" group-title="Entertainment 🌎",Originals (🔉💬🇬🇧)🇮🇳
@@ -1108,7 +1128,7 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/47c895ca72544fcfa4221c499b555a10/in
 #KODIPROP:inputstream.adaptive.license_key=33333f38930949b1af65b3361ad80d1d:b159847f9af0500738b01e91cf023e30
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-https://d3b0v7fggu5zwm.cloudfront.net/out/v1/e992e986a88346c18a5dcc4fbcdae6b9/index.mpd
++https://d3b0v7fggu5zwm.cloudfront.net/out/v1/e992e986a88346c18a5dcc4fbcdae6b9/index.mpd
 +https://fta3-cdn-flr.visionplus.id/out/v1/e992e986a88346c18a5dcc4fbcdae6b9/index.mpd
 
 #EXTINF:-1 cuid="" tvg-name="Galaxy" tvg-id="Galaxy.id" tvg-logo="https://i.imgur.com/101onyA.png" tvg-logo="https://www.visionplus.id/images/repository/644/644-LOGO-m.png" group-logo="https://cdn-icons-png.freepik.com/256/18310/18310951.png" group-title="Entertainment 🌎",Galaxy (🔉💬🇬🇧)🇮🇳
