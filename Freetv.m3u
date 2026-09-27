@@ -786,7 +786,7 @@ https://vs-cmaf-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_c
 https://tv-trtworld.medya.trt.com.tr/master.m3u8?wowzasessionid=@iprtlk
 
 #EXTINF:-1 tvg-chno="" cuid="150" tvg-name="" tvg-id="TVP.World.HD.pl" tvg-logo="https://logo.m3uassets.com/tvpworld.png" group-logo="https://cdn-icons-png.freepik.com/256/5395/5395694.png" group-logo="https://cdn-icons-png.freepik.com/256/5395/5395694.png" group-title="World News 🌍",TVP World 🇬🇧
-https://raw.githubusercontent.com/fraudiay79/strm/refs/heads/main/platforms/links/pl/tvpworld.m3u8
++https://raw.githubusercontent.com/fraudiay79/strm/refs/heads/main/platforms/links/pl/tvpworld.m3u8
 
 #EXTINF:-1 tvg-chno="" cuid="151" tvg-name="CGTN News 🇬🇧" tvg-id="CGTN.News.ng" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/cgtn.png" group-logo="https://cdn-icons-png.freepik.com/256/5395/5395694.png" group-title="World News 🌍",CGTN News 🇬🇧
 https://english-livebkali.cgtn.com/live/encgtn.m3u8?wowzasessionid=@iprtlk
