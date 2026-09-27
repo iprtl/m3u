@@ -956,7 +956,7 @@ https://dash2.antik.sk/stream/hisi_axn_black/playlist_cbcs.mpd
 #KODIPROP:inputstream.adaptive.license_key={"34c1715a9fd24e7d8497da043669ad66":"e3ce21758f33b38413d7cfecfddcb289"}
 +https://v4-pan-m3-cdn-02.live.cdn.cgates.lt/live/dash/560908/index.mpd
 
-#EXTINF:-1 tvg-chno="" cuid="" tvg-name="Showtime.Showcase" tvg-id="Showtime.Showcase.HD.us2" tvg-logo="https://logo.m3uassets.com/showcase.png" group-logo="https://cdn-icons-png.freepik.com/256/18310/18310951.png" group-title="Entertainment 🌎",Showcase 🇺🇸
+#EXTINF:-1 tvg-chno="" cuid="" tvg-name="Showtime.Showcase" tvg-id="Showcase.Canada.HD.ca2" tvg-logo="https://logo.m3uassets.com/showcase.png" group-logo="https://cdn-icons-png.freepik.com/256/18310/18310951.png" group-title="Entertainment 🌎",Showcase 🇺🇸
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c99d8404fee24f907870cbf212924967:03591856cc3dd05a1e297de8ecd422f8
 https://live.corusdigitaldev.com/groupd/live/376c96cd-193f-46d1-a2b6-7c2b78cb0aa5/corus-showcase.isml/.mpd
