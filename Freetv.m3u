@@ -1049,10 +1049,6 @@ WARNER 🇵🇭🇮🇳
 +https://hide.skygoplus.workers.dev/warner-tv.m3u8
 https://cdn4.skygo.mn/live/disk1/Warner/HLSv3-FTA/Warner.m3u8
 
-#EXTVLCOPT:http-referrer=https://www.indihometv.com/
-#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://cdn10jtedge.indihometv.com/atm/DASH/warner/manifest.mpd
-
 ---
 
 #EXTINF:-1 tvg-chno="" cuid="" tvg-name="TLC Índia" tvg-id="TLC.HD.in" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/TLC.webp" group-logo="https://cdn-icons-png.freepik.com/256/18310/18310951.png" group-title="Entertainment 🌎",TLC (🔉💬🇬🇧)🇮🇳
