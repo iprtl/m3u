@@ -960,7 +960,9 @@ HBO CHANNELS 🇮🇳🇵🇭
 =====================🔹========================
 
 #EXTINF:-1 tvg-chno="" cuid="450" tvg-name="HBO.Signature" tvg-id="HBO.Signature.HD.us2" tvg-logo="https://github.com/iprtl/p1/raw/master/logo/hbosignature.png" group-logo="https://cdn-icons-png.freepik.com/256/18310/18310951.png" group-title="Entertainment 🌎",HBO Signature 🇺🇸
-
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2742f4791f17231bdb933844dabfb5bc:3c49eb8a723248f87fb8c3722874557e
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/clients/dash/enc/o6rq3swwr4/out/v1/6a362c145af241e5a6eb45e0729ce5e6/cenc.mpd
 
 #EXTINF:-1 tvg-chno="" cuid="450" tvg-name="HBO Zone East" tvg-id="HBO.Zone.HD.us2" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/HBOZone.webp" group-logo="https://cdn-icons-png.freepik.com/256/18310/18310951.png" group-title="Entertainment 🌎",HBO Zone 🇺🇸
 #KODIPROP:inputstream.adaptive.license_type=clearkey
