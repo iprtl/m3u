@@ -418,7 +418,7 @@ https://d25usgadhphvwi.cloudfront.net/hls/main.m3u8?wowzasessionid=@iprtlk
 https://ssai-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/97d678e115854c73b5bfaf87c2d43956/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="52" cuid="64" tvg-name="CNN Money 🇧🇷" tvg-id="CNNBRASILMONEY" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKV7KXWk2M9BZzGpmLwjLaEu3r0Khx_nsfgQ&s" group-logo="https://cdn-icons-png.freepik.com/256/5395/5395694.png" group-title="News 🇵🇹🇧🇷",CNN Money 🇧🇷
-https://fast-channels.b-cdn.net/9978b7063e297d84e1cd5f21af3a88b1/cnnmoney/aovivo_abr/playlist.m3u8?wowzasessionid=@iprtlk
++https://fast-channels.b-cdn.net/9978b7063e297d84e1cd5f21af3a88b1/cnnmoney/aovivo_abr/playlist.m3u8?wowzasessionid=@iprtlk
 
 #EXTINF:-1 tvg-chno="53" cuid="65" tvg-name="New Brasil" tvg-id="New.Brasil.pt" tvg-logo="https://images.pluto.tv/channels/645a99282858cb0008ea8378/colorLogoPNG.png" group-logo="https://cdn-icons-png.freepik.com/256/5395/5395694.png" group-title="News 🇵🇹🇧🇷",New Brasil 🇧🇷
 https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/NewCo/New_Brasil_BR/New_Brasil.m3u8?wowzasessionid=@iprtlk
@@ -1382,14 +1382,10 @@ https://dash2.antik.sk/stream/hisi_discovery/playlist_cbcs.mpd
 
 ---
 
-#EXTINF:-1 tvg-chno="" cuid="287" tvg-name="Discovery.Science" tvg-id="Discovery.Science.hk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/discovery-science-us.png" group-logo="https://cdn-icons-png.freepik.com/256/11471/11471416.png" group-title="Documentaries 🌎",Discovery Science (🔉💬🇬🇧)🇭🇰
-#EXTHTTP:{"origin":"https://tunex.space","referer":"https://tunex.space/","User-Agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"}
-+https://hide.skygoplus.workers.dev/discovery-science.m3u8?wowzasessionid=@iprtlk
-
 #EXTINF:-1 tvg-chno="" cuid="288" tvg-name="Discovery.Science" tvg-id="Discovery.Science.ie" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/discovery-science-us.png" group-logo="https://cdn-icons-png.freepik.com/256/11471/11471416.png" group-title="Documentaries 🌎",Discovery Science (🔉💬🇬🇧)🇮🇪
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5458f45efedb4d6f8aa6ac76c85b621b:dbf8a0a306a64525ba3012fd225370c0
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Discoveryscience2/default/manifest.mpd?wowzasessionid=@iprtlk
++https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Discoveryscience2/default/manifest.mpd?wowzasessionid=@iprtlk
 
 
 #EXTINF:-1 tvg-chno="" cuid="290" tvg-name="IDDiscovery" tvg-id="Investigation.Discovery.lt" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/ID.webp" group-logo="https://cdn-icons-png.freepik.com/256/11471/11471416.png" group-title="Documentaries 🌎",IDDiscovery
@@ -1609,7 +1605,7 @@ https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/Globo/DPA_Fast_BR/DPA_Fast.m3u8
 #EXTINF:-1 tvg-chno="" cuid="375" tvg-name="Adoro Cinema" tvg-id="" tvg-logo="https://imgur.com/xZA1lJh.png" group-logo="https://cdn-icons-png.freepik.com/256/3687/3687668.png" group-title="Channels 🇧🇷", Adoro Cinema 🇧🇷
 https://1e876365f9bb431e8eb8e87808b6f245.mediatailor.us-east-1.amazonaws.com/v1/master/28cabd810dcffe6911c4fb534c3616fcb64e6894/Adoro_Cinema/index.m3u8
 
-#EXTINF:-1 tvg-chno="" cuid="376" tvg-name="IA Channel" tvg-id="" tvg-logo="https://imgur.com/adfaOrm.png" group-logo="https://cdn-icons-png.freepik.com/256/3687/3687668.png" group-title="Channels 🇧🇷",IA Channel 🇧🇷
+#EXTINF:-1 tvg-chno="" cuid="376" tvg-name="IA Channel" tvg-id="" tvg-logo="https://github.com/iprtl/p1/raw/master/logo/iachannel.png" group-logo="https://cdn-icons-png.freepik.com/256/3687/3687668.png" group-title="Channels 🇧🇷",IA Channel 🇧🇷
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=17027
 
 #EXTINF:-1 tvg-chno="" cuid="377" tvg-name="Canal do Artesanato" tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/616981859763945472/OZdbfTgg_400x400.png" group-logo="https://cdn-icons-png.freepik.com/256/3687/3687668.png" group-title="Channels 🇧🇷",Canal do Artesanato 🇧🇷
