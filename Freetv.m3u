@@ -1855,7 +1855,7 @@ https://live-pv-ta.amazon.fastly-edge.com/iad-nitro/live/clients/dash/enc/svvzba
 #KODIPROP:inputstream.adaptive.license_key=da2e30203fffb6eee7064f1acaed621d:32a38f6a3568339261d3e2f2d0fede69
 https://live-pv-ta.amazon.fastly-edge.com/iad-nitro/live/clients/dash/enc/trd6ii5akx/out/v1/5e0cb7a0ffaf4d938e0a8d75775b51ea/cenc.mpd
 
-#EXTINF:-1 tvg-chno="" cuid="522" tvg-name="A3CINE" tvg-id="A3CINE.es" tvg-logo="https://github.com/iprtl/p1/raw/master/logo/a3cine.webp" group-logo="https://cdn-icons-png.freepik.com/512/2146/2146764.png" group-title="Channels 🇪🇸",A3Cine 🇪🇸
+#EXTINF:-1 tvg-chno="" cuid="522" tvg-name="A3CINE" tvg-id="A3CINE.es" tvg-logo="https://logo.m3uassets.com/atrescine.png" group-logo="https://cdn-icons-png.freepik.com/512/2146/2146764.png" group-title="Channels 🇪🇸",A3Cine 🇪🇸
 #EXTGRP: Channels 🇪🇸
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
