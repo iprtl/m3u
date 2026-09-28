@@ -955,7 +955,7 @@ https://ssai.aniview.com/api/v1/hls/stream.m3u8?cb=%7B%7Bcb%7D%7D&AV_APPPKGNAME=
 #KODIPROP:inputstream.adaptive.license_key=de6c62edc50564a1bcd57bd452e00dec:5587a0221df02bc10bcc80f8fc1fe5f4
 https://otte.live.fly.ww.aiv-cdn.net/sin-nitro/live/clients/dash/enc/nnhx4xadfk/out/v1/b716a65abc9d41cb8330ac655c098106/cenc.mpd?encoding=segmentBase
 
-#EXTINF:-1 tvg-chno="" cuid="474" tvg-id="BBC.First.HD.my" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/50/BBC_First_%282014%29_%28Boxless%29.svg/revision/latest/scale-to-width-down/1000?cb=20220624203829" group-logo="https://cdn-icons-png.magnific.com/512/5724/5724539.png" group-title="Entertainment 🌎",BBC First 🇬🇧
+#EXTINF:-1 tvg-chno="" cuid="474" tvg-id="BBC.First.pl" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/50/BBC_First_%282014%29_%28Boxless%29.svg/revision/latest/scale-to-width-down/1000?cb=20220624203829" group-logo="https://cdn-icons-png.magnific.com/512/5724/5724539.png" group-title="Entertainment 🌎",BBC First 🇬🇧
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
