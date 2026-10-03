@@ -579,16 +579,21 @@ https://live-cdn-stream-euw1.bfmtv.bct.nextradiotv.com/master.m3u8
 #EXTINF:-1 cuid="686" tvg-name="BFM 2" tvg-id="BFM2.fr" tvg-logo="https://i.ibb.co/2MhqYgg/bfm2.png" group-logo="https://cdn-icons-png.freepik.com/256/5395/5395694.png" group-title="World News 🌍",BFM 2 🇫🇷
 https://live-cdn-bfm2-euw1.bfmtv.bct.nextradiotv.com/m5/media.m3u8?bpkio_serviceid=7de32147a4f1055b8812bbac92a24d2e
 
+#EXTINF:-1 cuid="686" tvg-name="BFM Business" tvg-id="BFM.Business.fr" tvg-logo="https://logo.m3uassets.com/bfmbusiness.png" group-logo="https://cdn-icons-png.freepik.com/256/5395/5395694.png" group-title="World News 🌍",BFM Business 🇫🇷
+https://live-cdn-stream-euw1.bfmb.bct.nextradiotv.com/m1/media.m3u8?bpkio_serviceid=7de32147a4f1055b7de133c00ff64f92
+
 #EXTINF:-1 tvg-chno="" cuid="88" tvg-name="Euronews 🇫🇷" tvg-id="Euronews.fr" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f0a48729-6f08-43e4-9cc4-44ba472281de/Marc_Faron_-_Wurl_Plex_assets_Channel-logo-white3x2_ENrdx.png" group-logo="https://cdn-icons-png.freepik.com/256/5395/5395694.png" group-title="World News 🌍",Euronews 🇫🇷
 https://2f6c5bf4.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmxheHhUVi1ldV9FdXJvbmV3c0ZyYW5jYWlzX0hMUw/playlist.m3u8?ads.wurl_channel=672&ads.wurl_name=EuronewsFrancais&ads.coppa=0&ads.device_id=dacb6fbb-62c9-480d-827f-5f58c2e98b79&ads.dnt=0&ads.lmt=&ads.us_privacy=1YNN&ads.gdpr=0&ads.consent=&ads.app_name=Whale+TV%2B&ads.app_store=Browser&ads.url=&ads.device_make=&ads.device_model=&ads.tv_language=&ads.tv_vendor=&ads.brand_name=&ads.tv_model=&ads.language=&ads.gender=F%2CM&ads.age=18-20%2C21-24%2C25-29%2C30-34%2C35-39%2C40-44%2C45-49%2C50-54%2C55-59&ads.duration=&ads.content_producer_name=WURL_Euronews_EuronewsFR&ads.content_custom_1_param=WURL&ads.rlaxx_session_id=&ads.height=&ads.width=&ads.rlaxx_iab_category=IAB1&ads.rlaxx_content_category=IAB12%2CIAB12-1%2CIAB12-2%2CIAB12-3&ads.rlaxx_genre=News&ads.rlaxx_rating=12%2B&ads.livestream=1&ads.max_ad_duration=30&ads.min_ad_duration=5&ads.tag_id=106473&ads.channel_number=0164&ads.placement=1&ads.autoplay=1&ads.mute=0&ads.skip=0
 
 #EXTINF:-1 tvg-chno="" cuid="89" tvg-name="France Info 🇫🇷" tvg-id="franceinfo:.fr" tvg-logo="https://i.ibb.co/XkLHrbC/frinfo2bl.png" group-logo="https://cdn-icons-png.freepik.com/256/5395/5395694.png" group-title="World News 🌍",France Info 🇫🇷
-+https://viamotionhsi.netplus.ch/live/eds/franceinfo/browser-dash/franceinfo.mpd
-+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/frin.m3u8?wowzasessionid=@iprtlk
+https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/francetv/franceinfo.m3u8
 
 #EXTINF:-1 tvg-chno="" cuid="90" tvg-name="Cnews" tvg-id="CNews.fr" tvg-logo="https://www.cnews.fr/themes/cnews/cnews-logo-mobile.png" group-logo="https://cdn-icons-png.freepik.com/256/5395/5395694.png" group-title="World News 🌍",Cnews 🇫🇷
 +https://hls-m015-live-aka-canalplus.akamaized.net/live/disk/cnews-clair-hd/hls-v3-hd-clair/cnews-clair-hd.m3u8?wowzasessionid=@iprtlk
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/cnews-dm.m3u8?wowzasessionid=@iprtlk
+
+#EXTINF:-1 tvg-chno="" cuid="90" tvg-name="Cnews" tvg-id="" tvg-logo="https://i.ibb.co/93fjshzB/cnsprme.png" group-logo="https://cdn-icons-png.freepik.com/256/5395/5395694.png" group-title="World News 🌍",Cnews Prime 🇫🇷
+https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/canalplus/cnews-prime-dm.m3u8
 
 #EXTINF:-1 tvg-chno="" cuid="92" tvg-name="Tv5 Monde Info" tvg-id="TV5.Monde.fr" tvg-logo="https://logo.m3uassets.com/tv5mondeinfo.png" group-logo="https://cdn-icons-png.freepik.com/256/5395/5395694.png" group-title="World News 🌍",Tv5 Monde Info 🇫🇷
 https://d161b1o6wfc5a3.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3u7sgewc3l8ri/tvfm.m3u8?wowzasessionid=@iprtlk
@@ -1986,6 +1991,15 @@ https://cdn.global.elektamedia.com/live/c7eds/ENT_Family/SA_LIVE_hls_enc/master.
 FRANCESES
 =====================🔹========================
 
+#EXTINF:-1 tvg-chno="" cuid="541" tvg-name="allo" tvg-id="" tvg-logo="https://i.ibb.co/2SHJGsj/allocine.png" group-logo="https://cdn-icons-png.freepik.com/512/2490/2490481.png" group-logo="https://cdn-icons-png.freepik.com/512/2490/2490481.png" group-title="Channels 🇫🇷",ALLO Ciné 🇫🇷
+https://d1yl6bf4hrzbr0.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-5km3zs4zs9sp0/allo.m3u8
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=10840
+
+
+
+#EXTINF:-1 tvg-chno="" cuid="541" tvg-name="La.1" tvg-id="La.1.fr" tvg-logo="https://i.ibb.co/GkjLyFv/la1ereom.png" group-logo="https://cdn-icons-png.freepik.com/512/2490/2490481.png" group-logo="https://cdn-icons-png.freepik.com/512/2490/2490481.png" group-title="Channels 🇫🇷",la 1 🇫🇷
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/playout-outre-mer.m3u8
+
 #EXTINF:-1 tvg-chno="" cuid="541" tvg-name="W9" tvg-id="W9.fr" tvg-logo="https://logo.m3uassets.com/w9.png" group-logo="https://cdn-icons-png.freepik.com/512/2490/2490481.png" group-logo="https://cdn-icons-png.freepik.com/512/2490/2490481.png" group-title="Channels 🇫🇷",W9 🇫🇷
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -2440,7 +2454,7 @@ http://38.49.128.38:8000/play/a0cm/index.m3u8
 
 
 =====================🔹========================
-FUTEBOL BRASILEIRO CHANNELS 🇧🇷
+CANAIS GENERALISTAS QUE TRANSMITEM EVENTOS DESPORTIVOS
 =====================🔹========================
 
 #EXTINF:-1 tvg-chno="" cuid="333" tvg-name="Globo" tvg-id="São.Paulo/SP..Globo.br" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/35/TVGlobo2025.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="All Sports 🌎",Globo sᴘ ⚽️ 🇧🇷
@@ -2455,6 +2469,31 @@ https://cdn.live.br1.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/playlist.m3u8
 #EXTINF:-1 cuid="1480" tvg-name="" tvg-id="GETV" tvg-logo="https://imgur.com/qHZ23Ue.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="All Sports 🌎",GE TV 🇧🇷
 #EXTGRP:All Sports 🌎;Futebol Brasileiro ⚽️
 https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/Globo/GE_Fast_BR/GE_Fast.m3u8
+
+---
+
+#EXTINF:-1 tvg-chno="" cuid="176" tvg-name="" tvg-id="UniMas.us2" tvg-logo="https://logo.m3uassets.com/unimas.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="All Sports 🌎",Unimas 🇺🇸🇲🇽⚽️
+#EXTGRP:Liga Mexicana⚽️
+https://tkx.mp.lura.live/rest/v2/mcp/video/univision-unimas?anvack=8Q6d5qd2lubv3MRhZrh9xmoPC9Xzo64n
+
+#EXTINF:-1 tvg-chno="" cuid="180" tvg-name="" tvg-id="Univision.Network.HD.us2" tvg-logo="https://logo.m3uassets.com/univision.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="All Sports 🌎",Univision 🇺🇸🇲🇽⚽️ 
+#EXTGRP:Liga Mexicana⚽️
+https://tkx.mp.lura.live/rest/v2/mcp/video/univision-uni?anvack=8Q6d5qd2lubv3MRhZrh9xmoPC9Xzo64n
+
+#EXTINF:-1 tvg-chno="" cuid="174" tvg-name="" tvg-id="Canal.5.de.México.(XHGC).mx" tvg-logo="https://logo.m3uassets.com/canal5.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="All Sports 🌎",Canal 5 (🔉💬🇪🇸🇬🇧)🇲🇽⚽️
+#EXTGRP:Liga Mexicana⚽️;La Liga⚽️
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d695093ea3e66d75a4d213a3e2cbf360:01be3f645e89a067d2786c295f68dde4
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ntkdl68eob/out/v1/bd5dfb7676994383881bc6e71877d29d/cenc.mpd
+http://38.49.128.38:8000/play/a0fl/index.m3u8
+
+#EXTINF:-1 tvg-chno="" cuid="174" tvg-name="" tvg-id="Canal.5.de.México.(XHGC).mx" tvg-logo="https://logo.m3uassets.com/canal5.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="All Sports 🌎",Canal 5 (🔉💬🇪🇸🇬🇧)🇲🇽⚽️
+#EXTGRP:Liga Mexicana⚽️
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d695093ea3e66d75a4d213a3e2cbf360:01be3f645e89a067d2786c295f68dde4
+https://live-pv-ta.amazon.fastly-edge.com/iad-nitro/live/clients/dash/enc/ntkdl68eob/out/v1/bd5dfb7676994383881bc6e71877d29d/cenc.mpd
 
 
 =====================🔹========================
@@ -2582,29 +2621,6 @@ https://cfrt.stream.peacocktv.com/Content/CMAF_OL2-CTR-4s/Live/channel(WNJU)/mas
 
 ---
 
-#EXTINF:-1 tvg-chno="" cuid="176" tvg-name="" tvg-id="UniMas.us2" tvg-logo="https://logo.m3uassets.com/unimas.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="All Sports 🌎",Unimas 🇺🇸🇲🇽⚽️
-#EXTGRP:Liga Mexicana⚽️
-https://tkx.mp.lura.live/rest/v2/mcp/video/univision-unimas?anvack=8Q6d5qd2lubv3MRhZrh9xmoPC9Xzo64n
-
-#EXTINF:-1 tvg-chno="" cuid="180" tvg-name="" tvg-id="Univision.Network.HD.us2" tvg-logo="https://logo.m3uassets.com/univision.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="All Sports 🌎",Univision 🇺🇸🇲🇽⚽️ 
-#EXTGRP:Liga Mexicana⚽️
-https://tkx.mp.lura.live/rest/v2/mcp/video/univision-uni?anvack=8Q6d5qd2lubv3MRhZrh9xmoPC9Xzo64n
-
-#EXTINF:-1 tvg-chno="" cuid="174" tvg-name="" tvg-id="Canal.5.de.México.(XHGC).mx" tvg-logo="https://logo.m3uassets.com/canal5.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="All Sports 🌎",Canal 5 (🔉💬🇪🇸🇬🇧)🇲🇽⚽️
-#EXTGRP:Liga Mexicana⚽️;La Liga⚽️
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d695093ea3e66d75a4d213a3e2cbf360:01be3f645e89a067d2786c295f68dde4
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ntkdl68eob/out/v1/bd5dfb7676994383881bc6e71877d29d/cenc.mpd
-http://38.49.128.38:8000/play/a0fl/index.m3u8
-
-#EXTINF:-1 tvg-chno="" cuid="174" tvg-name="" tvg-id="Canal.5.de.México.(XHGC).mx" tvg-logo="https://logo.m3uassets.com/canal5.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="All Sports 🌎",Canal 5 (🔉💬🇪🇸🇬🇧)🇲🇽⚽️
-#EXTGRP:Liga Mexicana⚽️
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d695093ea3e66d75a4d213a3e2cbf360:01be3f645e89a067d2786c295f68dde4
-https://live-pv-ta.amazon.fastly-edge.com/iad-nitro/live/clients/dash/enc/ntkdl68eob/out/v1/bd5dfb7676994383881bc6e71877d29d/cenc.mpd
-
 #EXTINF:-1 tvg-chno="" cuid="1680" tvg-name="TUDN" tvg-id="TUDN.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/mexico/tudn-mx.png" tvg-logo="https://i.imgur.com/R9FWr9u.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="All Sports 🌎",TUDN 🇺🇸
 #EXTGRP:All Sports 🌎;Champions league⚽️;Europa League⚽️
 https://tkx.mp.lura.live/rest/v2/mcp/video/univision-tudn?anvack=8Q6d5qd2lubv3MRhZrh9xmoPC9Xzo64n
@@ -2716,6 +2732,7 @@ https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/dash/enc/wybgz0orr8/out/v1/2
 #EXTINF:-1 tvg-chno="" cuid="1800" tvg-name="L'Equipe 1 🇫🇷" tvg-id="La.chaine.l’Équipe.fr" tvg-logo="https://logo.m3uassets.com/lequipe.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="All Sports 🌎;Rugby&NFL🏈🏉",la chaine L'Equipe 🇫🇷
 https://jmp2.uk/stvp-FR200016Y5
 https://dshn8inoshngm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gac2i63dmu8b7/LEquipe_FR.m3u8
+https://dq37unyetkpcz.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-m04j89j7k5gtp/LEquipe_FR.m3u8
 
 #EXTINF:-1 tvg-chno="" cuid="1410" tvg-name="tdp 🇪🇸" tvg-id="ESBC410000577" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/Teledeporte.webp" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="All Sports 🌎",tdp 🇪🇸
 #EXTGRP:All Sports 🌎
