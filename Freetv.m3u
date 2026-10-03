@@ -786,7 +786,10 @@ https://vs-cmaf-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_c
 https://tv-trtworld.medya.trt.com.tr/master.m3u8?wowzasessionid=@iprtlk
 
 #EXTINF:-1 tvg-chno="" cuid="150" tvg-name="" tvg-id="TVP.World.HD.pl" tvg-logo="https://logo.m3uassets.com/tvpworld.png" group-logo="https://cdn-icons-png.freepik.com/256/5395/5395694.png" group-logo="https://cdn-icons-png.freepik.com/256/5395/5395694.png" group-title="World News 🌍",TVP World 🇬🇧
-+https://raw.githubusercontent.com/fraudiay79/strm/refs/heads/main/platforms/links/pl/tvpworld.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referer=https://webtv.sk/
+#EXTVLCOPT:http-origin=https://webtv.sk
+https://dash4.antik.sk/live/test_tvp_world/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="" cuid="151" tvg-name="CGTN News 🇬🇧" tvg-id="CGTN.News.ng" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/cgtn.png" group-logo="https://cdn-icons-png.freepik.com/256/5395/5395694.png" group-title="World News 🌍",CGTN News 🇬🇧
 https://english-livebkali.cgtn.com/live/encgtn.m3u8?wowzasessionid=@iprtlk
@@ -802,7 +805,10 @@ http://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8?wowz
 
 #EXTINF:-1 tvg-chno="" cuid="155" tvg-name="NHK World 🇬🇧" tvg-id="NHK.World.TV.pt" tvg-logo="https://i.ibb.co/JCjsXZm/nhk.png" group-logo="https://cdn-icons-png.freepik.com/256/5395/5395694.png" group-title="World News 🌍",NHK World 🇬🇧
 https://media-tyo.hls.nhkworld.jp/hls/w/live/master.m3u8
-+https://nhkwlive-ojp.nhkworld.jp/hls/live/2003459/nhkwlive-ojp-en/index.m3u8?wowzasessionid=@iprtlk
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referer=https://webtv.sk/
+#EXTVLCOPT:http-origin=https://webtv.sk
+https://dash4.antik.sk/live/test_nhk/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="" cuid="156" tvg-name="Channel News Asia" tvg-id="Channel.News.Asia.id" tvg-logo="https://logo.m3uassets.com/cna.png" group-logo="https://cdn-icons-png.freepik.com/256/5395/5395694.png" group-title="World News 🌍",Channel News Asia
 http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?wowzasessionid=@iprtlk
@@ -945,6 +951,13 @@ https://dash2.antik.sk/stream/hisi_axn_black/playlist_cbcs.mpd
 =====================🔹========================
 CHANNELS 🇬🇧
 =====================🔹========================
+
+#EXTINF:-1 tvg-chno="" cuid="485" tvg-name="English.Club.TV" tvg-id="English.Club.TV.ch" tvg-logo="https://github.com/iprtl/p1/raw/master/logo/langlab.png" group-logo="https://cdn-icons-png.magnific.com/512/5724/5724539.png" group-title="Entertainment 🌎",Lang Lab 🇬🇧
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referer=https://webtv.sk/
+#EXTVLCOPT:http-origin=https://webtv.sk
+https://dash3.antik.sk/live/langlabs/index.m3u8
+https://dash4.antik.sk/live/test_nhk/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="" cuid="485" tvg-name="English.Club.TV" tvg-id="English.Club.TV.ch" tvg-logo="https://github.com/iprtl/p1/raw/master/logo/EnglishClubTV.webp" group-logo="https://cdn-icons-png.magnific.com/512/5724/5724539.png" group-title="Entertainment 🌎",English Club TV 🇬🇧
 https://ssai.aniview.com/api/v1/hls/stream.m3u8?cb=%7B%7Bcb%7D%7D&AV_APPPKGNAME=%7B%7BappPackage%7D%7D&AV_IP=%7B%7BipAddr%7D%7D&AV_USERAGENT=%7B%7BUserAgent%7D%7D&AV_DNT=%7B%7BDNT%7D%7D&AV_APPNAME=%7B%7BappName%7D%7D&AV_APPSTOREURL=%7B%7BAppStoreUrl%7D%7D&AV_GDPR=%7B%7BGdpr%7D%7D&AV_COPPA=%7B%7BCoppa%7D%7D&AV_CCPA=%7B%7BUsPrivacy%7D%7D&AV_IDFA=%7B%7BDID%7D%7D&AV_MAKE=%7B%7BDeviceMake%7D%7D&AV_MODEL=%7B%7BDeviceModel%7D%7D&AVS_SSAIID=63ea24dd318b007281014ee6&GdprConsent=%7B%7BGdprConsent%7D%7D
@@ -1254,6 +1267,12 @@ https://times-ott-live.akamaized.net/romedynow_wv_drm/index.mpd
 =====================🔹========================
 📺 ✰ 𝘿𝙊𝘾𝙐𝙈𝙀𝙉𝙏𝘼𝙍𝙄𝙊𝙎 
 =====================🔹========================
+
+#EXTINF:-1 tvg-chno="" cuid="474" tvg-name="DocuBox" tvg-id="DocuBox.HD.fr" tvg-logo="https://logo.m3uassets.com/docubox.png" group-logo="https://cdn-icons-png.freepik.com/256/11471/11471416.png" group-title="Documentaries 🌎",DocuBox 🇬🇧
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referer=https://webtv.sk/
+#EXTVLCOPT:http-origin=https://webtv.sk
+https://dash2.antik.sk/live/test_docubox_medium_atk/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="" cuid="474" tvg-name="Love Wine 🇺🇸" tvg-id="Love.Wine.es" tvg-logo="https://github.com/iprtl/p1/raw/master/logo/Lovewine.webp" group-logo="https://cdn-icons-png.freepik.com/256/11471/11471416.png" group-title="Documentaries 🌎",Love Wine 🇬🇧
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01821-lovetvchannels-lovewineusuk-lgau/playlist.m3u8?wowzasessionid=@iprtlk
@@ -2046,6 +2065,18 @@ https://lfmmd.vedge.infomaniak.com/livecast/ik:carac5/manifest.m3u8
 ITALIANOS 🇮🇹
 =====================🔹========================
 
+#EXTINF:-1 tvg-chno="" cuid="550" tvg-name="Rai 1" tvg-id="Rai1.it" tvg-logo="https://logo.m3uassets.com/rai1.png" group-logo="https://cdn-icons-png.freepik.com/512/10710/10710379.png" group-title="Channels 🇮🇹",Rai 1 🇮🇹
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referer=https://webtv.sk/
+#EXTVLCOPT:http-origin=https://webtv.sk
+https://dash2.antik.sk/live/test_rai_uno_tizen/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="" cuid="554" tvg-name="Rai 3" tvg-id="Rai3.it" tvg-logo="https://logo.m3uassets.com/rai3.png" group-logo="https://cdn-icons-png.freepik.com/512/10710/10710379.png" group-title="Channels 🇮🇹",Rai 3 🇮🇹
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referer=https://webtv.sk/
+#EXTVLCOPT:http-origin=https://webtv.sk
+https://dash2.antik.sk/live/test_rai_tre_tizen/playlist.m3u8
+
 #EXTINF:-1 tvg-chno="" cuid="566" tvg-name="Italia.1" tvg-id="Italia.1.it" tvg-logo="https://logo.m3uassets.com/italia1.png" group-logo="https://cdn-icons-png.freepik.com/512/10710/10710379.png" group-title="Channels 🇮🇹",Mediaset Italia 1 🇮🇹 ⚽️
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -2227,6 +2258,15 @@ https://jmp2.uk/plu-65a6818c7bdc8d0008457b21.m3u8
 #EXTINF:-1 tvg-chno="" cuid="1962" tvg-id="GP TV" tvg-name="gp" tvg-logo="https://github.com/iprtl/p1/raw/master/logo/GPTV.png" group-logo="https://cdn-icons-png.freepik.com/512/1714/1714340.png" group-title="All Sports 🌎",GP TV 🇧🇷
 #EXTGRP:Auto 🏍🏎️ 
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=16499&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_store_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_channels_br&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=html5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&custom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_param_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]
+
+---
+
+#EXTINF:-1 tvg-chno="" cuid="1962" tvg-id="Fast&amp;FunBox.HD.pl" tvg-name="gp" tvg-logo="https://logo.m3uassets.com/fastfunbox.png" group-logo="https://cdn-icons-png.freepik.com/512/1714/1714340.png" group-title="All Sports 🌎",Fast & FunBox 🇬🇧
+#EXTGRP:Auto 🏍🏎️ 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referer=https://webtv.sk/
+#EXTVLCOPT:http-origin=https://webtv.sk
+https://dash3.antik.sk/live/test_fast_and_funbox_medium_atk/playlist.m3u8
 
 
 #EXTINF:-1 tvg-chno="" cuid="1010" tvg-name="Acelarados" tvg-id="" tvg-logo="https://i.imgur.com/bEA7KyI.png" group-logo="https://cdn-icons-png.freepik.com/512/1714/1714340.png" group-title="All Sports 🌎",Acelerados 🇧🇷
