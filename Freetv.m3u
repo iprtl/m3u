@@ -2730,6 +2730,7 @@ https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/dash/enc/wybgz0orr8/out/v1/2
 ---
 
 #EXTINF:-1 tvg-chno="" cuid="1800" tvg-name="L'Equipe 1 🇫🇷" tvg-id="La.chaine.l’Équipe.fr" tvg-logo="https://logo.m3uassets.com/lequipe.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="All Sports 🌎;Rugby&NFL🏈🏉",la chaine L'Equipe 🇫🇷
+#EXTGRP:All Sports 🌎;Fifa Competition⚽️
 https://jmp2.uk/stvp-FR200016Y5
 https://dshn8inoshngm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gac2i63dmu8b7/LEquipe_FR.m3u8
 https://dq37unyetkpcz.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-m04j89j7k5gtp/LEquipe_FR.m3u8
@@ -3409,7 +3410,7 @@ http://141.94.193.53:80/Sport_1_HD/index.m3u8
 ---
 
 #EXTINF:-1 tvg-chno="" cuid="1870" tvg-name="Sport2" tvg-id="Sport2.cz" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/SPORT2_CZ.webp" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="All Sports 🌎",Sport 2 🇨🇿⚽️🎾🃏
-#EXTGRP:All Sports 🌎;Europa League⚽️;Serie A⚽️
+#EXTGRP:All Sports 🌎;Europa League⚽️;Serie A⚽️;Fifa Competition⚽️
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referer=https://webtv.sk/tv/
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -3419,7 +3420,7 @@ http://141.94.193.53:80/Sport_1_HD/index.m3u8
 https://dash2.antik.sk/stream/nvidia_sport2/playlist_cenc.mpd
 
 #EXTINF:-1 tvg-chno="" cuid="1871" tvg-name="Sport2" tvg-id="Sport2.cz" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/SPORT2_CZ.webp" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="All Sports 🌎",Sport 2 🇨🇿⚽️🎾🃏
-#EXTGRP:All Sports 🌎;Europa League⚽️;Serie A⚽️
+#EXTGRP:All Sports 🌎;Europa League⚽️;Serie A⚽️;Fifa Competition⚽️
 http://88.212.15.19/live/test_sport_2/playlist.m3u8
 http://141.94.193.53:80/Sport_2_HD/index.m3u8
 
