@@ -3838,13 +3838,13 @@ https://janus.xpbroadcasting.com:8443/hls/xptv1.m3u8
 #EXTINF:-1 cuid="1659" tvg-name="Ocko Star 🇨🇿" tvg-logo="https://pbs.twimg.com/profile_images/3055217408/a5421a501ccfcc705c5ea69ff102b097_400x400.png" group-logo="https://cdn-icons-png.freepik.com/512/12461/12461207.png" group-title=" Music",Ocko Star ᴸᴼᵂ 🇨🇿
 http://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_hq.m3u8?wmsAuthSign=Inspirationlivetv
 
-#EXTINF:-1 cuid="1659" tvg-name="Ocko Expres 🇨🇿" tvg-logo="https://pbs.twimg.com/profile_images/3055217408/a5421a501ccfcc705c5ea69ff102b097_400x400.png" group-logo="https://cdn-icons-png.freepik.com/512/12461/12461207.png" group-title=" Music",Ocko Expres ᴸᴼᵂ 🇨🇿
+#EXTINF:-1 cuid="1659" tvg-name="Ocko Expres 🇨🇿" tvg-logo="https://pbs.twimg.com/profile_images/3055217408/a5421a501ccfcc705c5ea69ff102b097_400x400.png" group-logo="https://cdn-icons-png.freepik.com/512/12461/12461207.png" group-title=" Music",Ocko Expres 🇨🇿
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referer=https://webtv.sk/
 #EXTVLCOPT:http-origin=https://webtv.sk
 https://dash4.antik.sk/live/test_ocko_expres/playlist.m3u8
 
-#EXTINF:-1 cuid="1659" tvg-name="Ocko black 🇨🇿" tvg-logo="https://pbs.twimg.com/profile_images/3055217408/a5421a501ccfcc705c5ea69ff102b097_400x400.png" group-logo="https://cdn-icons-png.freepik.com/512/12461/12461207.png" group-title=" Music",Ocko Black ᴸᴼᵂ 🇨🇿
+#EXTINF:-1 cuid="1659" tvg-name="Ocko black 🇨🇿" tvg-logo="https://pbs.twimg.com/profile_images/3055217408/a5421a501ccfcc705c5ea69ff102b097_400x400.png" group-logo="https://cdn-icons-png.freepik.com/512/12461/12461207.png" group-title=" Music",Ocko Black 🇨🇿
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referer=https://webtv.sk/
 #EXTVLCOPT:http-origin=https://webtv.sk
