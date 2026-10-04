@@ -959,12 +959,12 @@ https://cdnjktcyber05.transvision.co.id/riutx01-439abf566997b187117993103dfd8508
 #EXTVLCOPT:http-origin=https://webtv.sk
 https://dash4.antik.sk/live/test_zdf_avc_25p/playlist.m3u8
 
-#EXTINF:-1  tvg-id="SAT.1.de" tvg-logo="https://logo.m3uassets.com/sat1.png" group-logo="https://cdn-icons-png.magnific.com/512/5724/5724539.png" group-title="Entertainment 🌎", Sat.1 🇩🇪⚽️
+#EXTINF:-1  tvg-name="SAT.1" tvg-id="SAT.1.de" tvg-logo="https://logo.m3uassets.com/sat1.png" group-logo="https://cdn-icons-png.magnific.com/512/5724/5724539.png" group-title="Entertainment 🌎", Sat.1 🇩🇪⚽️
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=540313f2e5eda2c17df277afc085f33c:3a2ac903e4299a7815111e256369d9d4
 https://ac-009.live.p7s1video.net/27a90190/t_009/sat1-de-hd/cenc-default.mpd
 
-#EXTINF:-1  tvg-id="SAT.1.at" tvg-logo="https://logo.m3uassets.com/sat1.png" group-logo="https://cdn-icons-png.magnific.com/512/5724/5724539.png" group-title="Entertainment 🌎", Sat.1 🇦🇹⚽️
+#EXTINF:-1  tvg-name="SAT.1" tvg-id="SAT.1.at" tvg-logo="https://logo.m3uassets.com/sat1.png" group-logo="https://cdn-icons-png.magnific.com/512/5724/5724539.png" group-title="Entertainment 🌎", Sat.1 🇦🇹⚽️
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=47d68f825cdea389eb3b75a39275fc61:97e8875d20f9b95a2b59ed79b4a358a1
 https://ac-001.live.p7s1video.net/a30b657a/t_001/sat1-at/cenc-default.mpd
