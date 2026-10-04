@@ -945,12 +945,6 @@ https://dash4.antik.sk/live/test_nhk/playlist.m3u8
 #EXTINF:-1 tvg-chno="" cuid="485" tvg-name="English.Club.TV" tvg-id="English.Club.TV.ch" tvg-logo="https://github.com/iprtl/p1/raw/master/logo/EnglishClubTV.webp" group-logo="https://cdn-icons-png.magnific.com/512/5724/5724539.png" group-title="Entertainment 🌎",English Club TV 🇬🇧
 https://ssai.aniview.com/api/v1/hls/stream.m3u8?cb=%7B%7Bcb%7D%7D&AV_APPPKGNAME=%7B%7BappPackage%7D%7D&AV_IP=%7B%7BipAddr%7D%7D&AV_USERAGENT=%7B%7BUserAgent%7D%7D&AV_DNT=%7B%7BDNT%7D%7D&AV_APPNAME=%7B%7BappName%7D%7D&AV_APPSTOREURL=%7B%7BAppStoreUrl%7D%7D&AV_GDPR=%7B%7BGdpr%7D%7D&AV_COPPA=%7B%7BCoppa%7D%7D&AV_CCPA=%7B%7BUsPrivacy%7D%7D&AV_IDFA=%7B%7BDID%7D%7D&AV_MAKE=%7B%7BDeviceMake%7D%7D&AV_MODEL=%7B%7BDeviceModel%7D%7D&AVS_SSAIID=63ea24dd318b007281014ee6&GdprConsent=%7B%7BGdprConsent%7D%7D
 
-#EXTINF:-1 tvg-chno="" cuid="" tvg-id="AXN.id" tvg-name="AXN" tvg-logo="https://logo.m3uassets.com/axn.png" group-logo="https://cdn-icons-png.magnific.com/512/5724/5724539.png" group-title="Entertainment 🌎",AXN (🔉💬🇬🇧)🇮🇳
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
-https://cdnjktcyber05.transvision.co.id/riutx01-439abf566997b187117993103dfd8508/dash/QVhOLW15/manifest.mpd
-
 ---
 
 #EXTINF:-1 tvg-chno="74.8" tvg-id="ZDF.de" tvg-name="" tvg-logo="https://epg.iptvx.one/picons/zdf.png" group-logo="https://cdn-icons-png.magnific.com/512/5724/5724539.png" group-title="Entertainment 🌎",ZDF 🇩🇪⚽️
@@ -970,6 +964,12 @@ https://ac-009.live.p7s1video.net/27a90190/t_009/sat1-de-hd/cenc-default.mpd
 https://ac-001.live.p7s1video.net/a30b657a/t_001/sat1-at/cenc-default.mpd
 
 ---
+
+#EXTINF:-1 tvg-chno="" cuid="" tvg-id="AXN.id" tvg-name="AXN" tvg-logo="https://logo.m3uassets.com/axn.png" group-logo="https://cdn-icons-png.magnific.com/512/5724/5724539.png" group-title="Entertainment 🌎",AXN (🔉💬🇬🇧)🇮🇳
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
+https://cdnjktcyber05.transvision.co.id/riutx01-439abf566997b187117993103dfd8508/dash/QVhOLW15/manifest.mpd
 
 #EXTINF:-1 tvg-chno="" cuid="" tvg-name="" tvg-id="AXN.White.cz" tvg-logo="https://logo.m3uassets.com/axnwhite.png" group-logo="https://cdn-icons-png.magnific.com/512/5724/5724539.png" group-title="Entertainment 🌎",AXN White (🔉💬🇬🇧)🇨🇿
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
