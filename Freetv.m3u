@@ -2834,6 +2834,13 @@ STAN SPORTS CHANNELS 🇺🇸
 SKY SPORTS CHANNELS 🇺🇸
 =====================🔹========================
 
+#EXTINF:-1 tvg-chno="" cuid="1201" tvg-name="W-Sport" tvg-id="W-Sport.pt" tvg-logo="https://raw.githubusercontent.com/djdoolky76/tv-channel-logos/60962050390d4bcbfd85ab4f303594934b1ae89d/misc/custom/W-%20Sport.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="All Sports 🌎",W-Sport 🇬🇧
+#EXTGRP:All Sports 🌎;Women's Sports⚽️
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9e8888ac964d430cbfef9c922ee6714b:9b1dbd9f59a39a9ebaf1fb8e665a3ef3
+https://tglmp02.akamaized.net/out/v1/1063ebb215c14312ba9d4e415ac706d2/manifest.mpd
+
 #EXTINF:-1 tvg-chno="90.2" tvg-id="65ea8b928145cb0008509426" tvg-logo="https://images.pluto.tv/channels/65ea8b928145cb0008509426/colorLogoPNG.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="All Sports 🌎",UEFA Champions League
 #EXTGRP:All Sports 🌎;Champions league⚽️
 https://jmp2.uk/plu-65ea8b928145cb0008509426.m3u8
