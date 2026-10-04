@@ -2904,7 +2904,7 @@ https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/m
 https://new8k.deadpooll.workers.dev/playlist?id=1336
 
 #EXTINF:-1 tvg-chno="" cuid="1312" tvg-id="CBS.Sports.Network.HD.us2" tvg-logo="https://logo.m3uassets.com/cbssportsnetwork.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="All Sports 🌎",CBS Sports 🇺🇸
-#EXTGRP:All Sports 🌎;Serie A⚽️;Champions league⚽️;Europa League⚽️
+#EXTGRP:All Sports 🌎;Serie A⚽️;Champions league⚽️;Europa League⚽️;Women's Sports⚽️
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd
