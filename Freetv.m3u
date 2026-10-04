@@ -992,7 +992,7 @@ CHANNELS 🇬🇧
 #KODIPROP:inputstream.adaptive.license_key=de6c62edc50564a1bcd57bd452e00dec:5587a0221df02bc10bcc80f8fc1fe5f4
 https://otte.live.fly.ww.aiv-cdn.net/sin-nitro/live/clients/dash/enc/nnhx4xadfk/out/v1/b716a65abc9d41cb8330ac655c098106/cenc.mpd?encoding=segmentBase
 
-#EXTINF:-1 tvg-chno="" cuid="474" tvg-id="BBC.First.pl" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/50/BBC_First_%282014%29_%28Boxless%29.svg/revision/latest/scale-to-width-down/1000?cb=20220624203829" group-logo="https://cdn-icons-png.magnific.com/512/5724/5724539.png" group-title="Entertainment 🌎",BBC First 🇬🇧
+#EXTINF:-1 tvg-chno="" cuid="474" tvg-id="BBC.First.pl" tvg-logo="https://epg.iptvx.one/picons/bbc-first-pl.png" group-logo="https://cdn-icons-png.magnific.com/512/5724/5724539.png" group-title="Entertainment 🌎",BBC First 🇬🇧
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -3365,19 +3365,19 @@ https://dga1op10s1u3leo.52c26716e2e875.click/live/selcukbeinsports5/playlist.m3u
 ELEVEN SPORTS POLACOS 🇵🇱
 =====================🔹========================
 
-#EXTINF:-1 tvg-chno="" cuid="1711" tvg-id="Eleven.Sports.1.pl" tvg-name="Eleven Sports 1 Poland" tvg-logo="https://logo.m3uassets.com/elevensport1.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="All Sports 🌎",Eleven Sports 1 🇵🇱⚽️
+#EXTINF:-1 tvg-chno="" cuid="1711" tvg-id="Eleven.Sports.1.pl" tvg-name="Eleven Sports 1 Poland" tvg-logo="https://epg.iptvx.one/picons/eleven-sports-1.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="All Sports 🌎",Eleven Sports 1 🇵🇱⚽️
 #EXTGRP:Liga Betclic⚽️;All Sports 🌎;Serie A⚽️
 +
 
 ---
 
-#EXTINF:-1 tvg-chno="" cuid="1712" tvg-name="️" tvg-id="Eleven.Sports.2.pl" tvg-name="Eleven Sports 2 Poland" tvg-logo="https://logo.m3uassets.com/elevensport2.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="All Sports 🌎",Eleven Sports 2 🇵🇱 
+#EXTINF:-1 tvg-chno="" cuid="1712" tvg-name="️" tvg-id="Eleven.Sports.2.pl" tvg-name="Eleven Sports 2 Poland" tvg-logo="https://epg.iptvx.one/picons/eleven-sports-2.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="All Sports 🌎",Eleven Sports 2 🇵🇱 
 #EXTGRP:Liga Betclic⚽️;All Sports 🌎;La Liga⚽️;Bundesliga⚽️
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/WCSZMUM84X4689VHGC7UDAQQ/2517/index.m3u8
 
 ---
 
-#EXTINF:-1 tvg-chno="" cuid="1713" tvg-name="️" tvg-id="Eleven.Sports.3.pl" tvg-name="Eleven Sports 3 Poland" tvg-logo="https://logo.m3uassets.com/elevensport3.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="All Sports 🌎",Eleven Sports 3 🇵🇱⚽️
+#EXTINF:-1 tvg-chno="" cuid="1713" tvg-name="️" tvg-id="Eleven.Sports.3.pl" tvg-name="Eleven Sports 3 Poland" tvg-logo="https://epg.iptvx.one/picons/eleven-sports-3.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="All Sports 🌎",Eleven Sports 3 🇵🇱⚽️
 #EXTGRP:Liga Betclic⚽️;All Sports 🌎;Ligue 1⚽️;Bundesliga⚽️
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/WCSZMUM84X4689VHGC7UDAQQ/32018/index.m3u8
 
@@ -3466,7 +3466,7 @@ http://88.212.15.19/live/sport2_hun/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:149.0) Gecko/20100101 Firefox/149.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=98f2ab49605f0469a4b97de40277fca0:7ed06b6908edc372f2cb8ef2df2615d0
-https://ac-009.live.p7s1video.net/181aa0bf/t_009/sport1-de/cenc-default.mpd?DVR
+https://ac-009.live.p7s1video.net/181aa0bf/t_009/sport1-de/cenc-default.mpd
 
 ---
 
