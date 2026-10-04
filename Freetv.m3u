@@ -1028,7 +1028,7 @@ https://olsp.live.dash.c4assets.com/dash_iso_sp_tl/live/channel(e4)/manifest.mpd
  CHANNELS 🇺🇸
 =====================🔹========================
 
-#EXTINF:-1 tvg-chno="" cuid="370" tvg-name="" tvg-id="USA.Network.HD.us2" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/USANetwork.webp" group-logo="https://cdn-icons-png.magnific.com/512/5724/5724539.png" group-title="Entertainment 🌎",USA Network 🇺🇸⚽️
+#EXTINF:-1 tvg-chno="" cuid="370" tvg-name="" tvg-id="USA.Network.HD.us2" tvg-logo="https://logo.m3uassets.com/usanetwork.png" group-logo="https://cdn-icons-png.magnific.com/512/5724/5724539.png" group-title="Entertainment 🌎",USA Network 🇺🇸⚽️
 https://new8k.deadpooll.workers.dev/playlist?id=153
 
 
@@ -2479,7 +2479,7 @@ http://38.49.128.38:8000/play/a0cm/index.m3u8
 CANAIS GENERALISTAS QUE TRANSMITEM EVENTOS DESPORTIVOS
 =====================🔹========================
 
-#EXTINF:-1 tvg-chno="" cuid="370" tvg-name="" tvg-id="USA.Network.HD.us2" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/USANetwork.webp" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="All Sports 🌎",USA Network 🇺🇸⚽️
+#EXTINF:-1 tvg-chno="" cuid="370" tvg-name="" tvg-id="USA.Network.HD.us2" tvg-logo="https://logo.m3uassets.com/usanetwork.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="All Sports 🌎",USA Network 🇺🇸⚽️
 #EXTGRP:Premier League⚽️
 https://new8k.deadpooll.workers.dev/playlist?id=153
 
