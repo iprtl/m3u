@@ -3601,7 +3601,7 @@ PRIMA SPORT & NOVA SPORT 🇸🇰🇨🇿🇷🇴
 
 ---
 
-#EXTINF:-1 tvg-chno="" cuid="1915" tvg-id="Nova.Sport.1.HD.sk" tvg-name="" tvg-logo="https://github.com/iprtl/p1/raw/master/logo/novasport1.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="All Sports 🌎",Nova Sport 1 🇸🇰
+#EXTINF:-1 tvg-chno="" cuid="1915" tvg-id="Nova.Sport.1.HD.sk" tvg-name="" tvg-logo="https://epg.iptvx.one/picons/nova-sport1-cz.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="All Sports 🌎",Nova Sport 1 🇸🇰
 #EXTGRP:All Sports 🌎;Ligue 1⚽️
 #EXTVLCOPT:http-referer=https://webtv.sk/tv/
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -3611,7 +3611,7 @@ PRIMA SPORT & NOVA SPORT 🇸🇰🇨🇿🇷🇴
 https://dash2.antik.sk/stream/nvidia_nova_sport1/playlist_cenc.mpd
 
 
-#EXTINF:-1 tvg-chno="" cuid="1916" tvg-id="Nova.Sport.2.HD.sk" tvg-name="" tvg-logo="https://github.com/iprtl/p1/raw/master/logo/novasport2.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="All Sports 🌎",Nova Sport 2 🇸🇰
+#EXTINF:-1 tvg-chno="" cuid="1916" tvg-id="Nova.Sport.2.HD.sk" tvg-name="" tvg-logo="https://epg.iptvx.one/picons/nova-sport2-cz.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="All Sports 🌎",Nova Sport 2 🇸🇰
 #EXTGRP:All Sports 🌎;Ligue 1⚽️
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referer=https://webtv.sk/tv/
@@ -3625,15 +3625,13 @@ https://dash2.antik.sk/stream/nvidia_nova_sport2/playlist_cenc.mpd
 SPOTV 🇮🇳
 =====================🔹========================
 
-#EXTINF:-1 tvg-chno="" cuid="1962" tvg-id="SPOTV.HD.id" tvg-name="SPOTv" tvg-logo="https://logo.m3uassets.com/spotv.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="All Sports 🌎",Spotv 🇮🇳 🏍🏎️
+#EXTINF:-1 tvg-chno="" cuid="1962" tvg-id="SPOTV.HD.id" tvg-name="SPOTv" tvg-logo="https://epg.iptvx.one/picons/spotv.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="All Sports 🌎",Spotv 🇮🇳 🏍🏎️
 #EXTGRP:All Sports 🌎;MotoGP🏍
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ec7ee27d83764e4b845c48cca31c8eef:9c0e4191203fccb0fde34ee29999129e
 https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_spotvhd.mpd
 
-
-
-#EXTINF:-1 tvg-chno="" cuid="1963" tvg-id="SPOTV.2.HD.id" tvg-name="SPOT2" tvg-logo="https://logo.m3uassets.com/spotv2.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="All Sports 🌎",Spotv 2 🇮🇳 🏍🏎️
+#EXTINF:-1 tvg-chno="" cuid="1963" tvg-id="SPOTV.2.HD.id" tvg-name="SPOT2" tvg-logo="https://epg.iptvx.one/picons/spotv2.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="All Sports 🌎",Spotv 2 🇮🇳 🏍🏎️
 #EXTGRP:All Sports 🌎;MotoGP🏍
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7eea72d6075245a99ee3255603d58853:6848ef60575579bf4d415db1032153ed
