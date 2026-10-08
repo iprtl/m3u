@@ -965,11 +965,10 @@ https://ac-001.live.p7s1video.net/a30b657a/t_001/sat1-at/cenc-default.mpd
 
 ---
 
-#EXTINF:-1 tvg-chno="" cuid="" tvg-id="AXN.id" tvg-name="AXN" tvg-logo="https://logo.m3uassets.com/axn.png" group-logo="https://cdn-icons-png.magnific.com/512/5724/5724539.png" group-title="Entertainment 🌎",AXN (🔉💬🇬🇧)🇮🇳
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
-https://cdnjktcyber05.transvision.co.id/riutx01-439abf566997b187117993103dfd8508/dash/QVhOLW15/manifest.mpd
+#EXTINF:-1 tvg-chno="" cuid="" tvg-id="AXN.cz" tvg-name="AXN" tvg-logo="https://logo.m3uassets.com/axn.png" group-logo="https://cdn-icons-png.magnific.com/512/5724/5724539.png" group-title="Entertainment 🌎",AXN  (🔉💬🇬🇧)🇨🇿
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
+https://dash2.antik.sk/stream/hisi_axn/playlist_cbcs.mpd?
 
 #EXTINF:-1 tvg-chno="" cuid="" tvg-name="" tvg-id="AXN.White.cz" tvg-logo="https://logo.m3uassets.com/axnwhite.png" group-logo="https://cdn-icons-png.magnific.com/512/5724/5724539.png" group-title="Entertainment 🌎",AXN White (🔉💬🇬🇧)🇨🇿
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1437,6 +1436,11 @@ https://service.webvideocore.net/CL1olYogIrDWvwqiIKK7eHbBxDyYany25g-L4QOVH5_l5da
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=a598d133e3ea508a29255f58e09758bf:ad64ce2c7864315dfd293f454f54bea0
 https://live.corusdigitaldev.com/groupa/live/c0ebcb53-b9fa-4359-830b-714eb459c6d1/corus-history.isml/.mpd
+
+#EXTINF:-1 tvg-chno="" cuid="276" tvg-name="History" tvg-id="History2.cz" tvg-logo="https://logo.m3uassets.com/history2.png" group-logo="https://cdn-icons-png.freepik.com/256/11471/11471416.png" group-title="Documentaries 🌎",H2 (🔉💬🇬🇧)🇨🇿
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
+https://dash2.antik.sk/stream/nvidia_history/playlist_cbcs.mpd
 
 #EXTINF:-1 tvg-chno="" cuid="278" tvg-name="History tv 18" tvg-id="History.TV18.HD.in" tvg-logo="https://dtil.tmsimg.com/assets/s143133_ld_h15_aa.png" group-logo="https://cdn-icons-png.freepik.com/256/11471/11471416.png" group-title="Documentaries 🌎",History TV18 HD 🇮🇳
 +https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/HistoryTV18HD.m3u8
