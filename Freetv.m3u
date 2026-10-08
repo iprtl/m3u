@@ -1440,7 +1440,7 @@ https://live.corusdigitaldev.com/groupa/live/c0ebcb53-b9fa-4359-830b-714eb459c6d
 #EXTINF:-1 tvg-chno="" cuid="276" tvg-name="History" tvg-id="History2.cz" tvg-logo="https://logo.m3uassets.com/history2.png" group-logo="https://cdn-icons-png.freepik.com/256/11471/11471416.png" group-title="Documentaries 🌎",H2 (🔉💬🇬🇧)🇨🇿
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
-https://dash2.antik.sk/stream/nvidia_history/playlist_cbcs.mpd
+https://dash2.antik.sk/stream/hisi_h2/playlist_cbcs.mpd
 
 #EXTINF:-1 tvg-chno="" cuid="278" tvg-name="History tv 18" tvg-id="History.TV18.HD.in" tvg-logo="https://dtil.tmsimg.com/assets/s143133_ld_h15_aa.png" group-logo="https://cdn-icons-png.freepik.com/256/11471/11471416.png" group-title="Documentaries 🌎",History TV18 HD 🇮🇳
 +https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/HistoryTV18HD.m3u8
