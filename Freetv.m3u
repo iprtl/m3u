@@ -176,7 +176,7 @@ https://github.com/LITUATUI/M3UPT/raw/main/M3U/TVI_Internacional.m3u8
 https://github.com/thomraider12/canaistvpt/raw/main/m3u8s/tviint.m3u8
 
 #EXTINF:-1 tvg-chno="19" cuid="23" tvg-name="TVI Internacionalᶠᴴᴰ)" tvg-id="tvi.internacional.pt" tvg-logo="https://logo.m3uassets.com/tviinternacional.png" group-logo="https://cdn-icons-png.freepik.com/512/4482/4482879.png" group-title="Portugal 🇵🇹",TVI Internacional 🇵🇹
-https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvOC8yMDI2IDY6MjM6NTkgQU0maGFzaF92YWx1ZT1ZNlpOTHc1OVhDRDFmWGVOdm5DNXp3PT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9NjY0OTM1MDktYTZmYi00ZTUxLTg0MGMtZmFlYjNlZjY5NmI4/
+https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvNS8yMDI2IDU6NTk6MTUgQU0maGFzaF92YWx1ZT1ZRFI3cy9oV24xcWpBOVR0dE5SeFdRPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9OTI4ZjdmZDgtNDFhZS00NGNhLTk1MzMtNTYyY2FjNzg0ZmY0/
 
 
 
@@ -186,14 +186,14 @@ https://github.com/LITUATUI/M3UPT/raw/main/M3U/TVI.m3u8
 https://github.com/thomraider12/canaistvpt/raw/main/m3u8s/tvi.m3u8
 
 #EXTINF:-1 tvg-chno="22" cuid="26" tvg-name="TVI 🇵🇹" tvg-id="TVI.HD.pt" tvg-logo="https://github.com/iprtl/p1/raw/master/logo/tvi.webp" group-logo="https://cdn-icons-png.freepik.com/512/4482/4482879.png" group-title="Portugal 🇵🇹",TVI 🇵🇹
-https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvOC8yMDI2IDY6MjM6NTcgQU0maGFzaF92YWx1ZT1rQkNSSDI1OElaY05RQm4wWjloZVBRPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9MDgxNzhmZDQtOWZhYi00Y2FmLTk2ZTMtNDkyOGRjYWZiZDk3/
+https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvNS8yMDI2IDU6NTk6MTQgQU0maGFzaF92YWx1ZT1TbXIwcENzYm9hbDVtTHYzbEVpaTZRPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9MDk5YWQ2ZDItMTY0MC00YmRhLThiNmYtOTYyOWYwYzRiZjli/
 
 
 #EXTINF:-1 tvg-chno="24" cuid="27" tvg-name="CNN Portugal 🇵🇹" tvg-id="CNN.Portugal.HD.pt" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/cnnpt.png" group-logo="https://cdn-icons-png.freepik.com/256/5395/5395694.png" group-title="News 🇵🇹🇧🇷",CNN Portugal 🇵🇹
 https://github.com/thomraider12/canaistvpt/raw/main/m3u8s/cnnpt.m3u8
 
 #EXTINF:-1 tvg-chno="25" cuid="28" tvg-name="CNN Portugal 🇵🇹" tvg-id="CNN.Portugal.HD.pt" tvg-logo="https://github.com/iprtl/p1/raw/master/logo/cnnpt.png" group-logo="https://cdn-icons-png.freepik.com/256/5395/5395694.png" group-title="News 🇵🇹🇧🇷",CNN Portugal 🇵🇹
-https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvOC8yMDI2IDY6MjM6NTggQU0maGFzaF92YWx1ZT1xcU4vL3dOQ0N4V2gyVktQNjIxV05RPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9Mzk2ODJlOTAtOGExYS00ZjU3LWE3MjItMmM5ZDRmMmEyZDdi/
+https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvNS8yMDI2IDU6NTk6MTUgQU0maGFzaF92YWx1ZT1sb1pvMElLb0FKd3hiV042RUZ2Nk1nPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9OTQyZWRiYjEtY2I0Mi00M2EzLTg3NDktY2NmMTBhY2UwNjQz/
 
 
 
@@ -985,14 +985,14 @@ https://dash2.antik.sk/stream/hisi_axn_black/playlist_cbcs.mpd
 CHANNELS 🇬🇧
 =====================🔹========================
 
-#EXTINF:-1 tvg-chno="" cuid="474" tvg-id="BBC.ENTERTAINMENT.at" tvg-logo="https://lo1.in/malt/BBC ENTERTAINMENT.png" group-logo="https://cdn-icons-png.magnific.com/512/5724/5724539.png" group-title="Entertainment 🌎",BBC Entertainment 🇬🇧
+#EXTINF:-1 tvg-chno="" cuid="474" tvg-id="BBC.Entertainment.HD.cy" tvg-logo="https://lo1.in/malt/BBC ENTERTAINMENT.png" group-logo="https://cdn-icons-png.magnific.com/512/5724/5724539.png" group-title="Entertainment 🌎",BBC Entertainment 🇬🇧
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=de6c62edc50564a1bcd57bd452e00dec:5587a0221df02bc10bcc80f8fc1fe5f4
 https://otte.live.fly.ww.aiv-cdn.net/sin-nitro/live/clients/dash/enc/nnhx4xadfk/out/v1/b716a65abc9d41cb8330ac655c098106/cenc.mpd?encoding=segmentBase
 
-#EXTINF:-1 tvg-chno="" cuid="474" tvg-id="BBC.First.pl" tvg-logo="https://epg.iptvx.one/picons/bbc-first-pl.png" group-logo="https://cdn-icons-png.magnific.com/512/5724/5724539.png" group-title="Entertainment 🌎",BBC First 🇬🇧
+#EXTINF:-1 tvg-chno="" cuid="474" tvg-id="BBC.First.cz" tvg-logo="https://epg.iptvx.one/picons/bbc-first-pl.png" group-logo="https://cdn-icons-png.magnific.com/512/5724/5724539.png" group-title="Entertainment 🌎",BBC First 🇬🇧
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1201,7 +1201,7 @@ https://times-ott-live.akamaized.net/mnxhd_wv_drm/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
 https://times-ott-live.akamaized.net/moviesnow_wv_drm/index.mpd
 
-#EXTINF:-1 tvg-chno="" cuid="" tvg-name="Movies Now" tvg-id="Movies.Now.HD.in" tvg-logo="https://logo.m3uassets.com/moviesnow.png" group-logo="https://cdn-icons-png.magnific.com/512/5724/5724539.png" group-title="Entertainment 🌎",Movies Now (🔉💬🇬🇧)🇮🇳
+#EXTINF:-1 tvg-chno="" cuid="" tvg-name="Movies Now" tvg-id="MOVIES.NOW.in" tvg-logo="https://logo.m3uassets.com/moviesnow.png" group-logo="https://cdn-icons-png.magnific.com/512/5724/5724539.png" group-title="Entertainment 🌎",Movies Now (🔉💬🇬🇧)🇮🇳
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
