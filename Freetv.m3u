@@ -7,7 +7,7 @@
 # ――――――――――――――――――――――――――――――――――――――――――――――
 # (●) Last Update: 🔄 2026 GMT+7 "
 # (●) Service: FREETV Inspiration Links
-# (●) Total Channels: 555
+# (●) Total Channels: 545
 
 
 ⚠️ Atenção: Todas as ligações de streams disponibilizados nas listas foram retiradas da Internet. Apenas as organizo, disponibilizo e partilho. Não detenho qualquer servidor e/ou transmitimos ou re-emitimos qualquer tipo de sinal.
@@ -176,7 +176,7 @@ https://github.com/LITUATUI/M3UPT/raw/main/M3U/TVI_Internacional.m3u8
 https://github.com/thomraider12/canaistvpt/raw/main/m3u8s/tviint.m3u8
 
 #EXTINF:-1 tvg-chno="19" cuid="23" tvg-name="TVI Internacionalᶠᴴᴰ)" tvg-id="tvi.internacional.pt" tvg-logo="https://logo.m3uassets.com/tviinternacional.png" group-logo="https://cdn-icons-png.freepik.com/512/4482/4482879.png" group-title="Portugal 🇵🇹",TVI Internacional 🇵🇹
-https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTAvMjAyNiAyOjMzOjM2IFBNJmhhc2hfdmFsdWU9NWxibk9ncFVBaEowT1NFNjREU2VUQT09JnZhbGlkbWludXRlcz0xNDQwJmlkPTA1NjIwY2IxLTJhNzMtNDZjZi04ZWZiLWNmYTdhY2JhNGJjZQ==/
+https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTAvMjAyNiA2Ojc6NTEgQU0maGFzaF92YWx1ZT12Z1JUNnJ3N0ZFNkxuZVpzYUYxVit3PT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9NjM2YzMzYjItYjg1MS00ZDM5LTgwZTYtYTlhYjQxMmFhZmY5/
 
 
 
@@ -186,14 +186,14 @@ https://github.com/LITUATUI/M3UPT/raw/main/M3U/TVI.m3u8
 https://github.com/thomraider12/canaistvpt/raw/main/m3u8s/tvi.m3u8
 
 #EXTINF:-1 tvg-chno="22" cuid="26" tvg-name="TVI 🇵🇹" tvg-id="TVI.HD.pt" tvg-logo="https://github.com/iprtl/p1/raw/master/logo/tvi.webp" group-logo="https://cdn-icons-png.freepik.com/512/4482/4482879.png" group-title="Portugal 🇵🇹",TVI 🇵🇹
-https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTAvMjAyNiAyOjMzOjM1IFBNJmhhc2hfdmFsdWU9WkNFNkgydXIzQldrQXJhM3ZFZ1R0QT09JnZhbGlkbWludXRlcz0xNDQwJmlkPWNhMDFiZGVkLTQxMmEtNGM0Mi1iNWQ1LTk2ZmE1NTJjYmJjZQ==/
+https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTAvMjAyNiA2Ojc6NTAgQU0maGFzaF92YWx1ZT1HZTFka3ZZZENhRnRjNnlLUnB3S2p3PT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9MmU0ZGFjODQtOTU4ZC00MjE2LThkYjUtODkwMmU5ODc2NTc1/
 
 
 #EXTINF:-1 tvg-chno="24" cuid="27" tvg-name="CNN Portugal 🇵🇹" tvg-id="CNN.Portugal.HD.pt" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/cnnpt.png" group-logo="https://cdn-icons-png.freepik.com/256/5395/5395694.png" group-title="News 🇵🇹🇧🇷",CNN Portugal 🇵🇹
 https://github.com/thomraider12/canaistvpt/raw/main/m3u8s/cnnpt.m3u8
 
 #EXTINF:-1 tvg-chno="25" cuid="28" tvg-name="CNN Portugal 🇵🇹" tvg-id="CNN.Portugal.HD.pt" tvg-logo="https://github.com/iprtl/p1/raw/master/logo/cnnpt.png" group-logo="https://cdn-icons-png.freepik.com/256/5395/5395694.png" group-title="News 🇵🇹🇧🇷",CNN Portugal 🇵🇹
-https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTAvMjAyNiAyOjMzOjM1IFBNJmhhc2hfdmFsdWU9MzBUZ3liZnM4ZS9qWVVKSHEreEV3UT09JnZhbGlkbWludXRlcz0xNDQwJmlkPTA0YzA2MjgyLTI5N2YtNGY2ZS04MDA5LWVmYTBhZTZmYzZhOQ==/
+https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTAvMjAyNiA2Ojc6NTEgQU0maGFzaF92YWx1ZT0wd211WVF2OWJPQ3hKOUZNK3dRa3VnPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9N2JmYzI0MWItZjkyMC00NzJlLTkyNjItMGQ4MTczNjk1Mzhi/
 
 
 
@@ -1427,9 +1427,20 @@ https://amg01314-amg01314c8-distrotv-us-10218.playouts.now.amagi.tv/playlist/amg
 #EXTINF:-1 tvg-chno="" cuid="275" tvg-name="Space Today" tvg-id="" tvg-logo="https://imgur.com/EgHTGvn.png" group-logo="https://cdn-icons-png.freepik.com/256/11471/11471416.png" group-title="Documentaries 🌎",Space Today 🇧🇷 (💬🇧🇷)
 https://service.webvideocore.net/CL1olYogIrDWvwqiIKK7eHbBxDyYany25g-L4QOVH5_l5daXY9tfEZPDJS0YHgpW/a_50acwl5q0f0g.m3u8
 
+
+#EXTINF:-1 tvg-chno="" cuid="276" tvg-name="Odisea" tvg-id="Odisea.es" tvg-logo="https://logo.m3uassets.com/Odisea.png" group-logo="https://cdn-icons-png.freepik.com/256/11471/11471416.png" group-title="Documentaries 🌎",Odisea 🇪🇸
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d60ce2e5dedd56c8cf708f41468fd974:38b207c8cb479f3beb1b7629a0e5c1b1
+https://bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/eiz3z6y4dw/out/v1/ec65a585eb4a41bcb94dc1c09a001889/cenc.mpd
+
 =====================🔹========================  
 🌈 HISTORY CHANNELS 🌎
 =====================🔹========================
+
+#EXTINF:-1 tvg-chno="" cuid="276" tvg-name="Historia" tvg-id="Canal.HISTORIA.es" tvg-logo="https://logo.m3uassets.com/historia.png" group-logo="https://cdn-icons-png.freepik.com/256/11471/11471416.png" group-title="Documentaries 🌎",Historia 🇪🇸
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a1d42daf7e2ac6489b210fafdda48448:ee1b68080d3adde15af7867a331a2c6b
+https://bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/qxmdctd0xf/out/v1/85509b15ece14cb48fa32b8fd3d0cec3/cenc.mpd
 
 #EXTINF:-1 tvg-chno="" cuid="276" tvg-name="History" tvg-id="History.HD.us2" tvg-logo="https://logo.m3uassets.com/history.png" group-logo="https://cdn-icons-png.freepik.com/256/11471/11471416.png" group-title="Documentaries 🌎",History 🇺🇸
 #KODIPROP:inputstream=inputstream.adaptive
@@ -1918,6 +1929,18 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=15618
 https://live-pv-ta.amazon.fastly-edge.com/iad-nitro/live/clients/dash/enc/dxnynpuvl4/out/v1/2c50fa7374c24990b81abf23e21560e2/cenc.mpd
 
 
+#EXTINF:-1 tvg-chno="" cuid="509" tvg-name="Cuatro" tvg-id="Cuatro.es" tvg-logo="https://raw.githubusercontent.com/iprtl/tv-logos/main/countries/spain/cuatro-es.png" group-logo="https://cdn-icons-png.freepik.com/512/2146/2146764.png" group-title="Channels 🇪🇸",cuatro 🇪🇸
+#EXTGRP: Channels 🇪🇸
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c1b0f4be6d9060a585dd92f49b093585:685a067eef72656be5f000a063caa49f
+https://bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/fqkgjnprni/out/v1/03443dac525a4c008d1d96fb04f3877a/cenc.mpd
+
+#EXTINF:-1 tvg-chno="" cuid="526" tvg-name="Telecinco" tvg-id="Telecinco.es" tvg-logo="https://raw.githubusercontent.com/iprtl/tv-logos/main/countries/spain/telecinco-es.png" group-logo="https://cdn-icons-png.freepik.com/512/2146/2146764.png" group-title="Channels 🇪🇸",Telecinco 🇪🇸
+#EXTGRP: Channels 🇪🇸
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4e127b11ba32506c18e84490871cef9d:1e40d02f5f859ddb027def42b7b1cea8
+https://bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/bskabgmtyu/out/v1/cbc12a8d68d346078496095c84512bf4/cenc.mpd
+
 #EXTINF:-1 tvg-chno="" cuid="522" tvg-name="laSexta" tvg-id="laSexta.es" tvg-logo="https://logo.m3uassets.com/lasexta.png" group-logo="https://cdn-icons-png.freepik.com/512/2146/2146764.png" group-title="Channels 🇪🇸",La Sexta 🇪🇸
 #EXTGRP: Channels 🇪🇸
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -1925,6 +1948,20 @@ https://live-pv-ta.amazon.fastly-edge.com/iad-nitro/live/clients/dash/enc/dxnynp
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0cd888eabc05fd1e767c7ed273d93822:a284a8d929485ff48e66192f38d1c568
 https://live-pv-ta.amazon.fastly-edge.com/iad-nitro/live/clients/dash/enc/svvzbaflv0/out/v1/e26493342f6c48988273441261c51c14/cenc.mpd
+
+#EXTINF:-1 tvg-chno="" cuid="519" tvg-name="Divinity" tvg-id="Divinity.es" tvg-logo="https://raw.githubusercontent.com/iprtl/tv-logos/main/countries/spain/divinity-es.png" group-logo="https://cdn-icons-png.freepik.com/512/2146/2146764.png" group-title="Channels 🇪🇸",Divinity 🇪🇸
+#EXTGRP: Channels 🇪🇸
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c6858fe03e48135a47d31c5e10834e18:078e0ed72cba7047af4db36139f6d0cd
+https://bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/gan0or3neh/out/v1/5c8618a2e2134bd9a33eddcf778c1ae6/cenc.mpd
+
+#EXTINF:-1 tvg-chno="" cuid="520" tvg-name="energy" tvg-id="Energy.es" tvg-logo="https://logo.m3uassets.com/energy.png" group-logo="https://cdn-icons-png.freepik.com/512/2146/2146764.png" group-title="Channels 🇪🇸",Energy 🇪🇸
+#EXTGRP: Channels 🇪🇸
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9f377ce11b5fdb524906f63de5bb07c0:fa737be444c13c28e7c5fe1da36bdbcd
+https://bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ocxmqes2pu/out/v1/4741e2c4db434a0f9a605e2e56a9a982/cenc.mpd
+
+---
 
 #EXTINF:-1 tvg-chno="" cuid="522" tvg-name="Atreseries.Internacional" tvg-id="Atreseries.Internacional.es" tvg-logo="https://github.com/iprtl/p1/raw/master/logo/Atreseries.webp" group-logo="https://cdn-icons-png.freepik.com/512/2146/2146764.png" group-title="Channels 🇪🇸",A3 Series Internacional 🇪🇸
 #EXTGRP: Channels 🇪🇸
@@ -1941,6 +1978,70 @@ https://live-pv-ta.amazon.fastly-edge.com/iad-nitro/live/clients/dash/enc/trd6ii
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2f897106c2cc75a16ad12c5bd2e77781:3fabd4fd1bbde56b4bb3297f81e65b7a
 https://live-pv-ta.amazon.fastly-edge.com/iad-nitro/live/clients/dash/enc/k9bcyfgrhw/out/v1/288f6cad09824d4898612b35d4f2aa64/cenc.mpd
+
+#EXTINF:-1 tvg-chno="" cuid="522" tvg-name="contra+" tvg-id="Acontra+.es" tvg-logo="https://acontraplus.com/assets/customer/logo-footer.png" group-logo="https://cdn-icons-png.freepik.com/512/2146/2146764.png" group-title="Channels 🇪🇸",contra+ Cine 🇪🇸
+#EXTGRP: Channels 🇪🇸
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2040a09e994af852d1bd161370e86a29:e4aa94106a82cbcf3cb1ca54fd59e771
+https://bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/enyah1390w/out/v1/e7eb52993e674cac9f63faababf3df22/cenc.mpd
+
+
+#EXTINF:-1 tvg-chno="" cuid="522" tvg-name="Dark" tvg-id="Dark.es" tvg-logo="https://logo.m3uassets.com/dark.png" group-logo="https://cdn-icons-png.freepik.com/512/2146/2146764.png" group-title="Channels 🇪🇸",Dark 🇪🇸
+#EXTGRP: Channels 🇪🇸
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=19273919b7442ea2b18da9b9763c1760:abcf1b55f552a2a0b5ee3256e4bcf4b1
+https://bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/lu0iixsxer/out/v1/cc71ea57e9a14fdf9ee0b2f2235432ae/cenc.mpd
+
+#EXTINF:-1 tvg-chno="" cuid="522" tvg-name="Hollywood" tvg-id="Hollywood.es" tvg-logo="https://logo.m3uassets.com/hollywood.png" group-logo="https://cdn-icons-png.freepik.com/512/2146/2146764.png" group-title="Channels 🇪🇸",Hollywood 🇪🇸
+#EXTGRP: Channels 🇪🇸
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3683916b32053ecdfd92896167a538b1:7056231c4bc36658a23c374945d2eefb
+https://bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/mag6zvyved/out/v1/8600dbca46414a9e834f975b7ccdca26/cenc.mpd
+
+#EXTINF:-1 tvg-chno="" cuid="522" tvg-name="Somos" tvg-id="Somos.es" tvg-logo="https://logo.m3uassets.com/somos.png" group-logo="https://cdn-icons-png.freepik.com/512/2146/2146764.png" group-title="Channels 🇪🇸",Somos 🇪🇸
+#EXTGRP: Channels 🇪🇸
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5dbf8f994f1fa5dd5519382c7ddf3f8d:bed54cb448c909d31c79478deaa60616
+https://bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/k9sfgempsy/out/v1/6e4175ae37c247b4b80cfd793d5a17dd/cenc.mpd
+
+#EXTINF:-1 tvg-chno="" cuid="522" tvg-name="VinTV" tvg-id="VinTV.es" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Logo_de_VinTV.png/250px-Logo_de_VinTV.png" group-logo="https://cdn-icons-png.freepik.com/512/2146/2146764.png" group-title="Channels 🇪🇸",Vintv 🇪🇸
+#EXTGRP: Channels 🇪🇸
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f665e85664da761d9f43db8119375cc9:3aca6d4c4302ec9e9240889dff27cafc
+https://bia-cf.live.pv-cdn.net/fra-nitro/live/clients/dash/enc/vj617waw17/out/v1/64aea7701f014f1693af57e3ac7b3689/cenc.mpd
+
+#EXTINF:-1 tvg-chno="" cuid="522" tvg-name="XTRM" tvg-id="XTRM.es" tvg-logo="https://logo.m3uassets.com/xtrm.png" group-logo="https://cdn-icons-png.freepik.com/512/2146/2146764.png" group-title="Channels 🇪🇸",Xtrm 🇪🇸
+#EXTGRP: Channels 🇪🇸
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ed7a3f665cfbd9d487b8039231abaca5:b0669699de2ed25cfa06e7943e0acc80
+https://bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/esiotal5zq/out/v1/c01fdef0494c4ce5a65ac8f52bbe44dc/cenc.mpd
+
+---
+
+#EXTINF:-1 tvg-chno="" cuid="522" tvg-name="AMC" tvg-id="AMC.es" tvg-logo="https://logo.m3uassets.com/amc.png" group-logo="https://cdn-icons-png.freepik.com/512/2146/2146764.png" group-title="Channels 🇪🇸",AMC 🇪🇸
+#EXTGRP: Channels 🇪🇸
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=47e023e0a02213717eada9bcbe8badf6:11c51a7ca3406597a75f1cb2940e8046
+https://bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/atzreh4v7c/out/v1/911226ec26bf4f92a9f787b3e211fc53/cenc.mpd
+
+#EXTINF:-1 tvg-chno="" cuid="522" tvg-name="AMC Western" tvg-id="AMC.Crime.HD.pt" tvg-logo="https://logo.m3uassets.com/amc.png" group-logo="https://cdn-icons-png.freepik.com/512/2146/2146764.png" group-title="Channels 🇪🇸",AMC Western 🇪🇸
+#EXTGRP: Channels 🇪🇸
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b0649935a63ade1849a022c47fdffb60:8e5d967116d0445d5c1689669b8adc31
+https://bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/kuyjtcy6mh/out/v1/4820fcb4f06d4187954fe03090307447/cenc.mpd
+
+#EXTINF:-1 tvg-chno="" cuid="522" tvg-name="AMC Break" tvg-id="AMC.Break.es" tvg-logo="https://logo.m3uassets.com/amcbreak.png" group-logo="https://cdn-icons-png.freepik.com/512/2146/2146764.png" group-title="Channels 🇪🇸",AMC Break 🇪🇸
+#EXTGRP: Channels 🇪🇸
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=eb8156173f3256da61faa2d17c8159ca:d9947e4600adf5cb6bcc68d69bc28d00
+https://bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/cu3miff4hw/out/v1/80a199f5bc974b64b0281896d0a49b69/cenc.mpd
+
+#EXTINF:-1 tvg-chno="" cuid="522" tvg-name="AMC Crime" tvg-id="AMC.Crime.HD.pt" tvg-logo="https://logo.m3uassets.com/amccrime.png" group-logo="https://cdn-icons-png.freepik.com/512/2146/2146764.png" group-title="Channels 🇪🇸",AMC Crime 🇪🇸
+#EXTGRP: Channels 🇪🇸
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3134884a0f457910ebe71cbad6247ada:4790ad9a1bc9912b5feada178d57c0fc
+https://bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/unpcb7o0f5/out/v1/a9d133bfdd2f4fc5bbe358888f6e7c3f/cenc.mpd
+
 
 ---
 
@@ -2057,7 +2158,7 @@ https://onefmmd.vedge.infomaniak.com/livecast/ik:onefmmd/manifest.m3u8
 https://lfmmd.vedge.infomaniak.com/livecast/ik:lfmmd/manifest.m3u8
 #EXTINF:-1 tvg-chno="514" tvg-id="CARAC.4.ch" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/switzerland/carac4-ch.png" group-logo="https://cdn-icons-png.freepik.com/512/2490/2490481.png" group-title="Channels 🇫🇷",carac4 🇫🇷
 https://lfmmd.vedge.infomaniak.com/livecast/ik:compack_media_1/manifest.m3u8
-#EXTINF:-1 tvg-chno="515" tvg-id="CARAC.5.ch" group-logo="https://cdn-icons-png.freepik.com/512/2490/2490481.png" group-title="Channels 🇫🇷",carac5
+#EXTINF:-1 tvg-chno="515" tvg-id="CARAC.5.ch" group-logo="https://cdn-icons-png.freepik.com/512/2490/2490481.png" group-title="Channels 🇫🇷",carac5 🇫🇷
 https://lfmmd.vedge.infomaniak.com/livecast/ik:carac5/manifest.m3u8
 
 
@@ -2901,6 +3002,13 @@ FS SPORTS CHANNELS 🇺🇸
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4ee9b41e5053ef434c13dbb783df9e32:a275236600bfaedf230286f7b71b0a99
 https://otte.live.fly.ww.aiv-cdn.net/fra-nitro/live/clients/dash/enc/qio4cutx9r/out/v1/c89ef71f801b42b7abe65c7777adc6c4/cenc.mpd
+
+#EXTINF:-1 tvg-chno="" cuid="1300" tvg-id="NBA.TV.HD.us2" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/Nba.webp" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="All Sports 🌎",NBA 🇺🇸🏀
+#EXTGRP:All Sports 🌎
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=84077d18bcf234a42de3745be106a87f:aee3069c062ec8ee6bfdd32985f287ef
+https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/2jbycgm3g3/out/v1/066dd9325648468c9ecdc8b272370931/cenc.mpd
 
 
 #EXTINF:-1 tvg-chno="" cuid="1300" tvg-id="NBA.TV.HD.us2" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/Nba.webp" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="All Sports 🌎",NBA 🇺🇸🏀
