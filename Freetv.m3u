@@ -1946,14 +1946,67 @@ https://bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/bskabgmtyu/out/v1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0cd888eabc05fd1e767c7ed273d93822:a284a8d929485ff48e66192f38d1c568
-https://bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/svvzbaflv0/out/v1/e26493342f6c48988273441261c51c14/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=b18078e2d24a43c2bef2acf0ecf92962:2fe3632c7074c7bbe49611ccc750a571
+https://cache2.zapitv.com/live/eds_c2/la_sexta/dash_live_ez/la_sexta.mpd
+
+#EXTINF:-1 tvg-chno="" cuid="523" tvg-name="Mega" tvg-id="Mega.es" tvg-logo="https://raw.githubusercontent.com/iprtl/tv-logos/main/countries/spain/mega-es.png" group-logo="https://cdn-icons-png.freepik.com/512/2146/2146764.png" group-title="Channels 🇪🇸",Mega 🇪🇸
+#EXTGRP: Channels 🇪🇸
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a0d6ecbc39474c73a855faf57b021d5b:46184ee5a6d38e265f5f439f5cb386ed
+https://cache3.zapitv.com/live/eds_c2/mega/dash_live_ez/mega.mpd
+
+#EXTINF:-1 tvg-chno="" cuid="525" tvg-name="Nova" tvg-id="Neox.es" tvg-logo="https://raw.githubusercontent.com/iprtl/tv-logos/main/countries/spain/neox-es.png" group-logo="https://cdn-icons-png.freepik.com/512/2146/2146764.png" group-title="Channels 🇪🇸",Neox 🇪🇸
+#EXTGRP: Channels 🇪🇸
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7bf41667beb443aba1438863de5c10e3:90c3b72a3567dae15b1a96186a9061c3
+https://cache3.zapitv.com/live/eds_c2/neox/dash_live_ez/neox.mpd
+
+#EXTINF:-1 tvg-chno="" cuid="524" tvg-name="Nova" tvg-id="Nova.es" tvg-logo="https://raw.githubusercontent.com/iprtl/tv-logos/main/countries/spain/nova-es.png" group-logo="https://cdn-icons-png.freepik.com/512/2146/2146764.png" group-title="Channels 🇪🇸",Nova 🇪🇸
+#EXTGRP: Channels 🇪🇸
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1d14804bdf314c65a03609e7c729978b:263766334096bb7afc0f3c5726e3d4b2
+https://cache4.zapitv.com/live/eds_c2/nova/dash_live_ez/nova.mpd
 
 #EXTINF:-1 tvg-chno="" cuid="519" tvg-name="Divinity" tvg-id="Divinity.es" tvg-logo="https://raw.githubusercontent.com/iprtl/tv-logos/main/countries/spain/divinity-es.png" group-logo="https://cdn-icons-png.freepik.com/512/2146/2146764.png" group-title="Channels 🇪🇸",Divinity 🇪🇸
 #EXTGRP: Channels 🇪🇸
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c6858fe03e48135a47d31c5e10834e18:078e0ed72cba7047af4db36139f6d0cd
 https://bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/gan0or3neh/out/v1/5c8618a2e2134bd9a33eddcf778c1ae6/cenc.mpd
+
+#EXTINF:-1 tvg-chno="" cuid="507" tvg-name="Be.Mad" tvg-id="Be.Mad.es" tvg-logo="https://github.com/iprtl/tv-logos/raw/main/countries/spain/be-mad-tv-es.png" group-logo="https://cdn-icons-png.freepik.com/512/2146/2146764.png" group-title="Channels 🇪🇸",Be.Mad 🇪🇸
+#EXTGRP: Channels 🇪🇸
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=101ae4e5db4f48b1ab2e3e7e51f2b879:fc243b64966d05458f20195bd1f892db
+https://cache4.zapitv.com/live/eds_c2/bemad_hd/dash_live_ez/bemad_hd.mpd
+
+#EXTINF:-1 tvg-chno="" cuid="508" tvg-name="Calle.13" tvg-id="Calle.13.es" tvg-logo="https://github.com/iprtl/tv-logos/raw/main/countries/spain/calle-13-es.png" group-logo="https://cdn-icons-png.freepik.com/512/2146/2146764.png" group-title="Channels 🇪🇸",Calle 13 🇪🇸
+#EXTGRP: Channels 🇪🇸
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=29e88896154e4a7092acfcfdb4a0b094:8d306e5637e8bc48c105a3ad3f7e313d
+https://cache3.zapitv.com/live/eds_c2/calle_13/dash_live_ez/calle_13.mpd
+
+#EXTINF:-1 tvg-chno="" cuid="517" tvg-name="Dkiss" tvg-id="Dkiss.es" tvg-logo="https://raw.githubusercontent.com/iprtl/tv-logos/main/countries/spain/dkiss-es.png" group-logo="https://cdn-icons-png.freepik.com/512/2146/2146764.png" group-title="Channels 🇪🇸",DKiss 🇪🇸
+#EXTGRP: Channels 🇪🇸
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=29d6b10da4aa427f9999f18d7bab8a79:66a8e1e396c40c8a5ba51bbfe020902b
+https://cache1.zapitv.com/live/eds_c2/dkiss_tv/dash_live_ez/dkiss_tv.mpd
+
+
+#EXTINF:-1 tvg-chno="" cuid="518" tvg-name="DMAX" tvg-id="DMAX.es" tvg-logo="https://raw.githubusercontent.com/iprtl/tv-logos/main/countries/spain/dmax-es.png" group-logo="https://cdn-icons-png.freepik.com/512/2146/2146764.png" group-title="Channels 🇪🇸",DMax 🇪🇸
+#EXTGRP: Channels 🇪🇸
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d2e2e464abaf44259abca6f7055fed52:2edcd9e9c03f400ca0058598d3a75a5b
+https://cache4.zapitv.com/live/eds_c2/dmax/dash_live_ez/dmax.mpd
+
+
+#EXTINF:-1 tvg-chno="" cuid="521" tvg-name="fdf" tvg-id="FDF.Telecinco.es" tvg-logo="https://logo.m3uassets.com/fdf.png" group-logo="https://cdn-icons-png.freepik.com/512/2146/2146764.png" group-title="Channels 🇪🇸",FDF 🇪🇸
+#EXTGRP: Channels 🇪🇸
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c751ca45643b438ead85d9fabb3482e1:52097c7e31b2d69034720eab836c5668
+https://cache3.zapitv.com/live/eds_c2/fdf/dash_live_ez/fdf.mpd
+
 
 #EXTINF:-1 tvg-chno="" cuid="520" tvg-name="energy" tvg-id="Energy.es" tvg-logo="https://logo.m3uassets.com/energy.png" group-logo="https://cdn-icons-png.freepik.com/512/2146/2146764.png" group-title="Channels 🇪🇸",Energy 🇪🇸
 #EXTGRP: Channels 🇪🇸
@@ -2046,6 +2099,12 @@ https://bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/unpcb7o0f5/out/v1
 ---
 
 #EXTINF:-1 tvg-chno="" cuid="527" tvg-name="Trece" tvg-id="TRECE.es" tvg-logo="https://github.com/iprtl/tv-logos/raw/main/countries/spain/trece-es.png" group-logo="https://cdn-icons-png.freepik.com/512/2146/2146764.png" group-title="Channels 🇪🇸",Trece 🇪🇸
+#EXTGRP: Channels 🇪🇸
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=72ca88134c2842b78aa171068b1c61f4:4afbe5207cde65872d005b1daedcc9b4
+https://cache4.zapitv.com/live/eds_c2/TRECETV/dash_live_ez/TRECETV.mpd
+
+#EXTINF:-1 tvg-chno="" cuid="527" tvg-name="Trece" tvg-id="TRECE.es" tvg-logo="https://github.com/iprtl/tv-logos/raw/main/countries/spain/trece-es.png" group-logo="https://cdn-icons-png.freepik.com/512/2146/2146764.png" group-title="Channels 🇪🇸",Trece 🇪🇸 (Geoblock)
 #EXTGRP: Channels 🇪🇸
 https://play.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/021/playlist.m3u8
 https://5940924978228.streamlock.net/8009/ngrp:8009_all/playlist.m3u8
@@ -3021,6 +3080,17 @@ https://live1-ott.izzigo.tv/7/out/u/dash/NBA-HD-H265/default.mpd
 
 ---
 
+#EXTINF:-1 tvg-chno="" cuid="1307" tvg-id="NFL.Network.HD.us2" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s34710_h15_aa.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="All Sports 🌎",NFL Network 🇺🇸
+#EXTGRP:All Sports 🌎;Rugby&NFL🏈🏉
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
+#KODIPROP:inputstream.adaptive.license_key=002007110c69a23803173b50eab05f23:590d6e8f4ca81319f9bb29104f571990
+https://cfrt.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(lc107a1ddy)/master.mpd
+https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s-v2/Live/channel(lc107a1ddy)/master.mpd
+
+---
+
 #EXTINF:-1 tvg-chno="" cuid="1313" tvg-id="FS1.HD.us2" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/FS1.webp" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="All Sports 🌎",FS1 🇺🇸
 #EXTGRP:All Sports 🌎
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -3856,6 +3926,12 @@ https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_spotvhd.mpd
 #KODIPROP:inputstream.adaptive.license_key=7eea72d6075245a99ee3255603d58853:6848ef60575579bf4d415db1032153ed
 https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_spotv2hd.mpd
 https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/dr_spotv2hd.mpd
+
+#EXTINF:-1 tvg-chno="" cuid="1963" tvg-id="SPOTV.2.HD.id" tvg-name="SPOT2" tvg-logo="https://epg.iptvx.one/picons/spotv2.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="All Sports 🌎",Spotv 2 🇮🇳 🏍🏎️
+#EXTGRP:All Sports 🌎;MotoGP🏍
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f28d730090f64e229fb255b2afa6e36e:53d432c60f419541c7319dc1b6508e2c
+https://ucdn.mediaquest.com.ph/bpk-tv/dr_spotv2hd/default/index.mpd
 
 ---
 
