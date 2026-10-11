@@ -1946,8 +1946,8 @@ https://bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/bskabgmtyu/out/v1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0cd888eabc05fd1e767c7ed273d93822:a284a8d929485ff48e66192f38d1c568
-https://live-pv-ta.amazon.fastly-edge.com/iad-nitro/live/clients/dash/enc/svvzbaflv0/out/v1/e26493342f6c48988273441261c51c14/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=0cd888eabc05fd1e767c7ed273d93822":"a284a8d929485ff48e66192f38d1c568
+https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/svvzbaflv0/out/v1/e26493342f6c48988273441261c51c14/cenc.mpd
 
 #EXTINF:-1 tvg-chno="" cuid="519" tvg-name="Divinity" tvg-id="Divinity.es" tvg-logo="https://raw.githubusercontent.com/iprtl/tv-logos/main/countries/spain/divinity-es.png" group-logo="https://cdn-icons-png.freepik.com/512/2146/2146764.png" group-title="Channels 🇪🇸",Divinity 🇪🇸
 #EXTGRP: Channels 🇪🇸
@@ -1992,7 +1992,7 @@ https://bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/enyah1390w/out/v1
 #KODIPROP:inputstream.adaptive.license_key=19273919b7442ea2b18da9b9763c1760:abcf1b55f552a2a0b5ee3256e4bcf4b1
 https://bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/lu0iixsxer/out/v1/cc71ea57e9a14fdf9ee0b2f2235432ae/cenc.mpd
 
-#EXTINF:-1 tvg-chno="" cuid="522" tvg-name="Hollywood" tvg-id="Hollywood.es" tvg-logo="https://logo.m3uassets.com/hollywood.png" group-logo="https://cdn-icons-png.freepik.com/512/2146/2146764.png" group-title="Channels 🇪🇸",Hollywood 🇪🇸
+#EXTINF:-1 tvg-chno="" cuid="522" tvg-name="Hollywood" tvg-id="Hollywood.es" tvg-logo="https://logo.m3uassets.com/canalhollywood.png" group-logo="https://cdn-icons-png.freepik.com/512/2146/2146764.png" group-title="Channels 🇪🇸",Hollywood 🇪🇸
 #EXTGRP: Channels 🇪🇸
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3683916b32053ecdfd92896167a538b1:7056231c4bc36658a23c374945d2eefb
