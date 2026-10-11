@@ -7,7 +7,7 @@
 # ――――――――――――――――――――――――――――――――――――――――――――――
 # (●) Last Update: 🔄 2026 GMT+7 "
 # (●) Service: FREETV Inspiration Links
-# (●) Total Channels: 583
+# (●) Total Channels: 572
 
 
 ⚠️ Atenção: Todas as ligações de streams disponibilizados nas listas foram retiradas da Internet. Apenas as organizo, disponibilizo e partilho. Não detenho qualquer servidor e/ou transmitimos ou re-emitimos qualquer tipo de sinal.
@@ -176,7 +176,7 @@ https://github.com/LITUATUI/M3UPT/raw/main/M3U/TVI_Internacional.m3u8
 https://github.com/thomraider12/canaistvpt/raw/main/m3u8s/tviint.m3u8
 
 #EXTINF:-1 tvg-chno="19" cuid="23" tvg-name="TVI Internacionalᶠᴴᴰ)" tvg-id="tvi.internacional.pt" tvg-logo="https://logo.m3uassets.com/tviinternacional.png" group-logo="https://cdn-icons-png.freepik.com/512/4482/4482879.png" group-title="Portugal 🇵🇹",TVI Internacional 🇵🇹
-https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTEvMjAyNiAyOjU5OjExIFBNJmhhc2hfdmFsdWU9by9Ha2xnWU4yMnltN1h5RzM4V0JKUT09JnZhbGlkbWludXRlcz0xNDQwJmlkPTYzYmJmYmNiLTA3MWUtNDUyOC1hN2JkLTJiN2MxZmMxMDA0ZQ==/
+https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTEvMjAyNiA2OjU6MjAgQU0maGFzaF92YWx1ZT1Ecm4wMElBREpENFUzcHNaaHBMdDR3PT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9YjNiZDYwOTUtOTUzOS00YWYyLTlkNWUtNjgyOWVjNzQ5YzEw/
 
 
 
@@ -186,14 +186,14 @@ https://github.com/LITUATUI/M3UPT/raw/main/M3U/TVI.m3u8
 https://github.com/thomraider12/canaistvpt/raw/main/m3u8s/tvi.m3u8
 
 #EXTINF:-1 tvg-chno="22" cuid="26" tvg-name="TVI 🇵🇹" tvg-id="TVI.HD.pt" tvg-logo="https://github.com/iprtl/p1/raw/master/logo/tvi.webp" group-logo="https://cdn-icons-png.freepik.com/512/4482/4482879.png" group-title="Portugal 🇵🇹",TVI 🇵🇹
-https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTEvMjAyNiAyOjU5OjEwIFBNJmhhc2hfdmFsdWU9SXNVT0JEQjN5bGZOemlOdkRvMDR5UT09JnZhbGlkbWludXRlcz0xNDQwJmlkPWFkYTY1NzgwLTYwMjItNDVlMC04NDgwLTYwYzdkNDc5MjkwYw==/
+https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTEvMjAyNiA2OjU6MTkgQU0maGFzaF92YWx1ZT14VmN0TkFJVWRSTXV1RDc1R2MvckZnPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9ZjQ1NDY3Y2EtY2VhOS00ODgwLWI0MjctNjg3OTk0MzY3MDZm/
 
 
 #EXTINF:-1 tvg-chno="24" cuid="27" tvg-name="CNN Portugal 🇵🇹" tvg-id="CNN.Portugal.HD.pt" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/cnnpt.png" group-logo="https://cdn-icons-png.freepik.com/256/5395/5395694.png" group-title="News 🇵🇹🇧🇷",CNN Portugal 🇵🇹
 https://github.com/thomraider12/canaistvpt/raw/main/m3u8s/cnnpt.m3u8
 
 #EXTINF:-1 tvg-chno="25" cuid="28" tvg-name="CNN Portugal 🇵🇹" tvg-id="CNN.Portugal.HD.pt" tvg-logo="https://github.com/iprtl/p1/raw/master/logo/cnnpt.png" group-logo="https://cdn-icons-png.freepik.com/256/5395/5395694.png" group-title="News 🇵🇹🇧🇷",CNN Portugal 🇵🇹
-https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTEvMjAyNiAyOjU5OjEwIFBNJmhhc2hfdmFsdWU9Q2xUU3VmR1ZMMEY3cElKdGo1MEo1Zz09JnZhbGlkbWludXRlcz0xNDQwJmlkPWI5MmEyNTkyLTllMjAtNDUzZS04YzdjLTEyODFlNWU5YmQyMw==/
+https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTEvMjAyNiA2OjU6MTkgQU0maGFzaF92YWx1ZT13ZWxnUFNxR0M0TnNLQTQvNWIvTkhBPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9MmJhYmY1M2EtOTY2YS00NDUwLThkYmMtNjJmN2UwNjZkZTQx/
 
 
 
@@ -2105,7 +2105,7 @@ https://bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/unpcb7o0f5/out/v1
 #KODIPROP:inputstream.adaptive.license_key=72ca88134c2842b78aa171068b1c61f4:4afbe5207cde65872d005b1daedcc9b4
 https://cache4.zapitv.com/live/eds_c2/TRECETV/dash_live_ez/TRECETV.mpd
 
-#EXTINF:-1 tvg-chno="" cuid="527" tvg-name="Trece" tvg-id="TRECE.es" tvg-logo="https://github.com/iprtl/tv-logos/raw/main/countries/spain/trece-es.png" group-logo="https://cdn-icons-png.freepik.com/512/2146/2146764.png" group-title="Channels 🇪🇸",Trece 🇪🇸 (Net)
+#EXTINF:-1 tvg-chno="" cuid="527" tvg-name="Trece" tvg-id="TRECE.es" tvg-logo="https://github.com/iprtl/tv-logos/raw/main/countries/spain/trece-es.png" group-logo="https://cdn-icons-png.freepik.com/512/2146/2146764.png" group-title="Channels 🇪🇸",Trece 🇪🇸 (Web)
 #EXTGRP: Channels 🇪🇸
 https://play.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/021/playlist.m3u8
 https://5940924978228.streamlock.net/8009/ngrp:8009_all/playlist.m3u8
@@ -2732,9 +2732,10 @@ https://live-pv-ta.amazon.fastly-edge.com/iad-nitro/live/clients/dash/enc/ntkdl6
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=069f3495380f3d25a8c03477067f7d1b:7d9dbf8134535e1665e914fb7134ce47
 https://fsly.stream.peacocktv.com/Content/CMAF_OL2-CTR-4s/Live/channel(universo-west)/master.mpd
+https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(universo-west)/master.mpd
 
 #EXTINF:-1 tvg-chno="" cuid="176" tvg-name="" tvg-id="UNIVERSO.HD.us2" tvg-logo="https://i.ibb.co/99KrFvMC/UNIVERSO.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="All Sports 🌎",UNIVERSO East 🇺🇸🇲🇽⚽️
-#EXTGRP:Premier League⚽️;Bundesliga⚽️
+#EXTGRP:Premier League⚽️;Bundesliga⚽️;Serie A⚽️
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
