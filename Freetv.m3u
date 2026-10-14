@@ -2049,7 +2049,7 @@ https://live-pv-ta.amazon.fastly-edge.com/iad-nitro/live/clients/dash/enc/trd6ii
 #KODIPROP:inputstream.adaptive.license_key=2f897106c2cc75a16ad12c5bd2e77781:3fabd4fd1bbde56b4bb3297f81e65b7a
 https://live-pv-ta.amazon.fastly-edge.com/iad-nitro/live/clients/dash/enc/k9bcyfgrhw/out/v1/288f6cad09824d4898612b35d4f2aa64/cenc.mpd
 
-#EXTINF:-1 tvg-chno="" cuid="522" tvg-name="contra+" tvg-id="Acontra+.es" tvg-logo="https://acontraplus.com/assets/customer/logo-footer.png" group-logo="https://cdn-icons-png.freepik.com/512/2146/2146764.png" group-title="Channels 🇪🇸",contra+ Cine 🇪🇸
+#EXTINF:-1 tvg-chno="" cuid="522" tvg-name="contra+" tvg-id="Acontra+.es" tvg-logo="https://acontraplus.com/assets/customer/logo-footer.png" group-logo="https://cdn-icons-png.freepik.com/512/2146/2146764.png" group-title="Channels 🇪🇸",Acontra+ Cine 🇪🇸
 #EXTGRP: Channels 🇪🇸
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2040a09e994af852d1bd161370e86a29:e4aa94106a82cbcf3cb1ca54fd59e771
