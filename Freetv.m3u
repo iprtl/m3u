@@ -7,7 +7,7 @@
 # ――――――――――――――――――――――――――――――――――――――――――――――
 # (●) Last Update: 🔄 2026 GMT+7 "
 # (●) Service: FREETV Inspiration Links
-# (●) Total Channels: 585
+# (●) Total Channels: 572
 
 
 ⚠️ Atenção: Todas as ligações de streams disponibilizados nas listas foram retiradas da Internet. Apenas as organizo, disponibilizo e partilho. Não detenho qualquer servidor e/ou transmitimos ou re-emitimos qualquer tipo de sinal.
@@ -176,7 +176,7 @@ https://github.com/LITUATUI/M3UPT/raw/main/M3U/TVI_Internacional.m3u8
 https://github.com/thomraider12/canaistvpt/raw/main/m3u8s/tviint.m3u8
 
 #EXTINF:-1 tvg-chno="19" cuid="23" tvg-name="TVI Internacionalᶠᴴᴰ)" tvg-id="tvi.internacional.pt" tvg-logo="https://logo.m3uassets.com/tviinternacional.png" group-logo="https://cdn-icons-png.freepik.com/512/4482/4482879.png" group-title="Portugal 🇵🇹",TVI Internacional 🇵🇹
-https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTQvMjAyNiA1Ojg6NyBBTSZoYXNoX3ZhbHVlPWx3TmY5bzhBV0I1c3hkOG5OVkVpTXc9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD00Nzk5MWU1MS0zMGQ0LTQ4YzMtOTkwZC05ZWEwNGMyMTI4NTU=/
+https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTEvMjAyNiA2OjU6MjAgQU0maGFzaF92YWx1ZT1Ecm4wMElBREpENFUzcHNaaHBMdDR3PT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9YjNiZDYwOTUtOTUzOS00YWYyLTlkNWUtNjgyOWVjNzQ5YzEw/
 
 
 
@@ -186,14 +186,14 @@ https://github.com/LITUATUI/M3UPT/raw/main/M3U/TVI.m3u8
 https://github.com/thomraider12/canaistvpt/raw/main/m3u8s/tvi.m3u8
 
 #EXTINF:-1 tvg-chno="22" cuid="26" tvg-name="TVI 🇵🇹" tvg-id="TVI.HD.pt" tvg-logo="https://github.com/iprtl/p1/raw/master/logo/tvi.webp" group-logo="https://cdn-icons-png.freepik.com/512/4482/4482879.png" group-title="Portugal 🇵🇹",TVI 🇵🇹
-https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTQvMjAyNiA1Ojg6NiBBTSZoYXNoX3ZhbHVlPXd1OG1SMVFrN0hUcVlRaWl1RzdKVnc9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD1lOTlmYjFjMS02MjYyLTQzMjMtYTNlZi1kOWYyMTdhOWU2MGE=/
+https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTEvMjAyNiA2OjU6MTkgQU0maGFzaF92YWx1ZT14VmN0TkFJVWRSTXV1RDc1R2MvckZnPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9ZjQ1NDY3Y2EtY2VhOS00ODgwLWI0MjctNjg3OTk0MzY3MDZm/
 
 
 #EXTINF:-1 tvg-chno="24" cuid="27" tvg-name="CNN Portugal 🇵🇹" tvg-id="CNN.Portugal.HD.pt" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/cnnpt.png" group-logo="https://cdn-icons-png.freepik.com/256/5395/5395694.png" group-title="News 🇵🇹🇧🇷",CNN Portugal 🇵🇹
 https://github.com/thomraider12/canaistvpt/raw/main/m3u8s/cnnpt.m3u8
 
 #EXTINF:-1 tvg-chno="25" cuid="28" tvg-name="CNN Portugal 🇵🇹" tvg-id="CNN.Portugal.HD.pt" tvg-logo="https://github.com/iprtl/p1/raw/master/logo/cnnpt.png" group-logo="https://cdn-icons-png.freepik.com/256/5395/5395694.png" group-title="News 🇵🇹🇧🇷",CNN Portugal 🇵🇹
-https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTQvMjAyNiA1Ojg6NyBBTSZoYXNoX3ZhbHVlPXRoOHVWZUVvK050cXFXUk9Od3Q3M0E9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD0xZjMxMjQwNy04MzBkLTRkMjQtOGFkNS0yNGQ2MWUwNmZmMDc=/
+https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTEvMjAyNiA2OjU6MTkgQU0maGFzaF92YWx1ZT13ZWxnUFNxR0M0TnNLQTQvNWIvTkhBPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9MmJhYmY1M2EtOTY2YS00NDUwLThkYmMtNjJmN2UwNjZkZTQx/
 
 
 
@@ -1212,6 +1212,7 @@ https://times-ott-live.akamaized.net/moviesnow_wv_drm/index.mpd
 #EXTVLCOPT:http-cookie=__hdnea__=st=1791252011~exp=1791273611~acl=/*~hmac=11acc3297149583f33b61e267c11e213de794061b700ce66b735b8c2686d9c1f
 #EXTHTTP:{"User-Agent":"Sayan10","Referer":"https://www.jiotv.com/","Origin":"https://www.jiotv.com/","Cookie":"__hdnea__=st=1791252011~exp=1791273611~acl=/*~hmac=11acc3297149583f33b61e267c11e213de794061b700ce66b735b8c2686d9c1f"}
 https://times-ott-live.akamaized.net/moviesnow_wv_drm/index.mpd
+https://p4kp.rjmbts.workers.dev/22136.m3u8
 
 #EXTINF:-1 tvg-chno="" cuid="" tvg-name="Romedy Now" tvg-id="Romedy.Now.HD.in" tvg-logo="https://logo.m3uassets.com/romedynow.png" group-logo="https://cdn-icons-png.magnific.com/512/5724/5724539.png" group-title="Entertainment 🌎",Romedy Now (🔉💬🇬🇧)🇮🇳
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1219,6 +1220,21 @@ https://times-ott-live.akamaized.net/moviesnow_wv_drm/index.mpd
 https://times-ott-live.akamaized.net/romedynow_wv_drm/index.mpd
 
 ---
+
+#EXTINF:-1 tvg-chno="" cuid="" tvg-name="Star.Movies.Select" tvg-id="Star.Movies.Select.HD.in" tvg-logo="https://logo.m3uassets.com/starmoviesselect.png" group-logo="https://cdn-icons-png.magnific.com/512/5724/5724539.png" group-title="Entertainment 🌎",Star Movies Select (🔉💬🇬🇧)🇮🇩
+https://p4kp.rjmbts.workers.dev/353.m3u8
+
+#EXTINF:-1 tvg-chno="" cuid="" tvg-name="Star.Movies" tvg-id="Star.Movies.in" tvg-logo="https://logo.m3uassets.com/starmoviesselect.png" group-logo="https://cdn-icons-png.magnific.com/512/5724/5724539.png" group-title="Entertainment 🌎",Star Movies (🔉💬🇬🇧)🇮🇩
+https://p4kp.rjmbts.workers.dev/349.m3u8
+
+---
+
+
+
+
+
+
+
 
 
 #EXTINF:-1 tvg-chno="" cuid="" tvg-name="Movies.Action" tvg-id="EN:.Movies.Action.sa" tvg-logo="https://i.imgur.com/NIVhISa.png" group-logo="https://cdn-icons-png.magnific.com/512/5724/5724539.png" group-title="Entertainment 🌎",Movies Action (🔉💬🇬🇧)🇸🇦
