@@ -1221,10 +1221,10 @@ https://times-ott-live.akamaized.net/romedynow_wv_drm/index.mpd
 
 ---
 
-#EXTINF:-1 tvg-chno="" cuid="" tvg-name="Star.Movies.Select" tvg-id="Star.Movies.Select.HD.in" tvg-logo="https://logo.m3uassets.com/starmoviesselect.png" group-logo="https://cdn-icons-png.magnific.com/512/5724/5724539.png" group-title="Entertainment 🌎",Star Movies Select (🔉💬🇬🇧)🇮🇩
+#EXTINF:-1 tvg-chno="" cuid="" tvg-name="Star.Movies.Select" tvg-id="Star.Movies.Select.HD.in" tvg-logo="https://logo.m3uassets.com/starmoviesselect.png" group-logo="https://cdn-icons-png.magnific.com/512/5724/5724539.png" group-title="Entertainment 🌎",Star Movies Select (🔉💬🇬🇧)🇮🇳
 https://p4kp.rjmbts.workers.dev/353.m3u8
 
-#EXTINF:-1 tvg-chno="" cuid="" tvg-name="Star.Movies" tvg-id="Star.Movies.in" tvg-logo="https://logo.m3uassets.com/starmoviesselect.png" group-logo="https://cdn-icons-png.magnific.com/512/5724/5724539.png" group-title="Entertainment 🌎",Star Movies (🔉💬🇬🇧)🇮🇩
+#EXTINF:-1 tvg-chno="" cuid="" tvg-name="Star.Movies" tvg-id="Star.Movies.in" tvg-logo="https://logo.m3uassets.com/starmoviesselect.png" group-logo="https://cdn-icons-png.magnific.com/512/5724/5724539.png" group-title="Entertainment 🌎",Star Movies (🔉💬🇬🇧)🇮🇳
 https://p4kp.rjmbts.workers.dev/349.m3u8
 
 ---
@@ -2007,8 +2007,9 @@ https://cache3.zapitv.com/live/eds_c2/calle_13/dash_live_ez/calle_13.mpd
 #EXTGRP: Channels 🇪🇸
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d2e2e464abaf44259abca6f7055fed52:2edcd9e9c03f400ca0058598d3a75a5b
+https://cache1.zapitv.com/live/eds_c2/dkiss_tv/dash_live_ez/dkiss_tv.mpd
 https://cache07.zapitv.com/live/eds_c2/dkiss_tv/dash_live_ez/dkiss_tv.mpd
-+https://cache1.zapitv.com/live/eds_c2/dkiss_tv/dash_live_ez/dkiss_tv.mpd
+
 
 
 #EXTINF:-1 tvg-chno="" cuid="518" tvg-name="DMAX" tvg-id="DMAX.es" tvg-logo="https://raw.githubusercontent.com/iprtl/tv-logos/main/countries/spain/dmax-es.png" group-logo="https://cdn-icons-png.freepik.com/512/2146/2146764.png" group-title="Channels 🇪🇸",DMax 🇪🇸
@@ -2631,11 +2632,11 @@ https://live-pv-ta.amazon.fastly-edge.com/iad-nitro/live/clients/dash/enc/4eia4y
 
 #EXTINF:-1 tvg-chno="" cuid="1692" tvg-name="Claro Sports" tvg-id="Claro.Sports.1.mx" tvg-logo="https://logo.m3uassets.com/clarosports.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="All Sports 🌎",Claro Sports 🇺🇾
 #EXTGRP:Liga Betclic⚽️;All Sports 🌎
-http://201.216.147.90:8729/play/a0oh
+http://45.167.1.136:8000/play/a00d
 
 #EXTINF:-1 tvg-chno="" cuid="1692" tvg-name="Claro Sports" tvg-id="Claro.Sports.1.mx" tvg-logo="https://logo.m3uassets.com/clarosports.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="All Sports 🌎",Claro Sports 🇺🇾
 #EXTGRP:Liga Betclic⚽️;All Sports 🌎
-http://45.167.1.136:8000/play/a00d
+http://201.216.147.90:8729/play/a0oh
 http://38.49.128.38:8000/play/a0cm/index.m3u8
 
 
@@ -2880,7 +2881,7 @@ https://dash2.antik.sk/stream/nvidia_eurosport2/playlist_cenc.mpd?wowzasessionid
 TUDN SPORTS 🇲🇽
 =====================🔹========================
 
-#EXTINF:-1 tvg-chno="" cuid="1680" tvg-name="TUDN" tvg-id="TUDN.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/mexico/tudn-mx.png" tvg-logo="https://i.imgur.com/R9FWr9u.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="All Sports 🌎",TUDN 🇺🇸
+#EXTINF:-1 tvg-chno="" cuid="1680" tvg-name="TUDN" tvg-id="TUDN.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/mexico/tudn-mx.png" tvg-logo="https://i.imgur.com/R9FWr9u.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="All Sports 🌎",TUDN 🇺🇸 (vpn 🇺🇸)
 #EXTGRP:All Sports 🌎;Champions league⚽️;Europa League⚽️
 https://streaming-live-fcdn.api.prd.univisionnow.com/tudn/tudn.isml/hls/tudn.m3u8
 
@@ -3189,7 +3190,7 @@ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rbem8rorcw/out/v1
 https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd
 https://otte.live.fly.ww.aiv-cdn.net/PDX/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd
 
-#EXTINF:-1 tvg-chno="" cuid="1312" tvg-id="CBS.Sports.Golazo.Network.us2" tvg-logo="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/cbs_sports_golazo_network._SL170_FMpng_.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="All Sports 🌎",CBS Sports Golazo 🇺🇸
+#EXTINF:-1 tvg-chno="" cuid="1312" tvg-id="CBS.Sports.Golazo.Network.us2" tvg-logo="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/cbs_sports_golazo_network._SL170_FMpng_.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="All Sports 🌎",CBS Sports Golazo 🇺🇸 (vpn 🇺🇸)
 #EXTGRP:All Sports 🌎;Serie A⚽️;Champions league⚽️;Europa League⚽️;La Liga⚽️;Women's Sports⚽️
 https://dai.google.com/linear/hls/event/7f3Wv6f7QEKfQna22jHqLQ/master.m3u8?imafw__fw_app_bundle=%5BAPP+ID%5D&imafw__fw_did=%5Bidtype%3AdeviceID%5D&imafw__fw_is_lat=%5BLIMITED+AD+TRACKING%5D&imafw__fw_us_privacy=%5BCCPA+STRING%5D&imafw__fw_vcid2=%5Bunique_identifier%5D&imafw_csid=%5BSITE+SECTION%5D&is_lat=%5BLIMITED+AD+TRACKING%5D
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6571186d9a46917c0a8f2ddd/?X-Plex-Token=xePfG98DiSxDoEPoY91x
