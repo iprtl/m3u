@@ -2997,9 +2997,8 @@ https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/dash/enc/wybgz0orr8/out/v1/2
 #EXTINF:-1 tvg-chno="" cuid="1408" tvg-id="LALIGA.TV.HYPERMOTION.es" tvg-name="Laliga TV" tvg-logo="https://github.com/iprtl/tv-logos/raw/main/countries/spain/laliga-tv-hypermotion-es.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="All Sports 🌎",laliga hypermotion 🇪🇸
 #EXTGRP:All Sports 🌎;La Liga⚽️
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d69894c7b729c5d1e85893e5e6cfcb0f:db0d53f871f5d2ef91d3a112c7ec9f30
-https://bia-cf.live.pv-cdn.net/dub-nitro/live/clients/dash/enc/tcninbbnt5/out/v1/7668f47d28e345979c072e361f3d3ce3/cenc.mpd
-https://cache07.zapitv.com/live/eds_c2/HYPERMOTION1/dash_live_ez/HYPERMOTION1.mpd
+#KODIPROP:inputstream.adaptive.license_key=a88617e904504ee291f49f0e60a51d49:17f92d59fde3b6d2bf4ffb48e8ca720a
+https://cache4.zapitv.com/live/eds_c2/HYPERMOTION1/dash_live_ez/HYPERMOTION1.mpd
 
 #EXTINF:-1 tvg-chno="" cuid="1410" tvg-name="tdp 🇪🇸" tvg-id="ESBC410000577" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/Teledeporte.webp" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="All Sports 🌎",tdp 🇪🇸
 #EXTGRP:All Sports 🌎
