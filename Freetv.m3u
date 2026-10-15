@@ -1463,7 +1463,7 @@ https://amg01314-amg01314c8-distrotv-us-10218.playouts.now.amagi.tv/playlist/amg
 https://service.webvideocore.net/CL1olYogIrDWvwqiIKK7eHbBxDyYany25g-L4QOVH5_l5daXY9tfEZPDJS0YHgpW/a_50acwl5q0f0g.m3u8
 
 
-#EXTINF:-1 tvg-chno="" cuid="276" tvg-name="Odisea" tvg-id="Odisea.es" tvg-logo="https://logo.m3uassets.com/Odisea.png" group-logo="https://cdn-icons-png.freepik.com/256/11471/11471416.png" group-title="Documentaries 🌎",Odisea 🇪🇸
+#EXTINF:-1 tvg-chno="" cuid="276" tvg-name="Odisea" tvg-id="Odisea.es" tvg-logo="https://logo.m3uassets.com/odisea.png" group-logo="https://cdn-icons-png.freepik.com/256/11471/11471416.png" group-title="Documentaries 🌎",Odisea 🇪🇸
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d60ce2e5dedd56c8cf708f41468fd974:38b207c8cb479f3beb1b7629a0e5c1b1
 https://bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/eiz3z6y4dw/out/v1/ec65a585eb4a41bcb94dc1c09a001889/cenc.mpd
