@@ -2596,8 +2596,13 @@ DSPORTS CHANNELS
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=f8b207c10f3f76aeba32a360ec52b9e4:afad49d20eb39670e93e371c1d669921
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3gg2jnixjn/out/v1/e1840e01f3f14563b66bbb944d5cc54c/cenc.mpd
-http://190.60.37.118:4000/play/a0ch
-http://38.252.213.209:8000/play/a08e
+https://live-pv-ta.amazon.fastly-edge.com/gru-nitro/live/clients/dash/enc/3gg2jnixjn/out/v1/e1840e01f3f14563b66bbb944d5cc54c/cenc.mpd
+
+#EXTINF:-1 tvg-chno="" cuid="1696" tvg-name="DSPORTS" tvg-id="DSPORTS.(COL).(DTSC).co" tvg-logo="https://logo.m3uassets.com/dsports.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="All Sports 🌎",DSports 🇨🇷🇬🇹
+#EXTGRP:Liga Betclic⚽️;All Sports 🌎;La Liga⚽️
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=7d88a44bc0255fdc402a1a7c7151545e:a9968e19c6324e12d285836961421755
+https://live-pv-ta.amazon.fastly-edge.com/gru-nitro/live/clients/dash/enc/ndgbhivgbd/out/v1/39e5ea4eae884fc2bf8def73527add6a/cenc.mpd
 
 #EXTINF:-1 tvg-chno="92.1" tvg-id="[SPOARHD].DSports.Argentina.HD.uy" tvg-name="" tvg-logo="https://dsports-widgets.tbxnet.com/assets/images/channels/1610.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="All Sports 🌎",DSports 🇨🇷🇬🇹
 #EXTGRP:Liga Betclic⚽️;All Sports 🌎;La Liga⚽️
@@ -2616,6 +2621,14 @@ https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/rgilyeubta/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=83f81c4cc1443991543de4e22eea7586:ddfd7ca653d6f35543d8edb3c688e20f
 https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/ud6bnhthpj/out/v1/2639a2f4480f4269953de466d5f46463/cenc.mpd
+
+#EXTINF:-1 tvg-chno="92.3" tvg-id="DSPORTS.+.HD.dtvsp" tvg-name="" tvg-logo="https://dsports-widgets.tbxnet.com/assets/images/channels/1613.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="All Sports 🌎",DSports+ 🇨🇷🇬🇹
+#EXTGRP:Liga Betclic⚽️;All Sports 🌎;La Liga⚽️;Rugby&NFL🏈🏉
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=da81f7165f73c884fc1dcf0bf3bd4bb5:3f8d519997196db76631dd4b427f53f6
+https://live-pv-ta.amazon.fastly-edge.com/gru-nitro/live/clients/dash/enc/hoo4ddqavw/out/v1/dadfb43b8a714e4f9288026b5c3351a0/cenc.mpd
 
 =====================🔹========================
 CLARO SPORTS CHANNELS
