@@ -7,7 +7,7 @@
 # ――――――――――――――――――――――――――――――――――――――――――――――
 # (●) Last Update: 🔄 2026 GMT+7 "
 # (●) Service: FREETV Inspiration Links
-# (●) Total Channels: 597
+# (●) Total Channels: 589
 
 
 ⚠️ Atenção: Todas as ligações de streams disponibilizados nas listas foram retiradas da Internet. Apenas as organizo, disponibilizo e partilho. Não detenho qualquer servidor e/ou transmitimos ou re-emitimos qualquer tipo de sinal.
@@ -173,7 +173,7 @@ https://github.com/LITUATUI/M3UPT/raw/main/M3U/TVI_Internacional.m3u8
 https://github.com/thomraider12/canaistvpt/raw/main/m3u8s/tviint.m3u8
 
 #EXTINF:-1 tvg-chno="19" cuid="23" tvg-name="TVI Internacionalᶠᴴᴰ)" tvg-id="tvi.internacional.pt" tvg-logo="https://logo.m3uassets.com/tviinternacional.png" group-logo="https://cdn-icons-png.freepik.com/512/4482/4482879.png" group-title="Portugal 🇵🇹",TVI Internacional 🇵🇹
-https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTYvMjAyNiA0OjQ2OjE2IEFNJmhhc2hfdmFsdWU9cUhrTFZaVkhrdTlRUHBadWJNWkxPdz09JnZhbGlkbWludXRlcz0xNDQwJmlkPTQ1ZWZkN2U5LTZhODAtNGE4MC1hYjYyLTZlZDNjNWFiYjY3Mg==/
+https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTUvMjAyNiAxOjM0OjExIFBNJmhhc2hfdmFsdWU9ZGRyZldTaXQ0MDhpcXFOdGV3ZWJrQT09JnZhbGlkbWludXRlcz0xNDQwJmlkPTg4OWYzZjljLWJiNTAtNDUxZC04MDU3LWJkMDkxM2I4NzZlMw==/
 
 
 
@@ -183,14 +183,14 @@ https://github.com/LITUATUI/M3UPT/raw/main/M3U/TVI.m3u8
 https://github.com/thomraider12/canaistvpt/raw/main/m3u8s/tvi.m3u8
 
 #EXTINF:-1 tvg-chno="22" cuid="26" tvg-name="TVI 🇵🇹" tvg-id="TVI.HD.pt" tvg-logo="https://github.com/iprtl/p1/raw/master/logo/tvi.webp" group-logo="https://cdn-icons-png.freepik.com/512/4482/4482879.png" group-title="Portugal 🇵🇹",TVI 🇵🇹
-https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTYvMjAyNiA0OjQ2OjE1IEFNJmhhc2hfdmFsdWU9TS92clpUMmxTOTEwVS9qaHVxUU5VZz09JnZhbGlkbWludXRlcz0xNDQwJmlkPTdhMTM3Y2IwLWIwODgtNDc5Yy04MTBmLWU4NTFhMWZiMTBkZg==/
+https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTUvMjAyNiAxOjM0OjEwIFBNJmhhc2hfdmFsdWU9YTdMdnFRZWVDTGRRT082OXZyOWFQZz09JnZhbGlkbWludXRlcz0xNDQwJmlkPTljMWMwNmRmLWUxZjMtNDY4ZC05MDEwLTlkNjBlNGE1N2ZmYg==/
 
 
 #EXTINF:-1 tvg-chno="24" cuid="27" tvg-name="CNN Portugal 🇵🇹" tvg-id="CNN.Portugal.HD.pt" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/cnnpt.png" group-logo="https://cdn-icons-png.freepik.com/256/5395/5395694.png" group-title="News 🇵🇹🇧🇷",CNN Portugal 🇵🇹
 https://github.com/thomraider12/canaistvpt/raw/main/m3u8s/cnnpt.m3u8
 
 #EXTINF:-1 tvg-chno="25" cuid="28" tvg-name="CNN Portugal 🇵🇹" tvg-id="CNN.Portugal.HD.pt" tvg-logo="https://github.com/iprtl/p1/raw/master/logo/cnnpt.png" group-logo="https://cdn-icons-png.freepik.com/256/5395/5395694.png" group-title="News 🇵🇹🇧🇷",CNN Portugal 🇵🇹
-https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTYvMjAyNiA0OjQ2OjE2IEFNJmhhc2hfdmFsdWU9U3VMZnlmQlhmL29CSXpSdytkcWVEUT09JnZhbGlkbWludXRlcz0xNDQwJmlkPTU3MDkyYmJhLTRmZWQtNDg4OC04NWNmLWUxYWFiNmFkOWQyZQ==/
+https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTUvMjAyNiAxOjM0OjExIFBNJmhhc2hfdmFsdWU9UjN4SmV3Lys1cFNhZkgveHA0TEpTdz09JnZhbGlkbWludXRlcz0xNDQwJmlkPWE1MWExYWQ1LWFjM2QtNDY4Mi05NDkwLTNkY2MyNDY2OTNjZg==/
 
 
 
@@ -2885,6 +2885,12 @@ https://live-pv-ta.amazon.fastly-edge.com/gru-nitro/live/clients/dash/enc/ese3ub
 EUROSPORTS CHANNELS 🌎
 =====================🔹========================
 
+#EXTINF:-1 tvg-chno="" cuid="1202" tvg-id="EUROSPORT.1.at" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/Eurosport1.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="All Sports 🌎",Eurosport 1 🇦🇹 🎱⛷🚴
+#EXTGRP:All Sports 🌎;Tennis🎾
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=afbb1ea03504f4be0f982a65b3f63c25:77ed6dbea21629dcca92f2956c6b6628
+https://ac-003.live.p7s1video.net/7db15d2f/t_009/eurosport1-de/cenc-default.mpd
+
 #EXTINF:-1 tvg-chno="" cuid="1202" tvg-id="Eurosport.1.ro" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/Eurosport1.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="All Sports 🌎",Eurosport 1 (🔊🇬🇧🇨🇿)🎱⛷🚴
 #EXTGRP:All Sports 🌎;Tennis🎾
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -2958,7 +2964,7 @@ FOX SPORTS 🇲🇽
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=22f24724b9ba4b35b43e24c51269f8d7:1b21bee9294b5037a638b7681d57029f
-+https://ciades.providers.com.ar/ESPN/index.mpd?token=Sf72kl98hw16kx40vb32qu63ñz61th25
+https://ciades.providers.com.ar/ESPN/index.mpd?token=eYDBYv2P6E0MKxqEilWGwuYWGsbUpcb4
 
 #EXTINF:-1 tvg-chno="" cuid="1660" tvg-name="ESPN" tvg-id="Canal.ESPN.Premium.(Chile).sv" tvg-logo="https://logo.m3uassets.com/espnpremium.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="All Sports 🌎",ESPN Premium 🇦🇷
 #EXTGRP:All Sports 🌎
@@ -2966,7 +2972,7 @@ FOX SPORTS 🇲🇽
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=00e08f97d3104d8ba550414f41b48761:ed9c6e30925d4efe6c7374b764c67ec4
-+https://ciades.providers.com.ar/ESPNPREMIUM/index.mpd?token=Sf72kl98hw16kx40vb32qu63ñz61th25
+https://ciades.providers.com.ar/ESPNPREMIUM/index.mpd?token=eYDBYv2P6E0MKxqEilWGwuYWGsbUpcb4
 
 ---
 
@@ -2976,7 +2982,7 @@ FOX SPORTS 🇲🇽
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5017e89955f44ff5b4ddf04e5f5151c6:55136a837a0c8bbcfc7ce65cbd9a547c
-+https://ciades.providers.com.ar/FOXSPORTS/index.mpd?token=Sf72kl98hw16kx40vb32qu63ñz61th25
+https://ciades.providers.com.ar/FOXSPORTS/index.mpd?token=eYDBYv2P6E0MKxqEilWGwuYWGsbUpcb4
 
 #EXTINF:-1 tvg-chno="" tvg-id="FOX.SPORTS.2.HD.(FoxSports2HD).pe" tvg-name="" tvg-logo="https://github.com/iprtl/p1/raw/master/logo/FoxSport2AR.webp" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="All Sports 🌎",FOX Sports 2 🇦🇷
 #EXTGRP:All Sports 🌎
@@ -2984,7 +2990,7 @@ FOX SPORTS 🇲🇽
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e0e38315c40c4176bab472b349c551ae:d2f1712fc296fee968c7ae0750b2c45b
-+https://ciades.providers.com.ar/FOXSPORTS2/index.mpd?token=Sf72kl98hw16kx40vb32qu63ñz61th25
+https://ciades.providers.com.ar/FOXSPORTS2/index.mpd?token=eYDBYv2P6E0MKxqEilWGwuYWGsbUpcb4
 
 #EXTINF:-1 tvg-chno="" tvg-id="FOX.SPORTS.3.HD.(FoxSports3HD).pe" tvg-name="" tvg-logo="https://logo.m3uassets.com/foxsports3.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="All Sports 🌎",FOX Sports 3 🇦🇷
 #EXTGRP:All Sports 🌎
@@ -2992,7 +2998,7 @@ FOX SPORTS 🇲🇽
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c72cc2fd2ce34ff78b71765fb85f990d:05fcda26315ffe49f178eca1423831f5
-+https://ciades.providers.com.ar/FOXSPORTS3/index.mpd?token=Sf72kl98hw16kx40vb32qu63ñz61th25
+https://ciades.providers.com.ar/FOXSPORTS3/index.mpd?token=eYDBYv2P6E0MKxqEilWGwuYWGsbUpcb4
 
 ---
 
