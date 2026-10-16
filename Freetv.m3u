@@ -981,7 +981,7 @@ https://dash2.antik.sk/stream/hisi_axn_black/playlist_cbcs.mpd
 CHANNELS 🇺🇾🇲🇽
 =====================🔹========================
 
-#EXTINF:-1 tvg-chno="" cuid="183" tvg-id="Canal.Universal.Premiere.sv" tvg-logo="https://logo.m3uassets.com/universalpremiere.png" group-logo="https://cdn-icons-png.magnific.com/512/5724/5724539.png" group-title="Entertainment 🌎",Universal Premiere 🇺🇾 (🔉💬🇪🇸🇬🇧)
+#EXTINF:-1 tvg-chno="" cuid="183" tvg-id="Canal.Universal.Premiere.mx" tvg-logo="https://logo.m3uassets.com/universalpremiere.png" group-logo="https://cdn-icons-png.magnific.com/512/5724/5724539.png" group-title="Entertainment 🌎",Universal Premiere 🇺🇾 (🔉💬🇪🇸🇬🇧)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=547c1e15b8e93f1077d34f77a7ab018f:ba3f1a0580b46e371a6b02ef2ab2304f
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ciqsqqxp8g/out/v1/e9283351f50849a8ab602a894772649f/cenc.mpd
@@ -1009,7 +1009,7 @@ https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/xuvkx1kkfl/
 
 ---
 
-#EXTINF:-1 tvg-chno="" cuid="188" tvg-id="[UNIRE].Universal.Reality.uy" tvg-name="Universal Reality" tvg-logo="https://github.com/masterentertainment/listas/raw/main/logos/UNIRE.png" group-logo="https://cdn-icons-png.magnific.com/512/5724/5724539.png" group-title="Entertainment 🌎",Universal Reality 🇺🇾(🔉💬🇪🇸🇬🇧)
+#EXTINF:-1 tvg-chno="" cuid="188" tvg-id="Canal.Universal.Reality.mx" tvg-name="Universal Reality" tvg-logo="https://github.com/masterentertainment/listas/raw/main/logos/UNIRE.png" group-logo="https://cdn-icons-png.magnific.com/512/5724/5724539.png" group-title="Entertainment 🌎",Universal Reality 🇺🇾(🔉💬🇪🇸🇬🇧)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6824642c08bd3cdb6c08404a894287f9:081aab1fb4e8da70e21bb906e704e5d6
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tezhlmgs1w/out/v1/362fef2b778b4531b4e0dd3db6acf805/cenc.mpd
