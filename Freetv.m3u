@@ -978,6 +978,43 @@ https://dash2.antik.sk/stream/hisi_axn_white/playlist_cbcs.mpd
 https://dash2.antik.sk/stream/hisi_axn_black/playlist_cbcs.mpd
 
 =====================🔹========================
+CHANNELS 🇺🇾🇲🇽
+=====================🔹========================
+
+#EXTINF:-1 tvg-chno="" cuid="183" tvg-id="Canal.Universal.Premiere.sv" tvg-logo="https://logo.m3uassets.com/universalpremiere.png" group-logo="https://cdn-icons-png.magnific.com/512/5724/5724539.png" group-title="Entertainment 🌎",Universal Premiere 🇺🇾 (🔉💬🇪🇸🇬🇧)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=547c1e15b8e93f1077d34f77a7ab018f:ba3f1a0580b46e371a6b02ef2ab2304f
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ciqsqqxp8g/out/v1/e9283351f50849a8ab602a894772649f/cenc.mpd
+
+---
+
+#EXTINF:-1 tvg-chno="" cuid="184" tvg-id="[UNICI].Universal.Cinema.uy" tvg-name="Universal Cinema" tvg-logo="https://github.com/masterentertainment/listas/raw/main/logos/UNICI.png" group-logo="https://cdn-icons-png.magnific.com/512/5724/5724539.png" group-title="Entertainment 🌎",Universal Cinema 🇺🇾(🔉💬🇪🇸🇬🇧)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=be1597d0eb3b71cb21b8e8a55230874d:0295a763fca3851258af5901907bf0b1
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/eishhvjuuz/out/v1/92b27f5cd5244bba8071fcd0d09be067/cenc.mpd
+
+---
+
+#EXTINF:-1 tvg-chno="" cuid="185" tvg-id="[UNICO].Universal.Comedy.uy" tvg-name="Universal Comedy" tvg-logo="https://github.com/masterentertainment/listas/raw/main/logos/UNICO.png" group-logo="https://cdn-icons-png.magnific.com/512/5724/5724539.png" group-title="Entertainment 🌎",Universal Comedy 🇺🇾(🔉💬🇪🇸🇬🇧)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9fd8daa507b4c58f414f1d007cf0eccf:062672eb7346a690feab6c84a8de9dce
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/pfpdcsvoyd/out/v1/1bb43614ccd348fd8b9cc4d4fc5be059/cenc.mpd
+
+---
+
+#EXTINF:-1 tvg-chno="" cuid="187" tvg-id="Canal.Universal.Crime.sv" tvg-name="Universal Crime" tvg-logo="https://github.com/masterentertainment/listas/raw/main/logos/UNICR.png" group-logo="https://cdn-icons-png.magnific.com/512/5724/5724539.png" group-title="Entertainment 🌎",Universal Crime 🇺🇾(🔉💬🇪🇸🇬🇧)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cfc6790cbc2bc791b05c4f8f8126f5b5:b1c5b3c9a8ddc4badf5f49f8a989cf77
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/xuvkx1kkfl/out/v1/6a977f46a77b4a03a1e55db484c1695a/cenc.mpd
+
+---
+
+#EXTINF:-1 tvg-chno="" cuid="188" tvg-id="[UNIRE].Universal.Reality.uy" tvg-name="Universal Reality" tvg-logo="https://github.com/masterentertainment/listas/raw/main/logos/UNIRE.png" group-logo="https://cdn-icons-png.magnific.com/512/5724/5724539.png" group-title="Entertainment 🌎",Universal Reality 🇺🇾(🔉💬🇪🇸🇬🇧)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6824642c08bd3cdb6c08404a894287f9:081aab1fb4e8da70e21bb906e704e5d6
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tezhlmgs1w/out/v1/362fef2b778b4531b4e0dd3db6acf805/cenc.mpd
+
+=====================🔹========================
 CHANNELS 🇬🇧
 =====================🔹========================
 
@@ -3010,7 +3047,7 @@ https://ciades.providers.com.ar/FOXSPORTS3/index.mpd?token=eYDBYv2P6E0MKxqEilWGw
 #KODIPROP:inputstream.adaptive.license_key=1f68713028d439ec03be07f56c1d6213:20093db6455160fffed4c394def3193d
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/enc/lsilniwjf7/out/v1/fc40f22f10374517a2784e1d97cb23f4/cenc.mpd
 
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name=""  tvg-logo="https://logo.m3uassets.com/fox+.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="All Sports 🌎",Fox +
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name=""  tvg-logo="https://logo.m3uassets.com/fox+.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="All Sports 🌎",Fox + 🇲🇽
 #EXTGRP:All Sports 🌎;Premier League⚽️;Bundesliga⚽️;Ligue 1⚽️
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8ec2e6248abe2e10e16e439c9b85ffd8:f121b015c2a5197828355fb6a874c297
