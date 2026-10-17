@@ -1277,7 +1277,10 @@ ROCK CHANNELS
 =====================🔹========================
 
 #EXTINF:-1 tvg-chno="" cuid="" tvg-name="Rock.Entertainment" tvg-id="Rock.Entertainment.id" tvg-logo="https://www.visionplus.id/images/repository/644/644-LOGO-m.png" group-logo="https://cdn-icons-png.magnific.com/512/5724/5724539.png" group-title="Entertainment 🌎",Rock Entertainment (🔉💬🇬🇧)🇮🇩
-+https://cdn10jtedge.indihometv.com/atm/DASH/rock_entertainment/manifest.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=
+https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/111/111.mpd
 
 
 #EXTINF:-1 tvg-chno="" cuid="" tvg-name="Rock.Action" tvg-id="Rock.Action.id" tvg-logo="https://www.visionplus.id/images/repository/645/645-LOGO-m.png" group-logo="https://cdn-icons-png.magnific.com/512/5724/5724539.png" group-title="Entertainment 🌎",Rock Action (🔉💬🇬🇧)🇮🇩
@@ -4011,6 +4014,13 @@ SPORTS 🇫🇷🇬🇧🇺🇸🇨🇿
 =====================🔹========================
 
 #EXTINF:-1 tvg-chno="" cuid="1860" tvg-name="" tvg-id="Setanta.Sports.1.HD.lv" tvg-logo="https://logo.m3uassets.com/setantasports.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="All Sports 🌎",Setanta Sports 1 🇺🇦
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b62e606e6b577a47c0e3bd7e8bb5f979:0827a71f8cc3d9ee1074e6b9cd8ffdb0
+https://tvcdn.tv.telia.lt/live/eds/Setanta_Sports_HD/DASH_5_CPIX/Setanta_Sports_HD.mpd
+
+#EXTINF:-1 tvg-chno="" cuid="1860" tvg-name="" tvg-id="Setanta.Sports.1.HD.lv" tvg-logo="https://logo.m3uassets.com/setantasports.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="All Sports 🌎",Setanta Sports 1 🇺🇦
 #EXTGRP:All Sports 🌎;Bundesliga⚽️;Serie A⚽️;La Liga⚽️;Ligue 1⚽️
 http://stream.mcquack.net/234/index.m3u8
 
@@ -4775,7 +4785,6 @@ https://fl1003.bozztv.com/ushba46/tracks-v1a1/mono.m3u8
 https://ssai.aniview.com/api/v1/hls/stream.m3u8?cb=[CACHEBUSTER]&AV_WIDTH=[ADS.W]&AV_HEIGHT=[ADS.H]&AV_APPNAME=[ADS.APP_NAME]&AV_APPSTOREURL=[ADS.APP_STORE_URL]&AV_APPPKGNAME=[ADS.APP_BUNDLE]&AV_IDFA=[ADS.IFA]&AV_IFA_TYPE=[ADS.IFA_TYPE]&AV_CCPA=[ADS.US_PRIVACY]&AV_GDPR=[ADS.GDPR]&AV_CONSENT=[ADS.GDPR_CONSENT]&AV_CONTENT_URL=&AV_CONTENT_TITLE=&AV_CONTENT_EPISODE=&AV_CONTENT_SERIES=&AV_CONTENT_SEASON=&AV_CONTENT_KEYWORDS=&AV_CONTENT_NETWORK=&AV_CONTENT_ID=[ADS.VIDAA_ADS_CONTENTID]&AV_CONTENT_CHANNEL=&AV_CONTENT_CONTEXT=&AV_CONTENT_LENGTH=&AV_VAUTH=[ADS.VAUTH]&AV_DNT=[ADS.DNT]&Content_Id=[ADS.ADS_CONTENTID]&AV_LANGUAGE=[ADS.DEVICE_LANGUAGE]&AV_RTB_DEVICE_TYPE=[ADS.DEVICE_TYPE]&AV_OSVERS=[ADS.DEVICE_OSV]&AVS_SSAIID=67c0c39764ad6f7dab07aa0b&AV_CONTENT_LANGUAGE=en&AV_CONTENT_GENRE=fashion%20and%20lifestyle&AV_CONTENT_CAT=IAB7&AV_CONTENT_RATING=R&AV_CLIENT_SECTION=ftv_secrets&content_channel_name=ftv%20-fashiontv%20Secrets&content_livestream=1&AV_CONTENT_PROVIDER=FTV&ads.vidaa_ads_param=1191723366
 
 #Inspi🌈🆁™ation Links © 2026 All rights reserved
-
 
 
 
