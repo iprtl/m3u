@@ -2689,6 +2689,7 @@ https://jmp2.uk/plu-673bf05ddaad7f0008ac7a5c.m3u8
 https://jmp2.uk/rok-0a4f2ecbb9d3f127aa5fc5f31be22842.m3u8
 
 #EXTINF:-1 cuid="1069" tvg-name="" tvg-id="GBBB1000005IO" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBB1000005IO_20250107T022701SQUARE.png" group-logo="https://cdn-icons-png.freepik.com/512/8420/8420425.png" group-title="​Animals & Nature",☆ Real Wild 🇺🇸
+https://lds-realwild-rakuten.amagi.tv/playlist.m3u8?wowzasessionid=@iprtlk
 https://jmp2.uk/stvp-GBBB1000005IO
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-realwild-tcl/playlist.m3u8
 
@@ -3118,9 +3119,6 @@ https://digicom.hls.iptvdc.com/motorstv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 cuid="1480" tvg-name="" tvg-id="GETV" tvg-logo="https://imgur.com/qHZ23Ue.png" group-logo="https://github.com/iprtl/p1/raw/master/iconsGrups/Desportos.png" group-title="Sports 🌍",☆ GE TV 🇧🇷
 https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/Globo/GE_Fast_BR/GE_Fast.m3u8
-
-#EXTINF:-1 tvg-chno="" cuid="1962" tvg-id="Goat" tvg-name="Goat tv" tvg-logo="https://i.imgur.com/j91PkWC.png" group-logo="https://github.com/iprtl/p1/raw/master/iconsGrups/Desportos.png" group-title="Sports 🌍",☆ Canal Goat 🇧🇷
-https://cng-cngt-samsungtvplus-br.otteravision.com/cng/cngt/cngt.m3u8
 
 #EXTINF:-1 cuid="1481" tvg-name="" tvg-id="NSPORTSHD" tvg-logo="https://imgur.com/q0BWEK7.png" group-logo="https://github.com/iprtl/p1/raw/master/iconsGrups/Desportos.png" group-title="Sports 🌍",☆ N SPORTS 🇧🇷
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=16337
