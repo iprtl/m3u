@@ -1684,9 +1684,6 @@ VARIOS 🇺🇸
 #EXTINF:-1 tvg-chno="" cuid="308" tvg-name="Love Nature 🇧🇷" tvg-id="USBA3400003IP" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/LoveNature_Logo_Dark.png" group-logo="https://cdn-icons-png.freepik.com/512/8420/8420425.png" group-logo="https://cdn-icons-png.freepik.com/256/11471/11471416.png" group-title="Documentaries 🌎",Love Nature 🇺🇸
 https://jmp2.uk/stvp-USBA3400003IP
 
-#EXTINF:-1 tvg-chno="" cuid="309" tvg-name="Real Wild 🇺🇸 (ʀᴀkυᴛᴇɴ)" tvg-id="GBBB1000005IO" tvg-logo="https://provider-static.plex.tv/epg/cms/production/09e8c6b6-368e-4275-b974-fe5e1921f64d/RealWild_Logo_White_-_Simon_Tuquabo.png" group-logo="https://cdn-icons-png.freepik.com/256/11471/11471416.png" group-title="Documentaries 🌎",Real Wild 🇺🇸
-https://lds-realwild-rakuten.amagi.tv/playlist.m3u8?wowzasessionid=@iprtlk
-
 #EXTINF:-1 tvg-chno="" cuid="310" tvg-name="Wild Planet 🇺🇸" tvg-id="GBBB5000002PL" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBB5000002PL_20250107T025838SQUARE.png" group-logo="https://cdn-icons-png.freepik.com/256/11471/11471416.png" group-title="Documentaries 🌎",Wild Planet 🇺🇸
 https://d1h8whhtg5u7om.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3u3ceovu5thv6/WildPlanet_GB.m3u8?wowzasessionid=@iprtlk
 https://is.gd/AN3Wnm?GBBB5000002PL.m3u8?wowzasessionid=@iprtlk
@@ -2428,11 +2425,22 @@ ITALIANOS 🇮🇹
 #EXTVLCOPT:http-origin=https://webtv.sk
 https://dash2.antik.sk/live/test_rai_uno_tizen/playlist.m3u8
 
+#EXTINF:-1 tvg-chno="" cuid="551" tvg-name="Rai 2" tvg-id="Rai2.it" tvg-logo="https://logo.m3uassets.com/rai2.png" group-logo="https://cdn-icons-png.freepik.com/512/10710/10710379.png" group-title="Channels 🇮🇹",Rai 2 🇮🇹
+https://d3k8wzt41aflvx.cloudfront.net/RAI2/Live.m3u8
+
 #EXTINF:-1 tvg-chno="" cuid="554" tvg-name="Rai 3" tvg-id="Rai3.it" tvg-logo="https://logo.m3uassets.com/rai3.png" group-logo="https://cdn-icons-png.freepik.com/512/10710/10710379.png" group-title="Channels 🇮🇹",Rai 3 🇮🇹
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referer=https://webtv.sk/
 #EXTVLCOPT:http-origin=https://webtv.sk
 https://dash2.antik.sk/live/test_rai_tre_tizen/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="" cuid="556" tvg-name="Rai Italia América" tvg-id="Rai.Italia.pt" tvg-logo="https://logo.m3uassets.com/raiitalia.png" group-logo="https://cdn-icons-png.freepik.com/512/10710/10710379.png" group-title="Channels 🇮🇹",Rai Italia 🇮🇹
+https://d3k8wzt41aflvx.cloudfront.net/RAIEU/Live.m3u8
+
+#EXTINF:-1 tvg-chno="" cuid="558" tvg-name="Rai World Premium" tvg-id="RaiPremium.it" tvg-logo="https://logo.m3uassets.com/raiworldpremium.png" group-logo="https://cdn-icons-png.freepik.com/512/10710/10710379.png" group-title="Channels 🇮🇹",Rai World Premium 🇮🇹
+https://d3k8wzt41aflvx.cloudfront.net/RAIP/Live.m3u8
+
+---
 
 #EXTINF:-1 tvg-chno="" cuid="566" tvg-name="Italia.1" tvg-id="Italia.1.it" tvg-logo="https://logo.m3uassets.com/italia1.png" group-logo="https://cdn-icons-png.freepik.com/512/10710/10710379.png" group-title="Channels 🇮🇹",Mediaset Italia 1 🇮🇹 ⚽️
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -2441,6 +2449,20 @@ https://dash2.antik.sk/live/test_rai_tre_tizen/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_key=00f9f3c0783536b8ee91704e23b78016:bfd04d6f544c9cc4d35cb13ab6778587
 https://live03p-seg.msf.cdn.mediaset.net/live/ch-i1/i1-dash-widevine.isml/manifest.mpd
 
+#EXTINF:-1 tvg-chno="" cuid="566" tvg-name="Italia.1" tvg-id="Italia.2.it" tvg-logo="https://logo.m3uassets.com/italia2.png" group-logo="https://cdn-icons-png.freepik.com/512/10710/10710379.png" group-title="Channels 🇮🇹",Mediaset Italia 2 🇮🇹 ⚽️
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=5c1638dd4a7c48f788f5a5291a2f875e:a24447ddf74ea600c1ae301bac794f41
+https://timlivetu0.cb.ticdn.it/Content/DASH/Live/channel(italia2)/manifest.mpd
+
+#EXTINF:-1 tvg-chno="" cuid="568" tvg-name="rete4" tvg-id="Rete.4.it" tvg-logo="https://logo.m3uassets.com/rete4.png" group-logo="https://cdn-icons-png.freepik.com/512/10710/10710379.png" group-title="Channels 🇮🇹",Mediaset Rete 4 🇮🇹 (vpn European)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cf382806cf76499ab47216a572c2ff0f:4fbed7c21b2a2e44f1e537a83195a155
+https://timlivetu0.cb.ticdn.it/Content/DASH/Live/channel(rete4)/manifest.mpd
+
 #EXTINF:-1 tvg-chno="" cuid="569" tvg-name="Canale.5" tvg-id="Canale.5.it" tvg-logo="https://logo.m3uassets.com/canale5.png" group-logo="https://cdn-icons-png.freepik.com/512/10710/10710379.png" group-title="Channels 🇮🇹",Mediaset Canale 5 🇮🇹 ⚽️
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -2448,14 +2470,38 @@ https://live03p-seg.msf.cdn.mediaset.net/live/ch-i1/i1-dash-widevine.isml/manife
 #KODIPROP:inputstream.adaptive.license_key=00f9f3c0783536b8ce4a30a01a52e082:e926f7d45af4f7d154c990eae6a2d937
 https://live03p-seg.msf.cdn.mediaset.net/live/ch-c5/c5-dash-widevine.isml/manifest.mpd
 
-#EXTINF:-1 tvg-chno="" cuid="556" tvg-name="Rai Italia América" tvg-id="Rai.Italia.pt" tvg-logo="https://logo.m3uassets.com/raiitalia.png" group-logo="https://cdn-icons-png.freepik.com/512/10710/10710379.png" group-title="Channels 🇮🇹",Rai Italia 🇮🇹
-https://d3k8wzt41aflvx.cloudfront.net/RAIEU/Live.m3u8
+---
+
+#EXTINF:-1 tvg-chno="" cuid="569" tvg-name="DMAX.HD" tvg-id="DMAX.HD..170.it" tvg-logo="https://logo.m3uassets.com/dmax.png" group-logo="https://cdn-icons-png.freepik.com/512/10710/10710379.png" group-title="Channels 🇮🇹",Dmax HD 🇮🇹 (vpn European)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5ed566ba4ab844ff82e286578c524f1d:5282adabb806830cd7360d5b87ec118a
+https://timlivetu0.cb.ticdn.it/Content/DASH/Live/channel(dmaxhd)/manifest.mpd
+
+---
 
 #EXTINF:-1 tvg-chno="" cuid="563" tvg-name="Real time" tvg-id="IT900007I0" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/realtime.png" group-logo="https://cdn-icons-png.freepik.com/512/10710/10710379.png" group-title="Channels 🇮🇹",WB Real time 🇮🇹
 https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/REALTIME/CMAF/index.m3u8
 
 #EXTINF:-1 tvg-chno="" cuid="560" tvg-name="NOVE" tvg-id="IT9000060Q" tvg-logo="https://i.imgur.com/Hp723RU.png" group-logo="https://cdn-icons-png.freepik.com/512/10710/10710379.png" group-title="Channels 🇮🇹",WB NOVE 🇮🇹
 https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/NOVE/CMAF/index.m3u8
+
+#EXTINF:-1 tvg-chno="" cuid="560" tvg-name="NOVE" tvg-id="IT9000060Q" tvg-logo="https://i.imgur.com/Hp723RU.png" group-logo="https://cdn-icons-png.freepik.com/512/10710/10710379.png" group-title="Channels 🇮🇹",WB NOVE 🇮🇹 (vpn European)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0031f2d547834954984a3129ce089065:f7242c56586eae265cfc96e1efc1c3c6
+https://timlivetu0.cb.ticdn.it/Content/DASH/Live/channel(novehd)/manifest.mpd
+
+#EXTINF:-1 tvg-chno="" cuid="559" tvg-name="Frisbee" tvg-id="Frisbee.it" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/frisbee.png" group-logo="https://cdn-icons-png.freepik.com/512/10710/10710379.png" group-title="Channels 🇮🇹",WB Frisbee 🇮🇹 (vpn European)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d5ce25d00a88442eb00991749d3191fc:aa1f60638ab3bb4fde86188666f350c0
+https://timlivetu0.cb.ticdn.it/Content/DASH/Live/channel(frisbee)/manifest.mpd
+
+---
 
 #EXTINF:-1 tvg-chno="" cuid="570" tvg-name="La7d" tvg-id="LA7D.it" tvg-logo="https://logo.m3uassets.com/la7d.png" group-logo="https://cdn-icons-png.freepik.com/512/10710/10710379.png" group-title="Channels 🇮🇹",La7d 🇮🇹
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -2970,6 +3016,15 @@ https://live-pv-ta.amazon.fastly-edge.com/gru-nitro/live/clients/dash/enc/ese3ub
 EUROSPORTS CHANNELS 🌎
 =====================🔹========================
 
+#EXTINF:-1 tvg-chno="" cuid="1202" tvg-id="Eurosport.Italia.it" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/Eurosport1.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="All Sports 🌎",Eurosport 1 🇮🇹 🎱⛷🚴 (vpn European)
+#EXTGRP:All Sports 🌎;Tennis🎾
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=610bcda111c74c97b0792b059630a10b:b9817853538459b371f3fb56a267d55c
+https://timlivetu0.cb.ticdn.it/Content/DASH/Live/channel(eurosport1)/manifest.mpd
+
+
 #EXTINF:-1 tvg-chno="" cuid="1202" tvg-id="EUROSPORT.1.at" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/Eurosport1.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="All Sports 🌎",Eurosport 1 🇦🇹 🎱⛷🚴
 #EXTGRP:All Sports 🌎;Tennis🎾
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -2984,6 +3039,16 @@ https://ac-003.live.p7s1video.net/7db15d2f/t_009/eurosport1-de/cenc-default.mpd
 #KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://dash2.antik.sk/stream/nvidia_eurosport1/playlist_cenc.mpd?wowzasessionid=@iprtlk
+
+---
+
+#EXTINF:-1 tvg-chno="" cuid="1206" tvg-id="Eurosport.2.Italia.it" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/Eurosport2.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="All Sports 🌎",Eurosport 2 🇮🇹 🏌🏼‍⛷⛸️🐴 (vpn European)
+#EXTGRP:All Sports 🌎;Tennis🎾
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=700b3619ccfb4c0cbd2bb26832e643cf:b2c7c4b6f3375b8e07c42f95668dadeb
+https://timlivetu0.cb.ticdn.it/Content/DASH/Live/channel(eurosport2)/manifest.mpd
 
 
 #EXTINF:-1 tvg-chno="" cuid="1206" tvg-id="Eurosport.2.HD.ro" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/Eurosport2.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="All Sports 🌎",Eurosport 2 (🔊🇬🇧🇨🇿)🏌🏼‍⛷⛸️🐴
