@@ -3409,25 +3409,27 @@ https://tennischanneldeu-rakuten.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 cuid="1677" tvg-name="T2" tvg-id="USBC600001QL" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f03c74c1-e873-4346-beb0-804372660176/T2_1_1500_x_1000___Logo_Dark_BG_-_Ari_Brock.png" group-logo="https://cdn-icons-png.freepik.com/512/18650/18650951.png" group-title="Sports • Tennis 🎾🏸🏓",☆ T2 🇺🇸 🎾
 https://jmp2.uk/plu-681109b688b9d85d0938c6ba.m3u8
-https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-65944d40cbc51b25e5070a18.m3u8
+
+#EXTINF:-1 cuid="1677" tvg-name="T2" tvg-id="USBC600001QL" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f03c74c1-e873-4346-beb0-804372660176/T2_1_1500_x_1000___Logo_Dark_BG_-_Ari_Brock.png" group-logo="https://cdn-icons-png.freepik.com/512/18650/18650951.png" group-title="Sports • Tennis 🎾🏸🏓",☆ T2 🇺🇸 🎾
 https://dbrb49pjoymg4.cloudfront.net/10001/99951389/hls/playlist.m3u8?ads.xumo_channelId=99951389&ads._fw_ifa_type=&ads._fw_did=47595c39-3469-42a9-8a1e-017b1c10f34f&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads.asnw=&ads.caid=SinclairTennisChannelT2&ads.csid=xumo_web_SinclairTennisChannelT2_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads.genre=Sport,Sports,SA,SC,SE,SN&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_genre=Sport,Sports,SA,SC,SE,SN&ads._fw_content_rating=&ads.xumo_contentId=4197&ads.xumo_contentName=SinclairTennisChannelT2&ads.xumo_providerId=4197&ads.xumo_providerName=SinclairTennisChannelT2&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.channelId=99951389&ads.xumo_platform=web&ads.site_id=&ads.appName=xumo&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=
 
 #EXTINF:-1 cuid="1678" tvg-name="tennis+" tvg-id="UK:.Tennis+.be" tvg-logo="https://provider-static.plex.tv/epg/cms/production/704e7af1-90a0-4ad4-94de-af2559c19fa6/1_Tennis_Plus_Logo__Dark_Mode__1500x1000px.png" group-logo="https://cdn-icons-png.freepik.com/512/18650/18650951.png" group-title="Sports • Tennis 🎾🏸🏓",☆ Tennis+ 🇺🇸
 https://amg01935-amg01935c1-amgplt0165.playout.now3.amagi.tv/playlist.m3u8
 https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-6761f91555e174e95ccc4e4c.m3u8
 
+#EXTINF:-1 cuid="1681" tvg-name="Tennis tv" tvg-id="UK:.Tennis.TV.be" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/829754629ab517a89117db405e1bbe01.webp" group-logo="https://cdn-icons-png.freepik.com/512/18650/18650951.png" group-title="Sports • Tennis 🎾🏸🏓",☆ Tennis tv 🇺🇸 
+https://amg01470-amg01470c1-samsung-br-4768.playouts.now.amagi.tv/1080p/index.m3u8
+
+---
+
 #EXTINF:-1 cuid="1679" tvg-name="Pickleball TV 🇺🇸" tvg-id="USBD4200016QR" tvg-logo="https://provider-static.plex.tv/epg/cms/production/5c3ddbf2-e5f5-4764-92eb-8276e6a54e38/pbtv_1_1500_x_1000___Logo_Dark_BG_1__-_Ari_Brock.png" group-logo="https://cdn-icons-png.freepik.com/512/18650/18650951.png" group-title="Sports • Tennis 🎾🏸🏓",☆ Pickleball TV 🇺🇸
 https://amg01444-amg01444c3-localnow-us-3483.playouts.now.amagi.tv/playlist/amg01444-tennischannelfast-pickleball-localnowus/playlist.m3u8
+https://amg01444-amg01444c3-freelivesports-emea-11542.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg01444-tennischannelfast-pickleball-freelivesportsemea/playlist.m3u8?channel_name=Pickleball%20TV&content_genre=Sport%2CTennis&ic=IAB17%2CIAB17-40&rating=G&language=US&provider=FreeLiveSports&us_privacy=[US_PRIVACY]&gdpr=[GDPR]&gdpr_consent=[CONSENT_STRING]&coppa=0&content_livestream=1&p=sportstribal&url=[REF]&lmt=[LAT]&did=[DEVICE_ID]
 
 #EXTINF:-1 cuid="1680" tvg-name="PickleTV" tvg-id="plex.tv.PickleTV.plex" tvg-logo="https://provider-static.plex.tv/epg/cms/production/9bcbd116-5f47-4868-a002-5dbc5ecf5ed7/PickleTV_1500x1000_3_ChannelLogoLight_Casey_Murawskirdx.png" group-logo="https://cdn-icons-png.freepik.com/512/18650/18650951.png" group-title="Sports • Tennis 🎾🏸🏓",☆ PickleTV 🇺🇸
 https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-63ec0b739866d8d2120ac759.m3u8
 
 
-#EXTINF:-1 cuid="1681" tvg-name="Court Sports Network" tvg-id="Court.Sports.Network.distro" tvg-logo="https://provider-static.plex.tv/epg/cms/production/01a1743b-ef22-4549-84a5-84d044fe11a8/Sports-Court-Network_WHITE_-_Douglas_NeimanRDX.png" group-logo="https://cdn-icons-png.freepik.com/512/18650/18650951.png" group-title="Sports • Tennis 🎾🏸🏓",☆ Court Sports Network 🇺🇸 🎾
-https://is.gd/SwgJ8x?5e20b730f2f8d5003d739db7-652875586425fdb1f32d2169.m3u8
-
-#EXTINF:-1 cuid="1681" tvg-name="Tennis tv" tvg-id="UK:.Tennis.TV.be" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/829754629ab517a89117db405e1bbe01.webp" group-logo="https://cdn-icons-png.freepik.com/512/18650/18650951.png" group-title="Sports • Tennis 🎾🏸🏓",☆ Tennis tv 🇺🇸 
-https://amg01470-amg01470c1-samsung-br-4768.playouts.now.amagi.tv/1080p/index.m3u8
 
 
 
@@ -3593,6 +3595,11 @@ https://horizonsports.b-cdn.net/horizonsports-global/playlist.m3u8?url=[REF]&lmt
 
 #EXTINF:-1 cuid="1768" tvg-name="Snowy River Tv 🇺🇸" tvg-logo="https://github.com/iprtl/p1/raw/master/logo/SnowyMountains.webp" group-logo="https://cdn-icons-png.freepik.com/512/5971/5971575.png" group-title="Sports • Radical 🏄⛷️",☆ Snowy River Tv 🇺🇸
 +https://dbrb49pjoymg4.cloudfront.net/10001/9995105/hls/master.m3u8?ads.xumo_channelId=9995105
+
+---
+
+#EXTINF:-1 cuid="1681" tvg-name="Court Sports Network" tvg-id="plex.tv.World.Surf.League.24/7.plex" tvg-logo="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/WSL_Station_Logo_Art_White_1920_x_1080_px._SL500_FMpng_.png" group-logo="https://cdn-icons-png.freepik.com/512/18650/18650951.png" group-title="Sports • Tennis 🎾🏸🏓",☆ World surf League 24/7 🇺🇸 🏄
+https://is.gd/SwgJ8x?5e20b730f2f8d5003d739db7-652875586425fdb1f32d2169.m3u8
 
 #EXTINF:-1 cuid="1769" tvg-name="Surfing+ 🇺🇸 🏄" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/05/02/17146738219e46A2lfds-300x300-square.png" group-logo="https://cdn-icons-png.freepik.com/512/5971/5971575.png" group-title="Sports • Radical 🏄⛷️",☆ Surfing+ 🇺🇸 🏄
 https://dr4jwhk0sty71.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/STIRR-MuxIP-SurfingPlus/444.m3u8
