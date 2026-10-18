@@ -1280,7 +1280,7 @@ ROCK CHANNELS
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=
-https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/111/111.mpd
++https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/111/111.mpd
 
 
 #EXTINF:-1 tvg-chno="" cuid="" tvg-name="Rock.Action" tvg-id="Rock.Action.id" tvg-logo="https://www.visionplus.id/images/repository/645/645-LOGO-m.png" group-logo="https://cdn-icons-png.magnific.com/512/5724/5724539.png" group-title="Entertainment 🌎",Rock Action (🔉💬🇬🇧)🇮🇩
