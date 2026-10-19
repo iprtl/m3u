@@ -4032,6 +4032,14 @@ http://stream.mcquack.net/234/index.m3u8
 
 #EXTINF:-1 tvg-chno="" cuid="1862" tvg-name="" tvg-id="Setanta.Sports.2.HD.lv" tvg-logo="https://epg.iptvx.one/picons/setanta2-ge.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="All Sports 🌎",Setanta Sports 2 🇺🇦
 #EXTGRP:All Sports 🌎;Serie A⚽️;Bundesliga⚽️
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=60c452c4bc688bfdbebbe1a57fd5e59e:6d8296110d58f2fa54ddd2a31e5e900c
+https://tvcdn.tv.telia.lt/live/eds/Setanta_Sports2_HD_H/DASH_5_CPIX_NPVR/Setanta_Sports2_HD_H.mpd
+
+#EXTINF:-1 tvg-chno="" cuid="1862" tvg-name="" tvg-id="Setanta.Sports.2.HD.lv" tvg-logo="https://epg.iptvx.one/picons/setanta2-ge.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="All Sports 🌎",Setanta Sports 2 🇺🇦
+#EXTGRP:All Sports 🌎;Serie A⚽️;Bundesliga⚽️
 http://stream.mcquack.net/235/index.m3u8
 
 ---
