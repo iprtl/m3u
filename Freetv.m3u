@@ -173,7 +173,7 @@ https://github.com/LITUATUI/M3UPT/raw/main/M3U/TVI_Internacional.m3u8
 https://github.com/thomraider12/canaistvpt/raw/main/m3u8s/tviint.m3u8
 
 #EXTINF:-1 tvg-chno="19" cuid="23" tvg-name="TVI Internacionalᶠᴴᴰ)" tvg-id="tvi.internacional.pt" tvg-logo="https://logo.m3uassets.com/tviinternacional.png" group-logo="https://cdn-icons-png.freepik.com/512/4482/4482879.png" group-title="Portugal 🇵🇹",TVI Internacional 🇵🇹
-https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTkvMjAyNiAzOjQ1OjQyIFBNJmhhc2hfdmFsdWU9QlpuUU4wVkFKK0JnY3ludThEMzAxQT09JnZhbGlkbWludXRlcz0xNDQwJmlkPWJmYTkxN2Y0LTdmZWEtNGQ1MS04YmZkLTFhMGQzNGYxYjEwOA==/
+https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTgvMjAyNiAxMjo0MTo2IFBNJmhhc2hfdmFsdWU9UkxDV2Z4Z1E0amUxbEk1bDNlRjdDZz09JnZhbGlkbWludXRlcz0xNDQwJmlkPTEyZGI0NDZlLTJkNGMtNGI0MC1hYTNmLTNiZTY1NzQ5MDVmYg==/
 
 
 
@@ -183,14 +183,14 @@ https://github.com/LITUATUI/M3UPT/raw/main/M3U/TVI.m3u8
 https://github.com/thomraider12/canaistvpt/raw/main/m3u8s/tvi.m3u8
 
 #EXTINF:-1 tvg-chno="22" cuid="26" tvg-name="TVI 🇵🇹" tvg-id="TVI.HD.pt" tvg-logo="https://github.com/iprtl/p1/raw/master/logo/tvi.webp" group-logo="https://cdn-icons-png.freepik.com/512/4482/4482879.png" group-title="Portugal 🇵🇹",TVI 🇵🇹
-https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTkvMjAyNiAzOjQ1OjQxIFBNJmhhc2hfdmFsdWU9RFBvbXRhUmlwTWVHL2l1TXR5Qk0wUT09JnZhbGlkbWludXRlcz0xNDQwJmlkPTE5NWI3MzU1LWM0MTgtNDQ4NS1iMzBhLTJmNjBmNjAzNzk1NQ==/
+https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTgvMjAyNiAxMjo0MTo1IFBNJmhhc2hfdmFsdWU9b2lKLzYvcDExdzRRRmdwOXJiOUNyZz09JnZhbGlkbWludXRlcz0xNDQwJmlkPWY4MDEzNDBjLWZlZTEtNGI0Ni1hYTNlLTMxYjg3ODRlYTMyMQ==/
 
 
 #EXTINF:-1 tvg-chno="24" cuid="27" tvg-name="CNN Portugal 🇵🇹" tvg-id="CNN.Portugal.HD.pt" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/cnnpt.png" group-logo="https://cdn-icons-png.freepik.com/256/5395/5395694.png" group-title="News 🇵🇹🇧🇷",CNN Portugal 🇵🇹
 https://github.com/thomraider12/canaistvpt/raw/main/m3u8s/cnnpt.m3u8
 
 #EXTINF:-1 tvg-chno="25" cuid="28" tvg-name="CNN Portugal 🇵🇹" tvg-id="CNN.Portugal.HD.pt" tvg-logo="https://github.com/iprtl/p1/raw/master/logo/cnnpt.png" group-logo="https://cdn-icons-png.freepik.com/256/5395/5395694.png" group-title="News 🇵🇹🇧🇷",CNN Portugal 🇵🇹
-https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTkvMjAyNiAzOjQ1OjQxIFBNJmhhc2hfdmFsdWU9WktTR2ltV2Z0STBLWjVaOFNna2Q3QT09JnZhbGlkbWludXRlcz0xNDQwJmlkPTM2YTdhODAxLTcwMjAtNDNlYy05ZjhkLTg0NzM1OTU0NjQ5NQ==/
+https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTgvMjAyNiAxMjo0MTo2IFBNJmhhc2hfdmFsdWU9Y2tmUXgzRjRTM1F2bDZLQkFoNGl1QT09JnZhbGlkbWludXRlcz0xNDQwJmlkPTUwYjFmNDQ1LWM4YjUtNDM0MC1hNzM4LTg5ZjM2Y2JjNzM4OA==/
 
 
 
@@ -1577,7 +1577,7 @@ https://live.corusdigitaldev.com/groupa/live/c0ebcb53-b9fa-4359-830b-714eb459c6d
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=7a31259de9c441268c17050af69f83ee:963b563347143f52ce26c9cbaf632918
-https://ciades.providers.com.ar/HISTORY2/index.mpd?token=eYDBYv2P6E0MKxqEilWGwuYWGsbUpcb4
++https://ciades.providers.com.ar/HISTORY2/index.mpd?token=eYDBYv2P6E0MKxqEilWGwuYWGsbUpcb4
 
 
 #EXTINF:-1 tvg-chno="" cuid="276" tvg-name="History2" tvg-id="History2.cz" tvg-logo="https://logo.m3uassets.com/history2.png" group-logo="https://cdn-icons-png.freepik.com/256/11471/11471416.png" group-title="Documentaries 🌎",H2 (🔉💬🇬🇧)🇨🇿
@@ -1608,7 +1608,7 @@ https://dash2.antik.sk/stream/hisi_discovery/playlist_cbcs.mpd
 #EXTINF:-1 tvg-chno="" cuid="288" tvg-name="Discovery.Science" tvg-id="Canal.Discovery.Science.(Latinoamérica).cl" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/discovery-science-us.png" group-logo="https://cdn-icons-png.freepik.com/256/11471/11471416.png" group-title="Documentaries 🌎",Discovery Science 🇦🇷
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2766f77a728b4fa69958f911d5cc9399:f49ef1157ca0d68a1e1686ff87936c96
-https://ciades.providers.com.ar/SCIENCE/index.mpd?token=eYDBYv2P6E0MKxqEilWGwuYWGsbUpcb4
++https://ciades.providers.com.ar/SCIENCE/index.mpd?token=eYDBYv2P6E0MKxqEilWGwuYWGsbUpcb4
 
 
 #EXTINF:-1 tvg-chno="" cuid="290" tvg-name="IDDiscovery" tvg-id="Investigation.Discovery.lt" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/ID.webp" group-logo="https://cdn-icons-png.freepik.com/256/11471/11471416.png" group-title="Documentaries 🌎",IDDiscovery
@@ -3117,7 +3117,7 @@ ESPN SPORTS 🇦🇷
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=22f24724b9ba4b35b43e24c51269f8d7:1b21bee9294b5037a638b7681d57029f
-https://ciades.providers.com.ar/ESPN/index.mpd?token=eYDBYv2P6E0MKxqEilWGwuYWGsbUpcb4
++https://ciades.providers.com.ar/ESPN/index.mpd?token=eYDBYv2P6E0MKxqEilWGwuYWGsbUpcb4
 
 #EXTINF:-1 tvg-chno="" tvg-id="Canal.ESPN.2.(Bolivia).ar" tvg-name="" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/ESPN2white.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="All Sports 🌎",ESPN 2 🇦🇷
 #EXTGRP:All Sports 🌎;Premier League⚽️;Serie A⚽️;La Liga⚽️
@@ -3125,7 +3125,7 @@ https://ciades.providers.com.ar/ESPN/index.mpd?token=eYDBYv2P6E0MKxqEilWGwuYWGsb
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0e01d045ccbf4e24ab49d294ff45930d:63558c6bf7670a8d06fd8150d258a6d5
-https://ciades.providers.com.ar/ESPN2/index.mpd?token=eYDBYv2P6E0MKxqEilWGwuYWGsbUpcb4
++https://ciades.providers.com.ar/ESPN2/index.mpd?token=eYDBYv2P6E0MKxqEilWGwuYWGsbUpcb4
 
 #EXTINF:-1 tvg-chno="" tvg-id="Canal.ESPN.3.(Argentina).ar" tvg-name="" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/ESPN3white.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="All Sports 🌎",ESPN 3 🇦🇷
 #EXTGRP:All Sports 🌎;Premier League⚽️;Serie A⚽️;La Liga⚽️
@@ -3133,7 +3133,7 @@ https://ciades.providers.com.ar/ESPN2/index.mpd?token=eYDBYv2P6E0MKxqEilWGwuYWGs
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c4fb8e17ed194b7e816a370d15d65d86:2c7b7a4f26c8e055cbf1eb9d8b19aa81
-https://ciades.providers.com.ar/ESPN3/index.mpd?token=eYDBYv2P6E0MKxqEilWGwuYWGsbUpcb4
++https://ciades.providers.com.ar/ESPN3/index.mpd?token=eYDBYv2P6E0MKxqEilWGwuYWGsbUpcb4
 
 #EXTINF:-1 tvg-chno="" tvg-id="Canal.ESPN.4.(Ecuador).ec" tvg-name="" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/ESPN4white.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="All Sports 🌎",ESPN 4 🇦🇷
 #EXTGRP:All Sports 🌎;Premier League⚽️;Serie A⚽️;La Liga⚽️
@@ -3141,7 +3141,7 @@ https://ciades.providers.com.ar/ESPN3/index.mpd?token=eYDBYv2P6E0MKxqEilWGwuYWGs
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f2de1aa6403c425694b3262434c5fe61:1c7d6a5cbc59b8216aa8b7d4129861a0
-https://ciades.providers.com.ar/ESPN4/index.mpd?token=eYDBYv2P6E0MKxqEilWGwuYWGsbUpcb4
++https://ciades.providers.com.ar/ESPN4/index.mpd?token=eYDBYv2P6E0MKxqEilWGwuYWGsbUpcb4
 
 #EXTINF:-1 tvg-chno="" cuid="1660" tvg-name="ESPN" tvg-id="Canal.ESPN.Premium.(Chile).sv" tvg-logo="https://logo.m3uassets.com/espnpremium.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="All Sports 🌎",ESPN Premium 🇦🇷
 #EXTGRP:All Sports 🌎
@@ -3149,7 +3149,7 @@ https://ciades.providers.com.ar/ESPN4/index.mpd?token=eYDBYv2P6E0MKxqEilWGwuYWGs
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=00e08f97d3104d8ba550414f41b48761:ed9c6e30925d4efe6c7374b764c67ec4
-https://ciades.providers.com.ar/ESPNPREMIUM/index.mpd?token=eYDBYv2P6E0MKxqEilWGwuYWGsbUpcb4
++https://ciades.providers.com.ar/ESPNPREMIUM/index.mpd?token=eYDBYv2P6E0MKxqEilWGwuYWGsbUpcb4
 
 =====================🔹========================
 FOX SPORTS 🇲🇽
@@ -3161,7 +3161,7 @@ FOX SPORTS 🇲🇽
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5017e89955f44ff5b4ddf04e5f5151c6:55136a837a0c8bbcfc7ce65cbd9a547c
-https://ciades.providers.com.ar/FOXSPORTS/index.mpd?token=eYDBYv2P6E0MKxqEilWGwuYWGsbUpcb4
++https://ciades.providers.com.ar/FOXSPORTS/index.mpd?token=eYDBYv2P6E0MKxqEilWGwuYWGsbUpcb4
 
 #EXTINF:-1 tvg-chno="" tvg-id="Canal.Fox.Sports.2.(Cono.Norte).sv" tvg-name="" tvg-logo="https://github.com/iprtl/tv-logos/raw/main/countries/argentina/fox-sports-2-ar.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="All Sports 🌎",FOX Sports 2 🇦🇷
 #EXTGRP:All Sports 🌎
@@ -3169,7 +3169,7 @@ https://ciades.providers.com.ar/FOXSPORTS/index.mpd?token=eYDBYv2P6E0MKxqEilWGwu
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e0e38315c40c4176bab472b349c551ae:d2f1712fc296fee968c7ae0750b2c45b
-https://ciades.providers.com.ar/FOXSPORTS2/index.mpd?token=eYDBYv2P6E0MKxqEilWGwuYWGsbUpcb4
++https://ciades.providers.com.ar/FOXSPORTS2/index.mpd?token=eYDBYv2P6E0MKxqEilWGwuYWGsbUpcb4
 
 #EXTINF:-1 tvg-chno="" tvg-id="FOX.SPORTS.3.HD.(FoxSports3HD).pe" tvg-name="" tvg-logo="https://logo.m3uassets.com/foxsports3.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="All Sports 🌎",FOX Sports 3 🇦🇷
 #EXTGRP:All Sports 🌎
@@ -3177,7 +3177,7 @@ https://ciades.providers.com.ar/FOXSPORTS2/index.mpd?token=eYDBYv2P6E0MKxqEilWGw
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c72cc2fd2ce34ff78b71765fb85f990d:05fcda26315ffe49f178eca1423831f5
-https://ciades.providers.com.ar/FOXSPORTS3/index.mpd?token=eYDBYv2P6E0MKxqEilWGwuYWGsbUpcb4
++https://ciades.providers.com.ar/FOXSPORTS3/index.mpd?token=eYDBYv2P6E0MKxqEilWGwuYWGsbUpcb4
 
 ---
 
