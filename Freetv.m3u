@@ -1284,7 +1284,9 @@ ROCK CHANNELS
 
 
 #EXTINF:-1 tvg-chno="" cuid="" tvg-name="Rock.Action" tvg-id="Rock.Action.id" tvg-logo="https://www.visionplus.id/images/repository/645/645-LOGO-m.png" group-logo="https://cdn-icons-png.magnific.com/512/5724/5724539.png" group-title="Entertainment 🌎",Rock Action (🔉💬🇬🇧)🇮🇩
-+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000120/1024.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0f852fb8412b11edb8780242ac120002:4cbc004d8c444f9f996db42059ce8178
+https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_rockextreme.mpd
 
 =====================🔹========================
 VARIOS 
