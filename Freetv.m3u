@@ -1019,7 +1019,7 @@ https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tezhlmgs1w/
 #EXTINF:-1 tvg-chno="" cuid="176" tvg-name="" tvg-id="UniMas.us2" tvg-logo="https://logo.m3uassets.com/unimas.png" group-logo="https://cdn-icons-png.magnific.com/512/5724/5724539.png" group-title="Entertainment 🌎",Unimas East 🇺🇸🇲🇽⚽️
 https://tkx.mp.lura.live/rest/v2/mcp/video/univision-unimas?anvack=8Q6d5qd2lubv3MRhZrh9xmoPC9Xzo64n
 
-#EXTINF:-1 tvg-chno="" cuid="176" tvg-name="" tvg-id="UniMas.HD.(Pacific).us2" tvg-logo="https://logo.m3uassets.com/unimas.png" group-logo="https://cdn-icons-png.magnific.com/512/5724/5724539.png" group-title="Entertainment 🌎",Unimas West 🇺🇸🇲🇽⚽️
+#EXTINF:-1 tvg-chno="" cuid="176" tvg-name="" tvg-id="UniMas.HD.(Pacific).us2" tvg-logo="https://logo.m3uassets.com/unimas.png" group-logo="https://cdn-icons-png.magnific.com/512/5724/5724539.png" group-title="Entertainment 🌎",Unimas West 🇺🇸🇲🇽⚽️ (vpn 🇺🇸)
 https://streaming-live-fcdn.api.prd.univisionnow.com/umawest/umawest.isml/dash.mpd
 
 ---
@@ -1027,7 +1027,7 @@ https://streaming-live-fcdn.api.prd.univisionnow.com/umawest/umawest.isml/dash.m
 #EXTINF:-1 tvg-chno="" cuid="180" tvg-name="" tvg-id="Univision.Network.HD.us2" tvg-logo="https://logo.m3uassets.com/univision.png" group-logo="https://cdn-icons-png.magnific.com/512/5724/5724539.png" group-title="Entertainment 🌎",Univision East 🇺🇸🇲🇽⚽️ 
 https://tkx.mp.lura.live/rest/v2/mcp/video/univision-uni?anvack=8Q6d5qd2lubv3MRhZrh9xmoPC9Xzo64n
 
-#EXTINF:-1 tvg-chno="" cuid="180" tvg-name="" tvg-id="Univision.Network.(Pacific).us2" tvg-logo="https://logo.m3uassets.com/univision.png" group-logo="https://cdn-icons-png.magnific.com/512/5724/5724539.png" group-title="Entertainment 🌎",Univision West 🇺🇸🇲🇽⚽️ 
+#EXTINF:-1 tvg-chno="" cuid="180" tvg-name="" tvg-id="Univision.Network.(Pacific).us2" tvg-logo="https://logo.m3uassets.com/univision.png" group-logo="https://cdn-icons-png.magnific.com/512/5724/5724539.png" group-title="Entertainment 🌎",Univision West 🇺🇸🇲🇽⚽️ (vpn 🇺🇸)
 https://streaming-live-fcdn.api.prd.univisionnow.com/uniwest/uniwest.isml/dash.mpd
 
 ---
@@ -1651,27 +1651,29 @@ NATIONAL GEOGRAPHIC CHANNELS 🇺🇸
 #EXTINF:-1 tvg-chno="" cuid="300" tvg-name="National.Geographic.Wild" tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hd/national-geographic-wild-hd-us.png" group-logo="https://cdn-icons-png.freepik.com/256/11471/11471416.png" group-title="Documentaries 🌎",Nat Geo Wild (🔉💬🇬🇧🇷🇺)
 +http://tinyurl.com/TvZaTak37/Nat_Geo_Wild_SD/video.m3u8?token=freeportal&token=deooleg
 
-#EXTINF:-1 tvg-chno="" cuid="300" tvg-name="National.Geographic Animals" tvg-id="" tvg-logo="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/NatGeoHISTORY-STATION-LOGO-ART-16x9._SL500_FMpng_.png" group-logo="https://cdn-icons-png.freepik.com/256/11471/11471416.png" group-title="Documentaries 🌎",Nat Geo History 🇺🇸
+#EXTINF:-1 tvg-chno="" cuid="300" tvg-name="National.Geographic Animals" tvg-id="" tvg-logo="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/NatGeoHISTORY-STATION-LOGO-ART-16x9._SL500_FMpng_.png" group-logo="https://cdn-icons-png.freepik.com/256/11471/11471416.png" group-title="Documentaries 🌎",Nat Geo History 🇺🇸 (vpn 🇺🇸)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a7bc01ff11a011cdc47a27cd8ea5f3a3:64c22630a86bf1fbe3b3629cea6bc994
 https://live-pv-ta.amazon.fastly-edge.com/iad-nitro/live/clients/dash/enc/f56pkqphvu/out/v1/fc598dca849d4b579c7ad15031ba7633/cenc.mpd
 
 
-#EXTINF:-1 tvg-chno="" cuid="300" tvg-name="National.Geographic Animals" tvg-id="" tvg-logo="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/NatGeoANIMALS-STATION-LOGO-ART-16x9._SL500_FMpng_.png" group-logo="https://cdn-icons-png.freepik.com/256/11471/11471416.png" group-title="Documentaries 🌎",Nat Geo Animals 🇺🇸
+#EXTINF:-1 tvg-chno="" cuid="300" tvg-name="National.Geographic Animals" tvg-id="" tvg-logo="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/NatGeoANIMALS-STATION-LOGO-ART-16x9._SL500_FMpng_.png" group-logo="https://cdn-icons-png.freepik.com/256/11471/11471416.png" group-title="Documentaries 🌎",Nat Geo Animals 🇺🇸 (vpn 🇺🇸)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=78e78a6b6c859cfad6411803b80685c0:b41ebc0109c00632e2f3905b03ad1458
 https://live-pv-ta.amazon.fastly-edge.com/iad-nitro/live/clients/dash/enc/pqtz5oosiv/out/v1/f0ae5b7d8f7e495fb35befce28f2ce34/cenc.mpd
 
 ---
 
-#EXTINF:-1 tvg-chno="" cuid="301" tvg-name="Nat Geo Sharks" tvg-id="" tvg-logo="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/Sharks_Logo_White_16x9.png" group-logo="https://cdn-icons-png.freepik.com/256/11471/11471416.png" group-title="Documentaries 🌎",Nat Geo Sharks 🇺🇸
+#EXTINF:-1 tvg-chno="" cuid="301" tvg-name="Nat Geo Sharks" tvg-id="" tvg-logo="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/Sharks_Logo_White_16x9.png" group-logo="https://cdn-icons-png.freepik.com/256/11471/11471416.png" group-title="Documentaries 🌎",Nat Geo Sharks 🇺🇸 (vpn 🇺🇸)
+https://evrideo.g-mana.live/media/e97c594a-2877-4066-8033-184fd1e6d907/mainManifest.mpd?ads.app_name=[ADS.APP_NAME]&ads.app_bundle=[ADS.APP_BUNDLE]&ADS.content_category=IAB1-7&ADS.content_genre=Documentary&ADS.content_language=en&ADS.content_rating=PG&ADS.device_type=[ADS.DEVICE_TYPE]&ADS.coppa=&ADS.gdpr_consent=[ADS.GDPR_CONSENT]&ADS.gdpr=[ADS.GDPR]&ADS.us_privacy=[ADS.US_PRIVACY]&ADS.device_country=[ADS.DEVICE_COUNTRY]&ADS.player_width=[ADS.W]&ADS.player_height=[ADS.H]&ADS.vauth=[ADS.VAUTH]&ADS.content_id=[ADS.VIDAA_ADS_CONTENTID]&ADS.ifa=[ADS.IFA]&ADS.ifa_type=[ADS.IFA_TYPE]&ADS.provider_id=&ADS.provider_name=The%20Walt%20Disney%20Company&ADS.client_section=TheWaltDisneyCompany_Nat%20Geo%20Shark&ADS.app_store_url=[ADS.APP_STORE_URL]&ADS.brand_name=[ADS.BRAND_NAME]&ADS.device_osv=[ADS.DEVICE_OSV]&ADS.device_language=[ADS.DEVICE_LANGUAGE]&ADS.dnt=[ADS.DNT]&ADS.content_title=&ADS.channel_name=Nat%20Geo%20Shark&ADS.content_length=&ads.vidaa_ads_param=1190602996
+
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7800bfe7a7b4f5c983c9dc3c500b0357:2be6d286bb03f70e43e4019f9d7c1d34
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/c9sshqw4lf/out/v1/6173f88d0c4e440bb3071a1e89d3a541/cenc.mpd?encoding=segmentBase
 
-#EXTINF:-1 tvg-chno="" cuid="301" tvg-name="Nat Geo Predators" tvg-id="" tvg-logo="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/NG-PREDATORS-STATION-LOGO-ART-16x9._SL500_FMpng_.png" group-logo="https://cdn-icons-png.freepik.com/256/11471/11471416.png" group-title="Documentaries 🌎",Nat Geo Predators 🇺🇸
+#EXTINF:-1 tvg-chno="" cuid="301" tvg-name="Nat Geo Predators" tvg-id="" tvg-logo="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/NG-PREDATORS-STATION-LOGO-ART-16x9._SL500_FMpng_.png" group-logo="https://cdn-icons-png.freepik.com/256/11471/11471416.png" group-title="Documentaries 🌎",Nat Geo Predators 🇺🇸 (vpn 🇺🇸)
 https://amg00497-amg00497c38-amgplt0023.playout.now3.amagi.tv/ts-us-e2-n2/playlist/amg00497-amg00497c38-amgplt0023/playlist.m3u8?ads.appname=[APP_NAME]&ads.appstoreurl=[APP_STOREURL]&ads.appversion=[APP_VERSION]&ads.bundleid=[APP_BUNDLE]&ads.country=[COUNTRY]&ads.deviceid=[DEVICE_ID]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.devicetype=[DEVICE_TYPE]&ads.dmake=[DEVICE_MAKE]&ads.donotsell=[DNS]&ads.fck=[FCK]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.givn=[NONCE]&ads.hoteltype=[HOTEL_TYPE]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.ip=[IP]&ads.lat=[LMT]&ads.targetad=[TARGETAD_ALLOWED]&ads.ua=[UA]&ads.usprivacy=[US_PRIVACY]&ads.viewsize=[VIEWSIZE]&coppa=0&network_name=LG%20Electronics%20USA%20Inc
 
 =====================🔹========================
@@ -2907,7 +2909,7 @@ https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/Globo/GE_Fast_BR/GE_Fast.m3u8
 ---
 
 #EXTINF:-1 tvg-chno="" cuid="176" tvg-name="" tvg-id="UniMas.us2" tvg-logo="https://logo.m3uassets.com/unimas.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="All Sports 🌎",Unimas 🇺🇸🇲🇽⚽️
-#EXTGRP:Liga Mexicana⚽️
+#EXTGRP:Liga Mexicana⚽️;Champions League⚽️
 https://tkx.mp.lura.live/rest/v2/mcp/video/univision-unimas?anvack=8Q6d5qd2lubv3MRhZrh9xmoPC9Xzo64n
 
 #EXTINF:-1 tvg-chno="" cuid="180" tvg-name="" tvg-id="Univision.Network.HD.us2" tvg-logo="https://logo.m3uassets.com/univision.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="All Sports 🌎",Univision 🇺🇸🇲🇽⚽️ 
