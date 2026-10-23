@@ -526,6 +526,10 @@ https://cdnlive.codev8.net/rtvalive/smil:channel42.smil/playlist.m3u8?wowzasessi
 🌈 SUL AMERICANOS
 =====================❖======================== 
 
+#EXTINF:-1 tvg-chno="" cuid="79" tvg-name="N+ Univision 24/7" tvg-id="US3000005RS" tvg-logo="https://m.media-amazon.com/images/X/lsmP/M/AlsmPha-XQXERME._SL500_FMpng_.png" group-logo="https://cdn-icons-png.freepik.com/256/5395/5395694.png" group-title="World News 🌍",N+ Univision 24/7 🇺🇸🇲🇽
+https://jmp2.uk/rok-5a28fbf15c135b51b3638e8bd02d6577.m3u8
+https://linear-254.frequency.stream/dist/vizio/254/hls/master/playlist.m3u8?ads.did=%7bADID%7d&ads.us_privacy=%7bUSPRIVACY%7d&ads.lmt=%7bLMT%7d&ads.ifa_type=%7bIFATYPE%7d&vizdartoken=eyJhdWQiOiIxNDkiLCJ3ZnBjaWQiOjQzNTI1ODIxNzh9
+
 #EXTINF:-1 tvg-chno="" cuid="79" tvg-name="Noticias Telemundo Ahora" tvg-id="US3000005RS" tvg-logo="https://provider-static.plex.tv/a/epg/channels/logos/gracenote/a88b95413ac88f1f1147ea1d00692653.png" group-logo="https://cdn-icons-png.freepik.com/256/5395/5395694.png" group-title="World News 🌍",Noticias Telemundo Ahora 🇺🇸🇲🇽
 https://d3f4oii5n0oeqi.cloudfront.net/11701/88814626/hls/master.m3u8?ads.xumo_channelId=88814626&ads.xumo_streamId=88814626
 
