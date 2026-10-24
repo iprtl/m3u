@@ -7,7 +7,7 @@
 # ――――――――――――――――――――――――――――――――――――――――――――――
 # (●) Last Update: 🔄 2026 GMT+7 "
 # (●) Service: FREETV Inspiration Links
-# (●) Total Channels: 628
+# (●) Total Channels: 625
 
 
 ⚠️ Atenção: Todas as ligações de streams disponibilizados nas listas foram retiradas da Internet. Apenas as organizo, disponibilizo e partilho. Não detenho qualquer servidor e/ou transmitimos ou re-emitimos qualquer tipo de sinal.
@@ -173,7 +173,7 @@ https://github.com/LITUATUI/M3UPT/raw/main/M3U/TVI_Internacional.m3u8
 https://github.com/thomraider12/canaistvpt/raw/main/m3u8s/tviint.m3u8
 
 #EXTINF:-1 tvg-chno="19" cuid="23" tvg-name="TVI Internacionalᶠᴴᴰ)" tvg-id="tvi.internacional.pt" tvg-logo="https://logo.m3uassets.com/tviinternacional.png" group-logo="https://cdn-icons-png.freepik.com/512/4482/4482879.png" group-title="Portugal 🇵🇹",TVI Internacional 🇵🇹
-https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjQvMjAyNiA0OjUwOjU5IEFNJmhhc2hfdmFsdWU9clJaa2xxWklGaVRoUGttSWhrTkxqZz09JnZhbGlkbWludXRlcz0xNDQwJmlkPWQ3MmU1YjUzLTQxMjktNGZmNC05M2E0LTRhYjY1OTdiY2QwNA==/
+https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjMvMjAyNiAxOjM5OjMxIFBNJmhhc2hfdmFsdWU9SU9ZVmxtNUpzWFhiZ3lGc2Vxd0FsUT09JnZhbGlkbWludXRlcz0xNDQwJmlkPTJmMWVmZTYzLWY4NGQtNGIyZS05NWM5LTVmM2ZmYzllYmU3Zg==/
 
 
 
@@ -183,14 +183,14 @@ https://github.com/LITUATUI/M3UPT/raw/main/M3U/TVI.m3u8
 https://github.com/thomraider12/canaistvpt/raw/main/m3u8s/tvi.m3u8
 
 #EXTINF:-1 tvg-chno="22" cuid="26" tvg-name="TVI 🇵🇹" tvg-id="TVI.HD.pt" tvg-logo="https://github.com/iprtl/p1/raw/master/logo/tvi.webp" group-logo="https://cdn-icons-png.freepik.com/512/4482/4482879.png" group-title="Portugal 🇵🇹",TVI 🇵🇹
-https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjQvMjAyNiA0OjUwOjU3IEFNJmhhc2hfdmFsdWU9LzBmbDVyb1luUTlDa2FwSWwyNVlGZz09JnZhbGlkbWludXRlcz0xNDQwJmlkPWRhMDA5NWJkLWI0MWMtNDk2NS05MmVjLTM2Y2M3MGMwOWI3Ng==/
+https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjMvMjAyNiAxOjM5OjMwIFBNJmhhc2hfdmFsdWU9Nk9wUlhjM1FFT2pkWTRGMnl0SUhMQT09JnZhbGlkbWludXRlcz0xNDQwJmlkPWQ4OTVjMDk4LWI1ODUtNDVlYy1iNmUwLTNmYmUzOTcyOGU1MA==/
 
 
 #EXTINF:-1 tvg-chno="24" cuid="27" tvg-name="CNN Portugal 🇵🇹" tvg-id="CNN.Portugal.HD.pt" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/cnnpt.png" group-logo="https://cdn-icons-png.freepik.com/256/5395/5395694.png" group-title="News 🇵🇹🇧🇷",CNN Portugal 🇵🇹
 https://github.com/thomraider12/canaistvpt/raw/main/m3u8s/cnnpt.m3u8
 
 #EXTINF:-1 tvg-chno="25" cuid="28" tvg-name="CNN Portugal 🇵🇹" tvg-id="CNN.Portugal.HD.pt" tvg-logo="https://github.com/iprtl/p1/raw/master/logo/cnnpt.png" group-logo="https://cdn-icons-png.freepik.com/256/5395/5395694.png" group-title="News 🇵🇹🇧🇷",CNN Portugal 🇵🇹
-https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjQvMjAyNiA0OjUwOjU4IEFNJmhhc2hfdmFsdWU9N0dxR2R3aUlnaEtESXA5QU1sVk5ZQT09JnZhbGlkbWludXRlcz0xNDQwJmlkPWM2MjdlYmZmLTk2NjItNDk0Ni04Zjk3LWNjMjIyNWFkY2I3Ng==/
+https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjMvMjAyNiAxOjM5OjMwIFBNJmhhc2hfdmFsdWU9U2xYMWx4UjJrQVMycXNRR2hSSFV5UT09JnZhbGlkbWludXRlcz0xNDQwJmlkPWM3MDhjYTkxLTNlZDQtNDI3MC05YjhiLWFlMWY1YWZiMTNkNQ==/
 
 
 
@@ -1101,7 +1101,7 @@ https://olsp.live.dash.c4assets.com/dash_iso_sp_tl/live/channel(c4)/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=0000000000000000000000000034730a:19bfb83e0e0f40f6eef4eccedbfa7bb8
 https://olsp.live.dash.c4assets.com/dash_iso_sp_tl/live/channel(4s)/manifest.mpd
 
-#EXTINF:-1 tvg-chno="" cuid="490" tvg-name="Film4" tvg-id="Film4.HD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/film-4-uk.png" group-logo="https://cdn-icons-png.magnific.com/512/5724/5724539.png" group-title="Entertainment 🌎",Film4 
+#EXTINF:-1 tvg-chno="" cuid="490" tvg-name="Film4" tvg-id="Film4.HD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/film-4-uk.png" group-logo="https://cdn-icons-png.magnific.com/512/5724/5724539.png" group-title="Entertainment 🌎",Film4 🇬🇧
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0000000000000000000000000066340a:627bcdc9e9556a74b05c5d311d8d2a61
 https://olsp.live.dash.c4assets.com/dash_iso_sp_tl/live/channel(f4)/manifest.mpd
@@ -1112,8 +1112,30 @@ https://olsp.live.dash.c4assets.com/dash_iso_sp_tl/live/channel(f4)/manifest.mpd
 https://olsp.live.dash.c4assets.com/dash_iso_sp_tl/live/channel(e4)/manifest.mpd
 
 =====================🔹========================
- CHANNELS 🇺🇸
+ CHANNELS 🇺🇸🇨🇦
 =====================🔹========================
+
+#EXTINF:-1 tvg-chno="" cuid="183" tvg-id="Super.Channel.Vault.ca2" tvg-logo="https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/Super_Channel_Vault._SL500_FMpng_.png" group-logo="https://cdn-icons-png.magnific.com/512/5724/5724539.png" group-title="Entertainment 🌎",Super Channel Vault 🇨🇦
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=084d7edd4338ad1ee3a9f5eb1813bf6d:2663442712a0ae916b665edc6f69adfe
+https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/pfobwt0hjp/out/v1/ee34d2c4be154deb9551f670b04d795b/cenc.mpd
+
+#EXTINF:-1 tvg-chno="" cuid="183" tvg-id="Super.Channel.Fuse.ca2" tvg-logo="https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/Super_Channel_Fuse._SL500_FMpng_.png" group-logo="https://cdn-icons-png.magnific.com/512/5724/5724539.png" group-title="Entertainment 🌎",Super Channel Fuse 🇨🇦
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=03f93e7082b88719082cf2e1d64c2d28:2149b7faf6c8a64c105abaa8f8a5c477
+https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/vzgmapcowu/out/v1/50b0dcb1beb4486bb9b92fe86613a940/cenc.mpd
+
+#EXTINF:-1 tvg-chno="" cuid="" tvg-name="Showtime.Showcase" tvg-id="Showcase.Canada.HD.ca2" tvg-logo="https://logo.m3uassets.com/showcase.png" group-logo="https://cdn-icons-png.magnific.com/512/5724/5724539.png" group-title="Entertainment 🌎",Showcase 🇨🇦
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c99d8404fee24f907870cbf212924967:03591856cc3dd05a1e297de8ecd422f8
+https://live.corusdigitaldev.com/groupd/live/376c96cd-193f-46d1-a2b6-7c2b78cb0aa5/corus-showcase.isml/.mpd
+
+#EXTINF:-1 tvg-chno="" cuid="" tvg-name="W.Network" tvg-id="W.Network.ca2" tvg-logo="https://logo.m3uassets.com/wnetwork.png" group-logo="https://cdn-icons-png.magnific.com/512/5724/5724539.png" group-title="Entertainment 🌎",W Network 🇨🇦
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2c7ece0bc4b1cdbe78497cb85e4c268e:e7f77a1b82fb8ea8c06e2aa886c521ca
+https://live.corusdigitaldev.com/groupd/live/8cace0db-7887-4cb3-988d-58594cda4697/corus-wnetwork.isml/.mpd
+
+---
 
 #EXTINF:-1 tvg-chno="" cuid="370" tvg-name="" tvg-id="USA.Network.HD.us2" tvg-logo="https://logo.m3uassets.com/usanetwork.png" group-logo="https://cdn-icons-png.magnific.com/512/5724/5724539.png" group-title="Entertainment 🌎",USA Network 🇺🇸⚽️
 +https://new8k.deadpooll.workers.dev/playlist?id=153
@@ -1128,16 +1150,6 @@ https://olsp.live.dash.c4assets.com/dash_iso_sp_tl/live/channel(e4)/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"eebffffd7464b681ba44d0061859742f":"0dc1888c2b282fb8ba187b3dbd2e5e88"}
 https://otte.live.fly.ww.aiv-cdn.net/PDX/clients/dash/enc/xtxdupopeb/out/v1/bdbac5c5affd4756bfe13f9dfb01f764/cenc.mpd
-
-#EXTINF:-1 tvg-chno="" cuid="" tvg-name="Showtime.Showcase" tvg-id="Showcase.Canada.HD.ca2" tvg-logo="https://logo.m3uassets.com/showcase.png" group-logo="https://cdn-icons-png.magnific.com/512/5724/5724539.png" group-title="Entertainment 🌎",Showcase 🇨🇦
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c99d8404fee24f907870cbf212924967:03591856cc3dd05a1e297de8ecd422f8
-https://live.corusdigitaldev.com/groupd/live/376c96cd-193f-46d1-a2b6-7c2b78cb0aa5/corus-showcase.isml/.mpd
-
-#EXTINF:-1 tvg-chno="" cuid="" tvg-name="W.Network" tvg-id="W.Network.ca2" tvg-logo="https://logo.m3uassets.com/wnetwork.png" group-logo="https://cdn-icons-png.magnific.com/512/5724/5724539.png" group-title="Entertainment 🌎"W Network 🇨🇦
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2c7ece0bc4b1cdbe78497cb85e4c268e:e7f77a1b82fb8ea8c06e2aa886c521ca
-https://live.corusdigitaldev.com/groupd/live/8cace0db-7887-4cb3-988d-58594cda4697/corus-wnetwork.isml/.mpd
 
 =====================🔹========================
  AMC CHANNELS 🇺🇸
