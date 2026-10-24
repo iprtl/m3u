@@ -135,7 +135,7 @@ https://playout175.livextend.cloud/livenlin4/2liveartvpub2/playlist.m3u8?wowzase
 🌈 𝙎𝙡𝘾
 =====================❖======================== 
 
-#EXTINF:-1 tvg-chno="13" cuid="17" tvg-name="SIC 🇵🇹" tvg-id="SIC.HD.pt" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/portugal/sic-pt.png" group-logo="https://cdn-icons-png.freepik.com/512/4482/4482879.png" group-title="Portugal 🇵🇹",SIC 🇵🇹 (Geoblock)
+#EXTINF:-1 tvg-chno="13" cuid="17" tvg-name="SIC 🇵🇹" tvg-id="SIC.HD.pt" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/portugal/sic-pt.png" group-logo="https://cdn-icons-png.freepik.com/512/4482/4482879.png" group-title="Portugal 🇵🇹",SIC 🇵🇹 (vpn 🇵🇹)
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Linux x86_64; rv:152.0) Gecko/20100101 Firefox/152.0"
 #EXTVLCOPT:http-origin=https://sic.pt
 #EXTVLCOPT:http-referrer=https://sic.pt/
@@ -937,52 +937,6 @@ https://d2a6g6zgxepbwi.cloudfront.net/wbrz-edge/weather.stream_360p/playlist.m3u
 =====================🔹========================
 ENTERTAINMENT 🌎
 =====================🔹========================
-
-#EXTINF:-1 tvg-chno="" cuid="485" tvg-name="English.Club.TV" tvg-id="English.Club.TV.ch" tvg-logo="https://github.com/iprtl/p1/raw/master/logo/langlab.png" group-logo="https://cdn-icons-png.magnific.com/512/5724/5724539.png" group-title="Entertainment 🌎",Lang Lab 🇬🇧
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referer=https://webtv.sk/
-#EXTVLCOPT:http-origin=https://webtv.sk
-https://dash3.antik.sk/live/langlabs/index.m3u8
-https://dash4.antik.sk/live/test_nhk/playlist.m3u8
-
-#EXTINF:-1 tvg-chno="" cuid="485" tvg-name="English.Club.TV" tvg-id="English.Club.TV.ch" tvg-logo="https://github.com/iprtl/p1/raw/master/logo/EnglishClubTV.webp" group-logo="https://cdn-icons-png.magnific.com/512/5724/5724539.png" group-title="Entertainment 🌎",English Club TV 🇬🇧
-https://ssai.aniview.com/api/v1/hls/stream.m3u8?cb=%7B%7Bcb%7D%7D&AV_APPPKGNAME=%7B%7BappPackage%7D%7D&AV_IP=%7B%7BipAddr%7D%7D&AV_USERAGENT=%7B%7BUserAgent%7D%7D&AV_DNT=%7B%7BDNT%7D%7D&AV_APPNAME=%7B%7BappName%7D%7D&AV_APPSTOREURL=%7B%7BAppStoreUrl%7D%7D&AV_GDPR=%7B%7BGdpr%7D%7D&AV_COPPA=%7B%7BCoppa%7D%7D&AV_CCPA=%7B%7BUsPrivacy%7D%7D&AV_IDFA=%7B%7BDID%7D%7D&AV_MAKE=%7B%7BDeviceMake%7D%7D&AV_MODEL=%7B%7BDeviceModel%7D%7D&AVS_SSAIID=63ea24dd318b007281014ee6&GdprConsent=%7B%7BGdprConsent%7D%7D
-
----
-
-#EXTINF:-1 tvg-chno="74.8" tvg-id="ZDF.de" tvg-name="" tvg-logo="https://epg.iptvx.one/picons/zdf.png" group-logo="https://cdn-icons-png.magnific.com/512/5724/5724539.png" group-title="Entertainment 🌎",ZDF 🇩🇪⚽️
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referer=https://webtv.sk/
-#EXTVLCOPT:http-origin=https://webtv.sk
-https://dash4.antik.sk/live/test_zdf_avc_25p/playlist.m3u8
-
-#EXTINF:-1  tvg-name="SAT.1" tvg-id="SAT.1.de" tvg-logo="https://logo.m3uassets.com/sat1.png" group-logo="https://cdn-icons-png.magnific.com/512/5724/5724539.png" group-title="Entertainment 🌎", Sat.1 🇩🇪⚽️
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=540313f2e5eda2c17df277afc085f33c:3a2ac903e4299a7815111e256369d9d4
-https://ac-009.live.p7s1video.net/27a90190/t_009/sat1-de-hd/cenc-default.mpd
-
-#EXTINF:-1  tvg-name="SAT.1" tvg-id="SAT.1.at" tvg-logo="https://logo.m3uassets.com/sat1.png" group-logo="https://cdn-icons-png.magnific.com/512/5724/5724539.png" group-title="Entertainment 🌎", Sat.1 🇦🇹⚽️
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=47d68f825cdea389eb3b75a39275fc61:97e8875d20f9b95a2b59ed79b4a358a1
-https://ac-001.live.p7s1video.net/a30b657a/t_001/sat1-at/cenc-default.mpd
-
----
-
-#EXTINF:-1 tvg-chno="" cuid="" tvg-id="AXN.cz" tvg-name="AXN" tvg-logo="https://logo.m3uassets.com/axn.png" group-logo="https://cdn-icons-png.magnific.com/512/5724/5724539.png" group-title="Entertainment 🌎",AXN  (🔉💬🇬🇧)🇨🇿
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
-https://dash2.antik.sk/stream/hisi_axn/playlist_cbcs.mpd
-
-#EXTINF:-1 tvg-chno="" cuid="" tvg-name="" tvg-id="AXN.White.cz" tvg-logo="https://logo.m3uassets.com/axnwhite.png" group-logo="https://cdn-icons-png.magnific.com/512/5724/5724539.png" group-title="Entertainment 🌎",AXN White (🔉💬🇬🇧)🇨🇿
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
-https://dash2.antik.sk/stream/hisi_axn_white/playlist_cbcs.mpd
-
-#EXTINF:-1 tvg-chno="" cuid="" tvg-name="" tvg-id="AXN.Black.cz" tvg-logo="https://logo.m3uassets.com/axnblack.png" group-logo="https://cdn-icons-png.magnific.com/512/5724/5724539.png" group-title="Entertainment 🌎",AXN Black (🔉💬🇬🇧)🇨🇿
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
-https://dash2.antik.sk/stream/hisi_axn_black/playlist_cbcs.mpd
-
 =====================🔹========================
 CHANNELS 🇺🇾🇲🇽
 =====================🔹========================
@@ -1072,6 +1026,18 @@ https://fsly.stream.peacocktv.com/Content/CMAF_OL2-CTR-4s-v2/Live/channel(univer
 CHANNELS 🇬🇧
 =====================🔹========================
 
+#EXTINF:-1 tvg-chno="" cuid="485" tvg-name="English.Club.TV" tvg-id="English.Club.TV.ch" tvg-logo="https://github.com/iprtl/p1/raw/master/logo/langlab.png" group-logo="https://cdn-icons-png.magnific.com/512/5724/5724539.png" group-title="Entertainment 🌎",Lang Lab 🇬🇧
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referer=https://webtv.sk/
+#EXTVLCOPT:http-origin=https://webtv.sk
+https://dash3.antik.sk/live/langlabs/index.m3u8
+https://dash4.antik.sk/live/test_nhk/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="" cuid="485" tvg-name="English.Club.TV" tvg-id="English.Club.TV.ch" tvg-logo="https://github.com/iprtl/p1/raw/master/logo/EnglishClubTV.webp" group-logo="https://cdn-icons-png.magnific.com/512/5724/5724539.png" group-title="Entertainment 🌎",English Club TV 🇬🇧
+https://ssai.aniview.com/api/v1/hls/stream.m3u8?cb=%7B%7Bcb%7D%7D&AV_APPPKGNAME=%7B%7BappPackage%7D%7D&AV_IP=%7B%7BipAddr%7D%7D&AV_USERAGENT=%7B%7BUserAgent%7D%7D&AV_DNT=%7B%7BDNT%7D%7D&AV_APPNAME=%7B%7BappName%7D%7D&AV_APPSTOREURL=%7B%7BAppStoreUrl%7D%7D&AV_GDPR=%7B%7BGdpr%7D%7D&AV_COPPA=%7B%7BCoppa%7D%7D&AV_CCPA=%7B%7BUsPrivacy%7D%7D&AV_IDFA=%7B%7BDID%7D%7D&AV_MAKE=%7B%7BDeviceMake%7D%7D&AV_MODEL=%7B%7BDeviceModel%7D%7D&AVS_SSAIID=63ea24dd318b007281014ee6&GdprConsent=%7B%7BGdprConsent%7D%7D
+
+---
+
 #EXTINF:-1 tvg-chno="" cuid="474" tvg-id="BBC.Entertainment.HD.cy" tvg-logo="https://lo1.in/malt/BBC ENTERTAINMENT.png" group-logo="https://cdn-icons-png.magnific.com/512/5724/5724539.png" group-title="Entertainment 🌎",BBC Entertainment 🇬🇧
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -1135,7 +1101,9 @@ https://live.corusdigitaldev.com/groupd/live/376c96cd-193f-46d1-a2b6-7c2b78cb0aa
 #KODIPROP:inputstream.adaptive.license_key=2c7ece0bc4b1cdbe78497cb85e4c268e:e7f77a1b82fb8ea8c06e2aa886c521ca
 https://live.corusdigitaldev.com/groupd/live/8cace0db-7887-4cb3-988d-58594cda4697/corus-wnetwork.isml/.mpd
 
----
+=====================🔹========================
+ CHANNELS 🇺🇸
+=====================🔹========================
 
 #EXTINF:-1 tvg-chno="" cuid="370" tvg-name="" tvg-id="USA.Network.HD.us2" tvg-logo="https://logo.m3uassets.com/usanetwork.png" group-logo="https://cdn-icons-png.magnific.com/512/5724/5724539.png" group-title="Entertainment 🌎",USA Network 🇺🇸⚽️
 +https://new8k.deadpooll.workers.dev/playlist?id=153
@@ -1248,7 +1216,9 @@ https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/clients/dash/enc/rckhgp0mdp/out/v
 #KODIPROP:inputstream.adaptive.license_key=bf813dc4a32e0e9bcbce4446a65f4b12:eb9973b1a30c76812aa7ca8864b6a3c1
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/clients/dash/enc/zewdvsfpre/out/v1/d65e537877cc4112b8fd88c6210f39da/cenc.mpd
 
----
+=====================🔹========================
+VARIOS 🇩🇪🇵🇭🇮🇳
+=====================🔹========================
 
 #EXTINF:-1 tvg-chno="" cuid="" tvg-name="" tvg-id="Cg.Cinemax.ph" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/Cinemax.webp" group-logo="https://cdn-icons-png.magnific.com/512/5724/5724539.png" group-title="Entertainment 🌎",Cinemax (🔉💬🇬🇧)🇮🇳
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1273,6 +1243,22 @@ https://dash2.antik.sk/stream/hisi_cinemax/playlist_cbcs.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
 https://dash2.antik.sk/stream/hisi_cinemax_2/playlist_cbcs.mpd
+
+#EXTINF:-1 tvg-chno="74.8" tvg-id="ZDF.de" tvg-name="" tvg-logo="https://epg.iptvx.one/picons/zdf.png" group-logo="https://cdn-icons-png.magnific.com/512/5724/5724539.png" group-title="Entertainment 🌎",ZDF 🇩🇪⚽️
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referer=https://webtv.sk/
+#EXTVLCOPT:http-origin=https://webtv.sk
+https://dash4.antik.sk/live/test_zdf_avc_25p/playlist.m3u8
+
+#EXTINF:-1  tvg-name="SAT.1" tvg-id="SAT.1.de" tvg-logo="https://logo.m3uassets.com/sat1.png" group-logo="https://cdn-icons-png.magnific.com/512/5724/5724539.png" group-title="Entertainment 🌎", Sat.1 🇩🇪⚽️
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=540313f2e5eda2c17df277afc085f33c:3a2ac903e4299a7815111e256369d9d4
+https://ac-009.live.p7s1video.net/27a90190/t_009/sat1-de-hd/cenc-default.mpd
+
+#EXTINF:-1  tvg-name="SAT.1" tvg-id="SAT.1.at" tvg-logo="https://logo.m3uassets.com/sat1.png" group-logo="https://cdn-icons-png.magnific.com/512/5724/5724539.png" group-title="Entertainment 🌎", Sat.1 🇦🇹⚽️
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=47d68f825cdea389eb3b75a39275fc61:97e8875d20f9b95a2b59ed79b4a358a1
+https://ac-001.live.p7s1video.net/a30b657a/t_001/sat1-at/cenc-default.mpd
 
 =====================🔹========================
 WARNER 🇵🇭🇮🇳
@@ -1309,6 +1295,23 @@ https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_rockextreme.mpd
 =====================🔹========================
 VARIOS 
 =====================🔹========================
+
+#EXTINF:-1 tvg-chno="" cuid="" tvg-id="AXN.cz" tvg-name="AXN" tvg-logo="https://logo.m3uassets.com/axn.png" group-logo="https://cdn-icons-png.magnific.com/512/5724/5724539.png" group-title="Entertainment 🌎",AXN  (🔉💬🇬🇧)🇨🇿
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
+https://dash2.antik.sk/stream/hisi_axn/playlist_cbcs.mpd
+
+#EXTINF:-1 tvg-chno="" cuid="" tvg-name="" tvg-id="AXN.White.cz" tvg-logo="https://logo.m3uassets.com/axnwhite.png" group-logo="https://cdn-icons-png.magnific.com/512/5724/5724539.png" group-title="Entertainment 🌎",AXN White (🔉💬🇬🇧)🇨🇿
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
+https://dash2.antik.sk/stream/hisi_axn_white/playlist_cbcs.mpd
+
+#EXTINF:-1 tvg-chno="" cuid="" tvg-name="" tvg-id="AXN.Black.cz" tvg-logo="https://logo.m3uassets.com/axnblack.png" group-logo="https://cdn-icons-png.magnific.com/512/5724/5724539.png" group-title="Entertainment 🌎",AXN Black (🔉💬🇬🇧)🇨🇿
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
+https://dash2.antik.sk/stream/hisi_axn_black/playlist_cbcs.mpd
+
+---
 
 #EXTINF:-1 tvg-chno="" cuid="" tvg-name="MN+" tvg-id="MN+.HD.in" tvg-logo="https://logo.m3uassets.com/mnplus.png" group-logo="https://cdn-icons-png.magnific.com/512/5724/5724539.png" group-title="Entertainment 🌎",MN+ (🔉💬🇬🇧)🇮🇳
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -4102,9 +4105,7 @@ http://stream.mcquack.net/212/index.m3u8
 
 #EXTINF:-1 tvg-chno="" cuid="1868" tvg-name="Sport1" tvg-id="Sport1.cz" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/SPORT1_CZ.webp" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="All Sports 🌎",Sport 1 🇨🇿⚽️🎯
 #EXTGRP:All Sports 🌎;Europa League⚽️;Serie A⚽️;Fifa Competition⚽️
-http://88.212.15.19/live/test_sport1_25p/playlist.m3u8
-http://178.23.88.55/Sport1/index.m3u8
-
++http://88.212.15.19/live/test_sport1_25p/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="" cuid="1869" tvg-name="Sport1" tvg-id="Sport1.HD.sk" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/SPORT1_CZ.webp" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="All Sports 🌎",Sport 1 🇨🇿⚽️🎯
 #EXTGRP:All Sports 🌎;Europa League⚽️;Liga Betclic⚽️
@@ -4125,11 +4126,10 @@ https://dash2.antik.sk/stream/nvidia_sport2/playlist_cenc.mpd
 #EXTINF:-1 tvg-chno="" cuid="1871" tvg-name="Sport2" tvg-id="Sport2.cz" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/SPORT2_CZ.webp" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="All Sports 🌎",Sport 2 🇨🇿⚽️🎾🃏
 #EXTGRP:All Sports 🌎;Europa League⚽️;Serie A⚽️;Fifa Competition⚽️
 http://88.212.15.19/live/test_sport_2/playlist.m3u8
-http://141.94.193.53:80/Sport_2_HD/index.m3u8
 
 #EXTINF:-1 tvg-chno="" cuid="1871" tvg-name="Sport2" tvg-id="Sport2.cz" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/SPORT2_CZ.webp" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="All Sports 🌎",Sport 2₂ 🇨🇿⚽️🎾🃏
 #EXTGRP:All Sports 🌎;Europa League⚽️;Serie A⚽️;Liga Betclic⚽️
-http://88.212.15.19/live/sport2_hun/index.m3u8
+http://141.94.193.53:80/Sport_2_HD/index.m3u8
 
 ---
 
@@ -4258,12 +4258,6 @@ https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_spotvhd.mpd
 #KODIPROP:inputstream.adaptive.license_key=7eea72d6075245a99ee3255603d58853:6848ef60575579bf4d415db1032153ed
 https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_spotv2hd.mpd
 https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/dr_spotv2hd.mpd
-
-#EXTINF:-1 tvg-chno="" cuid="1963" tvg-id="SPOTV.2.HD.id" tvg-name="SPOT2" tvg-logo="https://epg.iptvx.one/picons/spotv2.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="All Sports 🌎",Spotv 2 🇮🇳 🏍🏎️
-#EXTGRP:All Sports 🌎;MotoGP🏍
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f28d730090f64e229fb255b2afa6e36e:53d432c60f419541c7319dc1b6508e2c
-https://ucdn.mediaquest.com.ph/bpk-tv/dr_spotv2hd/default/index.mpd
 
 ---
 
