@@ -38,7 +38,7 @@ https://cc-38amk5g6kmcpo.akamaized.net/Os_Dez_Mandamentos.m3u8
 https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=minhaidentidade%C3%A9belezadegangnam&channel_id=newid_233
 
 #EXTINF:-1 cuid="105" tvg-name="Wedo tv Amor 🇧🇷" tvg-logo="https://cdn-01.watch4.com/01/1720620990_wedo-amor_red_logo.png" group-logo="https://cdn-icons-png.freepik.com/512/2112/2112926.png" group-title="Novelas 🌎",☆ Wedo tv Amor 🇧🇷
-+https://c73eb5ea.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/VmlkYWEtYnJfV2Vkb0Ftb3JfSExT/playlist.m3u8
+https://amg00735-amg00735c15-rlaxx-us-4075.playouts.now.amagi.tv/playlist/amg00735-videosolutionsagfast-wedoamor-rlaxxus/playlist.m3u8?tag_id=105310&app_name=Whale+TV%2B&app_store=Browser&ic=IAB1&url=&wtv_channel_id=0237&content_producer_name=Amagi_VideoSolutions_wedotvAmor&content_categories=IAB1-5%2CIAB1%2CIAB1-7&content_custom_1_param=Amagi&content_custom_2_param=F%2CM&content_custom_3_param=18-20%2C21-24%2C25-29%2C30-34%2C35-39%2C40-44%2C45-49&tv_language=&device_make=&tv_vendor=&brand_name=&device_model=&tv_model=&gdpr=1&gdpr_consent=&did=&ua=&ip=&dnt=&lmt=&coppa=0&us_privacy=1YNN&min_dur=5&max_dur=30&cb=&sid=&h=&w=&content_livestream=1&placement=1&ap=1&mute=0&skip=0&ads.gdpr=0
 
 #EXTINF:-1 cuid="106" tvg-name="Malhação Fast 🇧🇷" tvg-id="BRBD1700009UV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/61/MalhacaoFast_2024.png" group-logo="https://cdn-icons-png.freepik.com/512/2112/2112926.png" group-title="Novelas 🌎",☆ Malhação Fast 🇧🇷
 https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/Globo/Malhacao_Fast_BR/576p-vtt/index.m3u8
@@ -220,8 +220,11 @@ https://jmp2.uk/plu-62545c0b002f4b0007688b61.m3u8
 #EXTINF:-1 cuid="231" tvg-name="Toon Goggles 🇧🇷" tvg-id="plex.tv.Toon.Goggles.plex" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/da/Toon_Goggles_logo.png" group-logo="https://cdn-icons-png.freepik.com/512/3636/3636254.png" group-title="Kids 🧒🌎",☆ Toon Goggles 🇧🇷
 https://tg-tg-br-samsung.otteravision.com/tg/tg_br_h265/tg_br_h265.m3u8
 
-#EXTINF:-1 cuid="232" tvg-name="Cineminha 🇧🇷" tvg-id="66c8ca1280a0af00085b5b83" tvg-logo="https://images.pluto.tv/channels/66c8ca1280a0af00085b5b83/colorLogoPNG.png" group-logo="https://cdn-icons-png.freepik.com/512/3636/3636254.png" group-title="Kids 🧒🌎",☆ Cineminha 🇧🇷
-+https://jmp2.uk/plu-66c8ca1280a0af00085b5b83.m3u8
+#EXTINF:-1 cuid="232" tvg-name="Cineminha 🇧🇷" tvg-id="68b88ae1943f6fb1fb2ad749" tvg-logo="https://images.pluto.tv/channels/68b88ae1943f6fb1fb2ad749/colorLogoPNG.png" group-logo="https://cdn-icons-png.freepik.com/512/3636/3636254.png" group-title="Kids 🧒🌎",☆ Os Smurf 🇧🇷
+https://jmp2.uk/plu-68b88ae1943f6fb1fb2ad749.m3u8
+
+#EXTINF:-1 cuid="232" tvg-name="Cineminha 🇧🇷" tvg-id="" tvg-logo="https://images.pluto.tv/channels/68b88ae1943f6fb1fb2ad749/colorLogoPNG.png" group-logo="https://cdn-icons-png.freepik.com/512/3636/3636254.png" group-title="Kids 🧒🌎",☆ Os Smurf₂ 🇧🇷
+https://ffalconnow.api.leiniao.com/media-channel-api/ffalconLive/v1/6a4625d4aba16f4fd4dba021/bunnycontent_main.m3u8
 
 #EXTINF:-1 cuid="233" tvg-name="Teletubbies 🇧🇷" tvg-id="64e50055286f6b000838c067" tvg-logo="https://images.pluto.tv/channels/64e50055286f6b000838c067/colorLogoPNG.png" group-logo="https://cdn-icons-png.freepik.com/512/3636/3636254.png" group-title="Kids 🧒🌎",☆ Teletubbies 🇧🇷
 https://d3is52sgpnlx4c.cloudfront.net/10901/88885556/hls/master.m3u8?withResolution=true&ads.xumo_channelId=88885556&ads.csid=viziowatchfree_us_wildbrainteletubbies_ssai&ads.caid=WildBrainTeletubbies&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads.xumo_platform=viziowatchfree&ads._fw_player_width=%7bWIDTH%7d&ads._fw_player_height=%7bHEIGHT%7d&ads._fw_is_lat=%7bLMT%7d&ads._fw_us_privacy=%7bUSPRIVACY%7d&ads._fw_coppa=1&ads._fw_app_bundle=%7bAPP_BUNDLE%7d&ads._fw_content_category=IAB1-7&ads._fw_content_genre=television&ads._fw_content_language=en&ads._fw_content_rating=tv-g&ads._fw_deviceMake=%7bDEVICE_MAKE%7d&ads._fw_device_model=%7bDEVICE_MODEL%7d&ads._fw_devicetype=%7bDEVICE_TYPE%7d&ads.domain=%7bDOMAIN%7d&ads.gpp=%7bGPP%7d&ads.gpp_sid=%7bGPP_SID%7d&ads._fw_h_x_country=US&ads.appName=%7bAPP_NAME%7d&ads.xumo_contentId=1854&ads.xumo_contentName=WildBrainTeletubbies&ads.xumo_providerId=1854&ads.xumo_providerName=Wildbrain&ads.channelId=88885556&ads.xumo_channelName=WildBrainTeletubbies&ads._fw_content_programmer_brand=WildBrainTeletubbies&ads.xumo_adsystem=mediatailor&ads.tpcl=MIDROLL&ads.xumo_ifa=%7bADID%7d&ads.xumo_ifaType=%7bIFATYPE%7d&ads._fw_app_store_url=%7bAPP_STORE_URL%7d&ads.appVersion=%7bAPP_VERSION%7d&ads.vizdartoken=eyJhdWQiOiI5NiIsIndmcGNpZCI6NDAwMjk4ODY0OH0
@@ -702,6 +705,9 @@ https://jmp2.uk/plu-64dab9df3d48f40008868091.m3u8
 #EXTINF:-1 cuid="386" tvg-name="TV Parana Turismo" tvg-id="" tvg-logo="https://i.imgur.com/IVUjkii.png" group-logo="https://cdn-icons-png.freepik.com/512/8376/8376891.png" group-title="Tv • Lifestyles & Travel 🍽🛍️✈️",TV Parana Turismo 🇧🇷
 https://aovivo.paranaeducativa.pr.gov.br/hls/tve.m3u8
 
+#EXTINF:-1 cuid="387" tvg-name="Sabor & Arte" tvg-id="Sabor.&amp;.Arte.br" tvg-logo="https://canalsaborearte.uol.com.br/saborearte-logo-white.svg" group-logo="https://cdn-icons-png.freepik.com/512/8376/8376891.png" group-title="Tv • Lifestyles & Travel 🍽🛍️✈️",Sabor & Arte 🇧🇷
+https://ssai2-ads.api.leiniao.com/global-adinsertion-api/hls/live/midRollAndPipAd/b48fa70391de4d3aab95c3bf54b49759/playlist.m3u8
+
 #EXTINF:-1 cuid="388" tvg-name="Tastemade 🇧🇷" tvg-id="5fd1419a3b4f4b000773ba85" tvg-logo="https://images.pluto.tv/channels/5fd1419a3b4f4b000773ba85/colorLogoPNG.png" group-logo="https://cdn-icons-png.freepik.com/512/8376/8376891.png" group-title="Tv • Lifestyles & Travel 🍽🛍️✈️",☆ Tastemade 🇧🇷
 https://jmp2.uk/plu-5fd1419a3b4f4b000773ba85.m3u8
 
@@ -1060,6 +1066,11 @@ https://amg00136-wbd-amg00136c47-lg-us-5699.playouts.now.amagi.tv/playlist/amg00
 #EXTINF:-1 cuid="458" tvg-name="Crime ThrillHer" tvg-id="plex.tv.Crime.ThrillHer.plex" tvg-logo="https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/Crime_ThrillHer_Presented_by_Lifetime_WHT_Logo.png" group-logo="https://cdn-icons-png.freepik.com/256/8633/8633669.png" group-title="Tv • Series 📺",☆ Crime ThrillHer by Lifetime 🇺🇸
 https://28caa756.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEdfQ3JpbWVUaHJpbGxIZXJfSExT/playlist.m3u8
 
+#EXTINF:-1 cuid="458" tvg-name="Crime ThrillHer" tvg-id="plex.tv.Lifetime.Movies.Love.&amp;.Drama.plex" tvg-logo="https://m.media-amazon.com/images/X/lsmP/M/DlsmPhlq1gXKE9J._SL500_FMpng_.png" group-logo="https://cdn-icons-png.freepik.com/256/8633/8633669.png" group-title="Tv • Series 📺",☆ Lifetime Love & Drama 🇺🇸
+https://amg00276-amg00276c28-vizio-us-8688.playouts.now.amagi.tv/playlist/amg00276-aetelevisionnetworksfast-lifetimemovieslovedrama-vizious/playlist.m3u8?app_name=%7bAPP_NAME%7d&app_bundle=%7bAPP_BUNDLE%7d&app_store_url=%7bAPP_STORE_URL%7d&url=%7bDOMAIN%7d&ifa_type=%7bIFATYPE%7d&lmt=%7bLMT%7d&dnt=%7bDNT%7d&did=%7bADID%7d&us_privacy=%7bUSPRIVACY%7d&coppa=%7bCOPPA%7d&skip=%7bSKIPPABLE%7d&device_make=%7bDEVICE_MAKE%7d&w=%7bWIDTH%7d&h=%7bHEIGHT%7d&vizio_network_name=%7bVIZIO_NETWORK_NAME%7d&vizdartoken=eyJhdWQiOiI5MyIsIndmcGNpZCI6NDU3ODQxNzkwOX0
+https://amg00276-amg00276c28-vidaa-us-11223.playouts.now.amagi.tv/ts-us-w2-n1/playlist/amg00276-aetelevisionnetworksfast-lifetimemovieslovedrama-vidaaus/playlist.m3u8?ads.dnt=REPLACEME&ads.app_bundle=REPLACEME&ads.brand_name=REPLACEME&ads.ifa=REPLACEME&ads.ifa_type=REPLACEME&ads.vauth=REPLACEME&ads.device_type=REPLACEME&ads.device_country=REPLACEME&ads.device_language=REPLACEME&ads.device_osv=REPLACEME&ads.app_name=REPLACEME&ads.app_store_url=REPLACEME&ads.us_privacy=REPLACEME&ads.gdpr=REPLACEME&ads.gdpr_consent=REPLACEME&ads.w=REPLACEME&ads.h=REPLACEME&ads.vidaa_ads_param=1190602996&ads.vidaa_ads_contentType=600007&ads.vidaa_ads_contentId=10692
+https://jmp2.uk/rok-8d8befc9060e861eb1bdd5b21c0403b3.m3u8
+
 #EXTINF:-1 cuid="459" tvg-name="OuterSphere 🇺🇸" tvg-id="USBD1200007FE" tvg-logo="https://static-us-east-2-fastly-a.www.philo.com/images/channel_logos/OTRSPH/large.png" group-logo="https://cdn-icons-png.freepik.com/256/8633/8633669.png" group-title="Tv • Series 📺",☆ OuterSphere 🇺🇸
 https://d3o593mz1glx8d.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-1ca6ra6358f5t/OuterSphere_US.m3u8
 
@@ -1279,8 +1290,9 @@ https://jmp2.uk/plu-65367e724f123d000877cfe5.m3u8
 https://jmp2.uk/stvp-USBC1300005T6
 
 
-#EXTINF:-1 cuid="505" tvg-name="Gardening with Monty Don" tvg-id="plex.tv.Gardening.with.Monty.Don.plex" tvg-logo="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/gardening_with_monty_don._SL170_FMpng_.png" group-logo="https://cdn-icons-png.freepik.com/512/10399/10399850.png" group-title="Tv • Reality 📺",☆ Gardening with Monty Don 🇺🇸
-+https://jmp2.uk/rok-ada4254a1dd65c138f62e7c45affb45c.m3u8
+#EXTINF:-1 cuid="505" tvg-name="The Hotel Inspector" tvg-id="UK:.Hotel.Inspector.be" tvg-logo="" group-logo="https://cdn-icons-png.freepik.com/512/10399/10399850.png" group-title="Tv • Reality 📺",☆ The Hotel Inspector 🇺🇸 (vpn 🇺🇸)
+https://amg00654-itv-amg00654c4-samsung-th-8167.playouts.now.amagi.tv/playlist.m3u8
+https://amg00654-itv-amg00654c4-rakuten-uk-5263.playouts.now.amagi.tv/playlist/amg00654-itvstudiosfast-hotelinspector-rakutenuk/playlist.m3u8?ads_amagi_channel_id=950&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_categories=IAB1&ads_content_genre=entertainment&ads_content_livestream=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_extra_eids=&ads_gam_correlator=&ads_gdpr_consent=&ads_google_ad_manager_nonce=&ads_ifa_type=&ads_inv_partner_domain=rakuten.tv&ads_ip=162.158.33.250&ads_market=uk&ads_network_name=RakutenTV&ads_os_language=&ads_placement=1&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_prodq=1&ads_rating=12&ads_rtv_channel_name=hotel-inspector_uk&ads_rtv_content_id=6427&ads_rtv_content_language=en&ads_rtvid=271858&ads_streaming_id=a67d81bd-3f7b-4b33-a744-641c3a317162&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
 
 #EXTINF:-1 cuid="506" tvg-name="Life Down Under 🇺🇸" tvg-id="" tvg-logo="https://wtfn.com/wp-content/uploads/2023/07/result-2.png" group-logo="https://cdn-icons-png.freepik.com/512/10399/10399850.png" group-title="Tv • Reality 📺",☆ Life Down Under 🇺🇸
 https://wtfn-lifedownunder-1-nz.samsung.wurl.tv/playlist.m3u8
@@ -1315,8 +1327,8 @@ https://amg00276-aenetwork-amg00276c26-lg-us-7268.playouts.now.amagi.tv/playlist
 #EXTINF:-1 cuid="511" tvg-name="5 Emergency Rescue 🇬🇧" tvg-id="63c1384e829c850007922ca4" tvg-logo="https://images.pluto.tv/channels/63c1384e829c850007922ca4/colorLogoPNG.png" group-logo="https://cdn-icons-png.freepik.com/512/10399/10399850.png" group-title="Tv • Reality 📺",☆ 5 Emergency Rescue 🇬🇧
 https://jmp2.uk/plu-63c1384e829c850007922ca4.m3u8
 
-#EXTINF:-1 cuid="512" tvg-name="U&Real Heroes 🇬🇧" tvg-id="64c0d6b424ade50008bc8883" tvg-logo="https://images.pluto.tv/channels/64c0d6b424ade50008bc8883/colorLogoPNG.png" group-logo="https://cdn-icons-png.freepik.com/512/10399/10399850.png" group-title="Tv • Reality 📺",☆ U&Real Heroes 🇬🇧
-+https://jmp2.uk/plu-64c0d6b424ade50008bc8883.m3u8
+#EXTINF:-1 cuid="512" tvg-name="U&Real Heroes 🇬🇧" tvg-id="plex.tv.The.Repair.Shop.plex" tvg-logo="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/Freevee_TheRepairShop_1920x1080._SL500_FMpng_.png" group-logo="https://cdn-icons-png.freepik.com/512/10399/10399850.png" group-title="Tv • Reality 📺",☆ The Repair Shop by WB 🇬🇧
+https://amg00136-wbd-amg00136c77-vizio-us-9193.playouts.now.amagi.tv/playlist/amg00136-warnerbrothersdiscovery-therepairshop-vizious/playlist.m3u8?app_name=%7bAPP_NAME%7d&app_bundle=%7bAPP_BUNDLE%7d&app_store_url=%7bAPP_STORE_URL%7d&url=%7bDOMAIN%7d&ifa_type=%7bIFATYPE%7d&lmt=%7bLMT%7d&dnt=%7bDNT%7d&did=%7bADID%7d&us_privacy=%7bUSPRIVACY%7d&coppa=%7bCOPPA%7d&skip=%7bSKIPPABLE%7d&device_make=%7bDEVICE_MAKE%7d&w=%7bWIDTH%7d&h=%7bHEIGHT%7d&vizio_network_name=%7bVIZIO_NETWORK_NAME%7d&vizdartoken=eyJhdWQiOiI5MyIsIndmcGNpZCI6NDYwODc2MzA3MX0
 
 #EXTINF:-1 cuid="513" tvg-name="Backstage" tvg-id="USBC10000129R" tvg-logo="https://provider-static.plex.tv/epg/cms/production/56663e28-e7ee-4f34-a14e-dfca4d713704/Backsgtage_Logo_1500x1000.png" group-logo="https://cdn-icons-png.freepik.com/512/10399/10399850.png" group-title="Tv • Reality 📺",☆ Backstage (vᴘɴ 🇺🇸)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/fuseAAAAA-fusexl-vizio/playlist.m3u8
@@ -1460,12 +1472,16 @@ https://jmp2.uk/stvp-ITBA3300048YJ
 #EXTINF:-1 cuid="547" tvg-name="Trailers" tvg-id="FRBC9000041F" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBA3300048YJ_20240709T045109SQUARE.png" group-logo="https://cdn-icons-png.freepik.com/512/17285/17285060.png" group-title="Films 📽️",☆ Trailers 🇫🇷
 https://jmp2.uk/stvp-FRBC9000041F
 
+---
 
 #EXTINF:-1 cuid="548" tvg-name="Channel 1 🇧🇷" tvg-logo="https://channel1.ipgotv.top/LOGO_CH1.png" group-logo="https://cdn-icons-png.freepik.com/512/17285/17285060.png" group-title="Films 📽️",☆ Channel 1 🇧🇷
 https://stmv2.painelvideocast.com.br/movies1/movies1/playlist.m3u8
 
 #EXTINF:-1 cuid="549" tvg-name="1980 Channel 🇧🇷" tvg-logo="https://github.com/iprtl/p1/raw/master/logo/1980.png" group-logo="https://cdn-icons-png.freepik.com/512/17285/17285060.png" group-title="Films 📽️",☆ 1980 Channel 🇧🇷
 https://stmv2.painelvideocast.com.br/channel80/channel80/playlist.m3u8
+
+#EXTINF:-1 cuid="550" tvg-name="Sessão Trash" tvg-logo="https://github.com/iprtl/p1/raw/master/logo/SessaoTrash.png" group-logo="https://cdn-icons-png.freepik.com/512/17285/17285060.png" group-title="Films 📽️",☆ Sessão Trash 🇧🇷
+https://ssai2-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/4ddd716806a344f397c726a9dcdb7908/playlist.m3u8
 
 #EXTINF:-1 cuid="551" tvg-name="Ficção Científica 🇧🇷" tvg-id="5fa15ad6367e170007cdd098" tvg-logo="https://images.pluto.tv/channels/5fa15ad6367e170007cdd098/colorLogoPNG.png" group-logo="https://cdn-icons-png.freepik.com/512/17285/17285060.png" group-title="Films 📽️",☆ Ficção Científica 🇧🇷
 https://jmp2.uk/plu-5fa15ad6367e170007cdd098.m3u8
@@ -1507,6 +1523,7 @@ https://d29h829bjuxghm.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=9999214
 
 #EXTINF:-1 cuid="564" cuid="48" tvg-name="Cindie Lite 🇧🇷" tvg-logo="https://d1y2dphb29uhu6.cloudfront.net/c/433/images/cqYA0kmQKlUvEWe95h6O7g.png" group-logo="https://cdn-icons-png.freepik.com/512/17285/17285060.png" group-title="Films 📽️",☆ Cindie Lite (💬🔊 🇧🇷)
 https://cc-hqw8u5r1nshjc.akamaized.net/scheduler/scheduleMaster/352.m3u8?@iprtlk
+https://ssai-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/b1226ff17e924e59803c486e434e96d4/playlist.m3u8
 
 #EXTINF:-1 cuid="565" cuid="49" tvg-name="My Time Movie Network 🇧🇷" tvg-id="USBC3900018K6" tvg-logo="https://github.com/iprtl/p1/raw/master/logo/myTimeMovie.webp" group-logo="https://cdn-icons-png.freepik.com/512/17285/17285060.png" group-title="Films 📽️",☆ My Time Movie Network (💬 🇧🇷)
 https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8?@iprtlk
