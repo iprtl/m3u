@@ -1327,6 +1327,14 @@ https://amg00276-aenetwork-amg00276c26-lg-us-7268.playouts.now.amagi.tv/playlist
 #EXTINF:-1 cuid="511" tvg-name="5 Emergency Rescue 🇬🇧" tvg-id="63c1384e829c850007922ca4" tvg-logo="https://images.pluto.tv/channels/63c1384e829c850007922ca4/colorLogoPNG.png" group-logo="https://cdn-icons-png.freepik.com/512/10399/10399850.png" group-title="Tv • Reality 📺",☆ 5 Emergency Rescue 🇬🇧
 https://jmp2.uk/plu-63c1384e829c850007922ca4.m3u8
 
+#EXTINF:-1 cuid="511" tvg-name="Untold Stories of the ER" tvg-id="plex.tv.Untold.Stories.of.the.ER.plex" tvg-logo="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/untold_stories_of_the_er._SL500_FMpng_.png" group-logo="https://cdn-icons-png.freepik.com/512/10399/10399850.png" group-title="Tv • Reality 📺",☆ Untold Stories of the ER 🇺🇸
+https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992524&ads.xumo_streamId=99992524&ads.channelId=99992524&ads.ad_tag_id=117499&ads.csid=lgchannels_ca_untoldstoriesoftheer_ssai&ads.channelName=untoldstoriesoftheer_ca&ads.xumo_contentName=FilmRiseCA&ads.xumo_contentId=1082&ads.xumo_providerName=FilmRiseCA&ads.xumo_providerId=1082&ads.content_category=IAB1-7&ads.content_genre=Reality,Drama,GD,Entertainment,GV,Reality-TV,Reality+Shows&ads.content_language=en&ads.content_rating=tv-14&ads.coppa=0&ads.livestream=0&ads.prodq=1&ads.did=[IFA]&ads.lmt=[LMT]&ads.dnt=[DNS]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.country=[COUNTRY]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.app_name=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_storeurl=[APP_STOREURL]
+https://live-manifest.production-public.tubi.io/live/e135f994-9d0c-4128-a643-759705edf9c9/playlist.m3u8
+
+#EXTINF:-1 cuid="511" tvg-name="Medical Incredible" tvg-id="plex.tv.Medical.Incredible.plex" tvg-logo="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/Freevee_MedicalIncredible_1920x1080_new._SL500_FMpng_.png" group-logo="https://cdn-icons-png.freepik.com/512/10399/10399850.png" group-title="Tv • Reality 📺",☆ Medical Incredible 🇺🇸
+https://amg00136-amg00136c33-amgplt0023.playout.now3.amagi.tv/ts-us-e2-n1/playlist/amg00136-amg00136c33-amgplt0023/playlist.m3u8?ads.appname=[APP_NAME]&ads.appstoreurl=[APP_STOREURL]&ads.appversion=[APP_VERSION]&ads.bundleid=[APP_BUNDLE]&ads.country=[COUNTRY]&ads.deviceid=[DEVICE_ID]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.devicetype=[DEVICE_TYPE]&ads.dmake=[DEVICE_MAKE]&ads.donotsell=[DNS]&ads.fck=[FCK]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.givn=[NONCE]&ads.hoteltype=[HOTEL_TYPE]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.ip=[IP]&ads.lat=[LMT]&ads.targetad=[TARGETAD_ALLOWED]&ads.ua=[UA]&ads.usprivacy=[US_PRIVACY]&ads.viewsize=[VIEWSIZE]&coppa=0&network_name=Warner%20brothers%20Discovery
+https://jmp2.uk/plex-6a1610bebdf296985fd95603-69d940018061ebfbca58c32c.m3u8
+
 #EXTINF:-1 cuid="512" tvg-name="U&Real Heroes 🇬🇧" tvg-id="plex.tv.The.Repair.Shop.plex" tvg-logo="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/Freevee_TheRepairShop_1920x1080._SL500_FMpng_.png" group-logo="https://cdn-icons-png.freepik.com/512/10399/10399850.png" group-title="Tv • Reality 📺",☆ The Repair Shop by WB 🇬🇧
 https://amg00136-wbd-amg00136c77-vizio-us-9193.playouts.now.amagi.tv/playlist/amg00136-warnerbrothersdiscovery-therepairshop-vizious/playlist.m3u8?app_name=%7bAPP_NAME%7d&app_bundle=%7bAPP_BUNDLE%7d&app_store_url=%7bAPP_STORE_URL%7d&url=%7bDOMAIN%7d&ifa_type=%7bIFATYPE%7d&lmt=%7bLMT%7d&dnt=%7bDNT%7d&did=%7bADID%7d&us_privacy=%7bUSPRIVACY%7d&coppa=%7bCOPPA%7d&skip=%7bSKIPPABLE%7d&device_make=%7bDEVICE_MAKE%7d&w=%7bWIDTH%7d&h=%7bHEIGHT%7d&vizio_network_name=%7bVIZIO_NETWORK_NAME%7d&vizdartoken=eyJhdWQiOiI5MyIsIndmcGNpZCI6NDYwODc2MzA3MX0
 
@@ -1602,6 +1610,7 @@ https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043
 https://oly-ftveu-orkatv.otteravision.com/oly/ftveu/ftveu.m3u8
 
 #EXTINF:-1 cuid="585" tvg-name="At the Movies" tvg-id="plex.tv.At.the.Movies.plex" tvg-logo="https://canvas-lb.tubitv.com/opts/xAQ95D6WQgEvXg==/fa937ce5-3630-46c4-bdd6-e48132ffdd50/CHgQeDoFMS4xLjlAAQ==" group-logo="https://cdn-icons-png.freepik.com/512/17285/17285060.png" group-title="Films 📽️",☆ At the Movies (vᴘɴ 🇺🇸)
+https://dbrb49pjoymg4.cloudfront.net/10001/99951603/hls/playlist.m3u8?includeAssetTags=true&ads.xumo_channelId=99951603&ads.xumo_streamId=99951603&ads.channelId=99951603&ads.channelName=WBDAtTheMovies&ads.caid=WBDAtTheMovies&ads.csid=xumo_web_WBDAtTheMovies_ssai&ads.genre=Entertainment,GV&ads._fw_content_genre=Entertainment,GV&ads._fw_coppa=0&ads.xumo_contentId=4549&ads.xumo_contentName=WBDAtTheMovies&ads.xumo_providerId=4549&ads.xumo_providerName=WBDAtTheMovies&ads.asnw=&ads.xumo_channelName=WBDAtTheMovies&ads._fw_h_x_country=US&ads._fw_ifa_type=&ads._fw_did=2a5bf67f-3034-458b-8eb3-6662063632e1&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_rating=&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.xumo_platform=web&ads.site_id=&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=&ads.appName=xumo
 https://live-manifest.production-public.tubi.io/live/c24f15d1-f67e-4534-bfde-76b9a1b74360/playlist.m3u8
 
 #EXTINF:-1 cuid="586" tvg-name="" tvg-id="plex.tv.Shout!.Movies.plex" tvg-logo="https://image.xumo.com/v1/channels/channel/99951411/168x168.png?type=color_onBlack" group-logo="https://cdn-icons-png.freepik.com/512/17285/17285060.png" group-title="Films 📽️",☆ Shout! Movies 🇺🇸 (vpn 🇺🇸)
@@ -1724,9 +1733,16 @@ https://d3f4oii5n0oeqi.cloudfront.net/11701/88814618/hls/master.m3u8?ads.xumo_ch
 #EXTINF:-1 tvg-chno="" cuid="629" tvg-name="The Twilight Zone 🇺🇸" tvg-id="67352ed93a61d4000881f9fa" tvg-logo="https://images.pluto.tv/channels/67352ed93a61d4000881f9fa/colorLogoPNG.png" group-logo="https://cdn-icons-png.freepik.com/512/17285/17285060.png" group-title="Films 📽️",☆ The Twilight Zone 🇺🇸
 https://jmp2.uk/plu-67352ed93a61d4000881f9fa.m3u8
 
+#EXTINF:-1 cuid="630" tvg-name="Lifetime Movies Love & Drama" tvg-id="plex.tv.Lifetime.Movies.Love.&amp;.Drama.plex" tvg-logo="https://m.media-amazon.com/images/X/lsmP/M/DlsmPhlq1gXKE9J._SL500_FMpng_.png" group-logo="https://cdn-icons-png.freepik.com/512/17285/17285060.png" group-title="Films 📽️",☆ Lifetime Movies Love & Drama 🇺🇸
+https://amg00276-amg00276c28-vizio-us-8688.playouts.now.amagi.tv/playlist/amg00276-aetelevisionnetworksfast-lifetimemovieslovedrama-vizious/playlist.m3u8?app_name=%7bAPP_NAME%7d&app_bundle=%7bAPP_BUNDLE%7d&app_store_url=%7bAPP_STORE_URL%7d&url=%7bDOMAIN%7d&ifa_type=%7bIFATYPE%7d&lmt=%7bLMT%7d&dnt=%7bDNT%7d&did=%7bADID%7d&us_privacy=%7bUSPRIVACY%7d&coppa=%7bCOPPA%7d&skip=%7bSKIPPABLE%7d&device_make=%7bDEVICE_MAKE%7d&w=%7bWIDTH%7d&h=%7bHEIGHT%7d&vizio_network_name=%7bVIZIO_NETWORK_NAME%7d&vizdartoken=eyJhdWQiOiI5MyIsIndmcGNpZCI6NDU3ODQxNzkwOX0
+https://jmp2.uk/rok-8d8befc9060e861eb1bdd5b21c0403b3.m3u8
 
-#EXTINF:-1 cuid="630" tvg-name="Movie Favorites By Lifetime 🇺🇸" tvg-id="63335b193583440007c859fb" tvg-logo="https://images.pluto.tv/channels/63335b193583440007c859fb/colorLogoPNG.png" group-logo="https://cdn-icons-png.freepik.com/512/17285/17285060.png" group-title="Films 📽️",☆ Movie Favorites By Lifetime 🇺🇸
+#EXTINF:-1 cuid="630" tvg-name="Movie Favorites By Lifetime 🇺🇸" tvg-id="63335b193583440007c859fb" tvg-logo="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/Lifetime_Holiday_Movie_Favorites_Nov_17_2026._SL500_FMpng_.png" group-logo="https://cdn-icons-png.freepik.com/512/17285/17285060.png" group-title="Films 📽️",☆ Lifetime Holiday Movie Favorites 🇺🇸
+https://aenetworks.global.transmit.live/hls/68b7788c2bcf083f5d656232/v1/aenetworks_holidaymoviefavorites_1/lg_us/latest/main/hls/playlist.m3u8?wurl_channel=999&wurl_name=HolidayMovieFavoritesbyLifetime&coppa=0&uid=[DEVICE_ID]&rdid=[IFA]&ifatype=[IFA_TYPE]&dnt=[LMT]&donotsell=[DNS]&isgdpr=[GDPR]&gdpr=[GDPR_CONSENT]&country=[COUNTRY]&pr=[US_PRIVACY]&appstoreurl=[APP_STOREURL]&bundleid=[APP_BUNDLE]&appname=[APP_NAME]&appversion=[APP_VERSION]&dt=[DEVICE_TYPE]&make=[DEVICE_MAKE]&model=[DEVICE_MODEL]&targetad=[TARGETAD_ALLOWED]&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]
 https://jmp2.uk/plu-63335b193583440007c859fb.m3u8
+
+#EXTINF:-1 cuid="630" tvg-name="Always Christmas" tvg-id="" tvg-logo="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/Amazon_Freevee_Always_Christmas_002._SL500_FMpng_.png" group-logo="https://cdn-icons-png.freepik.com/512/17285/17285060.png" group-title="Films 📽️",☆ Always Christmas 🇺🇸
+https://jmp2.uk/plex-6a1610bebdf296985fd95603-6ad29b265374a1e72d134645.m3u8
 
 #EXTINF:-1 cuid="634" tvg-name="Gravitas Movies 🇺🇸" tvg-id="USBD700011RE" tvg-logo="https://provider-static.plex.tv/epg/cms/production/e33abab2-b500-4189-820b-b4448eaec393/1500x1000_Christmas_Channel_Logo_TRANSPARENTRDX.png" group-logo="https://cdn-icons-png.freepik.com/512/17285/17285060.png" group-title="Films 📽️",☆ Gravitas Movies 🇺🇸
 https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991312
@@ -1755,7 +1771,8 @@ https://jmp2.uk/stvp-IN3600005NF
 #EXTINF:-1 cuid="641" tvg-name="CineLife 🇺🇸" tvg-id="plex.tv.CineLife.plex" tvg-logo="https://provider-static.plex.tv/epg/cms/production/e4ba10a4-dbb2-4d15-b268-1ed43ddf7e4b/cinelife-logo.png" group-logo="https://cdn-icons-png.freepik.com/512/17285/17285060.png" group-title="Films 📽️",☆ CineLife 🇺🇸
 https://magnolia-cinelife.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 cuid="643" tvg-name="Hallmark Movies & More 🇺🇸" tvg-id="628e685ba3811100070551a8" tvg-logo="https://provider-static.plex.tv/epg/cms/production/34483a00-035c-4231-b9e0-72f3bcda2b05/HMMore_Color_Logo_1500x1000RDX.png" group-logo="https://cdn-icons-png.freepik.com/512/17285/17285060.png" group-title="Films 📽️",☆ Hallmark Movies & More 🇺🇸
+#EXTINF:-1 cuid="643" tvg-name="Hallmark Movies & More 🇺🇸" tvg-id="628e685ba3811100070551a8" tvg-logo="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/HMMore_AMZ_FAST_Hallamrk_Holiday_Favorites_EPG_Channel_Logo_1920x1080_Dec_2026._SL500_FMpng_.png" group-logo="https://cdn-icons-png.freepik.com/512/17285/17285060.png" group-title="Films 📽️",☆ Hallmark Holiday Favorites 🇺🇸
+https://amg00235-amg00235c6-lg-us-11160.playouts.now.amagi.tv/ts-us-w2-n1/playlist/amg00235-crownmediafamilynetworksfast-hallmarkmoviesandmoresubfeed-lgus/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]
 https://jmp2.uk/plu-628e685ba3811100070551a8.m3u8
 
 =====================❖========================
@@ -3240,7 +3257,7 @@ https://jmp2.uk/stvp-USAJ2200023Z0
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00721-inverleigh-unbeaten-xiaomi/playlist.m3u8
 
 #EXTINF:-1 cuid="1499" tvg-name="European League of Football 🇺🇸" tvg-id="HBCUGO.SPORTS.us2" tvg-logo="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/HBCUGO_16x9_White._SL170_FMpng_.png" group-logo="https://github.com/iprtl/p1/raw/master/iconsGrups/Desportos.png" group-title="Sports 🌍",☆ HBCU GO Sports 🇺🇸
-+https://jmp2.uk/rok-d5ac470e48d355c19371733b18be8925.m3u8
+https://jmp2.uk/plex-6a1610bebdf296985fd95603-631a212e82b744e0309aa56e.m3u8
 
 #EXTINF:-1 cuid="1500" tvg-name="Cowboy+ Sports" tvg-id="" tvg-logo="https://canvas-lb.tubitv.com/opts/u4W97Evqtq5RMQ==/3f8686fa-f328-4833-a8f1-c055986fdcdd/CHgQeDoFMS4xLjlAAQ==" group-logo="https://github.com/iprtl/p1/raw/master/iconsGrups/Desportos.png" group-title="Sports 🌍",☆ Cowboy+ Sports 🇺🇸
 https://live-manifest.production-public.tubi.io/live/b92c560a-132b-4f67-a993-94794a9ab904/playlist.m3u8
@@ -3274,8 +3291,9 @@ https://nhl-firetv.amagi.tv/playlist.m3u8
 #EXTINF:-1 cuid="1508" tvg-name="Pac 12 Insider" tvg-id="USBA300034DB" tvg-logo="https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/PAC_12.png" group-logo="https://github.com/iprtl/p1/raw/master/iconsGrups/Desportos.png" group-title="Sports 🌍",☆ Pac 12 Insider 🇺🇸
 https://bit.ly/3u6nprG?USBA300034DB.m3u8
 
-#EXTINF:-1 cuid="1509" tvg-name="Origin Sports 🇺🇸" tvg-id="CABC2300014PV" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD1200010I8_20240520T220120SQUARE.png" group-logo="https://github.com/iprtl/p1/raw/master/iconsGrups/Desportos.png" group-title="Sports 🌍",☆ Origin Sports 🇺🇸
-+https://d3p5ht7q3twp32.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-8z9wshyryruk3/4c3ac6bb-c329-44f2-a3c6-97bc46c8a82d/3.m3u8
+#EXTINF:-1 cuid="1509" tvg-name="Goal TV" tvg-id="Goal.TV.us" tvg-logo="https://www.tineye.com/api/v1/query/f81e68b54adb22ec2242c97d9cabfc7460e96801" group-logo="https://github.com/iprtl/p1/raw/master/iconsGrups/Desportos.png" group-title="Sports 🌍",☆ Goal TV 🇺🇸
+https://streams2.sofast.tv/ptnr-khabriya/title-Goal_TV_khabriya/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/42c099e0-2600-480e-827e-f0a2439d43ba/master.m3u8
+
 
 #EXTINF:-1 cuid="1510" tvg-name="Trace Sport Stars 🇺🇸" tvg-id="IN8000085E" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/3/30/Trace_Sport_Stars_(2013-.n.v.).png" group-logo="https://github.com/iprtl/p1/raw/master/iconsGrups/Desportos.png" group-title="Sports 🌍",☆ Trace Sport Stars 🇺🇸
 https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
@@ -3348,8 +3366,6 @@ https://sportsgrid-tribal.amagi.tv/playlist.m3u8
 https://d2a31kzot4f8t3.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-8c6otsdsok8vf/v1/amc_msgsportszone_1/samsungheadend_us/latest/main/hls/playlist.m3u8
 
 
-
-
 #EXTINF:-1 cuid="1595" tvg-name="RugbyPass TV" tvg-id="UK:.RugbyPass.TV.be" tvg-logo="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/rugbypass._SL170_FMpng_.png" group-logo="https://github.com/iprtl/p1/raw/master/iconsGrups/Desportos.png" group-title="Sports 🌍",☆ RugbyPass TV 🇺🇸
 https://wurlworldrugby.global.transmit.live/hls/688cf16a14352f4b8d1bd9ab/v1/world_rugby_rugbypasstv_1/lg_us/latest/main/hls/playlist.m3u8?wurl_channel=1872&wurl_name=RugbyPassTV&coppa=0&uid=[DEVICE_ID]&rdid=[IFA]&ifatype=[IFA_TYPE]&dnt=[LMT]&donotsell=[DNS]&isgdpr=[GDPR]&gdpr=[GDPR_CONSENT]&country=[COUNTRY]&pr=[US_PRIVACY]&appstoreurl=[APP_STOREURL]&bundleid=[APP_BUNDLE]&appname=[APP_NAME]&appversion=[APP_VERSION]&dt=[DEVICE_TYPE]&make=[DEVICE_MAKE]&model=[DEVICE_MODEL]&targetad=[TARGETAD_ALLOWED]&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]
 https://jmp2.uk/stvp-US1000004YJ
@@ -3396,9 +3412,9 @@ https://jmp2.uk/plu-65cf60d166eec80008724e6f.m3u8
 #EXTINF:-1 cuid="1656" tvg-name="La Liga tv 🇪🇸" tvg-id="LALIGA.TV.BAR.es" tvg-logo="https://play-lh.googleusercontent.com/0-kUtzxeXzR4DnwRyPTOvG1Uxhhgkmy9XVlbxZpS1ie8yWvLzRKBp5m6DgFp7EKReDg" group-logo="https://github.com/iprtl/p1/raw/master/iconsGrups/Desportos.png" group-title="Sports 🌍",☆ La Liga tv 🇪🇸
 +https://drjpy7suzu4c5.cloudfront.net/out/v1/0c06db0274c04e64ab6ae0450f5fbda8/index.m3u8
 
-#EXTINF:-1 cuid="1657" tvg-name="TYC Sports Play 🇦🇷" tvg-id="TyCSports.ar" tvg-logo="https://play-lh.googleusercontent.com/lMZ8IE19zdpnlDuZSPtapCYDBDwOGXlovEMsZHXClDzl0m_MHuMM1Hsdo-oohnFW3Q" group-logo="https://github.com/iprtl/p1/raw/master/iconsGrups/Desportos.png" group-title="Sports 🌍",☆ TYC Sports Play 🇦🇷
+#EXTINF:-1 cuid="1657" tvg-name="TYC Sports Play 🇦🇷" tvg-id="TyCSports.ar" tvg-logo="https://play-lh.googleusercontent.com/lMZ8IE19zdpnlDuZSPtapCYDBDwOGXlovEMsZHXClDzl0m_MHuMM1Hsdo-oohnFW3Q" group-logo="https://github.com/iprtl/p1/raw/master/iconsGrups/Desportos.png" group-title="Sports 🌍",☆ TYC Sports Fan 🇦🇷
 https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8?channel_name=TyC%20Sports%20Fan&content_genre=Sport&ic=IAB17&rating=PG&language=ES&provider=FreeLiveSports&us_privacy=[US_PRIVACY]&gdpr=[GDPR]&gdpr_consent=[CONSENT_STRING]&coppa=0&content_livestream=1&p=sportstribal&url=[REF]&lmt=[LAT]&did=[DEVICE_ID]
-
+https://ssai.aniview.com/api/v1/hls/stream.m3u8?AVS_SSAIID=69bb6c260a8dd743d1039504&AV_CHANNEL_NAME=TYC-SPORTS-FAN&AV_CONTENT_LANGUAGE=es&AV_CONTENT_RATING=TV-MA&cb=MX_CACHEBUSTER&AV_APPPKGNAME=MX_APP_BUNDLE&AV_APPNAME=MX_APP_NAME&AV_APPSTOREURL=MX_APP_STORE_URL&AV_WIDTH=MX_WIDTH&AV_HEIGHT=MX_HEIGHT&AV_LANGUAGE=MX_DEVICE_LANGUAGE&AV_IFA_TYPE=MX_IFA_TYPE&AV_CATEGORY=IAB17-12&AV_TITLE=TYC-SPORTS-FAN&AV_EPISODE=MX_CONTENT_EPISODE&AV_CONTENT_GENRE=Soccer&AV_GDPR=MX_GDPR&AV_CONSENT=MX_CONSENT&AV_COPPA=MX_COPPA&AV_IDFA=MX_IFA&AV_CCPA=MX_US_PRIVACY&AV_CONTENT_CHANNEL=TYC-SPORTS-FAN&AV_CUSTOM17=Google--520678__86__14009__0__0__0____MP&AV_CUSTOM18=MX_GIVN&AV_CUSTOM19=pn%3D2v2lTwj4%26context%3Dmid-14009
 
 #EXTINF:-1 cuid="1664" tvg-name="ITV Deportes" tvg-id="63f7e3f9dff38e00082a57af" tvg-logo="https://images.pluto.tv/channels/63f7e3f9dff38e00082a57af/colorLogoPNG.png" group-logo="https://github.com/iprtl/p1/raw/master/iconsGrups/Desportos.png" group-title="Sports 🌍",☆ ITV Deportes
 https://jmp2.uk/plu-63f7e3f9dff38e00082a57af.m3u8
@@ -3665,8 +3681,10 @@ https://amg13231-actve-amg13231c4-samsung-nz-3093.playouts.now.amagi.tv/playlist
 #EXTINF:-1 cuid="1771" tvg-name="Surf Channel 🇪🇸 🏄" tvg-id="ES:.Surf.Channel.be" tvg-logo="https://github.com/iprtl/p1/raw/master/logo/SurfChannel.webp" group-logo="https://cdn-icons-png.freepik.com/512/5971/5971575.png" group-title="Sports • Radical 🏄⛷️",☆ Surf Channel 🇪🇸 🏄
 https://jmp2.uk/stvp-ES3400002PY
 
-#EXTINF:-1 cuid="1772" tvg-name="World Surf League 🇺🇸 🏄" tvg-id="plex.tv.World.Surf.League.24/7.plex" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f477c6bf-6e85-45d0-bd00-cf1f31e4906a/1091_surfnowtv_1.png" group-logo="https://cdn-icons-png.freepik.com/512/5971/5971575.png" group-title="Sports • Radical 🏄⛷️",☆ World Surf League 🇺🇸 🏄
-+https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-652875586425fdb1f32d2169/?X-Plex-Token=xePfG98DiSxDoEPoY91x
+#EXTINF:-1 cuid="1772" tvg-name="Xtrem Sport" tvg-id="" tvg-logo="https://mobibase.com/wp-content/themes/mobibase/assets/images/xtremsports.png" group-title="Sports • Radical 🏄⛷️",☆ Xtrem Sports 🇺🇸 🏄
+https://streams2.sofast.tv/ptnr-khabriya/title-XTREM-SPORTS-ENG_khabriya/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/ab466b54-5b37-480a-9e53-9d9c4aaf19bc/manifest.m3u8?ads.app_storeid=com.neotv.app&ads.app_storeurl=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.neotv.app&ads.app_name=NeoTV+&ads.language=EN&ads.inapp_browser=inapp&ads.w=1080&ads.h=720&ads.os_code=2&ads.device_type_code=3&ads.us_privacy=1NYN&ads.coppa=0&ads.lmt=0
+
+https://ssai.aniview.com/api/v1/hls/stream.m3u8?AVS_SSAIID=662db98786a52d3e570cb3f5&AV_CHANNEL_NAME=XTREM-SPORT&AV_CONTENT_LANGUAGE=en&AV_CONTENT_RATING=TV-G&cb=MX_CACHEBUSTER&AV_APPPKGNAME=MX_APP_BUNDLE&AV_APPNAME=MX_APP_NAME&AV_APPSTOREURL=MX_APP_STORE_URL&AV_WIDTH=MX_WIDTH&AV_HEIGHT=MX_HEIGHT&AV_LANGUAGE=MX_DEVICE_LANGUAGE&AV_IFA_TYPE=MX_IFA_TYPE&AV_CATEGORY=IAB17&AV_TITLE=XTREM-SPORT&AV_EPISODE=MX_CONTENT_EPISODE&AV_CONTENT_GENRE=Sports%20events&AV_GDPR=MX_GDPR&AV_CONSENT=MX_CONSENT&AV_COPPA=MX_COPPA&AV_IDFA=MX_IFA&AV_CCPA=MX_US_PRIVACY&AV_CONTENT_CHANNEL=XTREM-SPORT&AV_CUSTOM17=Google--520678__86__10887__0__0__0____MP&AV_CUSTOM18=MX_GIVN&AV_CUSTOM19=pn%3D2v2lTwj4%26context%3Dmid-10887
 
 
 
