@@ -102,6 +102,7 @@ https://cis-no-samsung.otteravision.com/cis/no/no_h265.m3u8
 +https://jmp2.uk/plu-5e84db2db3851800077c871e.m3u8
 
 #EXTINF:-1 cuid="127" tvg-name="Todo Novelas 🇲🇽 [ᴘʟᴇx]" tvg-id="ESBC43000013T" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC43000013T_20230915T042726SQUARE.png_20230915042727.png" group-logo="https://cdn-icons-png.freepik.com/512/2112/2112926.png" group-title="Novelas 🌎",☆ Todo Novelas 🇲🇽
+https://ssai.aniview.com/api/v1/hls/stream.m3u8?cb=[CACHEBUSTER]&AV_WIDTH=[ADS.W]&AV_HEIGHT=[ADS.H]&AV_APPNAME=[ADS.APP_NAME]&AV_APPSTOREURL=[ADS.APP_STORE_URL]&AV_APPPKGNAME=[ADS.APP_BUNDLE]&AV_IDFA=[ADS.IFA]&AV_IFA_TYPE=[ADS.IFA_TYPE]&AV_CCPA=[ADS.US_PRIVACY]&AV_GDPR=[ADS.GDPR]&AV_CONSENT=[ADS.GDPR_CONSENT]&AV_CONTENT_URL=&AV_CONTENT_TITLE=&AV_CONTENT_EPISODE=&AV_CONTENT_SERIES=&AV_CONTENT_SEASON=&AV_CONTENT_KEYWORDS=&AV_CONTENT_NETWORK=&AV_CONTENT_ID=[ADS.VIDAA_ADS_CONTENTID]&AV_CONTENT_CHANNEL=&AV_CONTENT_CONTEXT=&AV_CONTENT_LENGTH=&AV_VAUTH=[ADS.VAUTH]&AV_DNT=[ADS.DNT]&Content_Id=[ADS.ADS_CONTENTID]&AV_LANGUAGE=[ADS.DEVICE_LANGUAGE]&AV_RTB_DEVICE_TYPE=[ADS.DEVICE_TYPE]&AV_OSVERS=[ADS.DEVICE_OSV]&AVS_SSAIID=67d18d7b0431f385ba055b38&AV_CONTENT_LANGUAGE=es&AV_CONTENT_GENRE=tv%20novelas&AV_CONTENT_CAT=IAB1-5&AV_CONTENT_RATING=PG&AV_CLIENT_SECTION=zylo_todonovelas&content_channel_name=todonovelas&content_livestream=1&AV_CONTENT_PROVIDER=Zylo&ads.vidaa_ads_param=1191723366
 https://jmp2.uk/stvp-ESBC43000013T
 
 #EXTINF:-1 cuid="128" tvg-name="Sony One Novelas 🇲🇽" tvg-id="USAJ3000002OC" tvg-logo="https://play-lh.googleusercontent.com/7DRaDczy1zOuBcLdixMRf_NAxAFq6BuNJ1OQdlmN-nuSWfGYj_phTEpa_PiFqHxMRF_-=w0" group-logo="https://cdn-icons-png.freepik.com/512/2112/2112926.png" group-title="Novelas 🌎",☆ Sony One Novelas 🇲🇽
@@ -317,7 +318,7 @@ https://jmp2.uk/plu-5d0c16d686454ead733d08f8.m3u8
 https://jmp2.uk/plu-667f3852efa2a10008e1e514.m3u8
 
 #EXTINF:-1 cuid="270" tvg-name="Inspector Gadget 🇺🇸" tvg-id="5d765786aad587cf4d0e2bf6" tvg-logo="https://images.pluto.tv/channels/5d765786aad587cf4d0e2bf6/colorLogoPNG.png" group-logo="https://cdn-icons-png.freepik.com/512/3636/3636254.png" group-title="Kids 🧒🌎",☆ Inspector Gadget 🇺🇸
-+https://jmp2.uk/plu-5d765786aad587cf4d0e2bf6.m3u8
+https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=99982011&ads.xumo_streamId=99982011&ads.channelId=99982011&ads.ad_tag_id=49512&ads.csid=lgchannels_de_inspectorgadget_ssai&ads.channelName=inspectorgadget&ads.xumo_contentName=inspectorgadget&ads.xumo_contentId=3926&ads.xumo_providerName=inspectorgadget&ads.xumo_providerId=3926&ads.content_category=IAB6&ads.content_genre=Entertainment,Family,GV&ads.content_language=de&ads.content_rating=tv-g&ads.coppa=1&ads.livestream=0&ads.prodq=1&aws.brightLineAdSignalingEnabled=true&ads.did=[IFA]&ads.lmt=[LMT]&ads.dnt=[DNS]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.country=[COUNTRY]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.app_name=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_storeurl=[APP_STOREURL]
 
 #EXTINF:-1 cuid="271" tvg-name="90's Kids 🇺🇸" tvg-id="6452c814939a590008567a3b" tvg-logo="https://images.pluto.tv/channels/6452c814939a590008567a3b/colorLogoPNG.png" group-logo="https://cdn-icons-png.freepik.com/512/3636/3636254.png" group-title="Kids 🧒🌎",☆ 90's Kids 🇺🇸
 https://jmp2.uk/plu-6452c814939a590008567a3b.m3u8
@@ -606,7 +607,7 @@ https://jmp2.uk/stvp-USBD12000038K
 https://b84386a1af744d68ab1a216c8dbb5f3b.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Vizio_Portlandia/playlist.m3u8?ads.wurl_channel=928&ads.wurl_name=Portlandia&ads.coppa=0&ads.psid=%7bADID%7d&ads.targetopt=%7bTARGETOPT%7d&ads.us_privacy=%7bUSPRIVACY%7d&ads.ifa_type=%7bIFATYPE%7d&ads.lmt=%7bLMT%7d&ads.app_bundle=%7bAPP_BUNDLE%7d&ads.app_name=%7bAPP_NAME%7d&ads.app_store_url=%7bAPP_STORE_URL%7d&ads.url=%7bDOMAIN%7d&ads.w=%7bWIDTH%7d&ads.h=%7bHEIGHT%7d&ads.device_make=%7bDEVICE_MAKE%7d&ads.vizdartoken=eyJhdWQiOiI5OCIsIndmcGNpZCI6Mzk5NjU2NzQ3OH0
 
 #EXTINF:-1 cuid="362" tvg-name="Slightly Off IFC" tvg-id="plex.tv.Slightly.Off.IFC.plex" tvg-logo="https://provider-static.plex.tv/8/epg/channels/logos/gracenote/836ae5bf33d76b6a6bbb10e510978b11.png" group-logo="https://cdn-icons-png.freepik.com/512/5625/5625746.png" group-title="​Fanny & Comedy 😂",☆ Slightly Off IFC 🇺🇸
-+https://wurlrainbowmedia.global.transmit.live/hls/68c49ef04301491a9f4cfbcb/v1/amc_slightly_off_by_amc_1/lg_us/latest/main/hls/playlist.m3u8
+https://jmp2.uk/plex-6a1610bebdf296985fd95603-5fc705eea2236e002d69f5ae.m3u8
 
 
 #EXTINF:-1 cuid="363" tvg-name="U&Laughs" tvg-id="64c0d6f34096290008132d6b" tvg-logo="https://images.pluto.tv/channels/64c0d6f34096290008132d6b/colorLogoPNG.png" group-logo="https://cdn-icons-png.freepik.com/512/5625/5625746.png" group-title="​Fanny & Comedy 😂",☆ U&Laughs 🇬🇧
@@ -782,7 +783,8 @@ https://amg00047-amg00047c2-vidaa-us-10072.playouts.now.amagi.tv/playlist/amg000
 
 
 #EXTINF:-1 cuid="408" tvg-name="The Bob Ross Channel 🇺🇸" tvg-id="plex.tv.The.Bob.Ross.Channel.plex" tvg-logo="https://images.pluto.tv/channels/64b82075e4391c0008c3c1fe/colorLogoPNG.png" group-logo="https://cdn-icons-png.freepik.com/512/7396/7396628.png" group-title="Tv • Lifestyles & Travel 🍽🛍️✈️",☆ The Bob Ross Channel 🇺🇸
-+https://2ee6784f.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/VENMVFZQbHVzLWNhX1RoZUJvYlJvc3NDaGFubmVsLTFfSExT/playlist.m3u8
+https://jmp2.uk/rok-1d3f60995d80521882a379fc06e47679.m3u8
+https://wurlcineverse.global.transmit.live/hls/678862e6ce42a042c23acdfd/v1/cinedigm_entertainment_corp_thebobrosschannel_1/lg_us/latest/main/hls/playlist.m3u8?wurl_channel=1844&wurl_name=TheBobRossChannel&coppa=0&uid=[DEVICE_ID]&rdid=[IFA]&ifatype=[IFA_TYPE]&dnt=[LMT]&donotsell=[DNS]&isgdpr=[GDPR]&gdpr=[GDPR_CONSENT]&country=[COUNTRY]&pr=[US_PRIVACY]&appstoreurl=[APP_STOREURL]&bundleid=[APP_BUNDLE]&appname=[APP_NAME]&appversion=[APP_VERSION]&dt=[DEVICE_TYPE]&make=[DEVICE_MAKE]&model=[DEVICE_MODEL]&targetad=[TARGETAD_ALLOWED]&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]
 
 #EXTINF:-1 cuid="409" tvg-name="Escape to the Country" tvg-id="66d71485167a8b0008fd3345" tvg-logo="https://images.pluto.tv/channels/66d71485167a8b0008fd3345/colorLogoPNG.png" group-logo="https://cdn-icons-png.freepik.com/512/7396/7396628.png" group-title="Tv • Lifestyles & Travel 🍽🛍️✈️",☆ Escape to the Country 🇺🇸
 https://jmp2.uk/plu-66d71485167a8b0008fd3345.m3u8
@@ -892,8 +894,9 @@ https://is.gd/56CFLD?FRBD4100002R7.m3u8
 #EXTINF:-1 cuid="440" tvg-name="Fashion Midnight 🇺🇸" tvg-id="FTV.HD.pt" tvg-logo="https://iptvx.one/picons/fashion-tv.png" group-logo="https://cdn-icons-png.freepik.com/256/8020/8020259.png" group-title="Tv • Celebrities 🤩",☆ Fashion Secrets 🇺🇸
 https://ssai.aniview.com/api/v1/hls/stream.m3u8?cb=[CACHEBUSTER]&AV_WIDTH=[ADS.W]&AV_HEIGHT=[ADS.H]&AV_APPNAME=[ADS.APP_NAME]&AV_APPSTOREURL=[ADS.APP_STORE_URL]&AV_APPPKGNAME=[ADS.APP_BUNDLE]&AV_IDFA=[ADS.IFA]&AV_IFA_TYPE=[ADS.IFA_TYPE]&AV_CCPA=[ADS.US_PRIVACY]&AV_GDPR=[ADS.GDPR]&AV_CONSENT=[ADS.GDPR_CONSENT]&AV_CONTENT_URL=&AV_CONTENT_TITLE=&AV_CONTENT_EPISODE=&AV_CONTENT_SERIES=&AV_CONTENT_SEASON=&AV_CONTENT_KEYWORDS=&AV_CONTENT_NETWORK=&AV_CONTENT_ID=[ADS.VIDAA_ADS_CONTENTID]&AV_CONTENT_CHANNEL=&AV_CONTENT_CONTEXT=&AV_CONTENT_LENGTH=&AV_VAUTH=[ADS.VAUTH]&AV_DNT=[ADS.DNT]&Content_Id=[ADS.ADS_CONTENTID]&AV_LANGUAGE=[ADS.DEVICE_LANGUAGE]&AV_RTB_DEVICE_TYPE=[ADS.DEVICE_TYPE]&AV_OSVERS=[ADS.DEVICE_OSV]&AVS_SSAIID=67c0c39764ad6f7dab07aa0b&AV_CONTENT_LANGUAGE=en&AV_CONTENT_GENRE=fashion%20and%20lifestyle&AV_CONTENT_CAT=IAB7&AV_CONTENT_RATING=R&AV_CLIENT_SECTION=ftv_secrets&content_channel_name=ftv%20-fashiontv%20Secrets&content_livestream=1&AV_CONTENT_PROVIDER=FTV&ads.vidaa_ads_param=1191723366
 
-#EXTINF:-1 cuid="441" tvg-name="Fashion Paris 🇺🇸" tvg-id="FTV.HD.pt" tvg-logo="https://iptvx.one/picons/fashion-tv.png" group-logo="https://cdn-icons-png.freepik.com/256/8020/8020259.png" group-title="Tv • Celebrities 🤩",☆ Fashion Paris 🇺🇸
-+https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-6490c01f3b3ce9e1aaad95be/?X-Plex-Token=xePfG98DiSxDoEPoY91x
+#EXTINF:-1 cuid="441" tvg-name="Fashion Paris 🇺🇸" tvg-id="FTV.HD.pt" tvg-logo="https://iptvx.one/picons/fashion-tv.png" group-logo="https://cdn-icons-png.freepik.com/256/8020/8020259.png" group-title="Tv • Celebrities 🤩",☆ FashionTV L'Original 🇺🇸
+https://ssai.aniview.com/api/v1/hls/stream.m3u8?cb=[CACHEBUSTER]&AV_WIDTH=[ADS.W]&AV_HEIGHT=[ADS.H]&AV_APPNAME=[ADS.APP_NAME]&AV_APPSTOREURL=[ADS.APP_STORE_URL]&AV_APPPKGNAME=[ADS.APP_BUNDLE]&AV_IDFA=[ADS.IFA]&AV_IFA_TYPE=[ADS.IFA_TYPE]&AV_CCPA=[ADS.US_PRIVACY]&AV_GDPR=[ADS.GDPR]&AV_CONSENT=[ADS.GDPR_CONSENT]&AV_CONTENT_URL=&AV_CONTENT_TITLE=&AV_CONTENT_EPISODE=&AV_CONTENT_SERIES=&AV_CONTENT_SEASON=&AV_CONTENT_KEYWORDS=&AV_CONTENT_NETWORK=&AV_CONTENT_ID=[ADS.VIDAA_ADS_CONTENTID]&AV_CONTENT_CHANNEL=&AV_CONTENT_CONTEXT=&AV_CONTENT_LENGTH=&AV_VAUTH=[ADS.VAUTH]&AV_DNT=[ADS.DNT]&Content_Id=[ADS.ADS_CONTENTID]&AV_LANGUAGE=[ADS.DEVICE_LANGUAGE]&AV_RTB_DEVICE_TYPE=[ADS.DEVICE_TYPE]&AV_OSVERS=[ADS.DEVICE_OSV]&AVS_SSAIID=67c0c45919f6d7cbaa031e35&AV_CONTENT_LANGUAGE=en&AV_CONTENT_GENRE=fashion%20and%20lifestyle%20news&AV_CONTENT_CAT=IAB7&AV_CONTENT_RATING=R&AV_CLIENT_SECTION=ftv_loriginal&content_channel_name=ftv%20-fashiontv%20loriginal&content_livestream=1&AV_CONTENT_PROVIDER=FTV&ads.vidaa_ads_param=1191723366
+https://amg01546-fashiontv-amg01546c1-lg-br-9558.playouts.now.amagi.tv/playlist/amg01546-fashiontv-fashiontv-lgbr/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&coppa=0&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]
 
 #EXTINF:-1 cuid="442" tvg-name="TMZ" tvg-id="USBD70000213" tvg-logo="https://canvas-lb.tubitv.com/opts/bX6Ju5cXjY5SMw==/ac6425fe-0808-4566-ba6a-066d22dc3829/CHgQeDoFMS4xLjZAAQ==" group-logo="https://cdn-icons-png.freepik.com/256/8020/8020259.png" group-title="Tv • Celebrities 🤩",☆ The TMZ Channel (vᴘɴ 🇺🇸)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-tmz-lgus/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.coppa=0&ads.targetad=[TARGETAD_ALLOWED]&ads.givn=[NONCE]&ads.dmake=[DEVICE_MAKE]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]
@@ -1075,7 +1078,7 @@ https://jmp2.uk/rok-8d8befc9060e861eb1bdd5b21c0403b3.m3u8
 https://d3o593mz1glx8d.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-1ca6ra6358f5t/OuterSphere_US.m3u8
 
 #EXTINF:-1 cuid="460" tvg-name="" tvg-id="plex.tv.Outlaw.plex" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c2/Outlaw_The_Western_Channel_2024.svg/revision/latest/scale-to-width-down/250?cb=20240103031057" group-logo="https://cdn-icons-png.freepik.com/256/8633/8633669.png" group-title="Tv • Series 📺",☆ Outlaw (vᴘɴ 🇺🇸)
-+http://txc4-swbb-mn.fibernet-tv.com/KABY-CW-2364/index.m3u8
+https://jmp2.uk/plex-6a1610bebdf296985fd95603-66213052abd90e037ccd1fe4.m3u8
 
 #EXTINF:-1 cuid="461" tvg-name="Acorn TV Mysteries" tvg-id="US35000201T" tvg-logo="https://image.xumo.com/v1/channels/channel/99951535/168x168.png?type=color_onBlack" group-logo="https://cdn-icons-png.freepik.com/256/8633/8633669.png" group-title="Tv • Series 📺",☆ Acorn TV Mysteries 🇬🇧
 https://jmp2.uk/rok-fb8579bf16248ce630f42f129ed2e8d5.m3u8
@@ -1123,7 +1126,8 @@ https://janus.xpbroadcasting.com:8443/hls/xptv2.m3u8
 https://janus.xpbroadcasting.com:8443/hls/xptvUS.m3u8
 
 #EXTINF:-1 cuid="475" tvg-name="The FBI" tvg-id="" tvg-logo="https://image.xumo.com/v1/channels/channel/99951395/168x168.png?type=color_onBlack" group-logo="https://cdn-icons-png.freepik.com/256/8633/8633669.png" group-title="Tv • Series 📺",☆ The FBI 🇺🇸
-+https://live-manifest.production-public.tubi.io/live/0e9b3dc6-8b19-4854-b0d1-df85b9ffa282/playlist.m3u8
+https://amg00136-wbd-amg00136c19-vizio-us-1802.playouts.now.amagi.tv/playlist/amg00136-warnerbrothersdiscovery-warnerbrostvfbi-vizious/playlist.m3u8?did=%7bADID%7d&us_privacy=%7bUSPRIVACY%7d&ifa_type=%7bIFATYPE%7d&lmt=%7bLMT%7d&app_name=%7bAPP_NAME%7d&app_bundle=%7bAPP_BUNDLE%7d&app_store_url=%7bAPP_STORE_URL%7d&url=%7bDOMAIN%7d&dnt=%7bDNT%7d&coppa=%7bCOPPA%7d&device_make=%7bDEVICE_MAKE%7d&w=%7bWIDTH%7d&h=%7bHEIGHT%7d&skip=%7bSKIPPABLE%7d&vizdartoken=eyJhdWQiOiI5MyIsIndmcGNpZCI6NDE1ODI0NjQxNn0
+https://live-manifest.production-public.tubi.io/live/0e9b3dc6-8b19-4854-b0d1-df85b9ffa282/playlist.m3u8
 
 #EXTINF:-1 cuid="476" tvg-name="Lassie" tvg-id="US1800010NE" tvg-logo="https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/lassie_us._SL170_FMpng_.png" group-logo="https://cdn-icons-png.freepik.com/256/8633/8633669.png" group-title="Tv • Series 📺",☆ Lassie 🇺🇸
 https://jmp2.uk/rok-8c36c765b4415db78a85078c37df4a5f.m3u8
@@ -1155,10 +1159,18 @@ https://amg01822-amc-amg01822c1-lg-br-8375.playouts.now.amagi.tv/playlist/amg018
 https://jmp2.uk/plu-678aa104680721c77c506746.m3u8
 https://jmp2.uk/plu-678aa0b3680721c77c5035dd.m3u8
 
+#EXTINF:-1 tvg-chno="" cuid="627" tvg-name="The Addams Family 🇺🇸" tvg-id="5d81607ab737153ea3c1c80e" tvg-logo="https://images.pluto.tv/channels/5d81607ab737153ea3c1c80e/colorLogoPNG.png" group-logo="https://cdn-icons-png.freepik.com/256/8633/8633669.png" group-title="Tv • Series 📺",☆ The Addams Family 🇺🇸
+https://jmp2.uk/plu-5d81607ab737153ea3c1c80e.m3u8
 
+#EXTINF:-1 tvg-chno="" cuid="628" tvg-name="Alfred Hitchcock Presents 🇺🇸" tvg-id="US1800014CG" tvg-logo="https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/alfred_hitchcock_presents_us.png" group-logo="https://cdn-icons-png.freepik.com/256/8633/8633669.png" group-title="Tv • Series 📺",☆ Alfred Hitchcock Presents 🇺🇸
+https://xumo-xumoent-ch825-ku23q.fast.nbcuni.com/live/master.m3u8?@iprtlk
+https://d3f4oii5n0oeqi.cloudfront.net/11701/88814618/hls/master.m3u8?ads.xumo_channelId=88814618&ads.xumo_streamId=88814618
+
+#EXTINF:-1 cuid="672" tvg-name="The X Files" tvg-id="6913e381b6bf26bb6e798c13" tvg-logo="https://images.pluto.tv/channels/6913e381b6bf26bb6e798c13/colorLogoPNG.png" group-logo="https://cdn-icons-png.freepik.com/256/8633/8633669.png" group-title="Tv • Series 📺",☆ The X Files 🇺🇸
+https://jmp2.uk/plu-6913e381b6bf26bb6e798c13.m3u8
 
 #EXTINF:-1 cuid="481" tvg-name="The.Librarians" tvg-id="plex.tv.The.Librarians.plex" tvg-logo="https://provider-static.plex.tv/epg/cms/production/7a844a53-a5ad-4ef0-9217-24323f0e80de/Channel_Logo_The_Librarians_WHITERDX.png" group-logo="https://cdn-icons-png.freepik.com/256/8633/8633669.png" group-title="Tv • Series 📺",☆ The Librarians (vᴘɴ 🇺🇸)
-++https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-654a8041fa75888bea239718/?X-Plex-Token=xePfG98DiSxDoEPoY91x
+https://jmp2.uk/plex-6a1610bebdf296985fd95603-654a8041fa75888bea239718.m3u8
 
 #EXTINF:-1 cuid="482" tvg-name="CSI 🇺🇸" tvg-id="5efbd29e4aa26700076c0d06" tvg-logo="https://images.pluto.tv/channels/5efbd29e4aa26700076c0d06/colorLogoPNG.png" group-logo="https://cdn-icons-png.freepik.com/256/8633/8633669.png" group-title="Tv • Series 📺",☆ CSI 🇺🇸
 https://jmp2.uk/plu-5efbd29e4aa26700076c0d06.m3u8
@@ -1303,16 +1315,19 @@ https://jmp2.uk/plu-68bb16e7f89c82a68bcc4397.m3u8
 #EXTINF:-1 cuid="508" tvg-name="Life Below Zero" tvg-id="US4100033DZ" tvg-logo="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/NG_LBZ_STATION_LOGO_ART_16x9._SL170_FMpng_.png" group-logo="https://cdn-icons-png.freepik.com/512/10399/10399850.png" group-title="Tv • Reality 📺",☆ Life Below Zero (vᴘɴ 🇺🇸)
 https://amg00497-amg00497c36-amgplt0023.playout.now3.amagi.tv/ts-us-e2-n2/playlist/amg00497-amg00497c36-amgplt0023/playlist.m3u8
 
+#EXTINF:-1 cuid="507" tvg-name="Life Below Zero" tvg-id="plex.tv.Dog.the.Bounty.Hunter.plex" tvg-logo="https://tvpdotcomdynamiclogopus.samsungcloud.tv/resize?url=https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/PH3600003MG_20260121T015927SQUARE.png&h=250" group-logo="https://cdn-icons-png.freepik.com/512/10399/10399850.png" group-title="Tv • Reality 📺",☆ Dog the Bounty Hunter 🇺🇸
+https://dbrb49pjoymg4.cloudfront.net/10001/99951485/hls/playlist.m3u8?includeAssetTags=true&ads.xumo_channelId=99951485&ads.xumo_streamId=99951485&ads.channelId=99951485&ads.channelName=AEDogtheBountyHunter&ads.caid=AEDogtheBountyHunter&ads.csid=xumo_web_AEDogtheBountyHunter_ssai&ads.genre=Reality&ads._fw_content_genre=Reality&ads._fw_coppa=0&ads.xumo_contentId=4324&ads.xumo_contentName=AEDogtheBountyHunter&ads.xumo_providerId=4324&ads.xumo_providerName=AEDogtheBountyHunter&ads.asnw=&ads.xumo_channelName=AEDogtheBountyHunter&ads._fw_h_x_country=US&ads._fw_ifa_type=&ads._fw_did=49cc6c40-ea08-4506-98e5-4521fc9c5eae&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_rating=&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.xumo_platform=web&ads.site_id=&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=&ads.appName=xumo
+
 #EXTINF:-1 cuid="509" tvg-name="Live PD Presents" tvg-id="GB3100002NB" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB3100002NB_20260203T045958SQUARE.png" group-logo="https://cdn-icons-png.freepik.com/512/10399/10399850.png" group-title="Tv • Reality 📺",☆ Wheels & Steel (vᴘɴ 🇺🇸)
 https://amg01775-amg01775c2-amgplt0093.playout.now3.amagi.tv/playlist/amg01775-amg01775c2-amgplt0093/playlist.m3u8?gdpr=REPLACE_ME&ic=REPLACE_ME&url=REPLACE_ME&device[did]=REPLACE_ME&gdpr_consent=REPLACE_ME&gender=REPLACE_ME&genre=REPLACE_ME&schain=REPLACE_ME&us_privacy=REPLACE_ME&app_bundle=REPLACE_ME&app_name=REPLACE_ME&app_store_url=REPLACE_ME&coppa=REPLACE_ME&device[dnt]=REPLACE_ME&is_lat=REPLACE_ME&content_livestream=REPLACE_ME&pod_ad_slots=REPLACE_ME&app_package=REPLACE_ME&idtype=REPLACE_ME&gpp_sid=REPLACE_ME&prodq=REPLACE_ME&operating_system=REPLACE_ME&ifa_type=REPLACE_ME&device_make=REPLACE_ME&iu=REPLACE_ME&inv_partner_domain=REPLACE_ME&app_domain=REPLACE_ME&app_version=REPLACE_ME&gpp=REPLACE_ME&lmt=REPLACE_ME&device_model=REPLACE_ME
 https://jmp2.uk/stvp-GB3100002NB
 
 ---
 
-#EXTINF:-1 cuid="510" tvg-name="I (Almost) Got Away with It" tvg-id="Love.Kills.us2" tvg-logo="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/Freevee_IAlmostGotAwayWithIt_1920x1080_new._SL500_FMpng_.png" group-logo="https://cdn-icons-png.freepik.com/512/10399/10399850.png" group-title="Tv • Reality 📺",☆ I (Almost) Got Away with It 🇺🇸
+#EXTINF:-1 cuid="510" tvg-name="I (Almost) Got Away with It" tvg-id="Love.Kills.us2" tvg-logo="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/Freevee_IAlmostGotAwayWithIt_1920x1080_new._SL500_FMpng_.png" group-logo="https://cdn-icons-png.freepik.com/512/10399/10399850.png" group-title="Tv • Reality 📺",☆ I (Almost) Got Away with It (vᴘɴ 🇺🇸)
 https://amg00136-wbd-amg00136c68-lg-us-5719.playouts.now.amagi.tv/playlist/amg00136-warnerbrothersdiscovery-ialmostgotawaywithit-lgus/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.dmake=[DEVICE_MAKE]
 
-#EXTINF:-1 cuid="510" tvg-name="Love Kills" tvg-id="Love.Kills.us2" tvg-logo="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/Freevee_LoveKillsl_1920x1080._SL500_FMpng_.png" group-logo="https://cdn-icons-png.freepik.com/512/10399/10399850.png" group-title="Tv • Reality 📺",☆ Love Kills 🇺🇸
+#EXTINF:-1 cuid="510" tvg-name="Love Kills" tvg-id="Love.Kills.us2" tvg-logo="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/Freevee_LoveKillsl_1920x1080._SL500_FMpng_.png" group-logo="https://cdn-icons-png.freepik.com/512/10399/10399850.png" group-title="Tv • Reality 📺",☆ Love Kills (vᴘɴ 🇺🇸)
 https://amg00136-wbd-amg00136c21-vizio-us-1804.playouts.now.amagi.tv/playlist/amg00136-warnerbrothersdiscovery-warnerbrostvlovekills-vizious/playlist.m3u8?did=%7bADID%7d&us_privacy=%7bUSPRIVACY%7d&ifa_type=%7bIFATYPE%7d&lmt=%7bLMT%7d&app_name=%7bAPP_NAME%7d&app_bundle=%7bAPP_BUNDLE%7d&app_store_url=%7bAPP_STORE_URL%7d&url=%7bDOMAIN%7d&dnt=%7bDNT%7d&coppa=%7bCOPPA%7d&device_make=%7bDEVICE_MAKE%7d&w=%7bWIDTH%7d&h=%7bHEIGHT%7d&skip=%7bSKIPPABLE%7d&vizdartoken=eyJhdWQiOiI5MyIsIndmcGNpZCI6NDE1ODI0NjQxOH0
 
 #EXTINF:-1 cuid="510" tvg-name="A&E Live PD Greatest Shifts" tvg-id="plex.tv.A&amp;E.Live.PD.Greatest.Shifts.plex" tvg-logo="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/LivePD_Greatest_Shifts_1920x1080_channel_logo_white._SL500_FMpng_.png" group-logo="https://cdn-icons-png.freepik.com/512/10399/10399850.png" group-title="Tv • Reality 📺",☆ Live PD Greatest Shifts 🇺🇸
@@ -1331,7 +1346,7 @@ https://jmp2.uk/plu-63c1384e829c850007922ca4.m3u8
 https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992524&ads.xumo_streamId=99992524&ads.channelId=99992524&ads.ad_tag_id=117499&ads.csid=lgchannels_ca_untoldstoriesoftheer_ssai&ads.channelName=untoldstoriesoftheer_ca&ads.xumo_contentName=FilmRiseCA&ads.xumo_contentId=1082&ads.xumo_providerName=FilmRiseCA&ads.xumo_providerId=1082&ads.content_category=IAB1-7&ads.content_genre=Reality,Drama,GD,Entertainment,GV,Reality-TV,Reality+Shows&ads.content_language=en&ads.content_rating=tv-14&ads.coppa=0&ads.livestream=0&ads.prodq=1&ads.did=[IFA]&ads.lmt=[LMT]&ads.dnt=[DNS]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.country=[COUNTRY]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.app_name=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_storeurl=[APP_STOREURL]
 https://live-manifest.production-public.tubi.io/live/e135f994-9d0c-4128-a643-759705edf9c9/playlist.m3u8
 
-#EXTINF:-1 cuid="511" tvg-name="Medical Incredible" tvg-id="plex.tv.Medical.Incredible.plex" tvg-logo="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/Freevee_MedicalIncredible_1920x1080_new._SL500_FMpng_.png" group-logo="https://cdn-icons-png.freepik.com/512/10399/10399850.png" group-title="Tv • Reality 📺",☆ Medical Incredible 🇺🇸
+#EXTINF:-1 cuid="511" tvg-name="Medical Incredible" tvg-id="plex.tv.Medical.Incredible.plex" tvg-logo="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/Freevee_MedicalIncredible_1920x1080_new._SL500_FMpng_.png" group-logo="https://cdn-icons-png.freepik.com/512/10399/10399850.png" group-title="Tv • Reality 📺",☆ Medical Incredible (vᴘɴ 🇺🇸)
 https://amg00136-amg00136c33-amgplt0023.playout.now3.amagi.tv/ts-us-e2-n1/playlist/amg00136-amg00136c33-amgplt0023/playlist.m3u8?ads.appname=[APP_NAME]&ads.appstoreurl=[APP_STOREURL]&ads.appversion=[APP_VERSION]&ads.bundleid=[APP_BUNDLE]&ads.country=[COUNTRY]&ads.deviceid=[DEVICE_ID]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.devicetype=[DEVICE_TYPE]&ads.dmake=[DEVICE_MAKE]&ads.donotsell=[DNS]&ads.fck=[FCK]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.givn=[NONCE]&ads.hoteltype=[HOTEL_TYPE]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.ip=[IP]&ads.lat=[LMT]&ads.targetad=[TARGETAD_ALLOWED]&ads.ua=[UA]&ads.usprivacy=[US_PRIVACY]&ads.viewsize=[VIEWSIZE]&coppa=0&network_name=Warner%20brothers%20Discovery
 https://jmp2.uk/plex-6a1610bebdf296985fd95603-69d940018061ebfbca58c32c.m3u8
 
@@ -1590,7 +1605,16 @@ https://jmp2.uk/plu-5f5a545d0dbf7f0007c09408.m3u8
 🌈PLUTO & FILMES VARIAS NACIONALIDADES
 =====================❖========================
 
-#EXTINF:-1 cuid="583" tvg-name="50.Cent.Action" tvg-id="plex.tv.50.Cent.Action.plex" tvg-logo="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/50_cent_action._SL500_FMpng_.png" group-logo="https://cdn-icons-png.freepik.com/512/17285/17285060.png" group-title="Films 📽️",☆ 50 Cent Action 🇺🇸 (vpn 🇺🇸)
+#EXTINF:-1 cuid="739" tvg-name="Samuel Goldwyn Classics 🇺🇸" tvg-id="plex.tv.OUTFLIX.MOVIES.plex" tvg-logo="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/16x9Background/OUTflix_Movies_Logo_1920x1080._SL500_FMpng_.png" group-logo="https://cdn-icons-png.freepik.com/512/17285/17285060.png" group-title="Films 📽️",☆ OUTflix Movies (vpn 🇺🇸)
+https://d3a6p9masi26ag.cloudfront.net/10001/99951288/hls/playlist.m3u8?includeAssetTags=true&ads.xumo_channelId=99951288&ads.xumo_streamId=99951288&ads.channelId=99951288&ads.asnw=&ads.caid=FuseOutTVProud&ads.csid=xumo_web_FuseOutTVProud_ssai&ads._fw_coppa=0&ads.genre=&ads._fw_content_genre=&ads.xumo_contentId=4004&ads.xumo_contentName=FuseOutTVProud&ads.xumo_providerId=4004&ads.xumo_providerName=FuseOutTVProud&ads.channelName=FuseOutTVProud&ads._fw_ifa_type=&ads._fw_did=36223b41-91cc-4447-a91e-5e6caf6f58cd&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_rating=&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.xumo_platform=web&ads.site_id=&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=&ads.appName=xumo
+
+#EXTINF:-1 cuid="583" tvg-name="50.Cent.Action" tvg-id="plex.tv.MGM.Presents.plex" tvg-logo="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/mgm_presents_us._SL500_FMpng_.png" group-logo="https://cdn-icons-png.freepik.com/512/17285/17285060.png" group-title="Films 📽️",☆ MGM Presents 🇺🇸
+https://dbrb49pjoymg4.cloudfront.net/10001/99951573/hls/playlist.m3u8?includeAssetTags=true&ads.xumo_channelId=99951573&ads.xumo_streamId=99951573&ads.channelId=99951573&ads.channelName=MGMPresents&ads.caid=MGMPresents&ads.csid=xumo_web_MGMPresents_ssai&ads.genre=FF,IAB1-5&ads._fw_content_genre=FF,IAB1-5&ads._fw_coppa=0&ads.xumo_contentId=4494&ads.xumo_contentName=MGMPresents&ads.xumo_providerId=4494&ads.xumo_providerName=MGMPresents&ads.asnw=&ads.xumo_channelName=MGMPresents&ads._fw_h_x_country=US&ads._fw_ifa_type=&ads._fw_did=a844f32a-c0dc-4bca-920b-aee1ad730619&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_rating=&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.xumo_platform=web&ads.site_id=&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=&ads.appName=xumo
+
+#EXTINF:-1 cuid="583" tvg-name="50.Cent.Action" tvg-id="plex.tv.MGM.Presents:.Action.plex" tvg-logo="https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/mgm_presents_action_us._SL500_FMpng_.png" group-logo="https://cdn-icons-png.freepik.com/512/17285/17285060.png" group-title="Films 📽️",☆ MGM Presents Action 🇺🇸
+https://dbrb49pjoymg4.cloudfront.net/10001/99951572/hls/playlist.m3u8?includeAssetTags=true&ads.xumo_channelId=99951572&ads.xumo_streamId=99951572&ads.channelId=99951572&ads.channelName=MGMPresentsAction&ads.caid=MGMPresentsAction&ads.csid=xumo_web_MGMPresentsAction_ssai&ads.genre=FF,A,Action,IAB1-5,GD,Drama&ads._fw_content_genre=FF,A,Action,IAB1-5,GD,Drama&ads._fw_coppa=0&ads.xumo_contentId=4493&ads.xumo_contentName=MGMPresentsAction&ads.xumo_providerId=4493&ads.xumo_providerName=MGMPresentsAction&ads.asnw=&ads.xumo_channelName=MGMPresentsAction&ads._fw_h_x_country=US&ads._fw_ifa_type=&ads._fw_did=0e82e8c5-c182-4af9-bcbf-a357f69895b3&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_rating=&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.xumo_platform=web&ads.site_id=&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=&ads.appName=xumo
+
+#EXTINF:-1 cuid="583" tvg-name="50.Cent.Action" tvg-id="plex.tv.50.Cent.Action.plex" tvg-logo="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/50_cent_action._SL500_FMpng_.png" group-logo="https://cdn-icons-png.freepik.com/512/17285/17285060.png" group-title="Films 📽️",☆ 50 Cent Action (vpn 🇺🇸)
 https://di4chcy8fb6ab.cloudfront.net/11002/88817993/hls/playlist.m3u8?ads.xumo_channelId=88817993&ads.csid=hisensechannels_us_lionsgate50centaction_ssai&ads.caid=Lionsgate50CentAction&ads.asnw=&ads._fw_content_language=en&ads._fw_content_category=IAB1-7&ads._fw_content_genre=television&ads._fw_coppa=0&ads.xumo_contentId=4256&ads.xumo_contentName=Lionsgate50CentAction&ads.xumo_providerId=4256&ads.xumo_providerName=Lionsgate50CentAction&ads._fw_content_rating=TV-14&ads.xumo_streamId=88817993&ads._fw_h_x_country=US&ads.platform=%5BPLATFORM%5D&ads.xumo_ifaType=%5BIFA_TYPE%5D&ads.xumo_ifa=%5BIFA%5D&ads._fw_devicetype=3-Connected_TV&ads._fw_device_model=%5BDEVICE_MODEL%5D&ads._fw_deviceMake=%5BDEVICE_MAKE%5D&ads._fw_player_width=1920&ads._fw_player_height=1080&ads._fw_is_lat=%5BIS_LAT%5D&ads._fw_us_privacy=%5BUS_PRIVACY%5D&ads._fw_gdpr_consent=&ads._fw_gdpr=0&ads.gpp=%5BGPP%5D&ads.gpp_sid=%5BGPP_SID%5D&ads._fw_app_bundle=%5BAPP_BUNDLE%5D&ads.appVersion=%5BAPP_VERSION%5D&ads.appName=%5BAPP_NAME%5D&ads.vauth=%5BVAUTH%5D&ads._fw_app_store_url=%5BAPP_STORE_URL%5D&ads.vidaa_ads_param=1188362017&ads.vidaa_ads_contentType=600007&ads.vidaa_ads_contentId=9587
 
 #EXTINF:-1 cuid="583" tvg-name="Movie.Hub" tvg-id="Movie.Hub.us2" tvg-logo="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/MH_AmazonOffPlatform_Logo_1920x1080_KB._SL500_FMpng_.png" group-logo="https://cdn-icons-png.freepik.com/512/17285/17285060.png" group-title="Films 📽️",☆ Movie Hub 🇺🇸
@@ -1722,18 +1746,10 @@ https://d4whmvwm0rdvi.cloudfront.net/10007/99993051/hls/master.m3u8?ads.xumo_cha
 #EXTINF:-1 tvg-chno="" cuid="626" tvg-name="Samuel Goldwyn Films" tvg-id="plex.tv.Samuel.Goldwyn.Channel.plex" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a3e63712-9262-428d-9e1c-a00c179a5454/samuel-goldwyn-channel-logo.png" group-logo="https://cdn-icons-png.freepik.com/512/17285/17285060.png" group-title="Films 📽️",☆ Samuel Goldwyn Films 🇺🇸
 +https://samuelgoldwyn-films-1-us.roku.wurl.tv/playlist.m3u8
 
-
-#EXTINF:-1 tvg-chno="" cuid="627" tvg-name="The Addams Family 🇺🇸" tvg-id="5d81607ab737153ea3c1c80e" tvg-logo="https://images.pluto.tv/channels/5d81607ab737153ea3c1c80e/colorLogoPNG.png" group-logo="https://cdn-icons-png.freepik.com/512/17285/17285060.png" group-title="Films 📽️",☆ The Addams Family 🇺🇸
-https://jmp2.uk/plu-5d81607ab737153ea3c1c80e.m3u8
-
-#EXTINF:-1 tvg-chno="" cuid="628" tvg-name="Alfred Hitchcock Presents 🇺🇸" tvg-id="US1800014CG" tvg-logo="https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/alfred_hitchcock_presents_us.png" group-logo="https://cdn-icons-png.freepik.com/512/17285/17285060.png" group-title="Films 📽️",☆ Alfred Hitchcock Presents 🇺🇸
-https://xumo-xumoent-ch825-ku23q.fast.nbcuni.com/live/master.m3u8?@iprtlk
-https://d3f4oii5n0oeqi.cloudfront.net/11701/88814618/hls/master.m3u8?ads.xumo_channelId=88814618&ads.xumo_streamId=88814618
-
 #EXTINF:-1 tvg-chno="" cuid="629" tvg-name="The Twilight Zone 🇺🇸" tvg-id="67352ed93a61d4000881f9fa" tvg-logo="https://images.pluto.tv/channels/67352ed93a61d4000881f9fa/colorLogoPNG.png" group-logo="https://cdn-icons-png.freepik.com/512/17285/17285060.png" group-title="Films 📽️",☆ The Twilight Zone 🇺🇸
 https://jmp2.uk/plu-67352ed93a61d4000881f9fa.m3u8
 
-#EXTINF:-1 cuid="630" tvg-name="Lifetime Movies Love & Drama" tvg-id="plex.tv.Lifetime.Movies.Love.&amp;.Drama.plex" tvg-logo="https://m.media-amazon.com/images/X/lsmP/M/DlsmPhlq1gXKE9J._SL500_FMpng_.png" group-logo="https://cdn-icons-png.freepik.com/512/17285/17285060.png" group-title="Films 📽️",☆ Lifetime Movies Love & Drama 🇺🇸
+#EXTINF:-1 cuid="630" tvg-name="Lifetime Movies Love & Drama" tvg-id="plex.tv.Lifetime.Movies.Love.&amp;.Drama.plex" tvg-logo="https://m.media-amazon.com/images/X/lsmP/M/DlsmPhlq1gXKE9J._SL500_FMpng_.png" group-logo="https://cdn-icons-png.freepik.com/512/17285/17285060.png" group-title="Films 📽️",☆ Lifetime Movies Love & Drama (vpn 🇺🇸)
 https://amg00276-amg00276c28-vizio-us-8688.playouts.now.amagi.tv/playlist/amg00276-aetelevisionnetworksfast-lifetimemovieslovedrama-vizious/playlist.m3u8?app_name=%7bAPP_NAME%7d&app_bundle=%7bAPP_BUNDLE%7d&app_store_url=%7bAPP_STORE_URL%7d&url=%7bDOMAIN%7d&ifa_type=%7bIFATYPE%7d&lmt=%7bLMT%7d&dnt=%7bDNT%7d&did=%7bADID%7d&us_privacy=%7bUSPRIVACY%7d&coppa=%7bCOPPA%7d&skip=%7bSKIPPABLE%7d&device_make=%7bDEVICE_MAKE%7d&w=%7bWIDTH%7d&h=%7bHEIGHT%7d&vizio_network_name=%7bVIZIO_NETWORK_NAME%7d&vizdartoken=eyJhdWQiOiI5MyIsIndmcGNpZCI6NDU3ODQxNzkwOX0
 https://jmp2.uk/rok-8d8befc9060e861eb1bdd5b21c0403b3.m3u8
 
@@ -1741,7 +1757,11 @@ https://jmp2.uk/rok-8d8befc9060e861eb1bdd5b21c0403b3.m3u8
 https://aenetworks.global.transmit.live/hls/68b7788c2bcf083f5d656232/v1/aenetworks_holidaymoviefavorites_1/lg_us/latest/main/hls/playlist.m3u8?wurl_channel=999&wurl_name=HolidayMovieFavoritesbyLifetime&coppa=0&uid=[DEVICE_ID]&rdid=[IFA]&ifatype=[IFA_TYPE]&dnt=[LMT]&donotsell=[DNS]&isgdpr=[GDPR]&gdpr=[GDPR_CONSENT]&country=[COUNTRY]&pr=[US_PRIVACY]&appstoreurl=[APP_STOREURL]&bundleid=[APP_BUNDLE]&appname=[APP_NAME]&appversion=[APP_VERSION]&dt=[DEVICE_TYPE]&make=[DEVICE_MAKE]&model=[DEVICE_MODEL]&targetad=[TARGETAD_ALLOWED]&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]
 https://jmp2.uk/plu-63335b193583440007c859fb.m3u8
 
-#EXTINF:-1 cuid="630" tvg-name="Always Christmas" tvg-id="" tvg-logo="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/Amazon_Freevee_Always_Christmas_002._SL500_FMpng_.png" group-logo="https://cdn-icons-png.freepik.com/512/17285/17285060.png" group-title="Films 📽️",☆ Always Christmas 🇺🇸
+#EXTINF:-1 cuid="643" tvg-name="Hallmark Movies & More 🇺🇸" tvg-id="628e685ba3811100070551a8" tvg-logo="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/HMMore_AMZ_FAST_Hallamrk_Holiday_Favorites_EPG_Channel_Logo_1920x1080_Dec_2026._SL500_FMpng_.png" group-logo="https://cdn-icons-png.freepik.com/512/17285/17285060.png" group-title="Films 📽️",☆ Hallmark Holiday Favorites 🇺🇸
+https://jmp2.uk/plu-628e685ba3811100070551a8.m3u8
+https://amg00235-amg00235c6-lg-us-11160.playouts.now.amagi.tv/ts-us-w2-n1/playlist/amg00235-crownmediafamilynetworksfast-hallmarkmoviesandmoresubfeed-lgus/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]
+
+#EXTINF:-1 cuid="630" tvg-name="Always Christmas" tvg-id="" tvg-logo="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/Amazon_Freevee_Always_Christmas_002._SL500_FMpng_.png" group-logo="https://cdn-icons-png.freepik.com/512/17285/17285060.png" group-title="Films 📽️",☆ Always Christmas (vpn 🇺🇸)
 https://jmp2.uk/plex-6a1610bebdf296985fd95603-6ad29b265374a1e72d134645.m3u8
 
 #EXTINF:-1 cuid="634" tvg-name="Gravitas Movies 🇺🇸" tvg-id="USBD700011RE" tvg-logo="https://provider-static.plex.tv/epg/cms/production/e33abab2-b500-4189-820b-b4448eaec393/1500x1000_Christmas_Channel_Logo_TRANSPARENTRDX.png" group-logo="https://cdn-icons-png.freepik.com/512/17285/17285060.png" group-title="Films 📽️",☆ Gravitas Movies 🇺🇸
@@ -1771,9 +1791,6 @@ https://jmp2.uk/stvp-IN3600005NF
 #EXTINF:-1 cuid="641" tvg-name="CineLife 🇺🇸" tvg-id="plex.tv.CineLife.plex" tvg-logo="https://provider-static.plex.tv/epg/cms/production/e4ba10a4-dbb2-4d15-b268-1ed43ddf7e4b/cinelife-logo.png" group-logo="https://cdn-icons-png.freepik.com/512/17285/17285060.png" group-title="Films 📽️",☆ CineLife 🇺🇸
 https://magnolia-cinelife.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 cuid="643" tvg-name="Hallmark Movies & More 🇺🇸" tvg-id="628e685ba3811100070551a8" tvg-logo="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/HMMore_AMZ_FAST_Hallamrk_Holiday_Favorites_EPG_Channel_Logo_1920x1080_Dec_2026._SL500_FMpng_.png" group-logo="https://cdn-icons-png.freepik.com/512/17285/17285060.png" group-title="Films 📽️",☆ Hallmark Holiday Favorites 🇺🇸
-https://amg00235-amg00235c6-lg-us-11160.playouts.now.amagi.tv/ts-us-w2-n1/playlist/amg00235-crownmediafamilynetworksfast-hallmarkmoviesandmoresubfeed-lgus/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]
-https://jmp2.uk/plu-628e685ba3811100070551a8.m3u8
 
 =====================❖========================
 🌈 FILMS 🇮🇹🇰🇷🇪🇸
@@ -1878,9 +1895,6 @@ https://jmp2.uk/plu-66aa67493a4ad2000806d91b.m3u8
 #EXTINF:-1 cuid="671" tvg-name="Dark Shadows" tvg-id="5ef3958c66ac540007d6e6a7" tvg-logo="https://images.pluto.tv/channels/5ef3958c66ac540007d6e6a7/colorLogoPNG.png" group-logo="https://cdn-icons-png.freepik.com/256/8592/8592326.png" group-title="Films • Terror & Sci-Fi 😱",☆ Dark Shadows 🇺🇸
 https://jmp2.uk/plu-5ef3958c66ac540007d6e6a7.m3u8
 
-#EXTINF:-1 cuid="672" tvg-name="The X Files" tvg-id="6913e381b6bf26bb6e798c13" tvg-logo="https://images.pluto.tv/channels/6913e381b6bf26bb6e798c13/colorLogoPNG.png" group-logo="https://cdn-icons-png.freepik.com/256/8592/8592326.png" group-title="Films • Terror & Sci-Fi 😱",☆ The X Files 🇺🇸
-https://jmp2.uk/plu-6913e381b6bf26bb6e798c13.m3u8
-
 #EXTINF:-1 cuid="673" tvg-name="Horror Stories by WB" tvg-id="plex.tv.Horror.Stories.plex" tvg-logo="https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/horror_stories.png" group-logo="https://cdn-icons-png.freepik.com/256/8592/8592326.png" group-title="Films • Terror & Sci-Fi 😱",☆ Horror Stories by WB  (vᴘɴ 🇺🇸)
 +https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-66b136d2a9ef8c41ec0841ae/?X-Plex-Token=xePfG98DiSxDoEPoY91x
 
@@ -1947,7 +1961,10 @@ https://linear-82.frequency.stream/dist/localnow/82/hls/master/playlist.m3u8
 #EXTINF:-1 cuid="692" tvg-name="" tvg-id="MGM.Presents:.Horror.us2" tvg-logo="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/mgm_presents_horror._SL170_FMpng_.png" group-logo="https://cdn-icons-png.freepik.com/256/8592/8592326.png" group-title="Films • Terror & Sci-Fi 😱",☆ MGM Presents Horror 🇺🇸
 https://linear-1217.frequency.stream/dist/tcltv/1217/hls/master/playlist.m3u8?ads.dnt=DNT&ads.ic=IC&ads.duration=DURATION&ads.app_bundle=APP_BUNDLE&ads.app_name=APP_NAME&ads.app_store_url=APP_STORE_URL&ads.device_id=DID&ads.device_make=DEVICE_MAKE&ads.device_model=DEVICE_MODEL&ads.brand_name=BRAND_NAME&ads.ifa_type=IFA_TYPE&ads.gdpr_consent=GDPR_CONSENT&ads.gdpr=GDPR&ads.us_privacy=US_PRIVACY&ads.coppa=COPPA&ads.lmt=LMT&ads.gpp_sid=GPP_SID&ads.gpp=GPP&ads.csid=CSID
 
-#EXTINF:-1 cuid="693" tvg-name="The.Asylum" tvg-id="plex.tv.The.Asylum.plex" tvg-logo="https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/Carbon_Integration_Station_Image_Update/s122652_lw_h8_aa._SL170_FMpng_.png" group-logo="https://cdn-icons-png.freepik.com/256/8592/8592326.png" group-title="Films • Terror & Sci-Fi 😱",☆ The Asylum 🇺🇸
+#EXTINF:-1 cuid="693" tvg-name="The.Asylum" tvg-id="plex.tv.The.Asylum.plex" tvg-logo="https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/Carbon_Integration_Station_Image_Update/s122652_lw_h8_aa._SL170_FMpng_.png" group-logo="https://cdn-icons-png.freepik.com/256/8592/8592326.png" group-title="Films • Terror & Sci-Fi 😱",☆ The Asylum Australiano
+https://d1si3n1st4nkgb.cloudfront.net/10000/89009005/hls/master.m3u8?ads.xumo_channelId=89009005
+
+#EXTINF:-1 cuid="693" tvg-name="The.Asylum" tvg-id="plex.tv.The.Asylum.plex" tvg-logo="https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/Carbon_Integration_Station_Image_Update/s122652_lw_h8_aa._SL170_FMpng_.png" group-logo="https://cdn-icons-png.freepik.com/256/8592/8592326.png" group-title="Films • Terror & Sci-Fi 😱",☆ The Asylum Movie Cnhannel (vpn 🇺🇸)
 https://amg00207-theasylum-amg00207c1-lg-us-9186.playouts.now.amagi.tv/playlist/amg00207-theglobalasyluminc-theasylummoviechannel-lgus/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.dmake=[DEVICE_MAKE]
 https://jmp2.uk/rok-7e202ec14b17515a8e732f662aec155d.m3u8
 https://jmp2.uk/plu-62e8d5369e48940007fc1dc1.m3u8
@@ -2025,6 +2042,12 @@ https://jmp2.uk/stvp-USBC1300012VK
 🌈FILMES CLÁSSICOS 📼
 =====================❖========================
 
+#EXTINF:-1 cuid="" tvg-name="Sony One Clássicos 🇧🇷" tvg-logo="https://play-lh.googleusercontent.com/7DRaDczy1zOuBcLdixMRf_NAxAFq6BuNJ1OQdlmN-nuSWfGYj_phTEpa_PiFqHxMRF_-=w0" group-logo="https://cdn-icons-png.freepik.com/256/2013/2013355.png" group-title="Films • Clássicos & Western 🤠",☆ Sony One Clássicos 🇧🇷
+https://spt-sonyoneclassicas-1-br.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 cuid="739" tvg-name="Samuel Goldwyn Classics 🇺🇸" tvg-id="plex.tv.Classic.Cinema.plex" tvg-logo="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/Freevee_ClassicCinema_1920x1080._SL500_FMpng_.png" group-logo="https://cdn-icons-png.freepik.com/256/2013/2013355.png" group-title="Films • Clássicos & Western 🤠",☆ Classic Cinema (vpn 🇺🇸)
+https://live-manifest.production-public.tubi.io/live/c9a11be6-98bc-4a1b-a8f0-6236bffa7286/playlist.m3u8
+
 #EXTINF:-1 cuid="737" tvg-name="MGM.Presents:.Westerns" tvg-id="MGM.Presents:.Westerns.us2" tvg-logo="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/mgm_presents_us._SL500_FMpng_.png" group-logo="https://cdn-icons-png.freepik.com/256/2013/2013355.png" group-title="Films • Clássicos & Western 🤠",☆ MGM Presents Westerns 🇺🇸
 https://linear-1148.frequency.stream/dist/tcltv/1148/hls/master/playlist.m3u8?ads.dnt=DNT&ads.ic=IC&ads.duration=DURATION&ads.app_bundle=APP_BUNDLE&ads.app_name=APP_NAME&ads.app_store_url=APP_STORE_URL&ads.device_id=DID&ads.device_make=DEVICE_MAKE&ads.device_model=DEVICE_MODEL&ads.brand_name=BRAND_NAME&ads.ifa_type=IFA_TYPE&ads.gdpr_consent=GDPR_CONSENT&ads.gdpr=GDPR&ads.us_privacy=US_PRIVACY&ads.coppa=COPPA&ads.lmt=LMT&ads.gpp_sid=GPP_SID&ads.gpp=GPP&ads.csid=CSID
 
@@ -2034,9 +2057,6 @@ https://iconfilmsdistribution-iconfilmchannelclassics-1-ie.lg.wurl.tv/playlist.m
 
 #EXTINF:-1 cuid="739" tvg-name="Samuel Goldwyn Classics 🇺🇸" tvg-id="plex.tv.Samuel.Goldwyn.Classics.plex" tvg-logo="https://provider-static.plex.tv/epg/cms/production/329f3d16-9dfb-4192-8f52-80e72723ddbc/samuel-goldwyn-classics-logo.png" group-logo="https://cdn-icons-png.freepik.com/256/2013/2013355.png" group-title="Films • Clássicos & Western 🤠",☆ Samuel Goldwyn Classics 🇺🇸
 +https://samuelgoldwyn-classics-1-us.roku.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 cuid="" tvg-name="Sony One Clássicos 🇧🇷" tvg-logo="https://play-lh.googleusercontent.com/7DRaDczy1zOuBcLdixMRf_NAxAFq6BuNJ1OQdlmN-nuSWfGYj_phTEpa_PiFqHxMRF_-=w0" group-logo="https://cdn-icons-png.freepik.com/256/2013/2013355.png" group-title="Films • Clássicos & Western 🤠",☆ Sony One Clássicos 🇧🇷
-https://spt-sonyoneclassicas-1-br.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 cuid="742" tvg-name="FilmRise Classic TV 🇺🇸" tvg-id="CAAJ2700008QA" tvg-logo="https://provider-static.plex.tv/epg/cms/production/0a859f35-6fa7-4e56-ae64-9888b16de544/FilmRiseWestern_Logo_Color.png" group-logo="https://cdn-icons-png.freepik.com/256/2013/2013355.png" group-title="Films • Clássicos & Western 🤠",☆ FilmRise Western 🇺🇸
 https://d3is52sgpnlx4c.cloudfront.net/10901/88885515/hls/master.m3u8?withResolution=true&ads.xumo_channelId=88885515
@@ -2066,8 +2086,13 @@ https://jmp2.uk/stvp-USBD1200021JM
 #EXTINF:-1 cuid="752" tvg-name="Universal Monsters 🇺🇸" tvg-id="65a9b20f0c7ff50008d3a3b6" tvg-logo="https://images.pluto.tv/channels/65a9b20f0c7ff50008d3a3b6/colorLogoPNG.png" group-logo="https://cdn-icons-png.freepik.com/256/2013/2013355.png" group-title="Films • Clássicos & Western 🤠",☆ Universal Monsters 🇺🇸
 https://jmp2.uk/plu-65a9b20f0c7ff50008d3a3b6.m3u8
 
-#EXTINF:-1 cuid="753" tvg-name="Cinevault 80s 🇺🇸" tvg-id="USAJ30000148W" tvg-logo="https://canvas-lb.tubitv.com/opts/u1tZUxqlsamHUw==/a5324ff4-3c3b-472f-b6e3-10d6e6e479c6/CHgQeDoFMS4xLjdAAQ==" group-logo="https://cdn-icons-png.freepik.com/256/2013/2013355.png" group-title="Films • Clássicos & Western 🤠",☆ Cinevault 80s 🇺🇸
+#EXTINF:-1 cuid="753" tvg-name="Cinevault 80s 🇺🇸" tvg-id="USAJ30000148W" tvg-logo="https://canvas-lb.tubitv.com/opts/u1tZUxqlsamHUw==/a5324ff4-3c3b-472f-b6e3-10d6e6e479c6/CHgQeDoFMS4xLjdAAQ==" group-logo="https://cdn-icons-png.freepik.com/256/2013/2013355.png" group-title="Films • Clássicos & Western 🤠",☆ Cinevault Westerns (vpn 🇺🇸)
+https://live-manifest.production-public.tubi.io/live/d2895ecc-d556-481f-bc6f-db71b5366b40/playlist.m3u8
+https://wurlgameshownetwork.global.transmit.live/hls/68d173430531b397b61a7794/v1/gsn_cinevault_westerns_1/lg_us/latest/main/hls/playlist.m3u8?wurl_channel=690&wurl_name=CinevaultWesterns&coppa=0&uid=[DEVICE_ID]&rdid=[IFA]&ifatype=[IFA_TYPE]&dnt=[LMT]&donotsell=[DNS]&isgdpr=[GDPR]&gdpr=[GDPR_CONSENT]&country=[COUNTRY]&pr=[US_PRIVACY]&appstoreurl=[APP_STOREURL]&bundleid=[APP_BUNDLE]&appname=[APP_NAME]&appversion=[APP_VERSION]&dt=[DEVICE_TYPE]&make=[DEVICE_MAKE]&model=[DEVICE_MODEL]&targetad=[TARGETAD_ALLOWED]&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]
 https://jmp2.uk/stvp-USAJ30000148W
+
+#EXTINF:-1 cuid="776" tvg-name="Cinevault Westerns 🇺🇸" tvg-id="USAK3508709A" tvg-logo="https://canvas-lb.tubitv.com/opts/BSRHayGaLjPoXA==/bda0dfca-9c16-4b67-8930-324a4b7a0dbd/CHgQeDoFMS4xLjVAAQ==" group-logo="https://cdn-icons-png.freepik.com/256/2013/2013355.png" group-title="Films • Clássicos & Western 🤠",☆ Cinevault Westerns 🇺🇸
+https://jmp2.uk/stvp-CA35000078O
 
 #EXTINF:-1 cuid="754" tvg-name="Cinevault Classics 🇺🇸 [ᴛυʙɪ]" tvg-id="USBB3200015M8" tvg-logo="https://canvas-lb.tubitv.com/opts/Skmb-4dsXftLLw==/07448ddf-973b-4340-8779-32376a973248/CHgQeDoFMS4xLjJAAQ==" group-logo="https://cdn-icons-png.freepik.com/256/2013/2013355.png" group-title="Films • Clássicos & Western 🤠",☆ Cinevault Classics 🇺🇸
 https://gsn-cinevault-classics-1-us.roku.wurl.tv/playlist.m3u8
@@ -2097,9 +2122,6 @@ https://streams2.sofast.tv/ptnr-stirr/genre-Entertainment/lang-English/ctgr-Movi
 
 #EXTINF:-1 cuid="773" tvg-name="CineWestern 🇺🇸" tvg-id="CHAJ3500001Z8" tvg-logo="https://provider-static.plex.tv/epg/cms/production/1be934c5-1520-439c-8b0d-52a4f7716311/CinewesternWhite_LogoRDX.png" group-logo="https://cdn-icons-png.freepik.com/256/2013/2013355.png" group-title="Films • Clássicos & Western 🤠",☆ CineWestern 🇺🇸🇮🇹
 https://jmp2.uk/stvp-ITBB20000072M
-
-#EXTINF:-1 cuid="776" tvg-name="Cinevault Westerns 🇺🇸" tvg-id="USAK3508709A" tvg-logo="https://canvas-lb.tubitv.com/opts/BSRHayGaLjPoXA==/bda0dfca-9c16-4b67-8930-324a4b7a0dbd/CHgQeDoFMS4xLjVAAQ==" group-logo="https://cdn-icons-png.freepik.com/256/2013/2013355.png" group-title="Films • Clássicos & Western 🤠",☆ Cinevault Westerns 🇺🇸
-https://jmp2.uk/stvp-CA35000078O
 
 #EXTINF:-1 cuid="777" tvg-name="LoneStar 🇺🇸" tvg-id="plex.tv.Lone.Star.plex" tvg-logo="https://is.gd/noEcbn" group-logo="https://cdn-icons-png.freepik.com/256/2013/2013355.png" group-title="Films • Clássicos & Western 🤠",☆ LoneStar 🇺🇸
 https://lonestar-rakuten.amagi.tv/playlist.m3u8
@@ -2631,9 +2653,10 @@ https://video04.logicahost.com.br/petloverstv/petloverstv/playlist.m3u8
 #EXTINF:-1 cuid="1047" tvg-name="Vivir con Gatos 🇪🇸" tvg-id="ESBC3900002L8" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC3900002L8_20241022T051153SQUARE.png" group-logo="https://cdn-icons-png.freepik.com/256/7599/7599945.png" group-title="Tv • Pets 🐶",☆ Vivir con Gatos 🇪🇸
 +https://is.gd/Q8mVOn?ESBC3900002L8.m3u8
 
-#EXTINF:-1 cuid="1048" tvg-name="Love Pets 🇺🇸" tvg-id="US300065DB" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US300065DB_20250304T041514SQUARE.png" group-logo="https://cdn-icons-png.freepik.com/256/7599/7599945.png" group-title="Tv • Pets 🐶",☆ Love Pets 🇺🇸
+#EXTINF:-1 cuid="1048" tvg-name="Love Pets 🇺🇸" tvg-id="US300065DB" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US300065DB_20250304T041514SQUARE.png" group-logo="https://cdn-icons-png.freepik.com/256/7599/7599945.png" group-title="Tv • Pets 🐶",☆ Love Pets (vpn 🇺🇸)
+https://amg01515-amg01515c44-lg-us-10976.playouts.now.amagi.tv/playlist/amg01515-blueskyeentertainment-lovepetsamericasengcc-lgus/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.dmake=[DEVICE_MAKE]
 https://d31r8y66tn175.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-swiro27v7lz6z/Love_Pets.m3u8
-https://amg01515-amg01515c44-lg-us-10976.playouts.now.amagi.tv/playlist/amg01515-blueskyeentertainment-lovepetsamericasengcc-lgus/playlist.m3u8
+
 
 #EXTINF:-1 cuid="1049" tvg-name="Pet Club tv 🇺🇸 [xɪᴀᴏᴍɪ]" tvg-logo="https://github.com/iprtl/p1/raw/master/logo/PetClubtv.webp" group-logo="https://cdn-icons-png.freepik.com/256/7599/7599945.png" group-title="Tv • Pets 🐶",☆ Pet Club tv 🇺🇸 
 https://lightning-petclub-xiaomi.amagi.tv/playlist.m3u8
@@ -2643,10 +2666,12 @@ https://amg01076-lightning-amg01076c1-tcl-us-2471.playouts.now.amagi.tv/playlist
 +https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/barktv/barkt.m3u8?ads.vf=jDQCqPIZgYi
 
 #EXTINF:-1 cuid="1051" tvg-name="Lucky Dog 🇺🇸" tvg-id="CA500011P3" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/87/USBA3000044BJ_20210525T051454.png" group-logo="https://cdn-icons-png.freepik.com/256/7599/7599945.png" group-title="Tv • Pets 🐶",☆ Lucky Dog 🇺🇸
+https://dbrb49pjoymg4.cloudfront.net/10001/99951444/hls/playlist.m3u8?includeAssetTags=true&ads.xumo_channelId=99951444&ads.xumo_streamId=99951444&ads.channelId=99951444&ads.channelName=HearstTheLuckyDogChannel&ads.caid=HearstTheLuckyDogChannel&ads.csid=xumo_web_HearstTheLuckyDogChannel_ssai&ads.genre=Entertainment&ads._fw_content_genre=Entertainment&ads._fw_coppa=0&ads.xumo_contentId=4262&ads.xumo_contentName=HearstTheLuckyDogChannel&ads.xumo_providerId=4262&ads.xumo_providerName=HearstTheLuckyDogChannel&ads.asnw=&ads.xumo_channelName=HearstTheLuckyDogChannel&ads._fw_h_x_country=US&ads._fw_ifa_type=&ads._fw_did=974783ee-e0dc-44f3-b572-3b92259f9a88&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_rating=&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.xumo_platform=web&ads.site_id=&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=&ads.appName=xumo
 https://jmp2.uk/stvp-USBA3000044BJ
 
 #EXTINF:-1 cuid="1052" tvg-name="Dog Whisperer 🇺🇸" tvg-id="plex.tv.Dog.Whisperer.plex" tvg-logo="https://images.pluto.tv/channels/60e453641239a700071f53a1/colorLogoPNG.png" group-logo="https://cdn-icons-png.freepik.com/256/7599/7599945.png" group-title="Tv • Pets 🐶",☆ Dog Whisperer with Cesar Milan 🇺🇸
-https://amg01201-cinedigm-amg01201c30-lg-us-5871.playouts.now.amagi.tv/playlist/amg01201-cinedigmentertainment-dogwhispererwithcesarmilan-lgus/playlist.m3u8
+https://jmp2.uk/rok-075852fcb99dfe2d55978f807de974ed.m3u8
+https://amg01201-cinedigm-amg01201c30-lg-us-5871.playouts.now.amagi.tv/playlist/amg01201-cinedigmentertainment-dogwhispererwithcesarmilan-lgus/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.dmake=[DEVICE_MAKE]
 https://jmp2.uk/stvp-US3400001FX
 
 
@@ -2654,7 +2679,8 @@ https://jmp2.uk/stvp-US3400001FX
 https://amg26269-dogtv-amg26269c2-orkatv-us-11261.playouts.now.amagi.tv/ts-us-w2-n1/playlist/amg26269-dogtv-unleashedbydogtv-orkatvus/playlist.m3u8?cb=1776194442&ip=104.23.198.47&did=[DID]&ifa_type=ppid&lat=34.2666&lon=-118.7643&country=US&region=CA&ua=Mozilla%2F5.0+%28Windows%3B+U%3B+Windows+NT+6.1%3B+en-US%29+AppleWebKit%2F533.20.25+%28KHTML%2C+like+Gecko%29+Version%2F5.0.4+Safari%2F533.20.27&device_make=&device_model=&width=[W]&height=[H]&app_name=OrkaTV&app_bundle=tv.orka.watch.webclient&app_store_url=https%3A%2F%2Fwatch.orka.tv&app_domain=watch.orka.tv&content_livestream=1&channel_name=Unleashed+by+DOGTV&language=en&network_name=OrkaTV&publisher_id=99388254&publisher_name=OrkaTV&maxseq=3&pod_max_dur=POD_MAX_DUR&content_id=CONTENT_ID&content_genre=CONTENT_GENRE&content_rating=CONTENT_RATING&content_season=CONTENT_SEASON&content_episode=CONTENT_EPISODE&content_title=CONTENT_TITLE&iris_id=IRIS_ID&iris_context=IRIS_CONTEXT&dnt=0&gdpr_consent=&gdpr=0&us_privacy=1---&coppa=0&lmt=0&url=[URL]
 https://amg26269-dogtv-amg26269c2-rlaxx-us-9139.playouts.now.amagi.tv/playlist/amg26269-dogtv-unleashedbydogtv-rlaxxus/playlist.m3u8?tag_id=138635&app_name=Whale+TV%2B&app_store=Browser&ic=IAB1&url=&wtv_channel_id=0466&content_producer_name=AmagiConnect_DogTV_UnleashedByDOGTV&content_categories=IAB16%2CIAB19-29&content_custom_1_param=Amagi&content_custom_2_param=F%2CM&content_custom_3_param=18-20%2C21-24%2C25-29%2C30-34%2C35-39%2C40-44%2C45-49%2C50-54&tv_language=&device_make=&tv_vendor=&brand_name=&device_model=&tv_model=&gdpr=1&gdpr_consent=&did=&ua=&ip=&dnt=&lmt=&coppa=0&us_privacy=1YNN&min_dur=5&max_dur=30&cb=&sid=&h=&w=&content_livestream=1&placement=1&ap=1&mute=0&skip=0&ads.gdpr=0
 
-#EXTINF:-1 cuid="1054" tvg-name="rovrpets" tvg-id="USBC2400024FN" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC2400024FN_20240520T214832SQUARE.png" group-logo="https://cdn-icons-png.freepik.com/256/7599/7599945.png" group-title="Tv • Pets 🐶",☆ Rovr Pets 🇺🇸
+#EXTINF:-1 cuid="1054" tvg-name="rovrpets" tvg-id="USBC2400024FN" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC2400024FN_20240520T214832SQUARE.png" group-logo="https://cdn-icons-png.freepik.com/256/7599/7599945.png" group-title="Tv • Pets 🐶",☆ Rovr Pets (vpn 🇺🇸)
+https://amg00111-amg00111c3-vizio-us-7695.playouts.now.amagi.tv/playlist/amg00111-hearstmediafast-rovrpets-vizious/playlist.m3u8?app_name=%7bAPP_NAME%7d&app_bundle=%7bAPP_BUNDLE%7d&app_store_url=%7bAPP_STORE_URL%7d&url=%7bDOMAIN%7d&ifa_type=%7bIFATYPE%7d&lmt=%7bLMT%7d&dnt=%7bDNT%7d&did=%7bADID%7d&us_privacy=%7bUSPRIVACY%7d&coppa=%7bCOPPA%7d&skip=%7bSKIPPABLE%7d&device_make=%7bDEVICE_MAKE%7d&w=%7bWIDTH%7d&h=%7bHEIGHT%7d&vizio_network_name=%7bVIZIO_NETWORK_NAME%7d&vizdartoken=eyJhdWQiOiI5MyIsIndmcGNpZCI6NDUxNzkzMTM3N30
 https://amg00111-amg00111c3-tclideo-na-3216.playouts.now.amagi.tv/playlist/amg00111-hearstmediafast-rovrpets-tclideona/playlist.m3u8
 https://jmp2.uk/stvp-USBC2400024FN
 
